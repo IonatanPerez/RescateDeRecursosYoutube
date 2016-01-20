@@ -1,0 +1,92 @@
+1
+00:00:00,600 --> 00:00:06,600
+[Música de presentación]
+
+2
+00:00:06,960 --> 00:00:10,320
+Los días 5 y 6 de junio,
+en la Universidad de Quilmes,
+
+3
+00:00:10,400 --> 00:00:12,760
+se va a estar realizando
+un foro educativo.
+
+4
+00:00:12,840 --> 00:00:15,600
+El primer día,
+se va a trabajar un poco acerca--
+
+5
+00:00:15,680 --> 00:00:17,040
+se van a generar
+espacios de discusión
+
+6
+00:00:17,120 --> 00:00:19,640
+acerca de cómo llevar a los jóvenes
+
+7
+00:00:19,720 --> 00:00:22,960
+hacia las ciencias
+de la computación.
+
+8
+00:00:24,000 --> 00:00:25,120
+Y, el segundo día,
+
+9
+00:00:25,200 --> 00:00:28,120
+se van a realizar unos talleres
+para chicos de escuelas secundarias,
+
+10
+00:00:28,200 --> 00:00:31,080
+para que puedan también
+introducirse un poco más
+
+11
+00:00:31,160 --> 00:00:33,440
+dentro del desarrollo de software
+
+12
+00:00:34,320 --> 00:00:36,240
+y, por otro lado,
+se va a realizar un hackatón.
+
+13
+00:00:36,320 --> 00:00:39,560
+En este hackatón, Educ.ar
+va a tener una participación,
+
+14
+00:00:39,880 --> 00:00:43,000
+en la cual va a poner a disposición
+una plataforma
+
+15
+00:00:44,520 --> 00:00:47,280
+que le va a permitir a la comunidad
+de programadores en general
+
+16
+00:00:47,360 --> 00:00:48,840
+acceder a los miles de recursos
+
+17
+00:00:48,920 --> 00:00:51,520
+que generan
+los canales de televisión
+
+18
+00:00:51,600 --> 00:00:53,520
+que están dentro de Educ.ar
+
+19
+00:00:53,920 --> 00:00:56,880
+y el portal propiamente dicho.
+
+20
+00:00:57,760 --> 00:01:00,640
+[Música de cierre]
+

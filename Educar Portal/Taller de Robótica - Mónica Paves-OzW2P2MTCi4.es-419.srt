@@ -1,0 +1,84 @@
+1
+00:00:00,960 --> 00:00:06,840
+[Música de presentación]
+
+2
+00:00:07,280 --> 00:00:10,000
+Lo que vamos a hacer en Program.AR
+
+3
+00:00:10,080 --> 00:00:15,640
+es que los chicos utilicen robots,
+es decir, material concreto,
+
+4
+00:00:15,720 --> 00:00:18,480
+que ellos identifiquen
+qué partes tiene ese robot
+
+5
+00:00:18,560 --> 00:00:21,680
+que a veces vieron en películas
+y vieron de distintas formas.
+
+6
+00:00:21,760 --> 00:00:24,040
+Estos robots
+tienen una forma determinada
+
+7
+00:00:24,120 --> 00:00:26,800
+y actúan igual
+que cualquier otro robot,
+
+8
+00:00:26,880 --> 00:00:29,440
+y ellos van a poder
+darles órdenes a esos robots.
+
+9
+00:00:29,520 --> 00:00:33,040
+"Darles órdenes" es programarlos
+
+10
+00:00:33,120 --> 00:00:35,560
+en el lenguaje
+en que el robot entiende.
+
+11
+00:00:35,800 --> 00:00:39,320
+Entonces, ese robot
+le va a hacer caso al estudiante
+
+12
+00:00:39,400 --> 00:00:43,040
+de acuerdo con la orden que él mismo
+está ejerciendo en el robot.
+
+13
+00:00:43,120 --> 00:00:46,920
+Van a hacer producciones
+tanto artísticas como técnicas.
+
+14
+00:00:47,000 --> 00:00:50,920
+La idea de este taller
+es que el conocimiento es integral
+
+15
+00:00:51,000 --> 00:00:52,800
+y es transversal.
+
+16
+00:00:52,880 --> 00:00:54,600
+La idea es demostrárselo a ellos,
+
+17
+00:00:54,680 --> 00:00:58,320
+que ellos sean los propios gestores
+de ese conocimiento.
+
+18
+00:00:58,880 --> 00:01:03,280
+[Música de cierre]
+

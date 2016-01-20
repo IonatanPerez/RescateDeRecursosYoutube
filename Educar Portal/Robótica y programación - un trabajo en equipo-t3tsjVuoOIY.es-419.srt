@@ -1,0 +1,155 @@
+1
+00:00:05,183 --> 00:00:10,085
+El proyecto puntual, en realidad, es la
+ construcción de un robot. 
+
+2
+00:00:10,102 --> 00:00:14,766
+Pero la característica fundamental es la
+ forma cómo llegamos a construir un robot. 
+
+3
+00:00:14,798 --> 00:00:21,264
+Es decir, lo hicimos trabajando en red a 
+partir de reunir a alumnos de distintas
+
+4
+00:00:21,288 --> 00:00:28,289
+ instituciones privadas, rurales y estatales,
+ trabajando en un objetivo en común, que en 
+
+5
+00:00:28,290 --> 00:00:33,536
+este caso fue la construcción del robot, en
+ otro caso fue la construcción de una radio, etc.
+
+6
+00:00:33,636 --> 00:00:38,144
+Se creó el Club de Ciencias a través del CAJ, 
+el Centro de Actividades Juveniles.
+
+7
+00:00:38,162 --> 00:00:43,323
+Hay una coordinadora que es Belén Reinari
+ y un tallerista especialista en
+
+8
+00:00:43,399 --> 00:00:44,920
+programación y robótica.
+
+9
+00:00:45,018 --> 00:00:51,533
+Entonces, el tallerista se encargó de nivelar
+ a todos los chicos para empezar a diseñar.
+
+10
+00:00:51,587 --> 00:00:56,903
+ A través de talleres interactivos, los chicos
+ iban aprendiendo a programar. 
+
+11
+00:00:56,910 --> 00:00:58,475
+Esto fue lo primero que se hizo. 
+
+12
+00:00:58,565 --> 00:01:04,058
+Los talleres se dictaban los sábados. 
+Después de esto, en otro taller, 
+
+13
+00:01:04,144 --> 00:01:08,568
+cada alumno -con lo que ya había asimilado 
+y aprendido- empezó a diseñar cada uno su
+
+14
+00:01:08,627 --> 00:01:09,611
+propio robot. 
+
+15
+00:01:09,663 --> 00:01:15,333
+Entonces se presentó el robot, uno estaba 
+programado para que la rueda derecha pisara 
+
+16
+00:01:15,398 --> 00:01:19,340
+todas las líneas negras, otro 
+que caminara para atrás; o sea, 
+
+17
+00:01:19,359 --> 00:01:22,599
+cada uno hizo su robot de programación.
+
+18
+00:01:22,703 --> 00:01:24,521
+Después, en otra instancia, 
+
+19
+00:01:24,566 --> 00:01:29,886
+se hizo una cancha de fútbol donde se 
+programaron a dos robots para que jugaran 
+
+20
+00:01:29,956 --> 00:01:32,060
+fútbol a través de unos joysticks. 
+
+21
+00:01:32,076 --> 00:01:37,143
+Eso se hizo con material reciclado 
+porque no teníamos dinero. Todo con
+
+22
+00:01:37,212 --> 00:01:38,641
+cartones descartables.
+
+23
+00:01:38,661 --> 00:01:44,876
+Lo importante es que cada alumno, desde 
+su formación, desde su rol, pudo hacer un 
+
+24
+00:01:44,949 --> 00:01:48,787
+aporte muy significativo 
+al objetivo que tenían. 
+
+25
+00:01:48,795 --> 00:01:54,266
+Y bueno, fue muy significativo porque los
+ chicos del rural tienen un perfil más bien 
+
+26
+00:01:54,347 --> 00:01:55,735
+apocado, callado;
+
+27
+00:01:55,779 --> 00:02:01,694
+ y conjuntamente con los chicos de las 
+escuelas estatales y privadas, sobretodo, 
+
+28
+00:02:01,779 --> 00:02:09,464
+que tenían otra mirada distinta, les dieron
+ otra objeción, otro apoyo, otra mirada al 
+
+29
+00:02:09,511 --> 00:02:11,366
+mismo proyecto. Es decir,
+
+30
+00:02:11,385 --> 00:02:18,783
+lo importante es que en este diálogo 
+permanente se pudo unificar criterios
+
+31
+00:02:18,840 --> 00:02:25,463
+respetar la mirada del otro y fortalecer el 
+trabajo en equipo, fundamentalmente.
+
+32
+00:02:25,545 --> 00:02:31,995
+La responsabilidad no es solo individual sino 
+grupal, esto tiene que salir y tiene que salir 
+
+33
+00:02:32,020 --> 00:02:34,260
+bien, no por mí, sino por el grupo.
+

@@ -1,0 +1,63 @@
+1
+00:00:00,760 --> 00:00:06,760
+[Música de presentación]
+
+2
+00:00:07,320 --> 00:00:09,880
+Yo voy a participar del hackatón.
+
+3
+00:00:10,320 --> 00:00:13,600
+Creo que uno
+de los mayores problemas
+
+4
+00:00:13,680 --> 00:00:14,720
+que se puede presentar
+
+5
+00:00:14,800 --> 00:00:20,240
+es generar la idea de qué hacer
+con los recursos que tenemos.
+
+6
+00:00:22,040 --> 00:00:25,120
+Muchas veces,
+
+7
+00:00:25,200 --> 00:00:29,080
+desde el desarrollo,
+se pueden ofrecer soluciones
+
+8
+00:00:30,800 --> 00:00:32,720
+para utilizar
+todos los recursos que tenemos.
+
+9
+00:00:32,800 --> 00:00:36,200
+Quizás, a veces, son muchos,
+y no sabemos cómo aplicarlos.
+
+10
+00:00:36,280 --> 00:00:38,360
+Entonces, creo que ese
+es uno de los grandes desafíos
+
+11
+00:00:38,440 --> 00:00:40,120
+que pueden llegar a tener
+
+12
+00:00:40,200 --> 00:00:42,480
+tanto los docentes
+como los desarrolladores
+
+13
+00:00:42,560 --> 00:00:43,640
+en el hackatón.
+
+14
+00:00:44,440 --> 00:00:48,040
+[Música de cierre]
+

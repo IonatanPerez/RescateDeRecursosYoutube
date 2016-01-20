@@ -1,0 +1,2539 @@
+1
+00:00:01,142 --> 00:00:05,587
+Hola buenos días, muchas gracias por venir.
+
+2
+00:00:05,687 --> 00:00:13,321
+Estamos acá con Diego Bossio,
+director ejecutivo de Anses,
+
+3
+00:00:13,421 --> 00:00:21,527
+para realizar en realidad una conferencia
+que tiene como objetivo hacer algunas
+
+4
+00:00:21,627 --> 00:00:28,074
+apreciaciones y dar algunas precisiones
+sobre los anuncios que el día de ayer
+
+5
+00:00:28,174 --> 00:00:33,203
+realizó la Presidenta de la Nación
+con respecto a 2 puntos centrales
+
+6
+00:00:33,303 --> 00:00:43,073
+que si bien fue un anuncio por cadena
+nacional, quiero mencionar algo que fue
+
+7
+00:00:43,173 --> 00:00:47,718
+muy llamativo en la prensa de hoy,
+la verdad que ni el diario Clarín
+
+8
+00:00:47,818 --> 00:00:56,440
+ni el diario La Nación pusieron en su tapa
+que aproximadamente 500.000 argentinos
+
+9
+00:00:56,540 --> 00:00:59,378
+en base a lo que anunció ayer
+la Presidenta Cristina Fernández
+
+10
+00:00:59,478 --> 00:01:05,448
+de Kirchner que estaban privados
+de la posibilidad de obtener una jubilación
+
+11
+00:01:05,548 --> 00:01:11,577
+a partir de esta medida, van a poder
+tenerla 500.000 argentinos.
+
+12
+00:01:11,677 --> 00:01:18,862
+Hay un límite, me parece a mí,
+a la información sesgada o a las decisiones
+
+13
+00:01:18,962 --> 00:01:23,587
+de omitir algunos datos, pero la verdad
+es que lo que vamos a desarrollar ahora
+
+14
+00:01:23,687 --> 00:01:28,437
+un poco es el marco en el cual se encuadra
+esta medida que es una nueva moratoria
+
+15
+00:01:28,537 --> 00:01:35,536
+para acceder a la jubilación pero voy
+a resaltar esta cuestión, hay 500.000
+
+16
+00:01:35,636 --> 00:01:40,361
+argentinos que hoy no cobran jubilación
+que a partir de esta medida van a poder
+
+17
+00:01:40,461 --> 00:01:45,381
+hacerlo y hay diarios que omiten
+esta información y por tanto hay gente
+
+18
+00:01:45,481 --> 00:01:51,279
+que no recibe ni siquiera el dato
+y se estaría privando de un derecho,
+
+19
+00:01:51,379 --> 00:01:55,540
+la verdad es que la cuestión de dar
+información puede tener un sesgo
+
+20
+00:01:55,640 --> 00:01:59,927
+ideológico, un sesgo político, una mirada
+opositora, pero cuando hay información
+
+21
+00:02:00,027 --> 00:02:03,781
+que hace a la vida cotidiana de la gente
+tan importante como que alguien
+
+22
+00:02:03,881 --> 00:02:10,134
+que no se pudo jubilar porque tenía
+alguna dificultad para hacer sus aportes,
+
+23
+00:02:10,234 --> 00:02:17,709
+porque estuvo desempleado en los noventa
+o porque le falta alguno de los límites
+
+24
+00:02:17,809 --> 00:02:21,015
+legales hasta ahora, bueno, hoy tiene
+una moratoria que se ha anunciado
+
+25
+00:02:21,115 --> 00:02:23,006
+y que no le están informando.
+
+26
+00:02:23,106 --> 00:02:28,702
+Entonces después Diego Bossio va a dar
+más precisiones técnicas sobre quiénes son
+
+27
+00:02:28,802 --> 00:02:32,094
+los alcanzados por esta norma,
+pero no quiero dejar de resaltar
+
+28
+00:02:32,194 --> 00:02:33,520
+esta cuestión.
+
+29
+00:02:33,620 --> 00:02:37,926
+Esto le va a cambiar la vida a muchos
+argentinos, medio millón de argentinos
+
+30
+00:02:38,026 --> 00:02:43,238
+según nuestros cálculos, que van a poder
+entrar al sistema previsional y que hoy
+
+31
+00:02:43,338 --> 00:02:47,028
+lamentablemente, si bien tenemos
+uno de los sistemas previsionales
+
+32
+00:02:47,128 --> 00:02:55,560
+más inclusivos del mundo, lamentablemente
+algunos todavía no tuvieron la oportunidad
+
+33
+00:02:55,660 --> 00:02:58,743
+de ser incluidos.
+
+34
+00:02:58,843 --> 00:03:03,434
+Es por eso que sea ha tomado
+la determinación de ampliar un programa
+
+35
+00:03:03,534 --> 00:03:08,035
+para alcanzar a toda la población
+objetiva, es decir a todos los argentinos
+
+36
+00:03:08,135 --> 00:03:13,344
+en condiciones de jubilarse aunque no
+hayan podido, porque esto no fue
+
+37
+00:03:13,444 --> 00:03:16,971
+que se olvidaron del papel,
+que se guardaron la plata,
+
+38
+00:03:17,071 --> 00:03:20,959
+sino que por estar desempleado
+buena parte de su vida productiva,
+
+39
+00:03:21,059 --> 00:03:25,891
+por tener trabajo precario, por todas
+las condiciones que heredamos
+
+40
+00:03:25,991 --> 00:03:30,275
+del neoliberalismo, habían quedado
+afuera de un derecho básico
+
+41
+00:03:30,375 --> 00:03:34,855
+porque es una necesidad como es
+cobrar una jubilación cuando se convierten
+
+42
+00:03:34,955 --> 00:03:36,143
+en pasivos.
+
+43
+00:03:36,243 --> 00:03:41,588
+Hoy este plan es una excelente noticia
+que nos tiene muy satisfechos la decisión
+
+44
+00:03:41,688 --> 00:03:46,850
+tomada por la Presidenta de la Nación
+y que tendría que ser un motivo de alegría
+
+45
+00:03:46,950 --> 00:03:50,971
+no sólo para las 500.000 personas
+aproximadamente que van a poder jubilarse,
+
+46
+00:03:51,071 --> 00:03:54,858
+sino para todos los restantes argentinos
+primero porque a partir de esto
+
+47
+00:03:54,958 --> 00:03:59,091
+podemos decir que vamos a vivir
+en un país todavía más justo,
+
+48
+00:03:59,191 --> 00:04:03,360
+en un país todavía más inclusivo,
+todavía más igualitario.
+
+49
+00:04:03,460 --> 00:04:07,948
+Pero en segundo lugar, también porque,
+y me voy a referir brevemente a ello,
+
+50
+00:04:08,048 --> 00:04:11,363
+que un argentino que hoy no cobra
+la jubilación la empiece a cobrar,
+
+51
+00:04:11,463 --> 00:04:16,638
+no beneficia exclusivamente a ese argentino
+ni exclusivamente a todos los demás
+
+52
+00:04:16,738 --> 00:04:21,418
+porque nos pone contentos por nuestro
+compatriota, sino que tiene otros efectos
+
+53
+00:04:21,518 --> 00:04:25,042
+macroeconómicos, otros efectos
+sobre la actividad productiva
+
+54
+00:04:25,142 --> 00:04:27,663
+que voy a señalar hoy.
+
+55
+00:04:27,763 --> 00:04:37,063
+En primer lugar entonces voy a presentar
+algunas diapositivas sobre esta
+
+56
+00:04:37,163 --> 00:04:41,823
+primer medida, después se anunció ayer
+también la extensión de la tarjeta Argenta
+
+57
+00:04:41,923 --> 00:04:43,683
+y de eso va a hablar Diego.
+
+58
+00:04:43,783 --> 00:04:48,626
+No vamos a hablar hoy pero lo recalco
+nuevamente, en Argentina que era un país
+
+59
+00:04:48,726 --> 00:04:54,849
+que en 2003 los chiquitos que nacían
+en su plan de vacunación tenían incluidas
+
+60
+00:04:54,949 --> 00:05:02,990
+6 vacunas, hasta ayer tenían incluidas 16
+y a partir de ayer van a tener incluidas
+
+61
+00:05:03,090 --> 00:05:06,202
+19 vacunas en el plan de vacunación.
+
+62
+00:05:06,302 --> 00:05:10,263
+Por tanto, las 3 medidas,
+la tarjeta Argenta cuyos límites
+
+63
+00:05:10,363 --> 00:05:16,607
+se han extendido, cuyo universo también
+se ha ampliado, la jubilación que ahora
+
+64
+00:05:16,707 --> 00:05:21,679
+va a alcanzar a medio millón más
+de argentinos, y la vacunación
+
+65
+00:05:21,779 --> 00:05:26,078
+que va a contribuir también a mejorar
+la salud a través de la prevención
+
+66
+00:05:26,178 --> 00:05:29,536
+con una inversión muy importante
+del Estado que también como mencionaba
+
+67
+00:05:29,636 --> 00:05:33,748
+la Presidenta no es el objeto de esta
+presentación, pero el gasto que nosotros
+
+68
+00:05:33,848 --> 00:05:39,335
+hacemos en vacunas es claramente
+una inversión porque nos ahorra después
+
+69
+00:05:39,435 --> 00:05:44,196
+curar una enfermedad que esta cubierta
+por esta vacuna, todos los cálculos
+
+70
+00:05:44,296 --> 00:05:49,920
+mundiales muestran que esa política
+claramente neoliberal de ahorrarse
+
+71
+00:05:50,020 --> 00:05:54,684
+en gastos preventivos termina siendo
+ominosa para el propio Estado que después
+
+72
+00:05:54,784 --> 00:05:59,675
+tiene que ir, en lugar de prevenir, a curar
+y cuando va a curar le sale mucho más caro
+
+73
+00:05:59,775 --> 00:06:04,790
+al sistema de salud atacar la enfermedad
+ya desarrollada que haber dado las vacunas
+
+74
+00:06:04,890 --> 00:06:06,825
+para el recién nacido.
+
+75
+00:06:06,925 --> 00:06:15,916
+Todo esto habla precisamente de lo mismo,
+tengo aquí un gráfico que quería compartir
+
+76
+00:06:16,016 --> 00:06:21,748
+que es un gráfico con respecto
+al porcentaje del gasto total
+
+77
+00:06:21,848 --> 00:06:27,869
+del sector público nacional
+quien se dedica a gasto social
+
+78
+00:06:27,969 --> 00:06:31,640
+en donde incluímos educación,
+salud y seguridad social.
+
+79
+00:06:31,740 --> 00:06:37,580
+Yo he escuchado con alguna alarma
+que algunos políticos de la oposición
+
+80
+00:06:37,680 --> 00:06:43,145
+y algunos analistas y algunos banqueros,
+e incluso algunos industriales,
+
+81
+00:06:43,245 --> 00:06:50,046
+piden que baje el gasto público,
+y es la segunda vez que yo personalmente,
+
+82
+00:06:50,146 --> 00:06:54,737
+porque esto se inició hace algunos días
+con virulencia, la campaña para bajar
+
+83
+00:06:54,837 --> 00:07:01,162
+el gasto público, a mí me da escalofríos
+esa campaña, porque la verdad que yo
+
+84
+00:07:01,262 --> 00:07:04,453
+viví los noventa, viví la década
+de los noventa y me acuerdo
+
+85
+00:07:04,553 --> 00:07:09,267
+que el objetivo central de la oposición
+y del Gobierno era bajar el gasto
+
+86
+00:07:09,367 --> 00:07:16,146
+y siempre es con otra excusa,
+que es inflacionario, que es perverso,
+
+87
+00:07:16,246 --> 00:07:23,948
+que es estatismo, pero el objetivo
+es siempre el mismo y esa política
+
+88
+00:07:24,048 --> 00:07:26,864
+viene dictada por los organismos
+multilaterales de crédito
+
+89
+00:07:26,964 --> 00:07:30,647
+y por la más rancia ortodoxia
+que le molesta el gasto público,
+
+90
+00:07:30,747 --> 00:07:35,249
+no por esas presuntas consecuencias
+que tiene que nunca aplican como llegan,
+
+91
+00:07:35,349 --> 00:07:42,309
+cómo, me pregunto yo, el gasto que hacemos
+en hacer escuelas o en ampliar las becas
+
+92
+00:07:42,409 --> 00:07:46,080
+para los que estudian
+o en traer científicos del exterior
+
+93
+00:07:46,180 --> 00:07:51,320
+o en dar más jubilación; cómo eso se va
+a convertir en inflación, me pregunto.
+
+94
+00:07:51,420 --> 00:07:56,964
+Y acá hay un punto central porque cada vez
+que hablan de bajar el gasto, les ruego
+
+95
+00:07:57,064 --> 00:08:00,703
+encarecidamente que se saque la careta
+y le expliquen a los argentinos
+
+96
+00:08:00,803 --> 00:08:03,403
+cuáles son los renglones del gasto
+que quieren recortar,
+
+97
+00:08:03,503 --> 00:08:10,625
+porque lo que muestra este gráfico
+que tengo acá, es que del '93 al 2002
+
+98
+00:08:10,725 --> 00:08:17,731
+el gasto público total representaba
+un 13% del Producto Bruto Interno,
+
+99
+00:08:17,831 --> 00:08:26,569
+pero el gasto social era un 8% del Producto
+Bruto, ese número durante el año 2013
+
+100
+00:08:26,669 --> 00:08:35,556
+se elevó a 13% el gasto social
+como porcentaje del Producto Bruto Interno,
+
+101
+00:08:35,656 --> 00:08:42,668
+13% es la porción más importante
+del gasto público, es gasto en salud,
+
+102
+00:08:42,768 --> 00:08:45,700
+en educación y en seguridad social.
+
+103
+00:08:45,800 --> 00:08:50,283
+¿Cuál es el gasto que tanto les molesta?
+¿Les molesta que haya más jubilados?
+
+104
+00:08:50,383 --> 00:08:53,704
+¿Les molesta que los chiquitos vayan
+a la escuela, que reciban sus vacunas?
+
+105
+00:08:53,804 --> 00:08:56,923
+¿Que haya más hospitales públicos?
+¿Que se le pague más a los docentes?
+
+106
+00:08:57,023 --> 00:09:00,317
+¿Que se pague más
+a los maestros de primaria?
+
+107
+00:09:00,417 --> 00:09:04,925
+¿Que se pague más a los médicos?
+¿Que invirtamos en infraestructura?
+
+108
+00:09:05,025 --> 00:09:07,043
+¿Qué parte les molesta?
+
+109
+00:09:07,143 --> 00:09:10,875
+Por eso a mí no me llama la atención
+y lo voy a mostrar acá, que eso provenga
+
+110
+00:09:10,975 --> 00:09:15,755
+del sector financiero, porque el sector
+financiero ha sido siempre enemigo
+
+111
+00:09:15,855 --> 00:09:19,671
+del gasto público, porque tengan ustedes
+en cuenta que en el gasto público,
+
+112
+00:09:19,771 --> 00:09:22,843
+en general no se toma en cuenta
+el pago de intereses de la deuda externa,
+
+113
+00:09:22,943 --> 00:09:29,370
+ese rubro nunca les molesta,
+ese rubro nunca pide que se recorte.
+
+114
+00:09:29,470 --> 00:09:34,752
+Entonces, este Gobierno ha llevado
+a un récord histórico el gasto público
+
+115
+00:09:34,852 --> 00:09:40,244
+social, o sea, el gasto en educación,
+salud y seguridad social como porcentaje
+
+116
+00:09:40,344 --> 00:09:44,207
+del producto, o sea como porcentaje
+de la producción argentina,
+
+117
+00:09:44,307 --> 00:09:48,383
+hoy tenemos el orgullo de decir
+que un 13% del Producto Bruto
+
+118
+00:09:48,483 --> 00:09:51,893
+a través del Estado se traslada
+a los más necesitados.
+
+119
+00:09:53,658 --> 00:09:59,976
+Esto era lo que comentaba recién,
+fíjense porque cómo se pudo hacer esto.
+
+120
+00:10:00,076 --> 00:10:03,580
+¿Cómo se pudo hacer esto?
+
+121
+00:10:03,680 --> 00:10:11,069
+Cuando nosotros ahora agregamos
+los componentes que estamos previsionando
+
+122
+00:10:11,169 --> 00:10:15,230
+del gasto, vemos una trayectoria
+del gasto público social como porcentaje
+
+123
+00:10:15,330 --> 00:10:20,773
+del PIB, creciente, pero vemos también,
+en esa línea que tienen abajo,
+
+124
+00:10:20,873 --> 00:10:25,556
+el porcentaje del gasto público
+que se gasta en intereses de la deuda,
+
+125
+00:10:25,656 --> 00:10:31,125
+que también ha caído a un mínimo
+histórico, así que podemos mostrar
+
+126
+00:10:31,225 --> 00:10:35,746
+esas dos cosas, que lo que pagamos
+como servicio financiero producto
+
+127
+00:10:35,846 --> 00:10:39,810
+de la política de desendeudamiento
+de este Gobierno, un desendeudamiento
+
+128
+00:10:39,910 --> 00:10:44,194
+no basado en no pagar las deudas,
+sino pagarlas de manera razonable,
+
+129
+00:10:44,294 --> 00:10:48,601
+pagarla de manera sostenible,
+pagarla de forma tal que no restrinja
+
+130
+00:10:48,701 --> 00:10:53,458
+las posibilidades del sector público
+nacional de desarrollar sus políticas,
+
+131
+00:10:53,558 --> 00:10:59,082
+y acá vemos el resultado es que el gasto
+público social como porcentaje
+
+132
+00:10:59,182 --> 00:11:03,365
+del producto ha crecido y ha caído
+la parte que se paga de intereses
+
+133
+00:11:03,465 --> 00:11:08,157
+financieros por las deudas contraídas
+y no contraídas por este Gobierno,
+
+134
+00:11:08,257 --> 00:11:16,587
+que este Gobierno ha reducido el peso
+de la deuda total en el producto del 166%
+
+135
+00:11:16,687 --> 00:11:22,898
+de la producción que teníamos en 2003,
+a menos del 50% que tenemos hoy
+
+136
+00:11:22,998 --> 00:11:26,691
+y cuando computamos lo que es en moneda
+extranjera y con privados, solamente un 10%
+
+137
+00:11:27,222 --> 00:11:28,232
+del producto.
+
+138
+00:11:28,332 --> 00:11:32,437
+En conclusión, todas las políticas
+que han anunciado la Presidenta
+
+139
+00:11:32,537 --> 00:11:36,417
+Cristina Fernández de Kirchner
+y que ha anunciado el Presidente
+
+140
+00:11:36,517 --> 00:11:41,830
+Néstor Kirchner, se han convertido
+en mayor gasto público destinado
+
+141
+00:11:41,930 --> 00:11:47,508
+a los más necesitados, esa es la prioridad
+de este Gobierno y en eso es donde vemos
+
+142
+00:11:47,608 --> 00:11:50,460
+el crecimiento más sustantivo,
+y de la misma manera la política
+
+143
+00:11:50,560 --> 00:11:54,985
+de desendeudamiento ha producido
+una baja en la carga de intereses,
+
+144
+00:11:55,085 --> 00:11:59,463
+en la carga de ese yugo, esa mochila
+que llevaba el Estado argentino
+
+145
+00:11:59,563 --> 00:12:03,895
+producto de las políticas neoliberales
+que le impedía construir escuelas,
+
+146
+00:12:03,995 --> 00:12:08,770
+hacer hospitales, vacunar a los chicos,
+dar jubilaciones; porque todo, todo,
+
+147
+00:12:08,870 --> 00:12:14,306
+todo lo que se recaudaba,
+iba dirigido al sector financiero.
+
+148
+00:12:16,382 --> 00:12:20,523
+Este plan de inclusión previsional,
+y después le dejo la palabra a Diego
+
+149
+00:12:20,623 --> 00:12:23,351
+con 2 comentarios más
+sobre los efectos macroeconómicos.
+
+150
+00:12:23,451 --> 00:12:31,107
+Ustedes saben que en 2005
+había 3,1 millones de jubilados,
+
+151
+00:12:31,207 --> 00:12:35,657
+debido a la moratoria provisional
+del plan de inclusión provisional
+
+152
+00:12:35,757 --> 00:12:43,263
+que permitió, ahora lo va a precisar
+mejor Diego, pero lo que permitió
+
+153
+00:12:43,363 --> 00:12:49,956
+es que aquellos que no tenían todos
+los aportes tal como marcaba la legislación
+
+154
+00:12:50,056 --> 00:12:53,016
+y que no lo habían podido hacer
+porque no era que uno no lo había hecho
+
+155
+00:12:53,116 --> 00:12:58,661
+porque se olvidó o porque había evadido
+uno o el otro, sino porque sistémicamente
+
+156
+00:12:58,761 --> 00:13:04,215
+estructuralmente el modelo neoliberal
+dejó 25% de desempleo y cifras
+
+157
+00:13:04,315 --> 00:13:07,864
+de informalidad que abarcaban
+casi a la mitad de las fuerzas de trabajo,
+
+158
+00:13:07,964 --> 00:13:12,878
+entonces no se hacían los aportes,
+pero quién pagó los platos rotos
+
+159
+00:13:12,978 --> 00:13:17,770
+del neoliberalismo aquel que llegó
+a su edad pasiva sin jubilación,
+
+160
+00:13:17,870 --> 00:13:23,602
+en esa comprensión se estructuró
+el plan de inclusión jubilatoria,
+
+161
+00:13:23,702 --> 00:13:27,689
+se permitió que hoy contemos prácticamente
+con 6 millones de jubilados,
+
+162
+00:13:27,789 --> 00:13:33,383
+eso es lo que les molesta del gasto
+público, que no mientan a los argentinos,
+
+163
+00:13:33,483 --> 00:13:38,629
+el resto son sonseras, lo que les molesta
+es que hay 6 millones de jubilados,
+
+164
+00:13:38,729 --> 00:13:41,478
+prefieren un país con exclusión.
+
+165
+00:13:41,578 --> 00:13:45,383
+Entonces los llaman con este eufemismo
+de que hay que bajar el gasto público,
+
+166
+00:13:45,483 --> 00:13:49,465
+qué quieren, que haya menos jubilados,
+cuál es el elemento que les molesta
+
+167
+00:13:49,565 --> 00:13:50,999
+del gasto público.
+
+168
+00:13:51,099 --> 00:13:56,455
+Esos 6 millones de jubilados
+era una cobertura del 93%
+
+169
+00:13:56,555 --> 00:14:01,680
+de la gente en edad de jubilarse,
+quiere decir que todavía queda un 7%
+
+170
+00:14:01,780 --> 00:14:07,896
+de argentinos en edad jubilatoria
+afuera del beneficio de la jubilación,
+
+171
+00:14:07,996 --> 00:14:14,081
+es por eso que la Presidenta de la Nación
+ha anunciado ayer que se abre una nueva
+
+172
+00:14:14,181 --> 00:14:18,589
+moratoria jubilatoria, un nuevo tramo
+del plan de inclusión jubilatoria
+
+173
+00:14:18,689 --> 00:14:23,945
+como decía recién, destinada
+específicamente a quienes tienen
+
+174
+00:14:24,045 --> 00:14:28,502
+menos recursos donde estimamos
+que este 6 millones de jubilados
+
+175
+00:14:28,602 --> 00:14:35,710
+va a subir a 6.500.000 de jubilados,
+duplicamos hasta ahora la cantidad de gente
+
+176
+00:14:35,810 --> 00:14:41,592
+que cobra el beneficio de la jubilación,
+ahora en este nuevo tramo se va a incluir
+
+177
+00:14:41,692 --> 00:14:47,144
+a 500 mil personas más, como dijo ayer
+la Presidenta, 500 mil personas
+
+178
+00:14:47,244 --> 00:14:51,463
+que probablemente no hayan podido acceder
+al plan porque les faltaron aportes
+
+179
+00:14:51,563 --> 00:14:57,767
+en esta etapa del '93 al 2003 donde también
+seguía funcionando ese esquema neoliberal
+
+180
+00:14:57,867 --> 00:15:01,972
+que debaja a la gente o sin empleo
+o con empleo sin aportes,
+
+181
+00:15:02,072 --> 00:15:05,480
+por tanto después no podían jubilarse,
+esto es lo que venimos a remediar,
+
+182
+00:15:05,580 --> 00:15:09,077
+esto es lo que venimos a apalear,
+esta es una necesidad y ahí donde estaba
+
+183
+00:15:09,177 --> 00:15:13,426
+la necesidad aparece el derecho
+del 100% de los argentinos
+
+184
+00:15:13,526 --> 00:15:15,408
+a cobrar jubilación.
+
+185
+00:15:15,508 --> 00:15:21,968
+Esta es la estimación nuestra,
+subió un 37% en el 2005, 57%,
+
+186
+00:15:22,068 --> 00:15:27,205
+es la mitad de los que podían jubilarse,
+estaban jubilados, los llevamos a 93,8%
+
+187
+00:15:27,305 --> 00:15:32,474
+y los vamos a llevar al 100% o faltará
+algo, digamos, porque estos planes
+
+188
+00:15:32,574 --> 00:15:39,122
+nunca tienen una cobertura perfecta
+pero andará por el 100% y habremos
+
+189
+00:15:39,222 --> 00:15:42,784
+cumplido una meta del Presidente Néstor
+Kirchner y Cristina Fernández de Kirchner
+
+190
+00:15:42,884 --> 00:15:44,918
+que todos nuestros viejos,
+todos nuestros jubilados,
+
+191
+00:15:45,018 --> 00:15:49,978
+nuestros ancianos, todos los que ya
+no trabajan, cobren una jubilación
+
+192
+00:15:50,078 --> 00:15:52,038
+del Estado.
+
+193
+00:15:52,138 --> 00:15:58,595
+Dos comentarios más, en primer lugar
+sobre el sistema de AFJP, porque esto
+
+194
+00:15:58,695 --> 00:16:05,515
+es central debido a que esta política
+se puede llevar adelante por haber
+
+195
+00:16:05,615 --> 00:16:13,368
+tomado esa valiente, esa medida estructural
+que consistió en erradicar de la Argentina
+
+196
+00:16:13,468 --> 00:16:19,126
+el programa de jubilaciones privadas
+de AFJP que reinó durante los noventa,
+
+197
+00:16:19,226 --> 00:16:23,308
+habían privatizado las jubilaciones,
+y cuál fue el resultado de la privatización
+
+198
+00:16:23,408 --> 00:16:27,802
+de las jubilaciones, que prácticamente,
+y yo fui una víctima porque yo tenía
+
+199
+00:16:27,902 --> 00:16:32,848
+una empresa privada de jubilaciones
+a la que le hacía mis aportes y me llegaba
+
+200
+00:16:32,948 --> 00:16:38,052
+el resúmen, y lo constaté en persona,
+el 50% de lo que aportaba se iba
+
+201
+00:16:38,152 --> 00:16:43,631
+en comisiones y otros gastos,
+el 50% de los aportes del sistema
+
+202
+00:16:43,731 --> 00:16:50,600
+se lo quedaban los bancos, las financieras,
+las empresas de jubilación privadas.
+
+203
+00:16:51,996 --> 00:16:56,221
+Y para colmo, que esto es lo más
+indignante, de las jubilaciones que había
+
+204
+00:16:56,321 --> 00:17:00,636
+que pagar, el 77% las pagaba el Estado,
+quiere decir que los aportes iban
+
+205
+00:17:00,736 --> 00:17:04,174
+para los privados y los gastos
+quedaban en el Estado.
+
+206
+00:17:04,274 --> 00:17:08,429
+Un lindo sistema de privatización
+ideado en los noventa,
+
+207
+00:17:08,529 --> 00:17:14,695
+que dejaba a los argentinos no sólo
+contribuyéndole con gasto improductivo
+
+208
+00:17:14,795 --> 00:17:17,929
+de publicidad, propaganda, no sé,
+de los que tienen mi edad,
+
+209
+00:17:18,029 --> 00:17:21,568
+yo tengo 42 años, pero recordarán
+todavía que estaba todo empapelado,
+
+210
+00:17:21,668 --> 00:17:26,489
+todos los equipos de fútbol
+tenían publicidad de las AFJP,
+
+211
+00:17:26,589 --> 00:17:32,993
+era un enorme negocio, un fantástico
+negocio, fantástico negocio.
+
+212
+00:17:33,093 --> 00:17:37,061
+Pero las jubilaciones las pagaba el Estado.
+
+213
+00:17:39,236 --> 00:17:43,916
+El sistema implementado a partir
+de la estatización del sistema de AFJP,
+
+214
+00:17:44,016 --> 00:17:47,094
+consiste en lo siguiente para que quede
+para todo el mundo claro.
+
+215
+00:17:47,194 --> 00:17:54,090
+La Anses se financia en un 44% con rentas
+generales, con los impuestos en general,
+
+216
+00:17:54,190 --> 00:17:59,504
+y el 56% del financiamiento proviene
+de los aportes y contribuciones,
+
+217
+00:17:59,604 --> 00:18:03,947
+eso va a Anses, Anses paga jubilaciones
+asignaciones familiares,
+
+218
+00:18:04,047 --> 00:18:07,392
+asignación universal por hijo,
+subsidio de desempleo
+
+219
+00:18:07,492 --> 00:18:09,887
+y subsidios especiales.
+
+220
+00:18:09,987 --> 00:18:13,449
+Cómo se le viene generando un superávit,
+eso va al fondo de garantía
+
+221
+00:18:13,549 --> 00:18:15,257
+de sustentabilidad.
+
+222
+00:18:15,357 --> 00:18:20,373
+El fondo de garantía de sustentabilidad
+lo que genera es un colchón de recursos
+
+223
+00:18:20,473 --> 00:18:24,823
+para que en caso de que no alcancen
+las rentas generales y los aportes
+
+224
+00:18:24,923 --> 00:18:29,158
+y contribuciones para pagar
+todos los gastos, toda la inversión
+
+225
+00:18:29,258 --> 00:18:33,586
+del sistema de seguridad social,
+entonces el fondo de garantía
+
+226
+00:18:33,686 --> 00:18:38,594
+de sustentabilidad cubre los déficit
+eventuales, esto es, no hay más secretos
+
+227
+00:18:38,694 --> 00:18:45,058
+y el fondo de garantía de sustentabilidad
+excelentemente administrado por el Estado,
+
+228
+00:18:45,158 --> 00:18:49,933
+creció bajo la epoca estatal a punta tal
+que ahora alcanzó los 400.000 millones
+
+229
+00:18:50,033 --> 00:18:51,200
+de pesos.
+
+230
+00:18:51,300 --> 00:18:53,080
+-406.000 en el último dato.
+
+231
+00:18:53,180 --> 00:18:57,717
+De forma tal que aquí con esos recursos
+excedentes se realizan inversiones
+
+232
+00:18:57,817 --> 00:19:04,120
+para conservar el valor de ese capital
+para permitir que eventualmente
+
+233
+00:19:04,220 --> 00:19:09,338
+si hace falta, esto alimente el sistema
+de jubilaciones para que podamos
+
+234
+00:19:09,438 --> 00:19:14,199
+seguir dando los beneficios
+que se están regulando.
+
+235
+00:19:17,342 --> 00:19:26,517
+Entonces, lo que titula estas dos filminas,
+son dos mentiras que se dicen,
+
+236
+00:19:26,617 --> 00:19:31,617
+que con las AFJP cada uno se financiaba
+su jubilación, los defensores que todavía
+
+237
+00:19:31,717 --> 00:19:36,197
+los hay, del régimen privado de AFJP,
+y ahora el Estado usa la plata
+
+238
+00:19:36,297 --> 00:19:38,499
+de los jubilados.
+
+239
+00:19:38,599 --> 00:19:40,054
+¿Qué es lo que querría decir? 
+
+240
+00:19:40,154 --> 00:19:44,562
+Que las AFJP uno aportaba y cobraba de ahí
+y ahora la gente aporta y el Estado
+
+241
+00:19:44,662 --> 00:19:46,284
+usa la plata para otra cosa.
+
+242
+00:19:46,384 --> 00:19:49,301
+Como queda demostrado no es así,
+en primer lugar las AFJP la plata
+
+243
+00:19:49,401 --> 00:19:53,375
+que cobraban la usaban para ellas
+y las jubilaciones las pagaba el Estado,
+
+244
+00:19:53,475 --> 00:19:57,413
+y hoy todas las contribuciones
+y los aportes y las rentas generales
+
+245
+00:19:57,513 --> 00:20:00,951
+van a pagar todos estos beneficios
+que se van ampliando porque ahora
+
+246
+00:20:01,051 --> 00:20:06,277
+el nuevo plan de inclusión jubilatoria
+va a tener también estos recursos como eje.
+
+247
+00:20:06,377 --> 00:20:14,954
+Entonces la otra mentira era que el Estado
+usa esos recursos para otra cosa,
+
+248
+00:20:15,054 --> 00:20:19,844
+los usa para esto, la que usaba para otra
+cosa los recursos era el sistema privado.
+
+249
+00:20:19,944 --> 00:20:23,166
+Y por último, porque estamos acá
+en el Ministerio de Economía,
+
+250
+00:20:23,266 --> 00:20:29,287
+quería referirme a una cuestión central,
+que el plan de inclusión jubilatoria
+
+251
+00:20:29,387 --> 00:20:33,053
+si bien tiene como objetivo,
+como población objetivo directo,
+
+252
+00:20:33,153 --> 00:20:38,935
+los beneficiarios, aquella gente
+en condiciones de jubilarse que el sistema
+
+253
+00:20:39,035 --> 00:20:42,876
+los había dejado afuera y que ahora
+va a tener oportunidad de ser incluída,
+
+254
+00:20:42,976 --> 00:20:46,598
+si bien esos son los beneficiarios directos
+son los que van a cobrar en su bolsillo
+
+255
+00:20:46,698 --> 00:20:51,819
+la jubilación, no les quepa duda
+que estos segmentos de la población
+
+256
+00:20:51,919 --> 00:20:55,973
+son segmentos de la población
+que eso que reciben lo vuelcan
+
+257
+00:20:56,073 --> 00:21:00,237
+a la actividad económica, ¿cómo?
+Porque la capacidad de ahorro,
+
+258
+00:21:00,337 --> 00:21:04,057
+y lo pongo de otra manera,
+con las jubilaciones no se va a comprar
+
+259
+00:21:04,157 --> 00:21:09,839
+dólares, especular en acciones,
+en títulos públicos; eso se vuelca
+
+260
+00:21:09,939 --> 00:21:14,674
+al consumo, así que a quienes piden
+que reduzcamos el gasto social
+
+261
+00:21:14,774 --> 00:21:20,020
+cuando provienen del sector empresario,
+les pido por favor que lo entiendan,
+
+262
+00:21:20,120 --> 00:21:24,405
+esto es lo que mueve la rueda económica,
+esos recursos se vuelcan al mercado
+
+263
+00:21:24,505 --> 00:21:29,178
+interno, al consumo y ese mercado interno
+ese consumo es lo que alimenta
+
+264
+00:21:29,278 --> 00:21:33,268
+la posibilidad de ampliar las ventas,
+la posibilidad de obtener mayores
+
+265
+00:21:33,368 --> 00:21:38,395
+beneficios del sector privado,
+que entonces satisface las demandas
+
+266
+00:21:38,495 --> 00:21:41,771
+de una población que hoy
+no tiene los recursos,
+
+267
+00:21:41,871 --> 00:21:47,524
+como dijo la Presidenta ayer,
+esa idea de que la economía se mueve
+
+268
+00:21:47,624 --> 00:21:51,131
+por la demanda que es central
+para nuestra política económica,
+
+269
+00:21:51,231 --> 00:21:55,998
+es lo que ha dado como resultado
+el círculo virtuoso del crecimiento
+
+270
+00:21:56,098 --> 00:22:01,607
+con inclusión social, la inclusión social
+genera argentinos que tienen capacidad
+
+271
+00:22:01,707 --> 00:22:09,880
+de vivir, de sobrevivir, y por tanto,
+de gastar, de consumir y de crear a su vez
+
+272
+00:22:09,980 --> 00:22:14,481
+indirectamente mayores recursos
+para crear más empleo, más inversión,
+
+273
+00:22:14,581 --> 00:22:18,679
+mayor crecimiento, el modelo
+de crecimiento con inclusión social
+
+274
+00:22:18,779 --> 00:22:23,524
+tiene hoy para festejar el hecho
+de que hay 500.000 nuevos argentinos
+
+275
+00:22:23,624 --> 00:22:27,318
+que a partir del anuncio de ayer
+están en condiciones de jubilarse.
+
+276
+00:22:27,418 --> 00:22:28,809
+Gracias.
+
+277
+00:22:30,378 --> 00:22:31,579
+Bueno, buen día.
+
+278
+00:22:42,559 --> 00:22:48,121
+Buen día a todos, gracias Ministro
+por darnos la oportunidad de compartir
+
+279
+00:22:48,221 --> 00:22:55,155
+la conferencia con ustedes y además de eso
+de poder explicar la contextualización
+
+280
+00:22:55,255 --> 00:23:00,454
+que bien detalladamente y muy rigurosamente
+hizo Axel, sino también las cuestiones
+
+281
+00:23:00,554 --> 00:23:04,162
+más técnicas de la medida.
+
+282
+00:23:05,512 --> 00:23:10,801
+De dónde venimos, cuál es la situación
+actual de donde partimos.
+
+283
+00:23:10,901 --> 00:23:14,365
+Lo explicó muy bien el Ministro,
+durante toda la década del noventa
+
+284
+00:23:14,465 --> 00:23:18,756
+hasta inicios de los años 2003,
+la tasa de hiper desempleo que hubo
+
+285
+00:23:18,856 --> 00:23:22,702
+en la Argentina, fue histórica,
+si a esta serie le agregamos los niveles
+
+286
+00:23:22,802 --> 00:23:27,663
+de informalidad laboral, seguramente
+son los más altos históricos en lo largo
+
+287
+00:23:27,763 --> 00:23:30,068
+de la historia de los 200 años
+de la Argentina.
+
+288
+00:23:30,168 --> 00:23:35,029
+O sea, es la herencia del neoliberalismo
+hiper desempleo, hiper informalidad
+
+289
+00:23:35,129 --> 00:23:39,694
+y una situación en donde miles
+de argentinos, millones de argentinos
+
+290
+00:23:39,794 --> 00:23:46,016
+estaban por debajo de la línea de pobreza,
+21,5% de desocupación,
+
+291
+00:23:46,116 --> 00:23:51,128
+posiblemente un número significativo
+en subempleo, 50% de los trabajadores
+
+292
+00:23:51,228 --> 00:23:56,981
+asalariados sin estar registrados,
+es decir informales, 53% de los argentinos
+
+293
+00:23:57,081 --> 00:24:02,130
+bajo la línea de pobreza y 40 casi el 50%
+de la población en condición de jubilarse
+
+294
+00:24:02,230 --> 00:24:06,478
+sin poder jubilarse, esto lo explicó
+muy bien el Ministro y ayer la Presidenta
+
+295
+00:24:06,578 --> 00:24:08,127
+de la Nación.
+
+296
+00:24:08,227 --> 00:24:10,424
+El plan de inclusión jubilatoria
+que anunció Néstor Kirchner
+
+297
+00:24:10,524 --> 00:24:14,737
+lo que permitió básicamente es aumentar
+la tasa de cobertura, las dos series
+
+298
+00:24:14,837 --> 00:24:17,840
+que vemos acá es la tasa de cobertura
+estrictamente del sistema nacional
+
+299
+00:24:17,940 --> 00:24:21,929
+de jubilaciones y pensiones del Anses
+y a eso se le suman algunos regímenes
+
+300
+00:24:22,029 --> 00:24:25,551
+provinciales que son 13 provincias
+que no transfirieron sus cajas
+
+301
+00:24:25,651 --> 00:24:29,058
+y que tienen alrededor de un millón
+de jubilados, un poco menos,
+
+302
+00:24:29,158 --> 00:24:31,563
+a lo largo y a lo ancho de la Argentina.
+
+303
+00:24:31,663 --> 00:24:36,927
+Como les dije, en el 2005 Néstor Kirchner
+amplía la moratoria jubilatoria,
+
+304
+00:24:37,027 --> 00:24:41,333
+qué significa esto, esto significa
+reconocer esa situación de los años noventa
+
+305
+00:24:41,433 --> 00:24:46,431
+y que los argentinos tenían
+que regularizar su deuda previsional.
+
+306
+00:24:46,531 --> 00:24:48,858
+Tiene 2 grandes componentes una moratoria:
+
+307
+00:24:48,958 --> 00:24:54,473
+El primer punto es calcular la deuda
+previsional de aportes personales
+
+308
+00:24:54,573 --> 00:24:57,145
+con una tasa de interés
+que estipula la ley.
+
+309
+00:24:57,245 --> 00:25:03,063
+El segundo punto es hacer una reducción
+de esa deuda tanto del 50% del capital
+
+310
+00:25:03,163 --> 00:25:08,182
+y reducción de los intereses que tiene
+un tope hasta del 30% del capital
+
+311
+00:25:08,282 --> 00:25:11,711
+y el tercer punto central de esto
+es facilitar el pago en cuotas,
+
+312
+00:25:11,811 --> 00:25:15,756
+la verdad que es un esquema muy novedoso
+en donde miles de argentinos,
+
+313
+00:25:15,856 --> 00:25:19,112
+millones de argentinos,
+tienen la oportunidad de regularizar
+
+314
+00:25:19,212 --> 00:25:20,667
+esa situación.
+
+315
+00:25:20,767 --> 00:25:25,765
+Qué pasó, en la medida que pasa el tiempo
+es más difícil regularizar la deuda
+
+316
+00:25:25,865 --> 00:25:30,552
+previsional, entonces nos encontramos
+con que muchas personas que cumplen
+
+317
+00:25:30,652 --> 00:25:35,456
+60 años de edad y 65 los hombres,
+no tenían los recursos suficientes
+
+318
+00:25:35,556 --> 00:25:39,251
+como para hacer frente al plan
+de moratoria o facilidad de pago
+
+319
+00:25:39,351 --> 00:25:41,381
+de los aportes personales.
+
+320
+00:25:41,481 --> 00:25:45,932
+Lo decía muy bien Axel recién,
+no es que no quisieron no aportar,
+
+321
+00:25:46,032 --> 00:25:49,942
+no es que no querían trabajar,
+de hecho muchas veces en muchos
+
+322
+00:25:50,042 --> 00:25:53,528
+medios de comunicación no sólo
+lo invisibilizan como claramente
+
+323
+00:25:53,628 --> 00:25:57,128
+lo estamos viendo ahora,
+sino que además despectivamente
+
+324
+00:25:57,228 --> 00:26:01,347
+hablan de jubilados truchos, yo no veo
+nada trucho de esos argentinos
+
+325
+00:26:01,447 --> 00:26:05,639
+que efectivamente trabajaron durante
+toda su vida y muchas veces,
+
+326
+00:26:05,739 --> 00:26:10,399
+o porque no estaba el Estado o porque no
+le aportaban o porque efectivamente
+
+327
+00:26:10,499 --> 00:26:15,432
+no se cumplía con la normativa,
+no tuvieron la oportunidad de jubilarse.
+
+328
+00:26:15,532 --> 00:26:20,385
+Qué sabemos de los casi 3.200.000
+jubilados que entraron por moratoria
+
+329
+00:26:20,485 --> 00:26:25,462
+y los 2.700.000 que quedan hoy,
+que en promedio tenían 12,7 años
+
+330
+00:26:25,562 --> 00:26:28,702
+de aportes, es decir, que en algún
+momento trabajaron, aportaron,
+
+331
+00:26:28,802 --> 00:26:32,863
+estaban regularizados, de hecho,
+en los años setenta la tasa de desempleo,
+
+332
+00:26:32,963 --> 00:26:38,472
+5%, bueno, era un cuarto de la tasa
+de desempleo de los noventa
+
+333
+00:26:38,572 --> 00:26:42,713
+y los niveles de formalidad laboral
+deberían ser altísimos, con lo cual
+
+334
+00:26:42,813 --> 00:26:47,749
+la gente trabajaba y quien trabajaba
+tenía aportes y contribuciones,
+
+335
+00:26:47,849 --> 00:26:51,356
+eso era lo normal en Argentina,
+lo anormal para los argentinos
+
+336
+00:26:51,456 --> 00:26:55,929
+fueron 10 años de neoliberalismo
+que efectivamente ajustaban a donde
+
+337
+00:26:56,029 --> 00:26:59,852
+más dolía como siempre lo decía
+el ex Presidente Néstor Kirchner.
+
+338
+00:26:59,952 --> 00:27:03,906
+Tenían en promedio 12,7 años,
+faltaban completar 17,3 años,
+
+339
+00:27:04,006 --> 00:27:07,787
+es decir, recuerden que para jubilarse,
+las mujeres tienen que tener 60 años
+
+340
+00:27:07,887 --> 00:27:11,027
+y los hombres 65 y 30 años de aporte.
+
+341
+00:27:11,127 --> 00:27:15,858
+Qué más sabemos de quienes
+se jubilaron por moratoria.
+
+342
+00:27:15,958 --> 00:27:21,006
+Desde que aplicó la moratoria, Ministro,
+se jubilaron 3.201.346 personas
+
+343
+00:27:21,106 --> 00:27:27,255
+por la moratoria, algunos fallecieron
+y 2.709.000 son los jubilados actuales
+
+344
+00:27:27,355 --> 00:27:30,748
+que eligieron un régimen
+de moratoria para jubilarse.
+
+345
+00:27:30,848 --> 00:27:34,629
+Un dato que para mí es significativo
+y también lo coloca como una política
+
+346
+00:27:34,729 --> 00:27:40,359
+de género, el 73% fueron mujeres,
+la mujer excluida, sin capacidad,
+
+347
+00:27:40,459 --> 00:27:45,594
+muchas trabajando, sobre todo
+en la juventud y sin capacidad de contar
+
+348
+00:27:45,694 --> 00:27:50,159
+con una jubilación permanente,
+continua mes a mes.
+
+349
+00:27:50,259 --> 00:27:53,888
+Como dijo el Ministro, aumentamos
+el número de jubilados y estamos pagando
+
+350
+00:27:53,988 --> 00:27:59,569
+5.907.860 jubilaciones, si nos vemos
+dentro de 6 meses ese número
+
+351
+00:27:59,669 --> 00:28:04,156
+se va a incrementar en 500.000
+nuevos jubilados en cerca de 6.400.000
+
+352
+00:28:04,256 --> 00:28:09,296
+y en ese sentido nuestro objetivo
+es tener una cobertura del 100%
+
+353
+00:28:09,396 --> 00:28:11,716
+de las jubilaciones.
+
+354
+00:28:11,816 --> 00:28:16,734
+Ayer la Presidenta lo decía con mucha
+claridad, quiénes no jubilamos,
+
+355
+00:28:16,834 --> 00:28:20,852
+a los más humildes, quienes todavía
+no pudieron incluirse en el sistema,
+
+356
+00:28:20,952 --> 00:28:27,419
+quiénes no tienen la posibilidad
+de acceder los deciles de menores ingresos
+
+357
+00:28:27,519 --> 00:28:32,070
+en la tercera edad o los adultos mayores
+como se denominan comúnmente,
+
+358
+00:28:32,170 --> 00:28:37,535
+el decil 1, el decil 2 y el decil 3
+son los deciles de menores ingresos
+
+359
+00:28:37,635 --> 00:28:41,027
+de la sociedad que efectivamente
+no tienen los niveles de cobertura
+
+360
+00:28:41,127 --> 00:28:45,095
+que nosotros deseamos, este plan
+está apuntando fundamentalmente
+
+361
+00:28:45,195 --> 00:28:50,603
+a esos argentinos y nosotros queremos
+que todos los meses cobren una jubilación.
+
+362
+00:28:50,703 --> 00:28:54,974
+Otro tema, qué sabemos de los jubilados
+que se jubilan con la moratoria,
+
+363
+00:28:55,074 --> 00:28:59,315
+que el haber al alta es de 2.966 pesos
+y cuando uno lo compara con el haber
+
+364
+00:28:59,415 --> 00:29:02,728
+al alta de aquel que trabaja
+permanentemente, que aporta,
+
+365
+00:29:02,828 --> 00:29:07,689
+que contribuye, es de 5.020 pesos,
+con lo cual es distinto, hay diferencia
+
+366
+00:29:07,789 --> 00:29:12,591
+entre un jubilado que está formalizado,
+que tiene un trabajo de formalización
+
+367
+00:29:12,691 --> 00:29:16,076
+permanente y constante e ingresos
+permanentes, a alguien que entra
+
+368
+00:29:16,176 --> 00:29:18,827
+a un régimen de moratoria,
+y esto me parece que es importante
+
+369
+00:29:18,927 --> 00:29:22,673
+de resaltar porque leía en algún diario
+despectivamente que esto favorece
+
+370
+00:29:22,773 --> 00:29:25,986
+la informalidad, yo les puedo asegurar
+que desde que se aplicó la ley
+
+371
+00:29:26,086 --> 00:29:29,946
+de inclusión, aumentó el trabajo
+registrado en la Argentina,
+
+372
+00:29:30,046 --> 00:29:32,725
+y es lo que dice el Ministro,
+en realidad son políticas
+
+373
+00:29:32,825 --> 00:29:36,462
+que favorecen la demanda,
+son políticas que favorecen la demanda
+
+374
+00:29:36,562 --> 00:29:40,040
+y bajo la determinación
+del derecho, porque saben qué,
+
+375
+00:29:40,140 --> 00:29:43,187
+nosotros no le preguntamos a nadie
+si es radical, peronista, si nos vota,
+
+376
+00:29:43,287 --> 00:29:48,428
+si no nos vota a la hora de jubilarnos,
+lo que hacemos es efectivamente
+
+377
+00:29:48,528 --> 00:29:53,281
+determinar el derecho y no es un tema
+menor porque sabemos como eran
+
+378
+00:29:53,381 --> 00:29:56,946
+las prácticas antes en la Argentina
+y ni hablar para jubilarse,
+
+379
+00:29:57,046 --> 00:29:59,343
+no se podía jubilar nadie,
+yo siempre tengo una anécdota,
+
+380
+00:29:59,443 --> 00:30:02,158
+mi abuelo se jubila en el año '88,
+tuvo 3 años para que le salga
+
+381
+00:30:02,258 --> 00:30:05,564
+la jubilación, hoy Ministro,
+en 40 días hábiles, 50 días hábiles,
+
+382
+00:30:05,664 --> 00:30:08,898
+un argentino se jubila
+en promedio en la Argentina.
+
+383
+00:30:08,998 --> 00:30:12,447
+Qué es lo que vamos a hacer,
+lo explicó ayer la Presidenta de la Nación,
+
+384
+00:30:12,547 --> 00:30:18,596
+mover básicamente la fecha de la cantidad
+de años que se pueden incluir
+
+385
+00:30:18,696 --> 00:30:23,917
+en la moratoria, en el cálculo de la deuda
+previsional y en el cálculo de las cuotas.
+
+386
+00:30:24,017 --> 00:30:30,994
+473.814 jubilados son los próximos
+12 meses que tenemos previsto,
+
+387
+00:30:31,094 --> 00:30:33,327
+es un proyecto de ley,
+lo tienen que aprobar ambas cámaras
+
+388
+00:30:33,427 --> 00:30:35,912
+en el Congreso, las comisiones,
+esperamos que el Congreso
+
+389
+00:30:36,012 --> 00:30:40,368
+sea lo suficientemente expeditivo
+y rápido porque es un tema que la gente
+
+390
+00:30:40,468 --> 00:30:43,155
+lo está esperando, yo entiendo
+que es así, así me lo han manifestado
+
+391
+00:30:43,255 --> 00:30:46,598
+los legisladores de nuestro bloque
+y entendemos que es una ley
+
+392
+00:30:46,698 --> 00:30:49,556
+que va a generar un debate
+muy rico para los argentinos.
+
+393
+00:30:49,656 --> 00:30:52,500
+2 ó 3 cosas que me parece que es
+muy importante que sepan.
+
+394
+00:30:52,600 --> 00:30:56,086
+Quiénes entran, quienes tienen 65 años,
+los hombres, y 60 años las mujeres,
+
+395
+00:30:56,186 --> 00:30:59,276
+no es para cualquier edad, es decir,
+tenés que estar en condiciones
+
+396
+00:30:59,376 --> 00:31:00,673
+para jubilarte.
+
+397
+00:31:00,773 --> 00:31:05,673
+Segundo, podrán incluirse los que son
+pensionados, sí, siempre y cuando
+
+398
+00:31:05,773 --> 00:31:07,401
+ganen una mínima jubilatoria.
+
+399
+00:31:07,501 --> 00:31:12,124
+Es decir, esto es una novedad con respecto
+al régimen anterior que era más restrictivo
+
+400
+00:31:12,224 --> 00:31:16,495
+queremos ser más abarcativos para mejorar,
+esto fue una instrucción de la Presidenta
+
+401
+00:31:16,595 --> 00:31:19,641
+de la Nación, mejorar el ingreso
+del hogar de un jubilado.
+
+402
+00:31:19,741 --> 00:31:24,206
+Y se va, esto es algo que también
+que la ley lo va a contemplar,
+
+403
+00:31:24,306 --> 00:31:28,505
+es la facultad que va a tener la Anses
+de verificar cada una de las familias
+
+404
+00:31:28,605 --> 00:31:30,528
+y en esto vamos a hacer un acuerdo
+con el Ministerio de Economía
+
+405
+00:31:30,628 --> 00:31:33,746
+y con la AFIP y lo vamos a profundizar
+porque de hecho ya los tenemos,
+
+406
+00:31:33,846 --> 00:31:36,741
+para ver la situación patrimonial
+de las familias que acceden
+
+407
+00:31:36,841 --> 00:31:38,332
+a estos descuentos.
+
+408
+00:31:38,432 --> 00:31:43,049
+Vuelvo a repetir, se calcula la deuda
+previsional, se reduce el 50% del capital,
+
+409
+00:31:43,149 --> 00:31:46,007
+se limita al interés
+y se paga en 60 cuotas.
+
+410
+00:31:46,107 --> 00:31:49,996
+Con lo cual el beneficio que tienen
+estas familias es más que significativo
+
+411
+00:31:50,096 --> 00:31:53,107
+y ese beneficio tiene que ser
+fundamentalmente para quienes
+
+412
+00:31:53,207 --> 00:31:54,388
+lo necesitan.
+
+413
+00:31:54,488 --> 00:31:57,110
+Quien puede pagar en un Estado
+que tiene que tener como principio
+
+414
+00:31:57,210 --> 00:32:01,941
+la solidaridad, efectivamente entrará
+en los regímenes vigentes de facilidades
+
+415
+00:32:02,041 --> 00:32:05,397
+o bien de aportes y contribuciones
+como dice la ley.
+
+416
+00:32:05,497 --> 00:32:09,321
+Tienen que estar inscriptos en la AFIP,
+paso número uno, estar inscriptos
+
+417
+00:32:09,421 --> 00:32:14,203
+en la AFIP, la AFIP no permite inscribir
+a fallecidos, en ese sentido es algo
+
+418
+00:32:14,303 --> 00:32:17,278
+que vamos a ser muy estrictos.
+
+419
+00:32:17,378 --> 00:32:21,397
+Los criterios de utilización de Anses
+para valorar la situación patrimonial,
+
+420
+00:32:21,497 --> 00:32:24,270
+lo vamos a especificar con una resolución
+que vamos a trabajar en conjunto
+
+421
+00:32:24,370 --> 00:32:26,106
+con el Ministerio de Economía.
+
+422
+00:32:26,206 --> 00:32:28,187
+Y 3 ó 4 cosas son importantes.
+
+423
+00:32:28,287 --> 00:32:30,807
+Para garantizar la sustentabilidad
+del sistema incorporamos que la cuota
+
+424
+00:32:30,907 --> 00:32:34,602
+tenga movilidad como tienen la movilidad
+jubilatoria, septiembre y marzo
+
+425
+00:32:34,702 --> 00:32:36,013
+de cada año.
+
+426
+00:32:36,113 --> 00:32:41,226
+La Anses va a hacer controles
+a los sectores que no son vulnerables,
+
+427
+00:32:41,326 --> 00:32:44,927
+es decir que tienen una capacidad
+patrimonial distinta, vamos a aumentar
+
+428
+00:32:45,027 --> 00:32:48,678
+la cobertura a la universalidad
+y todos los trámites son gratuitos,
+
+429
+00:32:48,778 --> 00:32:52,437
+esto es importante, no es necesario
+ir a un gestor para jubilarse
+
+430
+00:32:52,537 --> 00:32:56,886
+en la Argentina, no van a tener ninguna
+ventaja de ninguna característica,
+
+431
+00:32:56,986 --> 00:33:02,871
+de ninguna manera para jubilarse,
+tienen que pasar por la Anses,
+
+432
+00:33:02,971 --> 00:33:06,759
+nosotros estamos capacitando a nuestros
+agentes para que hagan la liquidación,
+
+433
+00:33:06,859 --> 00:33:09,567
+para que hagan la verificación,
+en el 100% de los casos se va a hacer
+
+434
+00:33:09,667 --> 00:33:14,197
+verificación de esta manera los nuevos
+jubilados, una vez aprobada la ley
+
+435
+00:33:14,297 --> 00:33:18,063
+y reglamentada, que lo vamos a hacer
+lo antes posible, no tienen que pagar
+
+436
+00:33:18,163 --> 00:33:22,053
+nada para jubilarse, todo los recursos
+que vuelquen a esto, tienen que ser
+
+437
+00:33:22,153 --> 00:33:24,867
+para el Estado y en definitiva
+para todos los argentinos.
+
+438
+00:33:24,967 --> 00:33:28,069
+Yo 2 ó 3 consideraciones
+de lo que decía Axel.
+
+439
+00:33:28,169 --> 00:33:33,488
+En primer punto, para nosotros
+lo que otros invisibilizan,
+
+440
+00:33:33,588 --> 00:33:37,650
+que es deliberado, para nosotros
+nos emociona, tanto al Ministro,
+
+441
+00:33:37,750 --> 00:33:41,653
+a la Presidenta como a nosotros,
+una medida de esta característica
+
+442
+00:33:41,753 --> 00:33:45,015
+significa una razón de ser
+del Estado, incluir.
+
+443
+00:33:45,115 --> 00:33:49,724
+Segundo, me parece que es importante
+que entiendan que el único ajuste
+
+444
+00:33:49,824 --> 00:33:53,713
+que hacemos nosotros es en la deuda
+y quedó claro cuando pasó de 4 puntos
+
+445
+00:33:53,813 --> 00:33:58,407
+del PBI a menos de 2 puntos del PBI
+los servicios y el capital de deuda.
+
+446
+00:33:58,507 --> 00:34:04,441
+Tercero, lo que decía muy bien el Ministro,
+los últimos 5 años los argentinos
+
+447
+00:34:04,541 --> 00:34:08,725
+nos ahorramos 36.000 millones de pesos
+en el pago de comisiones a los ejecutivos
+
+448
+00:34:08,825 --> 00:34:13,017
+de las AFJP, esos recursos hoy están
+en programas que administramos
+
+449
+00:34:13,117 --> 00:34:16,861
+coordinadamente junto con el Ministro
+que tienen que ver con más viviendas
+
+450
+00:34:16,961 --> 00:34:19,986
+para los argentinos, que tiene que ver
+con la asignación universal por hijo,
+
+451
+00:34:20,086 --> 00:34:23,356
+que tienen que ver con un plan
+de inclusión jubilatoria ampliado.
+
+452
+00:34:23,456 --> 00:34:27,286
+Y cuarto, estas medidas forman parte
+de decisiones coordinadas entre todos
+
+453
+00:34:27,386 --> 00:34:31,567
+los miembros del equipo de la Presidenta
+de la Nación como aumentamos
+
+454
+00:34:31,667 --> 00:34:35,642
+hace 15 ó 20 días la asignación universal
+por hijo un 40% y las asignaciones
+
+455
+00:34:35,742 --> 00:34:36,974
+familiares.
+
+456
+00:34:37,074 --> 00:34:42,237
+Como estamos pagando en tiempo y forma
+adelantado, jubilaciones y pensiones
+
+457
+00:34:42,337 --> 00:34:43,476
+y aguinaldo.
+
+458
+00:34:43,576 --> 00:34:48,279
+La jubilación de junio se cobra en junio
+y el aguinaldo se cobra en junio
+
+459
+00:34:48,379 --> 00:34:51,842
+por adelantado, muestra que un Estado
+tiene capacidad de pago permanente
+
+460
+00:34:51,942 --> 00:34:58,027
+y estas medidas forman parte de decisiones
+que apuntan a fortalecer la economía
+
+461
+00:34:58,127 --> 00:35:01,887
+y no sólo a fortalecer la economía
+sino seguir en el camino de la inclusión
+
+462
+00:35:01,987 --> 00:35:07,200
+y en ese sentido me parece que le vamos
+a solicitar a los legisladores que demos
+
+463
+00:35:07,300 --> 00:35:11,362
+un tratamiento rápido a este tema
+de manera tal de que podamos cumplir
+
+464
+00:35:11,462 --> 00:35:15,091
+tanto con los objetivos de inclusión
+como los objetivos económicos que tenemos
+
+465
+00:35:15,191 --> 00:35:16,624
+en los próximos meses.
+
+466
+00:35:16,724 --> 00:35:18,223
+Muchas gracias.
+
+467
+00:35:18,323 --> 00:35:22,190
+Muy bien, comenzamos
+con la ronda de preguntas.
+
+468
+00:35:22,290 --> 00:35:27,087
+Buenos días, Lorena Guliel Minotti
+de Radio América.
+
+469
+00:35:27,187 --> 00:35:30,362
+Para los dos, primeramente en cuanto
+al tratamiento del parlamento,
+
+470
+00:35:30,462 --> 00:35:33,969
+cuándo creen que será esa fecha
+estimada a partir de este anuncio
+
+471
+00:35:34,069 --> 00:35:35,244
+de la Presidenta.
+
+472
+00:35:35,344 --> 00:35:38,304
+Y la segunda, para bajar a tierra
+algunos conceptos para las personas
+
+473
+00:35:38,404 --> 00:35:41,061
+que nos están escuchando,
+cuál es la documentación
+
+474
+00:35:41,161 --> 00:35:44,258
+que tienen que llevar a cada uno
+de los lugares del Anses.
+
+475
+00:35:44,358 --> 00:35:48,650
+El proyecto de ley va a ser enviado
+en los próximos días al Congreso
+
+476
+00:35:48,750 --> 00:35:50,897
+y esperamos ahí...
+-Que sea rápido el tratamiento.
+
+477
+00:35:50,997 --> 00:35:56,406
+El rápido tratamiento que dispongan
+de las comisiones y efectivamente
+
+478
+00:35:56,506 --> 00:35:59,666
+podamos dar un rápido tratamiento,
+estamos a disposición como lo hemos hecho
+
+479
+00:35:59,766 --> 00:36:03,561
+en otras oportunidades, a ir al Congreso
+a explicar cada una de las decisiones.
+
+480
+00:36:03,661 --> 00:36:08,904
+Segundo, el trámite es muy sencillo,
+son dos instancias, por un lado
+
+481
+00:36:09,004 --> 00:36:13,505
+es acercarse al Anses, manifestar
+que quiere estar incluído dentro del plan
+
+482
+00:36:13,605 --> 00:36:17,601
+de inclusión, va a tener una verificación
+por parte del Anses, esa verificación
+
+483
+00:36:17,701 --> 00:36:21,504
+va a habilitar los cruces de datos
+para que efectivamente la familia
+
+484
+00:36:21,604 --> 00:36:27,912
+esté en una condición patrimonial
+para acceder a una moratoria
+
+485
+00:36:28,012 --> 00:36:31,317
+de estas características, les advierto
+que la gran mayoría lo vimos en el gráfico,
+
+486
+00:36:31,417 --> 00:36:35,544
+son personas que van a estar involucradas
+y automáticamente se hace la rendición
+
+487
+00:36:35,644 --> 00:36:37,279
+de cuentas en el Sicam.
+
+488
+00:36:37,379 --> 00:36:40,672
+Tiene que estar inscripto en la AFIP,
+la inscripción en la AFIP claramente
+
+489
+00:36:40,772 --> 00:36:44,970
+es tener CUIL, y a partir de ahí
+el trámite es muy sencillo.
+
+490
+00:36:45,070 --> 00:36:49,391
+De todos modos luego de la aprobación
+de la ley hay una reglamentación
+
+491
+00:36:49,491 --> 00:36:52,667
+que ya la estamos trabajando,
+si ya la ley surge como nosotros
+
+492
+00:36:52,767 --> 00:36:56,203
+tenemos previsto, avanza como nosotros
+tenemos previsto y el trámite,
+
+493
+00:36:56,303 --> 00:37:00,997
+la Anses ya tuvo una experiencia
+en el año 2005 y recordemos un dato,
+
+494
+00:37:01,097 --> 00:37:05,757
+del último trimestre de los 66.000
+nuevos jubilados que hubo,
+
+495
+00:37:05,857 --> 00:37:10,437
+el 41% son por moratoria, lo que es,
+se amplió la fecha con lo cual nosotros
+
+496
+00:37:10,537 --> 00:37:13,828
+estamos acostumbrados
+a trámites de esta naturaleza.
+
+497
+00:37:13,928 --> 00:37:15,578
+Siguiente pregunta.
+
+498
+00:37:15,678 --> 00:37:19,883
+Buenos días, para el Ministro de Economía.
+Javier Álvarez de la Agencia de Noticias
+
+499
+00:37:19,983 --> 00:37:20,848
+Argentinas.
+
+500
+00:37:20,948 --> 00:37:23,972
+Quería consultarle si tienen alguna
+proyección de cuál podría ser el impacto
+
+501
+00:37:24,072 --> 00:37:26,262
+de la aplicación de la ley
+de formalización laboral
+
+502
+00:37:26,362 --> 00:37:31,108
+que fue promulgada hace poco
+y si pudieron dialogar con los empresarios
+
+503
+00:37:31,208 --> 00:37:34,679
+en las reuniones que tuvieron
+en los últimos meses sobre el empleo
+
+504
+00:37:34,779 --> 00:37:37,315
+negro para poder avanzar en esa cuestión.
+
+505
+00:37:37,415 --> 00:37:40,446
+Sobre esa ley.
+
+506
+00:37:40,546 --> 00:37:45,378
+Sí, tenemos evaluaciones,
+después se lo alcanzo, no tengo ahora
+
+507
+00:37:45,478 --> 00:37:47,027
+el material.
+
+508
+00:37:47,127 --> 00:37:54,940
+Sí habíamos omitido y pensé que venía
+para acá, así que contesto con respecto
+
+509
+00:37:55,040 --> 00:37:57,784
+a esta iniciativa.
+
+510
+00:37:57,884 --> 00:38:04,934
+Nuestra evaluación es que de ser exitoso
+el programa de inclusión,
+
+511
+00:38:05,034 --> 00:38:12,112
+llegar a prácticamente medio millón
+de jubilados, esto tendría un impacto
+
+512
+00:38:12,212 --> 00:38:18,952
+presupuestario neto de 12.000 millones
+de pesos en un año calendario,
+
+513
+00:38:19,052 --> 00:38:27,613
+o sea que ese sería el impacto fiscal
+de la medida, por supuesto que como tiene
+
+514
+00:38:27,713 --> 00:38:31,543
+un efecto multiplicador, es decir,
+esto se vuelca en recursos a la actividad
+
+515
+00:38:31,643 --> 00:38:36,784
+económica, también tiene un impacto
+como contrapartida en la recaudación
+
+516
+00:38:36,884 --> 00:38:42,991
+porque pagan IVA y se generan
+nuevas actividades.
+
+517
+00:38:43,091 --> 00:38:46,901
+Pero directamente a la seguridad social
+12.000 millones de pesos.
+
+518
+00:38:49,521 --> 00:38:51,184
+¿Listo? Muchas gracias.
+
+519
+00:38:51,284 --> 00:38:53,091
+Muchas gracias.
+-Muchísimas gracias.
+

@@ -1,0 +1,90 @@
+1
+00:00:00,601 --> 00:00:03,801
+¿Cómo que me quedé sin crédito?
+¿En qué lo gasté? ¿A quién llamé?
+
+2
+00:00:03,901 --> 00:00:05,400
+Señor, eso no se lo puedo decir.
+
+3
+00:00:05,467 --> 00:00:07,267
+¿Usted no me puede decir
+cómo se consumió mi crédito?
+
+4
+00:00:07,334 --> 00:00:09,834
+Tres llamadas hice.
+¿Pero cuanto sale hablar?
+
+5
+00:00:09,934 --> 00:00:11,467
+Por esta vía no se lo puedo decir.
+
+6
+00:00:11,534 --> 00:00:13,267
+Entonces ustedes no dicen nada.
+
+7
+00:00:14,067 --> 00:00:16,334
+Cuando ibas a pedir info
+sobre la factura de tu celular,
+
+8
+00:00:16,434 --> 00:00:18,601
+las empresas no daban la cara.
+
+9
+00:00:18,701 --> 00:00:21,267
+Para que eso no siga pasando
+implementamos:
+
+10
+00:00:21,334 --> 00:00:22,667
+Conoce lo que pagas.
+
+11
+00:00:22,734 --> 00:00:24,767
+Ahora todas las empresas
+de telefonía móvil
+
+12
+00:00:24,868 --> 00:00:26,968
+están obligadas a mandarte
+un mensaje de texto
+
+13
+00:00:27,100 --> 00:00:29,834
+con los precios de los principales
+componentes de tu plan.
+
+14
+00:00:29,934 --> 00:00:31,968
+Además, te tienen que informar
+todos los precios
+
+15
+00:00:32,033 --> 00:00:34,734
+en la factura y en la web,
+por mail y por teléfono.
+
+16
+00:00:34,834 --> 00:00:37,434
+También podes acceder al detalle
+de tus consumos gratis.
+
+17
+00:00:37,501 --> 00:00:40,200
+Y si tu empresa no cumple,
+hace la denuncia
+
+18
+00:00:40,267 --> 00:00:47,901
+al 0800 666 1518,
+o en www.quenosecorte.gob.ar
+
+19
+00:00:47,968 --> 00:00:51,100
+Porque tus derechos los defendés
+vos y nosotros.
+

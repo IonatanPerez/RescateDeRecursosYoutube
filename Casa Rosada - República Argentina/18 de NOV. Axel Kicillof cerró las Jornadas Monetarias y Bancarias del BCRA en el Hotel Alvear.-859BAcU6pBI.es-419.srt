@@ -1,0 +1,2737 @@
+1
+00:00:05,812 --> 00:00:08,581
+Bueno. Buenas tardes, noches.
+
+2
+00:00:09,583 --> 00:00:14,661
+Gracias por la resistencia, pero
+realmente creo que valió la pena, ¿no?
+
+3
+00:00:15,849 --> 00:00:21,239
+Es difícil no hacer un pequeño
+balance de las jornadas.
+
+4
+00:00:23,052 --> 00:00:25,617
+Creo que realmente fueron muy fructíferas.
+
+5
+00:00:26,689 --> 00:00:32,518
+Y, quiero, en primer lugar, agradecer a
+todo el personal del Banco Central que
+
+6
+00:00:32,518 --> 00:00:39,806
+trabajó en estas jornadas, sin cuyo apoyo,
+eficiencia y calidez, no hubiera sido posible
+
+7
+00:00:39,806 --> 00:00:41,882
+tener esta jornada.
+
+8
+00:00:43,335 --> 00:00:51,925
+En segundo lugar, decir que creo que
+cubrimos una vastedad de temas.
+
+9
+00:00:51,925 --> 00:00:56,371
+Realmente, los temas
+globales son inmensos,
+
+10
+00:00:57,136 --> 00:01:02,557
+hay un clima de época que permite
+generar una discusión sobre todas
+
+11
+00:01:02,557 --> 00:01:07,677
+las cosas, y yo le pedí al
+Ministro de Economía,
+
+12
+00:01:07,687 --> 00:01:11,526
+que como es público y notorio,
+acaba de venir de la reunión del G-20
+
+13
+00:01:11,526 --> 00:01:15,957
+representando a la Presidenta de
+la Nación en la reunión de Australia.
+
+14
+00:01:15,957 --> 00:01:24,768
+Que también nos dé una visión respecto a
+lo que se discutió, cuál es la posición de
+
+15
+00:01:24,768 --> 00:01:30,433
+nuestro país y cómo ven los principales
+países, tanto del mundo desarrollado
+
+16
+00:01:30,433 --> 00:01:34,159
+como de el mundo en desarrollo,
+respecto a las distintas cuestiones
+
+17
+00:01:34,159 --> 00:01:40,691
+que se discuten, que tiene que ver con
+cuestiones de política macroeconómica;
+
+18
+00:01:40,691 --> 00:01:44,749
+cuestiones que hacen a la
+regulación financiera internacional;
+
+19
+00:01:44,749 --> 00:01:49,388
+a la supervisión; al rol de los
+organismos internacionales;
+
+20
+00:01:49,388 --> 00:01:55,186
+a cuestiones vinculadas al
+funcionamiento del Shadow Banking;
+
+21
+00:01:55,186 --> 00:01:57,099
+la regulación de los derivados,
+
+22
+00:01:58,196 --> 00:02:04,314
+y creo que, de alguna manera, lo que vimos
+aquí, que fue visto desde distintos ángulos
+
+23
+00:02:04,314 --> 00:02:11,598
+yo creo que la riqueza de una jornada como
+esta tiene que ver con que escuchamos tanto
+
+24
+00:02:11,598 --> 00:02:16,471
+a personas que están en el mundo académico
+como los gobiernos, como en distintos
+
+25
+00:02:16,471 --> 00:02:22,288
+organismos, tanto de
+regulación financiera como (...),
+
+26
+00:02:22,288 --> 00:02:30,210
+donde cubrimos también visiones desde
+los países desarrollados, desde el mundo
+
+27
+00:02:30,210 --> 00:02:38,842
+emergente, que estamos precisamente en
+un momento del mundo donde todo está en
+
+28
+00:02:38,842 --> 00:02:43,295
+discusión, ¿no?
+Donde, realmente, el saber convencional
+
+29
+00:02:44,695 --> 00:02:51,750
+y los dogmas que, de alguna manera,
+se articularon como dogmas de fe
+
+30
+00:02:51,750 --> 00:02:53,815
+se están cayendo, ¿no?
+
+31
+00:02:53,815 --> 00:03:00,716
+Yo me quedo, de todas maneras igual,
+con esta frase que hoy dijo Aldo Ferrer,
+
+32
+00:03:00,716 --> 00:03:07,530
+que creo que de alguna manera es un
+pensamiento que realmente llamativo
+
+33
+00:03:07,530 --> 00:03:13,740
+y que creo que a quienes somos economistas
+y quienes tenemos responsabilidad,
+
+34
+00:03:13,740 --> 00:03:15,093
+nos interpela, ¿no?
+
+35
+00:03:16,365 --> 00:03:21,122
+Esta dicotomía respecto
+a la década del 30'.
+
+36
+00:03:21,122 --> 00:03:28,561
+Como la crisis de 1930 generó un quiebre
+de un paradigma ideológico con la
+
+37
+00:03:28,561 --> 00:03:33,176
+emergencia del pensamiento Keynesiano,
+y como, a pesar de que el mundo está
+
+38
+00:03:33,176 --> 00:03:37,459
+viviendo la peor crisis
+desde la década del 30',
+
+39
+00:03:37,459 --> 00:03:45,926
+todavía el paradigma neoclásico,
+neoliberal sigue teniendo predominancia,
+
+40
+00:03:45,926 --> 00:03:53,729
+de alguna manera, en el debate intelectual
+y en la formulación de políticas, más allá
+
+41
+00:03:53,729 --> 00:03:59,588
+de que es cierto de que por lo menos
+empieza a haber algún tipo de discusión,
+
+42
+00:03:59,588 --> 00:04:04,772
+pero todavía, y esto seguramente
+lo va a desarrollar el Ministro,
+
+43
+00:04:04,772 --> 00:04:11,925
+uno percibe que todavía hay una falta de
+velocidad en instrumentar toda una serie
+
+44
+00:04:11,935 --> 00:04:17,837
+de cambios, tanto en lo que hace a
+la arquitectura del sistema financiero
+
+45
+00:04:17,837 --> 00:04:21,949
+internacional, como a las
+políticas macroeconómicas, ¿no?
+
+46
+00:04:23,181 --> 00:04:24,754
+Esta necesidad, ¿no?
+
+47
+00:04:24,754 --> 00:04:29,375
+Nosotros hablamos mucho, quienes tenemos
+responsabilidad en el Banco Central y
+
+48
+00:04:29,375 --> 00:04:33,635
+en el Ministerio de Economía.
+Es algo obvio para un estudiante de
+
+49
+00:04:33,635 --> 00:04:39,071
+primer año de Economía, de que es necesario
+formular políticas de demanda cuando se
+
+50
+00:04:39,071 --> 00:04:44,622
+está en una depresión.
+Y lo cierto es que algunos países que
+
+51
+00:04:44,622 --> 00:04:50,260
+tienen una enorme responsabilidad en el
+tablero del mundo no están a la altura
+
+52
+00:04:50,260 --> 00:04:55,635
+de esta responsabilidad y limitan las
+posibilidades de algunos países en Europa
+
+53
+00:04:55,635 --> 00:04:59,531
+y otros países que necesitan:
+políticas diferenciadas,
+
+54
+00:04:59,531 --> 00:05:04,710
+políticas de estímulo a la demanda y
+cambios en el sistema financiero,
+
+55
+00:05:04,710 --> 00:05:09,831
+que de alguna manera, permitan
+salir de esta espiral deflacionaria,
+
+56
+00:05:09,831 --> 00:05:18,296
+de aumento del desempleo y de crisis
+económica y social, al que este paradigma
+
+57
+00:05:18,296 --> 00:05:20,492
+los ha llevado.
+
+58
+00:05:22,588 --> 00:05:30,712
+Y como muestra de lo que son estas
+verdades o aparentes verdades sagradas...
+
+59
+00:05:31,216 --> 00:05:37,466
+Yo estaba viendo una comparación
+internacional respecto a la emisión
+
+60
+00:05:37,466 --> 00:05:41,262
+de dinero y el aumento de los precios.
+
+61
+00:05:41,262 --> 00:05:48,740
+Y está tremendamente instalado en la
+Argentina y también en otros lugares
+
+62
+00:05:50,477 --> 00:05:55,289
+que el aumento de la cantidad de
+dinero de la oferta va a los precios.
+
+63
+00:05:55,289 --> 00:06:02,349
+Una cuestión que la literatura económica,
+hace ya mucho tiempo, parecía haber saldado.
+
+64
+00:06:02,349 --> 00:06:07,101
+Y si uno mira la evidencia empírica puede
+ver cómo en los países desarrollados
+
+65
+00:06:07,101 --> 00:06:15,120
+la oferta de dinero ha aumentado por
+400 veces, cuando el ritmo de los precios
+
+66
+00:06:15,120 --> 00:06:19,774
+no ha llegado al 10%.
+Y alguno dirá que estoy haciendo solo
+
+67
+00:06:19,774 --> 00:06:26,702
+mención a los países desarrollados,
+y lo cierto es que también en los países
+
+68
+00:06:26,702 --> 00:06:30,814
+en desarrollo uno puede ver,
+clara y nítidamente,
+
+69
+00:06:30,814 --> 00:06:36,793
+que no hay ningún tipo de correlación
+significativa entre ambas variables.
+
+70
+00:06:36,793 --> 00:06:42,299
+Y, en primer lugar, todo pareciera
+indicar también de que hay una pata...
+
+71
+00:06:42,299 --> 00:06:47,552
+Nosotros hablamos hoy en las jornadas de
+la necesidad de ver la economía con los
+
+72
+00:06:47,552 --> 00:06:53,057
+dos ojos y de caminar con las dos piernas,
+¿no? La oferta y la demanda.
+
+73
+00:06:53,067 --> 00:06:55,048
+Pareciera ser que la demanda
+de dinero no existiera.
+
+74
+00:06:55,308 --> 00:07:03,163
+Bueno. Esta enorme miopía que hace que
+muchas veces haya una incapacidad evidente
+
+75
+00:07:03,163 --> 00:07:07,742
+para reaccionar ante una
+realidad que nos interpela,
+
+76
+00:07:07,742 --> 00:07:12,002
+yo creo que tiene que ver con
+este centro del debate, ¿no?
+
+77
+00:07:12,002 --> 00:07:19,296
+Precisamente, en el marco donde estamos
+en presencia también de una ciencia como
+
+78
+00:07:19,296 --> 00:07:21,208
+la nuestra, la ciencia económica.
+
+79
+00:07:21,208 --> 00:07:23,231
+Que es una ciencia social,
+
+80
+00:07:23,231 --> 00:07:28,810
+y donde es, absolutamente imposible,
+controlar como en una ciencia exacta,
+
+81
+00:07:28,810 --> 00:07:34,607
+como si uno estuviera en un laboratorio,
+calibrar cual es el efecto de cada una
+
+82
+00:07:34,607 --> 00:07:37,914
+de las medidas.
+Claramente, el efecto de cualquier medida
+
+83
+00:07:37,914 --> 00:07:41,330
+económica depende del contexto,
+depende de la credibilidad,
+
+84
+00:07:41,330 --> 00:07:47,393
+depende de la conformación social del país,
+de una serie de factores y de variables
+
+85
+00:07:47,393 --> 00:07:49,279
+que no están en los modelos matemáticos.
+
+86
+00:07:49,279 --> 00:07:54,522
+Modelos matemáticos y de riesgo que se
+han usado también en el campo de las
+
+87
+00:07:54,522 --> 00:07:57,827
+finanzas para formular
+ las políticas monetarias,
+
+88
+00:07:57,827 --> 00:08:02,461
+y que de alguna manera,
+no explicaban y no podían explicar
+
+89
+00:08:02,461 --> 00:08:07,148
+por qué la crisis era solo una
+pequeña cola de distribución,
+
+90
+00:08:07,148 --> 00:08:11,911
+una pequeña probabilidad de modelos
+matemáticos y de modelos financieros
+
+91
+00:08:11,911 --> 00:08:18,684
+donde se asumía la información perfecta,
+la atomización, o sea una realidad que
+
+92
+00:08:18,684 --> 00:08:19,447
+no existe.
+
+93
+00:08:19,447 --> 00:08:23,775
+Y, claramente, entonces
+la realidad fue cruel.
+
+94
+00:08:23,775 --> 00:08:28,980
+Claramente cuando el mundo real emerge,
+que es lo que pasó,
+
+95
+00:08:28,980 --> 00:08:34,623
+cuando todos esos desequilibrios que se
+produjeron por la exuberancia irracional,
+
+96
+00:08:34,623 --> 00:08:38,229
+que acá se mencionó,
+nos generaron en el mundo.
+
+97
+00:08:38,229 --> 00:08:45,071
+Entonces, yo creo que todos tenemos que
+ser y realmente creo que las jornadas nos
+
+98
+00:08:45,081 --> 00:08:50,007
+han aportado desde esta diversidad en
+ver que tenemos que ser muy humildes,
+
+99
+00:08:50,007 --> 00:08:56,397
+desde el punto de vista de ver claramente
+qué es lo que la realidad nos marca,
+
+100
+00:08:56,729 --> 00:09:01,653
+no atarnos a ningún dogma
+o a ningún modelo
+
+101
+00:09:01,663 --> 00:09:05,394
+y tratar de ver cuál
+es la realidad cotidiana,
+
+102
+00:09:05,394 --> 00:09:10,037
+cuál es la realidad de la calle,
+cuál ha sido la historia
+
+103
+00:09:10,709 --> 00:09:15,704
+que es lo que nos marca como una guía
+respecto a cómo formular las políticas,
+
+104
+00:09:15,704 --> 00:09:20,710
+y, claramente, también tratar de 
+identificar algo que es muy importante,
+
+105
+00:09:20,710 --> 00:09:25,414
+que atrás de una medida
+está el interés de un sector,
+
+106
+00:09:25,414 --> 00:09:30,329
+está la posibilidad de perjudicar
+o de beneficiar a uno y otro.
+
+107
+00:09:30,329 --> 00:09:36,597
+Esto es: no hay neutralidad.
+No hay, claramente, una asepsia
+
+108
+00:09:36,597 --> 00:09:44,431
+que muchas veces es formulada por quienes
+pretenden asegurar que la ciencia económica
+
+109
+00:09:44,441 --> 00:09:46,612
+o el mundo financiero o el mundo monetario
+
+110
+00:09:46,612 --> 00:09:52,493
+nuevamente, es el producto de un gran
+laboratorio y lo cierto es que estamos en
+
+111
+00:09:52,493 --> 00:09:59,343
+presencia, claramente, de una ciencia
+donde la posibilidad de equivocarse,
+
+112
+00:09:59,343 --> 00:10:05,997
+la posibilidad de trabajar
+sobre estos modelos,
+
+113
+00:10:05,997 --> 00:10:07,938
+no asegura buenos resultados.
+
+114
+00:10:07,938 --> 00:10:12,223
+Una cosa que vemos en el
+marco de los bancos centrales,
+
+115
+00:10:12,223 --> 00:10:17,706
+algo que, de alguna manera,
+está tomado digamos desde esta visión,
+
+116
+00:10:17,706 --> 00:10:22,362
+es este terrible sesgo que generan,
+a veces, los mandatos únicos.
+
+117
+00:10:22,362 --> 00:10:25,840
+Por ejemplo: el hecho
+de controlar la inflación.
+
+118
+00:10:25,840 --> 00:10:31,767
+Muchos bancos centrales en el mundo,
+a pesar de que la realidad no da signos
+
+119
+00:10:31,777 --> 00:10:36,554
+de una recuperación sostenida,
+prefieren incurrir en el marco de esta
+
+120
+00:10:36,554 --> 00:10:42,673
+visión o este mandato único en
+abortar una recuperación económica
+
+121
+00:10:42,673 --> 00:10:47,754
+por el miedo a ser los gestores
+de una política inflacionaria,
+
+122
+00:10:49,236 --> 00:10:54,287
+y esto los lleva entonces a subir
+abruptamente la tasa de interés
+
+123
+00:10:54,287 --> 00:10:59,579
+cuando no está claro para nada,
+como ha pasado en Europa recientemente,
+
+124
+00:10:59,579 --> 00:11:03,965
+que haya un horizonte de
+crecimiento que sea sostenible.
+
+125
+00:11:03,965 --> 00:11:07,009
+Entonces, todo esto es importante.
+
+126
+00:11:07,009 --> 00:11:11,898
+Muchas veces tiene que ver con
+discusiones en círculos cerrados,
+
+127
+00:11:12,698 --> 00:11:14,827
+que no están al alcance del gran público.
+
+128
+00:11:14,827 --> 00:11:20,308
+Que se genere un amplio debate sobre
+estas cuestiones que nos involucran
+
+129
+00:11:20,308 --> 00:11:25,880
+a todos, a todas las sociedades,
+a todas las personas, a todos los pueblos.
+
+130
+00:11:25,880 --> 00:11:29,767
+Esta necesidad de que haya un
+profundo debate a todo nivel,
+
+131
+00:11:29,767 --> 00:11:32,330
+respecto a el conjunto de las políticas.
+
+132
+00:11:32,330 --> 00:11:37,794
+La política monetaria no puede quedar
+encapsulada solamente en el mundo de
+
+133
+00:11:37,794 --> 00:11:42,627
+los Bancos Centrales. Así como hay un
+profundo debate respecto a las políticas
+
+134
+00:11:42,627 --> 00:11:48,538
+fiscales o a las políticas externas,
+claramente, y por cierto están bajo el
+
+135
+00:11:48,538 --> 00:11:54,889
+dominio de una técnica o desde una ciencia,
+sino también tiene que ver con una cuestión
+
+136
+00:11:54,889 --> 00:11:59,874
+política y con una cuestión de debate
+social que tiene que estar en el marco
+
+137
+00:11:59,874 --> 00:12:04,699
+de una discusión del conjunto de las
+políticas y coordinada con el conjunto.
+
+138
+00:12:04,699 --> 00:12:07,872
+Por eso, es muy importante,
+lo dije a la mañana y con esto
+
+139
+00:12:07,872 --> 00:12:14,262
+voy terminando, esta reforma que se hizo
+en nuestro país de la Carta Orgánica
+
+140
+00:12:14,262 --> 00:12:19,371
+en el año 2012 que, de alguna manera,
+nos habilita y nos da la enorme
+
+141
+00:12:19,371 --> 00:12:24,834
+responsabilidad desde el Banco Central
+de coadyuvar estas políticas,
+
+142
+00:12:24,834 --> 00:12:31,639
+no solamente desde una visión estricta
+de la política monetaria como un canal
+
+143
+00:12:31,639 --> 00:12:34,508
+que tiene que ver sola y
+exclusivamente con el nivel de precios,
+
+144
+00:12:34,508 --> 00:12:37,705
+sino en el marco de una
+política de desarrollo económico.
+
+145
+00:12:37,705 --> 00:12:40,983
+Y es en el marco de esa política de
+desarrollo económico que debemos
+
+146
+00:12:40,983 --> 00:12:44,780
+coordinar con todos los
+organismos del sector público,
+
+147
+00:12:44,780 --> 00:12:49,596
+con el Ministerio de Economía y con todas
+las agencias para lograr ese objetivo.
+
+148
+00:12:49,596 --> 00:12:53,529
+Y porque también es la única forma
+de poder cumplir ese efectivo,
+
+149
+00:12:53,529 --> 00:12:58,281
+porque creo que el mundo ha reflejado
+que no puede haber siquiera estabilidad
+
+150
+00:12:58,281 --> 00:13:02,309
+monetaria y estabilidad financiera si no
+hay desarrollo y no hay crecimiento
+
+151
+00:13:02,309 --> 00:13:02,902
+económico.
+
+152
+00:13:02,902 --> 00:13:07,687
+Por eso, verdaderamente, la economía real
+importa y es absolutamente necesario
+
+153
+00:13:07,687 --> 00:13:10,786
+entonces seguir dando esta discusión.
+
+154
+00:13:10,786 --> 00:13:17,294
+Creo que en esto, la Argentina ha sido
+absolutamente pionera en el mundo de
+
+155
+00:13:17,294 --> 00:13:22,386
+discutir realmente la relevancia de que
+las políticas monetarias y las políticas
+
+156
+00:13:22,386 --> 00:13:28,022
+financieras estén orientadas al desarrollo,
+se conduzcan hacia la economía real,
+
+157
+00:13:28,022 --> 00:13:32,624
+hacia la gente, hacia la inversión
+y que entonces verdaderamente puedan,
+
+158
+00:13:32,624 --> 00:13:37,886
+de esta manera, contribuir a los objetivos
+para las cuales han sido formuladas.
+
+159
+00:13:37,886 --> 00:13:43,383
+Y en este sentido, pareciera ser,
+queriendo ver, por lo menos la mitad
+
+160
+00:13:43,383 --> 00:13:48,308
+del vaso lleno, de que empieza a haber
+algún tipo de discusión de esta temática
+
+161
+00:13:48,318 --> 00:13:52,384
+y creo que, habiendo leído el
+comunicado del grupo de los 20,
+
+162
+00:13:52,384 --> 00:13:58,596
+que empieza a haber signos de que,
+por lo menos, algunos países empiezan
+
+163
+00:13:58,596 --> 00:14:06,796
+a entender acerca de la necesidad de que
+realmente haya una intervención pública
+
+164
+00:14:06,796 --> 00:14:10,195
+orientada hacia el desarrollo,
+crecimiento y a la estabilidad.
+
+165
+00:14:10,205 --> 00:14:15,857
+Sin duda falta.
+Sin duda tenemos muchos elementos para
+
+166
+00:14:15,857 --> 00:14:21,135
+ser escépticos acerca de cómo estas
+declaraciones mundiales tan importantes
+
+167
+00:14:21,135 --> 00:14:23,400
+se cristalizan en acciones concretas.
+
+168
+00:14:23,400 --> 00:14:27,323
+Vemos todavía, como decía, que hay
+importantes países del mundo que siguen
+
+169
+00:14:27,323 --> 00:14:34,770
+mirando a las políticas como solamente
+un elemento de la estabilidad,
+
+170
+00:14:34,770 --> 00:14:40,484
+como si la estabilidad de los cementerios
+fuera realmente valiosa.
+
+171
+00:14:40,484 --> 00:14:46,894
+Así que, bueno, por mi caso agradecerles
+a todos a quienes han participado,
+
+172
+00:14:46,894 --> 00:14:53,834
+en carácter de oradores, a los amigos de
+los distintos países que nos han visitado,
+
+173
+00:14:53,834 --> 00:14:58,533
+al público y agradecerle muy particularmente
+al Ministro de Economía que tiene una 
+
+174
+00:14:58,533 --> 00:15:02,232
+agenda cargada y ha, recientemente,
+llegado de Australia pero creo que
+
+175
+00:15:02,232 --> 00:15:07,423
+realmente es un broche digno de una
+jornada de alto nivel como estas que él
+
+176
+00:15:07,423 --> 00:15:10,488
+pueda transmitirnos su visión y
+la del gobierno de nuestro país.
+
+177
+00:15:10,488 --> 00:15:11,287
+Muchas gracias.
+
+178
+00:15:11,297 --> 00:15:19,769
+(Aplausos)
+
+179
+00:15:19,769 --> 00:15:24,230
+Escuchamos al Ministro de Economía y
+Finanzas de la República Argentina,
+
+180
+00:15:24,230 --> 00:15:26,107
+Dr. Axel Kicillof.
+
+181
+00:15:27,313 --> 00:15:28,857
+Bueno. Muchas gracias.
+
+182
+00:15:30,137 --> 00:15:35,869
+En primer lugar quería empezar lamentándome
+porque cuando Alejandro me transmitió
+
+183
+00:15:35,869 --> 00:15:40,352
+la invitación para participar de la
+jornada Monetarias y Bancarias,
+
+184
+00:15:40,352 --> 00:15:47,743
+lo hizo a través de lo que era el programa
+de actividades y de intervenciones.
+
+185
+00:15:47,743 --> 00:15:55,305
+Yo me había, de manera un poco ingenua,
+marcado algunas a las que quería asistir
+
+186
+00:15:55,315 --> 00:16:00,219
+y eran prácticamente todas las que
+tuvieron lugar, y acá me tienen,
+
+187
+00:16:00,219 --> 00:16:05,168
+llegando tarde a la que me tocaba a mí.
+Así que, pido disculpas por eso.
+
+188
+00:16:05,168 --> 00:16:10,704
+Y, realmente, felicito muchísimo al
+Presidente y al Banco Central por la
+
+189
+00:16:10,704 --> 00:16:11,815
+organización de esta jornada.
+
+190
+00:16:11,815 --> 00:16:16,350
+Veo acá, caras de amigos,
+tanto argentinos como extranjeros,
+
+191
+00:16:16,350 --> 00:16:20,684
+que han participado en su calidad de
+expositores, en su calidad de público.
+
+192
+00:16:20,684 --> 00:16:31,018
+Y tal como me pidió Alejandro, quería
+centrar mi exposición un poco desviando
+
+193
+00:16:31,018 --> 00:16:39,843
+del foco que nos toca todos los días como
+autoridades en la República Argentina,
+
+194
+00:16:39,843 --> 00:16:45,504
+de discutir el último dato,
+la última estadística, la última novedad
+
+195
+00:16:45,504 --> 00:16:52,062
+y dedicarme un poco a transmitir lo que,
+desde la perspectiva del gobierno argentino,
+
+196
+00:16:52,062 --> 00:16:59,246
+ocurre con la economía mundial y,
+por otro lado, aprovechar para traer
+
+197
+00:16:59,246 --> 00:17:05,480
+noticias calientes de acá, de esta
+importante cumbre a la que me tocó asistir
+
+198
+00:17:05,480 --> 00:17:10,087
+en el G-20 de Presidentes
+y Ministros de economía.
+
+199
+00:17:10,087 --> 00:17:20,083
+Para también hacer un pequeño reporte o
+estado de situación de en qué están
+
+200
+00:17:20,093 --> 00:17:25,728
+pensando los líderes más importante
+de estos veinte países.
+
+201
+00:17:25,937 --> 00:17:35,147
+Voy, primeramente, a hacer un breve
+panorama estadístico de cómo se gestó
+
+202
+00:17:35,147 --> 00:17:37,427
+la crisis y después la
+evolución actual de la crisis.
+
+203
+00:17:37,427 --> 00:17:42,573
+Voy a ser muy breve para no aburrirlos
+con información, de todas maneras,
+
+204
+00:17:42,573 --> 00:17:49,754
+primero quería comenzar con un gráfico
+que, sugestivamente, se llama:
+
+205
+00:17:49,754 --> 00:17:51,694
+"Financierización Global".
+
+206
+00:17:51,694 --> 00:18:00,926
+Estas pilitas, estas barras apiladas
+expresan sintéticamente, haciendo cortes
+
+207
+00:18:00,926 --> 00:18:05,809
+cada diez años, cuál era el estado de
+los activos financieros globales como
+
+208
+00:18:05,809 --> 00:18:08,088
+porcentaje del PBI mundial.
+
+209
+00:18:08,088 --> 00:18:18,087
+El crecimiento explosivo que ocurre,
+fundamentalmente pasando de 1980 a 1990,
+
+210
+00:18:18,087 --> 00:18:26,535
+pero después, como esta tendencia continúa,
+el corte es en 2007, justo antes de que
+
+211
+00:18:26,535 --> 00:18:30,190
+se manifestara la crisis mundial en
+2008 a través de la quiebra de
+
+212
+00:18:30,190 --> 00:18:35,903
+Lehman Brothers para tomar un hito
+en la evolución de la crisis actual.
+
+213
+00:18:35,903 --> 00:18:39,700
+Pero, lo que queda claro es
+que estamos atestiguando,
+
+214
+00:18:39,700 --> 00:18:46,549
+ de la década del 80' en adelante,
+la más grande explosión en lo que hace
+
+215
+00:18:46,549 --> 00:18:52,503
+a la creación de riqueza financiera
+en su relación con la riqueza real.
+
+216
+00:18:52,503 --> 00:18:59,929
+Podemos para mencionar simplemente números,
+1980: la relación entre los activos
+
+217
+00:18:59,929 --> 00:19:04,391
+financieros y el PBI mundial,
+más o menos era 1 a 1,
+
+218
+00:19:04,391 --> 00:19:12,357
+y en 2007, esta explosión terminó en que
+la relación entre activos financieros y
+
+219
+00:19:12,367 --> 00:19:18,440
+PBI mundial llegara prácticamente a 400%.
+Es decir, que la riqueza financiera que
+
+220
+00:19:18,440 --> 00:19:26,802
+circulaba era 4 veces la riqueza real
+producida anualmente por las economías
+
+221
+00:19:26,802 --> 00:19:29,162
+mundiales tomadas en su conjunto.
+
+222
+00:19:29,162 --> 00:19:39,017
+Marco esto porque, básicamente, la
+manifestación inicial de una crisis,
+
+223
+00:19:39,017 --> 00:19:44,417
+y esto también fue objeto de alguna manera
+de exclusión, yo diría subrepticia,
+
+224
+00:19:44,417 --> 00:19:49,822
+subliminal, durante el G-20 cuál
+fue la causa de esta crisis.
+
+225
+00:19:49,822 --> 00:19:54,602
+Pero, indudablemente, una de sus
+manifestaciones tiene que ver con la
+
+226
+00:19:54,602 --> 00:20:01,141
+predominancia de las operaciones financieras
+con la exacerbación y proliferación de la
+
+227
+00:20:01,141 --> 00:20:04,572
+riqueza financiera con
+respecto a la riqueza mundial.
+
+228
+00:20:05,600 --> 00:20:09,886
+Yo voy a mostrar un solo gráfico más,
+y me refiero porque este también tiene
+
+229
+00:20:09,896 --> 00:20:14,558
+un corte en 2007 a lo que ocurría
+antes de la crisis estallido en el 2008,
+
+230
+00:20:14,558 --> 00:20:21,486
+esta misma relación, la línea en celeste,
+es el resumen de las barras apiladas
+
+231
+00:20:21,496 --> 00:20:27,527
+que mostraba recién con el mismo corte
+pero abajo tenemos lo mismo pero con la
+
+232
+00:20:27,527 --> 00:20:30,497
+inversión en relación al PBI mundial.
+
+233
+00:20:30,497 --> 00:20:36,078
+Lo que vemos es que esa enorme creación
+de instrumentos y activos financieros
+
+234
+00:20:36,078 --> 00:20:42,299
+no guardó una relación para nada
+con el volumen de inversión global.
+
+235
+00:20:43,039 --> 00:20:48,351
+La inversión global, por el contrario,
+se mantuvo estable y declinante durante
+
+236
+00:20:48,351 --> 00:20:53,904
+el mismo período representando números
+alrededor de un cuarto del PBI mundial.
+
+237
+00:20:53,904 --> 00:21:00,912
+Esto indica que esa vieja idea de que la
+creación de instrumentos financieros,
+
+238
+00:21:00,912 --> 00:21:07,849
+instrumentos de ahorro por el lado de la
+oferta era lo que le daba origen a los
+
+239
+00:21:07,849 --> 00:21:12,492
+procesos de inversión queda
+refutada por los hechos.
+
+240
+00:21:12,492 --> 00:21:18,948
+La verdad que la inversión real no tiene
+un correlato con la proliferación de los
+
+241
+00:21:18,948 --> 00:21:20,296
+activos financieros.
+
+242
+00:21:20,296 --> 00:21:27,935
+Esto es importante también porque la crisis
+en 2008 estalla, se inicia básicamente
+
+243
+00:21:27,935 --> 00:21:29,959
+como una crisis financiera.
+
+244
+00:21:29,959 --> 00:21:36,982
+Quiero pedirle al público presente que se
+retrotraiga a esos años cuando explota
+
+245
+00:21:38,906 --> 00:21:42,419
+en Wall Street y con la caída de
+importantes bancos de inversión,
+
+246
+00:21:42,419 --> 00:21:44,861
+como el caso paradigmático
+de Lehman Brothers,
+
+247
+00:21:44,861 --> 00:21:50,863
+cuál era el estado del debate en aquel
+momento porque lo que decían muchísimos
+
+248
+00:21:50,863 --> 00:21:56,512
+expertos es que la crisis financiera que
+se inició en 2008 era exclusivamente
+
+249
+00:21:56,512 --> 00:22:02,830
+financiera, o sea no tenía aspectos reales
+ni iba a tocar a la economía real y era
+
+250
+00:22:02,830 --> 00:22:04,744
+exclusivamente norteamericana.
+
+251
+00:22:05,260 --> 00:22:11,714
+Como el discurso dominante en cada momento,
+no solo muchas veces se equivoca sino que
+
+252
+00:22:11,714 --> 00:22:16,169
+la mayoría de las veces oculta
+aspectos centrales de la realidad,
+
+253
+00:22:16,169 --> 00:22:22,087
+porque los hechos nos permitieron ver que
+ni se trataba de una crisis exclusivamente
+
+254
+00:22:22,087 --> 00:22:27,149
+financiera y menos todavía de una crisis
+exclusivamente norteamericana.
+
+255
+00:22:27,149 --> 00:22:31,488
+Y, en aquel momento, recordaran ustedes
+que la discusión era el contagio.
+
+256
+00:22:31,993 --> 00:22:37,256
+Si iba a haber o no contagio desde lo
+financiero a lo real, desde Estados Unidos
+
+257
+00:22:37,256 --> 00:22:38,358
+al resto del mundo.
+
+258
+00:22:38,358 --> 00:22:44,570
+Y hoy, seis años después, encontramos
+que la crisis que se inicia en 2008 sigue,
+
+259
+00:22:44,570 --> 00:22:52,457
+y me animo a decir, tranquilamente su curso
+pero además ha ido invadiendo rápidamente
+
+260
+00:22:52,457 --> 00:22:58,497
+la esfera de los procesos productivos y
+además ha afectado muy fuertemente,
+
+261
+00:22:58,497 --> 00:23:01,568
+más fuertemente de lo que hizo
+en los propios Estados Unidos,
+
+262
+00:23:01,568 --> 00:23:08,621
+algunas regiones y países, pero básicamente
+hoy todo el mundo sabe que la crisis actual
+
+263
+00:23:08,621 --> 00:23:14,626
+es una crisis de naturaleza mundial y es
+una crisis económica que abarca la esfera
+
+264
+00:23:14,626 --> 00:23:17,967
+de lo financiero pero
+también la esfera de lo real.
+
+265
+00:23:17,967 --> 00:23:20,985
+Muestro esto porque...
+
+266
+00:23:21,805 --> 00:23:29,092
+Acá voy a exceder 2007, voy a pasar a la
+evolución de la crisis y a la actualidad
+
+267
+00:23:29,092 --> 00:23:35,001
+de la crisis, medido simplemente por
+el PBI mundial y dividido en regiones,
+
+268
+00:23:35,001 --> 00:23:42,207
+no me voy a detener demasiado en el asunto
+porque no quiero tampoco hacer todavía
+
+269
+00:23:42,207 --> 00:23:45,948
+esta discusión de: a dónde está afectando
+fuertemente la crisis y dónde la recuperación,
+
+270
+00:23:45,958 --> 00:23:53,520
+pero lo que quiero mostrar es este gráfico
+que muestra con la línea el PBI agregado
+
+271
+00:23:53,520 --> 00:23:55,086
+en su variación.
+
+272
+00:23:55,086 --> 00:24:04,150
+Lo que encontramos es ese 2008 de fuerte
+desaceleración y el 2009 de caída violenta
+
+273
+00:24:04,150 --> 00:24:06,572
+del producto a escala internacional,
+
+274
+00:24:06,572 --> 00:24:12,941
+y después, esa recuperación,
+que me permito llamar amague, de 2010
+
+275
+00:24:12,941 --> 00:24:19,242
+e incluso de 2011, que transcurrido un
+período de tiempo hasta el presente
+
+276
+00:24:19,242 --> 00:24:26,059
+lo que podemos observar es que la crisis
+que hizo un pico de caída en 2009
+
+277
+00:24:26,059 --> 00:24:31,411
+generó una, en apariencia,
+rápida recuperación en 2010.
+
+278
+00:24:31,411 --> 00:24:37,537
+Lo que vemos es que a partir de ese
+momento, exhibe a escala internacional una
+
+279
+00:24:37,537 --> 00:24:42,881
+desaceleración, es decir que no solo no
+hubo una recuperación duradera sino que
+
+280
+00:24:42,881 --> 00:24:48,572
+por el contrario, y esto creo, si tengo
+que sintetizar, es el signo actual de las
+
+281
+00:24:48,572 --> 00:24:54,351
+discusiones internacionales, lo que se ve
+es que esa aparente recuperación es una
+
+282
+00:24:54,351 --> 00:24:59,683
+recuperación que no fue, y por el contrario,
+hay un clima que algunos han llamado,
+
+283
+00:24:59,683 --> 00:25:05,156
+algunos del Fondo Monetario Internacional
+han denominado una nueva mediocridad.
+
+284
+00:25:05,156 --> 00:25:07,821
+¿Por qué una nueva mediocridad
+en la economía mundial?
+
+285
+00:25:07,821 --> 00:25:15,195
+Porque se ha observado una desaceleración
+que no se conoce cuál va a ser su piso.
+
+286
+00:25:15,195 --> 00:25:21,880
+Incluso, de alguna manera, y me interesaba
+simplemente mostrar algunos números
+
+287
+00:25:21,880 --> 00:25:25,722
+sobre proyecciones,
+incluso, permanentemente,
+
+288
+00:25:25,722 --> 00:25:30,426
+traicionando el optimismo que muestran
+las propias estimaciones, por ejemplo:
+
+289
+00:25:30,426 --> 00:25:32,099
+el Fondo Monetario Internacional.
+
+290
+00:25:32,099 --> 00:25:37,140
+Lo que tengo aquí es para el mundo en
+su conjunto, para los países avanzados,
+
+291
+00:25:37,140 --> 00:25:42,554
+para los emergente, para Estados Unidos,
+China, la zona Euro, Brasil, Japón,
+
+292
+00:25:42,554 --> 00:25:48,474
+Primero, en la primera barrita celeste,
+cuál era la proyección para el crecimiento
+
+293
+00:25:48,474 --> 00:25:54,732
+de 2014 en Abril y cuál es la
+proyección última de Octubre.
+
+294
+00:25:54,732 --> 00:25:58,500
+Lo que encontramos es un mundo
+en desaceleración nuevamente,
+
+295
+00:25:58,500 --> 00:26:02,981
+y además que traiciona las expectativas
+porque este es un signo central,
+
+296
+00:26:02,981 --> 00:26:09,530
+el de decepción que se vivía en el G-20
+porque el año pasado se había anunciado
+
+297
+00:26:09,530 --> 00:26:16,068
+un 2014 mejor que el pasado 2013,
+y lo que se ha visto en la realidad
+
+298
+00:26:16,068 --> 00:26:21,683
+es que el 2014, no solo es peor que
+el 2013 sino que cada vez peor con
+
+299
+00:26:21,683 --> 00:26:24,097
+respecto a las proyecciones para 2014.
+
+300
+00:26:24,097 --> 00:26:30,541
+Es decir, que la economía mundial no goza
+de buena salud sino todo lo contrario.
+
+301
+00:26:32,801 --> 00:26:38,141
+Y este es un dato que también es interesante
+porque muestra también el promedio de
+
+302
+00:26:38,141 --> 00:26:43,990
+variación en el comercio mundial para
+países emergentes o países como Argentina
+
+303
+00:26:43,990 --> 00:26:51,446
+en los años que van de 2003 a 2008,
+ese año 2009 de una caída de 12%
+
+304
+00:26:51,456 --> 00:26:57,025
+en el comercio mundial;
+2010 y 2011 eso que yo llamé un amague
+
+305
+00:26:57,025 --> 00:26:59,573
+de nuevo crecimiento
+de la economía mundial;
+
+306
+00:26:59,573 --> 00:27:06,320
+y lo que se está observando en 2012 y 2013,
+que si agregamos 2014, probablemente
+
+307
+00:27:06,320 --> 00:27:10,921
+todavía comprima más los valores de 2014.
+
+308
+00:27:10,921 --> 00:27:19,288
+Por eso...por eso, en el G-20 de lo que
+se hablaba básicamente era de la perdida
+
+309
+00:27:19,288 --> 00:27:24,618
+de 2008 hasta ahora de
+33 millones de puestos de trabajo.
+
+310
+00:27:24,618 --> 00:27:29,925
+Una crisis que ha destruido,
+en términos netos, 33 millones
+
+311
+00:27:29,925 --> 00:27:35,034
+de puestos de trabajo, y que haciendo
+proyecciones tal como proyecta, por ejemplo:
+
+312
+00:27:35,034 --> 00:27:39,986
+el Fondo Monetario, siempre con esta cuota
+de optimismo que observábamos recién,
+
+313
+00:27:39,986 --> 00:27:47,720
+para los próximos años nos va a llevar
+hasta 201,8 a nivel del mundo, recuperar
+
+314
+00:27:47,720 --> 00:27:51,754
+esos 33 millones de
+puestos de trabajo perdidos...
+
+315
+00:27:51,764 --> 00:27:54,764
+Perdón, hasta 2018 desde el 2008.
+
+316
+00:27:54,764 --> 00:28:00,339
+Por eso, sinceramente vamos a hablar de
+una década iniciada en 2008 y que termina
+
+317
+00:28:00,339 --> 00:28:06,231
+en 2018 donde, si los pronósticos son
+tan buenos como se suponen para los
+
+318
+00:28:06,231 --> 00:28:11,669
+años venideros, solamente en esos 10 años
+habremos perdido 33 millones de puestos
+
+319
+00:28:11,669 --> 00:28:17,593
+de trabajo y el mundo, simplemente,
+los habrá recuperado y habrá empatado
+
+320
+00:28:17,593 --> 00:28:18,977
+en términos de creación de empleo.
+
+321
+00:28:18,977 --> 00:28:25,958
+Estamos hablando de 10 años de
+recesión a nivel de creación de empleo.
+
+322
+00:28:25,958 --> 00:28:32,531
+Otro tanto con el comercio que exhibe
+cifras incluso menores de lo que es
+
+323
+00:28:32,531 --> 00:28:36,459
+el crecimiento del PBI, lo que
+correspondería al crecimiento del PBI,
+
+324
+00:28:36,459 --> 00:28:40,268
+y otro tanto con la inversión
+que era lo que mostraba recién.
+
+325
+00:28:40,756 --> 00:28:49,661
+Mencionaba la OSD que la inversión se
+encuentra un 40% por debajo que antes
+
+326
+00:28:49,661 --> 00:28:56,637
+de la crisis a nivel mundial,
+y en Europa está 80% por debajo
+
+327
+00:28:56,637 --> 00:28:58,724
+de los niveles previos a la crisis.
+
+328
+00:28:59,288 --> 00:29:05,394
+Y esto me permite dar un paso
+hacia lo que quería referirme,
+
+329
+00:29:05,394 --> 00:29:10,385
+que eran las respuestas de política.
+Porque un poco, Alejandro, hablaba
+
+330
+00:29:10,385 --> 00:29:13,662
+de cuál es la discusión en
+términos de política económica.
+
+331
+00:29:13,662 --> 00:29:17,535
+Así que, déjenme referirme con
+un cuadro que acabo de mostrar,
+
+332
+00:29:17,535 --> 00:29:20,517
+ cuál fue la respuesta de política.
+
+333
+00:29:20,517 --> 00:29:21,755
+Voy a empezar,
+
+334
+00:29:23,124 --> 00:29:28,289
+primero por Estados Unidos, para hacer un
+pequeño pantallazo porque no hay que
+
+335
+00:29:29,800 --> 00:29:34,051
+pasar por alto que Estados Unidos, dentro
+de este pobre desempeño de la economía
+
+336
+00:29:34,051 --> 00:29:39,612
+mundial, es el que parece mostrar junto
+con Inglaterra, de los países afectados
+
+337
+00:29:39,612 --> 00:29:45,202
+fuertemente por la crisis en su origen,
+una mejor respuesta en este último año.
+
+338
+00:29:45,202 --> 00:29:50,833
+Con una tasa de crecimiento que empieza a
+mostrar algún nivel de recuperación más
+
+339
+00:29:50,833 --> 00:29:53,104
+rápido, por supuesto,
+que lo que ocurre en Europa.
+
+340
+00:29:53,104 --> 00:29:55,875
+Esto ya lo mostré en el gráfico anterior.
+
+341
+00:29:55,875 --> 00:30:03,422
+Pero retomando lo que mencionaba Alejandro,
+esta es la hoja de balances del Banco de
+
+342
+00:30:03,422 --> 00:30:05,684
+la Reserva Federal de Estados Unidos.
+
+343
+00:30:05,684 --> 00:30:15,097
+Tenemos la más extraordinaria expansión,
+en términos de sus activos, vinculada
+
+344
+00:30:15,097 --> 00:30:19,543
+por un lado a la emisión de letras del
+tesoro pero además al rescate de los
+
+345
+00:30:19,543 --> 00:30:20,892
+llamados activos tóxicos.
+
+346
+00:30:22,099 --> 00:30:25,008
+Los subprime, las hipotecas
+subprime y sus derivados,
+
+347
+00:30:25,008 --> 00:30:27,094
+que formaba parte de la
+cartera de los bancos.
+
+348
+00:30:27,094 --> 00:30:31,857
+Lo que no se puede decir, y permítanme
+recordar algo que dijo Ben Bernanke
+
+349
+00:30:31,857 --> 00:30:33,435
+cuando se iniciaba la crisis...
+
+350
+00:30:34,327 --> 00:30:41,005
+era un reportaje donde él decía,
+y le hablaba a un Milton Friedman
+
+351
+00:30:41,005 --> 00:30:46,720
+ya extinto hace tiempo, pero le decía
+que habíamos aprendido la lección.
+
+352
+00:30:47,469 --> 00:30:51,972
+¿Y qué quiere decir habíamos aprendido la 
+lección con respecto a la crisis del 30'?
+
+353
+00:30:51,972 --> 00:30:57,205
+Sabrán ustedes que la posición de
+Friedman, con respecto a la crisis del 30',
+
+354
+00:30:57,205 --> 00:31:03,273
+es que la crisis tomó esa dinámica tan
+fuerte porque el Estado actuó mal.
+
+355
+00:31:03,273 --> 00:31:08,045
+La culpa, y estoy sintetizando,
+según Friedman, fue del Estado.
+
+356
+00:31:08,045 --> 00:31:09,979
+¿Y qué es lo que no hizo el Estado?
+
+357
+00:31:09,979 --> 00:31:12,146
+El salvataje de los bancos.
+
+358
+00:31:12,743 --> 00:31:16,641
+Dejó caer, si no me acuerdo mal,
+en la crisis del 30',
+
+359
+00:31:16,641 --> 00:31:22,067
+fueron aproximadamente 18 mil bancos,
+muchos de ellos pequeños, agrícolas
+
+360
+00:31:22,067 --> 00:31:25,402
+en Estados Unidos, que quebraron
+con la crisis del 30'.
+
+361
+00:31:25,402 --> 00:31:33,073
+Entonces, lo que se ve en esta crisis es
+el más extraordinario, sin precedentes,
+
+362
+00:31:33,073 --> 00:31:38,146
+salvataje del sector financiero que haya
+ocurrido en la historia del capitalismo.
+
+363
+00:31:38,146 --> 00:31:40,701
+Eso sí ocurrió indudablemente.
+
+364
+00:31:40,701 --> 00:31:47,764
+Que viene asociado a esa expansión de la
+base monetaria por 4 en Estados Unidos,
+
+365
+00:31:47,764 --> 00:31:50,359
+por 5 en Inglaterra.
+
+366
+00:31:50,359 --> 00:31:57,139
+Es decir, que ha habido una emisión,
+volúmenes de emisión que exceden todo
+
+367
+00:31:57,139 --> 00:32:00,096
+lo que se había conocido hasta el presente.
+
+368
+00:32:00,096 --> 00:32:06,063
+Con ese paradójico resultado, por lo menos
+para el pensamiento ortodoxo y monetarista,
+
+369
+00:32:06,063 --> 00:32:14,661
+que con ese grado de expansión monetaria
+no ha habido un correlato mecánico en el
+
+370
+00:32:14,661 --> 00:32:15,788
+incremento de los precios.
+
+371
+00:32:15,788 --> 00:32:21,484
+Es decir, que esa famosa teoría cuantitativa
+de la moneda que asocia proporcionalmente
+
+372
+00:32:21,484 --> 00:32:24,974
+el incremento de la emisión
+al incremento de los precios,
+
+373
+00:32:24,974 --> 00:32:28,606
+si ha tenido un laboratorio
+donde ser probada,
+
+374
+00:32:28,606 --> 00:32:31,029
+fue justamente en la
+evolución de esta crisis.
+
+375
+00:32:31,270 --> 00:32:33,507
+Con un resultado lapidario.
+
+376
+00:32:33,507 --> 00:32:39,337
+Evidentemente no hay una conexión directa,
+proporcional y mecánica entre el volumen
+
+377
+00:32:39,337 --> 00:32:43,208
+de emisión monetaria, la tasa de
+variación de la base monetaria
+
+378
+00:32:43,208 --> 00:32:45,895
+y el crecimiento de los precios.
+
+379
+00:32:46,379 --> 00:32:54,928
+Entonces, esto muestra que más que
+por 4, más que por 5, casi por 6,
+
+380
+00:32:54,928 --> 00:33:03,843
+se multiplicaron los activos del Banco
+de la Reserva Federal en Estados Unidos.
+
+381
+00:33:03,843 --> 00:33:08,642
+Entonces, por el lado de la política
+monetaria lo que sí podemos decir
+
+382
+00:33:08,642 --> 00:33:13,678
+es que se trató de atender el problema
+de la crisis, si bien esto es...
+
+383
+00:33:14,893 --> 00:33:21,663
+o sea, el rescate bancario,
+efectivamente hubo una política monetaria
+
+384
+00:33:21,663 --> 00:33:26,150
+fuertemente expansiva que además no se
+reflejó en incremento de los precios.
+
+385
+00:33:26,150 --> 00:33:31,002
+O sea, que este es un signo de lo
+que ocurrió con la crisis que está
+
+386
+00:33:31,002 --> 00:33:33,687
+desarrollándose en la actualidad.
+
+387
+00:33:35,271 --> 00:33:40,153
+Por el lado de la política fiscal
+hay un doble movimiento.
+
+388
+00:33:41,677 --> 00:33:47,215
+Cuando se inicia la crisis, se lleva
+adelante un programa de estímulo fiscal.
+
+389
+00:33:47,215 --> 00:33:51,955
+Este es el impulso fiscal como porcentaje
+del PBI, en Estados Unidos estoy hablando
+
+390
+00:33:51,955 --> 00:33:59,344
+año 2008 y 2009 muy significativo,
+pero a partir de 2009 inicia un proceso
+
+391
+00:33:59,344 --> 00:34:06,106
+de contracción desde el punto de
+vista fiscal muy visible, muy notorio.
+
+392
+00:34:06,891 --> 00:34:09,786
+Esto es lo que ocurre en Estados Unidos.
+
+393
+00:34:10,335 --> 00:34:17,839
+Quiero decir que hay unos primeros años
+donde hay un intento de estímulo monetario,
+
+394
+00:34:17,839 --> 00:34:22,770
+de estímulo fiscal que acompaña
+a la expansión monetaria
+
+395
+00:34:24,018 --> 00:34:31,980
+pero, rápidamente, y probablemente asociado
+a ese amague que veíamos recién de un
+
+396
+00:34:31,980 --> 00:34:36,749
+crecimiento en 2010 que después
+se desinfla a lo largo de los años,
+
+397
+00:34:36,749 --> 00:34:42,664
+hay de nuevo una retracción
+de la política fiscal.
+
+398
+00:34:43,744 --> 00:34:53,486
+Por el lado de las naciones europeas
+ocurre algo similar con la política fiscal,
+
+399
+00:34:53,486 --> 00:34:56,290
+no tengo acá datos del
+Banco Central Europeo,
+
+400
+00:34:56,300 --> 00:35:00,333
+pero sabemos todos que también ha habido
+una política de rescate de activos
+
+401
+00:35:00,333 --> 00:35:02,187
+por parte del Banco Central Europeo.
+
+402
+00:35:02,187 --> 00:35:07,142
+Lo que sí se puede observar y me refiero
+ahora a los llamados PIGS:
+
+403
+00:35:09,042 --> 00:35:14,933
+a Portugal, Irlanda, Grecia y España,
+donde nuevamente en 2008 y 2009
+
+404
+00:35:14,933 --> 00:35:22,138
+se observa un proceso de expansión fiscal
+que rápidamente se empieza a reducir
+
+405
+00:35:22,138 --> 00:35:27,916
+hasta llegar a 2012 y 2011,
+donde en algunos casos lo que encontramos
+
+406
+00:35:27,916 --> 00:35:33,184
+es que hay una caída, y en este caso
+no estoy midiendo en pulsos sino gasto,
+
+407
+00:35:33,184 --> 00:35:38,926
+una caída en términos absolutos
+nominales del gasto público.
+
+408
+00:35:39,330 --> 00:35:46,292
+Es decir, que empieza la procesión
+contractiva que se ha vivido en Europa.
+
+409
+00:35:47,885 --> 00:35:50,631
+Digo esto porque...
+
+410
+00:35:51,147 --> 00:35:53,671
+Estos son datos del
+crecimiento en Europa, ¿no?
+
+411
+00:35:53,671 --> 00:35:57,265
+Del PIB y después de los países
+que acabo de mostrar.
+
+412
+00:35:57,978 --> 00:36:02,810
+Digo esto porque estamos
+hoy en el año 2014.
+
+413
+00:36:02,810 --> 00:36:08,486
+Es decir, han transcurrido prácticamente
+6 años desde el estallido de la crisis.
+
+414
+00:36:08,486 --> 00:36:15,089
+Y en esos 6 años lo que podemos observar,
+y me refería a esto como nueva mediocridad,
+
+415
+00:36:15,089 --> 00:36:18,493
+pero podemos ponerle el
+nombre que deseemos,
+
+416
+00:36:18,493 --> 00:36:25,657
+que la verdad es que el mundo no ha salido
+todavía de ese bache recesivo que se inicia
+
+417
+00:36:25,657 --> 00:36:26,746
+en 2008.
+
+418
+00:36:26,746 --> 00:36:32,679
+Desde el punto de vista de la reacción
+de los gobiernos que acabo de señalar,
+
+419
+00:36:32,679 --> 00:36:38,000
+hubo y hay, por lo menos hasta estas
+últimas decisiones de Estados Unidos,
+
+420
+00:36:38,000 --> 00:36:41,044
+un proceso muy fuerte
+de expansión monetaria
+
+421
+00:36:41,984 --> 00:36:46,809
+pero, por el lado de la política fiscal,
+lo que vemos es el movimiento inverso.
+
+422
+00:36:47,612 --> 00:36:49,419
+Y vuelvo ahora al G-20,
+
+423
+00:36:49,419 --> 00:36:53,949
+porque en el G-20 tal como,
+de alguna manera, insinúa
+
+424
+00:36:53,949 --> 00:37:02,021
+el interesante comunicado con el que se
+expidieron los presidentes que participaron
+
+425
+00:37:02,021 --> 00:37:02,909
+del G-20.
+
+426
+00:37:03,593 --> 00:37:09,901
+En ese comunicado se nota una
+atención entre dos actitudes,
+
+427
+00:37:09,901 --> 00:37:13,188
+desde el punto de vista
+de la política estatal,
+
+428
+00:37:13,188 --> 00:37:14,803
+pero además,
+
+429
+00:37:15,943 --> 00:37:18,747
+me animo a decir,
+dos visiones contrapuestas,
+
+430
+00:37:18,747 --> 00:37:23,262
+desde el punto de vista de la política
+económica y de la teoría económica,
+
+431
+00:37:23,262 --> 00:37:28,353
+de qué es lo que hay que hacer para
+reactivar la economía mundial.
+
+432
+00:37:30,121 --> 00:37:34,879
+Ha habido un discurso muy fuerte,
+que fue el que se reflejó en la contracción,
+
+433
+00:37:34,879 --> 00:37:39,711
+desde el punto de vista fiscal,
+del gasto y de la inversión pública,
+
+434
+00:37:39,711 --> 00:37:44,359
+que tiene que ver con las llamadas:
+reformas estructurales;
+
+435
+00:37:44,359 --> 00:37:47,834
+y la denominada también:
+consolidación fiscal.
+
+436
+00:37:47,834 --> 00:37:54,922
+Ambos elementos, si bien podríamos discutir
+un poco a qué se refiere cada uno que habla
+
+437
+00:37:54,922 --> 00:38:00,962
+de reformas estructurales pero fue parte
+del discurso durante estos años, y...
+
+438
+00:38:02,315 --> 00:38:06,502
+porque son enfoques bastantes diferentes,
+pero básicamente, nosotros que estamos
+
+439
+00:38:06,502 --> 00:38:12,198
+acostumbrados durante la década del 90'
+a este discurso y a estas recetas,
+
+440
+00:38:12,198 --> 00:38:18,653
+lo que podemos señalar es que esta idea
+de la consolidación fiscal y la idea de
+
+441
+00:38:18,653 --> 00:38:22,795
+las reformas estructurales no eran
+otra cosa, desde el punto de vista
+
+442
+00:38:22,795 --> 00:38:28,933
+ macroeconómico, que llevar adelante
+política de ajuste en términos de gasto
+
+443
+00:38:28,933 --> 00:38:29,680
+y de inversión pública.
+
+444
+00:38:31,929 --> 00:38:38,497
+¿De dónde provenía esta idea de que lo
+conveniente era llevar adelante un proceso
+
+445
+00:38:38,497 --> 00:38:40,082
+de ajuste fiscal?
+
+446
+00:38:40,082 --> 00:38:44,745
+Del hecho de que estas economías,
+incluida la economía norteamericana,
+
+447
+00:38:44,745 --> 00:38:47,605
+estaban fuerte y pesadamente endeudadas.
+
+448
+00:38:48,311 --> 00:38:54,570
+Entonces, predominaba esa idea bastante
+difundida de que para desendeudar una
+
+449
+00:38:54,570 --> 00:38:57,069
+economía lo que hay que
+hacer es reducir el gasto
+
+450
+00:38:57,590 --> 00:39:03,324
+y liberar recursos para el pago de las
+acreencias externas pero, al mismo tiempo,
+
+451
+00:39:04,133 --> 00:39:09,930
+dar señales al mercado de que
+la economía se encuentra sana,
+
+452
+00:39:09,940 --> 00:39:12,037
+desde el punto de vista fiscal,
+
+453
+00:39:12,037 --> 00:39:18,482
+y que eso parece expresar una idea de
+estabilidad monetaria macroeconómica
+
+454
+00:39:18,482 --> 00:39:23,635
+que va a permitir al país
+acceso más fluido al crédito.
+
+455
+00:39:24,347 --> 00:39:30,897
+De forma tal de que con la idea,
+retomando, de que esta crisis comienza
+
+456
+00:39:30,897 --> 00:39:34,434
+como un estallido de la Financierización,
+
+457
+00:39:34,434 --> 00:39:37,909
+y por tanto encuentra al
+mundo fuertemente endeudado,
+
+458
+00:39:37,919 --> 00:39:42,826
+ para salir de esta crisis había que
+reducir los gastos de los Estados,
+
+459
+00:39:42,826 --> 00:39:46,608
+pagar las deudas, y de esa
+manera se iba a purgar el sistema.
+
+460
+00:39:46,618 --> 00:39:53,402
+Lo que se observó, paradójicamente,
+es que la política fiscal contractiva
+
+461
+00:39:55,103 --> 00:40:02,966
+en lugar de ayudar a reducir las cargas
+de las deudas, tuvo el efecto contrario.
+
+462
+00:40:04,091 --> 00:40:04,898
+¿Por qué?
+
+463
+00:40:05,738 --> 00:40:06,519
+¿Por qué?
+
+464
+00:40:06,519 --> 00:40:13,324
+Porque las economías dejaron de crecer.
+Crecieron incluso menos, y por tanto,
+
+465
+00:40:13,324 --> 00:40:21,371
+el peso de la deuda en relación al producto
+más allá, o podríamos decir por causa
+
+466
+00:40:21,371 --> 00:40:25,470
+del ajuste fiscal, en lugar de
+reducirse el peso de las deudas,
+
+467
+00:40:25,470 --> 00:40:27,678
+el peso de las deudas se incrementó.
+
+468
+00:40:27,678 --> 00:40:31,776
+Que es lo que trae tan fuerte
+preocupación en la actualidad.
+
+469
+00:40:31,776 --> 00:40:37,634
+Es decir, que lo que se observa es un
+fracaso de esa idea de que de la crisis
+
+470
+00:40:37,634 --> 00:40:44,792
+se salía con consolidación, ajuste
+fiscal y con reformas estructurales,
+
+471
+00:40:44,792 --> 00:40:49,363
+o sea, reducción de los gastos en la
+educación, en salud, básicamente
+
+472
+00:40:49,363 --> 00:40:51,085
+reducción de la inversión pública.
+
+473
+00:40:51,085 --> 00:40:54,468
+Sino que, por el contrario,
+las economías reaccionaron
+
+474
+00:40:54,468 --> 00:40:58,804
+achicándose todavía más,
+y las deudas pesando todavía más
+
+475
+00:40:58,804 --> 00:41:02,351
+con respecto a la producción
+de cada uno de los países.
+
+476
+00:41:03,387 --> 00:41:07,410
+Esto me parece que es de vital importancia
+porque incluso en ese comunicado
+
+477
+00:41:07,410 --> 00:41:12,449
+se empieza a observar, y en las
+discusiones entre los presidentes,
+
+478
+00:41:12,449 --> 00:41:18,622
+por primera vez, una reacción a algo que
+se había convertido en una especie de
+
+479
+00:41:18,622 --> 00:41:23,169
+pensamiento único con respecto
+a cómo salir de la crisis.
+
+480
+00:41:24,349 --> 00:41:28,541
+Que era que de la crisis había que
+salir con el salvataje de los bancos,
+
+481
+00:41:29,708 --> 00:41:34,246
+la reducción en los presupuestos...
+Así que podríamos decir,
+
+482
+00:41:34,246 --> 00:41:38,646
+con el salvataje de los bancos y
+con el hundimiento de la gente.
+
+483
+00:41:39,967 --> 00:41:49,149
+Y, por primera vez, se observa que en el
+comunicado del G-20 empieza a tomar fuerza
+
+484
+00:41:49,149 --> 00:41:55,607
+la idea de que la forma de sacar
+al mundo de esta mediocridad
+
+485
+00:41:55,607 --> 00:42:02,345
+es a través de políticas consistentes
+de expansión de la demanda agregada.
+
+486
+00:42:04,053 --> 00:42:09,311
+Entonces, aparece en el lenguaje del G-20
+la idea de los estímulos a la demanda
+
+487
+00:42:09,321 --> 00:42:11,963
+agregada, un punto central
+en el comunicado,
+
+488
+00:42:11,963 --> 00:42:17,546
+y otro punto central:
+la cuestión del empleo digno, de calidad;
+
+489
+00:42:17,546 --> 00:42:22,650
+y otro punto central en el comunicado:
+la inversión en infraestructura,
+
+490
+00:42:23,358 --> 00:42:25,339
+porque lo que encontramos ahí...
+
+491
+00:42:26,731 --> 00:42:32,999
+Y si el Dr. Ferrer hablaba de
+paralelismos con la crisis del 30',
+
+492
+00:42:32,999 --> 00:42:42,458
+recordaran ustedes que en 1935,
+cinco años después de que tiene lugar
+
+493
+00:42:42,458 --> 00:42:46,478
+el inicio de la crisis del 30',
+sin visos de recuperación
+
+494
+00:42:46,478 --> 00:42:50,318
+en la economía mundial,
+aparece, ni más ni menos,
+
+495
+00:42:50,318 --> 00:42:56,765
+que esta idea de los estímulos a la
+demanda agregada que queda cristalizada,
+
+496
+00:42:56,765 --> 00:43:02,491
+expresada y, por supuesto, consagrada
+a través de la teoría general de Keynes.
+
+497
+00:43:03,203 --> 00:43:07,351
+Esta idea de que con la crisis...
+Con la crisis,
+
+498
+00:43:07,361 --> 00:43:11,000
+la peor reacción es la
+austeridad de los Estados,
+
+499
+00:43:11,000 --> 00:43:16,438
+sino que el Estado tiene que aparecer
+como estimulando, como fomentando
+
+500
+00:43:16,438 --> 00:43:19,482
+la actividad a través de
+la creación de la demanda.
+
+501
+00:43:19,482 --> 00:43:23,772
+Un aspecto que tal vez,
+y me permito exagerar,
+
+502
+00:43:23,772 --> 00:43:31,706
+explique esta idea de que por más que se
+ha generado una enorme transferencia
+
+503
+00:43:31,706 --> 00:43:37,929
+hacia los bancos a través del
+reemplazo de cartera y de la...
+
+504
+00:43:41,375 --> 00:43:47,980
+de la creación de activos financieros.
+Eso, el hecho de tener activos financieros
+
+505
+00:43:47,980 --> 00:43:53,883
+no se canalizó hacia la inversión y esto
+es una idea también profundamente Keynesiana.
+
+506
+00:43:53,883 --> 00:44:02,224
+No es el ahorro el que crea inversión,
+sino que hay que trabajar directamente
+
+507
+00:44:02,224 --> 00:44:05,072
+sobre la inversión
+para crear actividad.
+
+508
+00:44:05,072 --> 00:44:10,802
+Y, si la inversión privada no aparece,
+probablemente el instrumento de la
+
+509
+00:44:10,802 --> 00:44:16,870
+inversión pública sea el remedio
+más adecuado para las depresiones.
+
+510
+00:44:16,870 --> 00:44:23,024
+Este mensaje viene acompañado también con
+otra de las preocupaciones muy fuerte
+
+511
+00:44:23,034 --> 00:44:29,543
+que se mencionó en el G-20, porque
+este estímulo a la actividad bancaria,
+
+512
+00:44:29,543 --> 00:44:36,644
+esta creación de activos financieros,
+además, probablemente haya engendrado
+
+513
+00:44:36,644 --> 00:44:41,168
+problemas tan graves, desde el punto
+de vista especulativo como los que había
+
+514
+00:44:41,168 --> 00:44:43,494
+en 2007 antes de la crisis.
+
+515
+00:44:43,494 --> 00:44:49,579
+Por eso, sobrevuela también el comunicado
+del G-20 la preocupación por la banca
+
+516
+00:44:49,579 --> 00:44:54,443
+paralela, la llamada banca en la
+sombra no regulada, Shadow Banking,
+
+517
+00:44:54,443 --> 00:44:59,604
+prolifera también la discusión
+sobre las guaridas fiscales,
+
+518
+00:44:59,604 --> 00:45:03,087
+llamados paraísos fiscales
+y sobre los fondos buitres,
+
+519
+00:45:04,634 --> 00:45:11,555
+porque son tres fenómenos producto de
+que la inyección de liquidez a los bancos
+
+520
+00:45:12,779 --> 00:45:16,905
+no se ha reflejado en un
+crecimiento de la inversión.
+
+521
+00:45:17,626 --> 00:45:22,112
+Entonces, a uno no puede más que venirle
+a la cabeza también esa idea de Keynes
+
+522
+00:45:22,112 --> 00:45:23,735
+de la trampa de liquidez,
+
+523
+00:45:24,647 --> 00:45:29,386
+donde el problema no es que falta medios
+monetarios, sino que lo que falta es
+
+524
+00:45:29,386 --> 00:45:36,800
+demanda real que motorice el proceso
+productivo y, puesto en términos de Keynes,
+
+525
+00:45:36,800 --> 00:45:42,169
+será la inversión la que cree el ahorro
+y no al revés, y si no aparece el fenómeno
+
+526
+00:45:42,169 --> 00:45:43,503
+del atesoramiento.
+
+527
+00:45:43,503 --> 00:45:50,067
+Si esto es cierto, lo que signa a esta
+época es la aparición de una enorme
+
+528
+00:45:50,067 --> 00:45:55,803
+masa de activos financieros que no han
+sido canalizados hacia las actividades
+
+529
+00:45:55,803 --> 00:46:01,473
+reales, sino que permanecen
+en el mundo de la especulación.
+
+530
+00:46:01,483 --> 00:46:06,490
+Entonces, esa preocupación reflejada aquí,
+del Shadow Banking, de los paraísos fiscales,
+
+531
+00:46:06,490 --> 00:46:11,816
+de los fondos buitres, todas
+actividades especulativas que son también,
+
+532
+00:46:11,816 --> 00:46:18,070
+me animo a decir, en buena medida a los
+remedios que se intentaron pero fracasaron
+
+533
+00:46:18,070 --> 00:46:22,834
+para sacar al mundo de la situación
+creada a partir del 2008.
+
+534
+00:46:22,834 --> 00:46:29,240
+Es decir, que esa idea de que la política
+monetaria, el estímulo monetario,
+
+535
+00:46:30,113 --> 00:46:34,949
+desde el lado del monetarismo iba
+a generar inflación no se dio.
+
+536
+00:46:34,959 --> 00:46:40,353
+Pero esa idea, desde el lado
+de algún Keynesianismo muleto,
+
+537
+00:46:40,353 --> 00:46:47,547
+de que solo con política monetaria alcanza
+para movilizar al proceso económico,
+
+538
+00:46:47,547 --> 00:46:48,539
+tampoco se dio.
+
+539
+00:46:49,187 --> 00:46:52,422
+Es decir, que si tomamos esto desde el
+punto de vista de las enseñanzas de la
+
+540
+00:46:52,422 --> 00:46:57,408
+crisis y observamos con cuidado cuál
+es el estado de la discusión mundial,
+
+541
+00:46:57,408 --> 00:47:03,916
+lo que nos encontramos es la vuelta
+a la idea clásica de que es el Estado,
+
+542
+00:47:04,397 --> 00:47:11,761
+a través de sus políticas de expansión
+que contribuyen al estímulo de la demanda
+
+543
+00:47:11,761 --> 00:47:17,858
+agregada, un instrumento válido para
+poner en movimiento el proceso económico.
+
+544
+00:47:19,251 --> 00:47:25,075
+Menciono esto porque tal como decía
+Alejandro, tal como hemos dicho nosotros,
+
+545
+00:47:25,075 --> 00:47:30,323
+estas ideas que hoy están entrando,
+tal vez tímidamente,
+
+546
+00:47:30,990 --> 00:47:39,477
+tal vez de manera todavía mixta y confusa
+pues figura de nuevo el tema de las
+
+547
+00:47:39,477 --> 00:47:46,235
+reformas estructurales, figura todavía
+el tema de la preocupación por la inflación
+
+548
+00:47:46,767 --> 00:47:49,968
+y por la consolidación fiscal
+por la cuestión de la deuda,
+
+549
+00:47:49,968 --> 00:47:54,106
+es cierto que en el lenguaje,
+sin ser egiptólogo...
+
+550
+00:47:54,451 --> 00:48:00,921
+En el lenguaje del comunicado del G-20
+se observa que tal como ocurrió en la
+
+551
+00:48:00,921 --> 00:48:08,343
+crisis del 30', permítanme el paralelismo,
+un lustro después empieza a surgir la idea
+
+552
+00:48:08,343 --> 00:48:14,349
+de que sin una notoria, coordinada,
+participación de los Estados Nacionales
+
+553
+00:48:14,349 --> 00:48:20,473
+en el estímulo de la actividad económica,
+probablemente no haya una perspectiva cierta
+
+554
+00:48:20,473 --> 00:48:26,768
+de recuperación, a través de medidas
+meramente monetarias o de medidas
+
+555
+00:48:26,768 --> 00:48:30,809
+meramente vinculadas a la
+dinámica de la inversión privada.
+
+556
+00:48:31,278 --> 00:48:34,622
+Esto, brevemente, era lo
+que les quería contar.
+
+557
+00:48:34,622 --> 00:48:35,374
+Muchas gracias.
+
+558
+00:48:35,374 --> 00:48:51,358
+(Aplausos)
+
+559
+00:48:51,368 --> 00:48:54,786
+Con la exposición del Ministro
+de Economía y Finanzas de la
+
+560
+00:48:54,786 --> 00:48:58,803
+República Argentina,
+damos por concluida las jornadas
+
+561
+00:48:58,813 --> 00:49:03,729
+Monetarias y Bancarias 2014
+del Banco Central de la
+
+562
+00:49:03,729 --> 00:49:05,234
+República Argentina.
+
+563
+00:49:05,234 --> 00:49:10,130
+Muchas gracias por su participación,
+por su apoyo y su confianza.
+
+564
+00:49:10,130 --> 00:49:11,477
+Muy buenas noches.
+

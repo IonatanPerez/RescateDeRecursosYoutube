@@ -1,0 +1,456 @@
+1
+00:00:00,000 --> 00:00:04,847
+Muy buenos días a todos y a todas.
+
+2
+00:00:05,047 --> 00:00:10,802
+Muchas gracias por esta invitación
+como Síndico General de la Nación
+
+3
+00:00:11,002 --> 00:00:15,541
+de la República Argentina,
+por supuesto que quiero agradecer
+
+4
+00:00:15,741 --> 00:00:21,653
+a la OCDE por auspiciar este evento,
+del mismo modo que la Corporación
+
+5
+00:00:21,853 --> 00:00:25,762
+Andina de Fomento, el Banco Mundial
+y el Gobierno de España y el Arsa,
+
+6
+00:00:25,962 --> 00:00:31,034
+este tercer encuentro de la Red
+Latinoamericana sobre Gobierno
+
+7
+00:00:31,234 --> 00:00:33,856
+Corporativo de Empresas
+de Propiedad del Estado.
+
+8
+00:00:34,056 --> 00:00:39,967
+Para la República Argentina
+es un gran gusto recibir a ilustres
+
+9
+00:00:40,167 --> 00:00:44,649
+visitantes de diversos países
+y por supuesto también a especialistas
+
+10
+00:00:44,849 --> 00:00:49,724
+y representantes de distintas empresas
+de distintos ámbitos de gobiernos
+
+11
+00:00:49,924 --> 00:00:54,498
+corporativos y sistemas de control
+tanto del sector público como del sector
+
+12
+00:00:54,698 --> 00:00:55,955
+privado.
+
+13
+00:00:56,155 --> 00:01:00,221
+Por lo tanto agradecemos
+muy especialmente la participación
+
+14
+00:01:00,421 --> 00:01:01,784
+en este evento.
+
+15
+00:01:01,984 --> 00:01:09,245
+He pedido el adelantamiento a disposición
+para en primer lugar transmitir las cálidas
+
+16
+00:01:09,445 --> 00:01:12,536
+anotaciones de la Presidenta de la Nación,
+la doctora Cristina Fernández de Kirchner
+
+17
+00:01:12,736 --> 00:01:15,023
+por la organización de este evento,
+por el éxito del mismo
+
+18
+00:01:15,223 --> 00:01:21,170
+y transmitir al mismo tiempo
+que desde la Jefatura de Gabinete
+
+19
+00:01:21,370 --> 00:01:24,586
+de Ministros, que en virtud
+de la Constitución Nacional
+
+20
+00:01:24,786 --> 00:01:29,577
+en la República Argentina
+tiene la principal misión
+
+21
+00:01:29,777 --> 00:01:35,347
+que es la administración de los recursos
+presupuestarios del país.
+
+22
+00:01:35,547 --> 00:01:47,243
+Y en ese contexto cómo un cargo de rango
+constitucional tiene la misión de generar
+
+23
+00:01:47,443 --> 00:01:52,067
+las condiciones para el cumplimiento
+de objetivos y metas por expresa
+
+24
+00:01:52,267 --> 00:01:55,493
+instrucción de la Presidenta
+de la Nación.
+
+25
+00:01:55,693 --> 00:01:59,736
+La Jefatura de Gabinete de Ministros
+de la República Argentina
+
+26
+00:01:59,936 --> 00:02:05,840
+tiene 204 objetivos y 274 metas
+por cumplir en el transcurso
+
+27
+00:02:06,040 --> 00:02:13,139
+de este año 2014, y también tiene
+un plan de gestión que involucra
+
+28
+00:02:13,339 --> 00:02:18,054
+un proceso de demonización tecnológica
+que va desde la extensión de firma
+
+29
+00:02:18,254 --> 00:02:22,881
+digital, hasta nube del Estado logrando
+la coordinación de los distintos recursos
+
+30
+00:02:23,081 --> 00:02:26,845
+estratégicos en materia tecnológica
+por parte del sector público,
+
+31
+00:02:27,045 --> 00:02:32,198
+pasando por una concepción dinámica
+de Gobierno electrónico y abierto,
+
+32
+00:02:32,398 --> 00:02:37,156
+hasta sistemas de ciberseguridad
+y la adopción de compras centralizadas
+
+33
+00:02:37,356 --> 00:02:43,647
+y mecanismos de supervisión, control
+y exhaustivo mecanismo de cumplimiento
+
+34
+00:02:43,847 --> 00:02:47,034
+de objetivos y metas de Gobierno.
+
+35
+00:02:47,234 --> 00:02:52,542
+Y en ese contexto es muy importante
+admitir que en las sociedades modernas
+
+36
+00:02:52,742 --> 00:02:58,342
+y en este mundo global en donde
+la administración estratégica de recursos
+
+37
+00:02:58,542 --> 00:03:03,332
+es lo que finalmente garantiza
+la equidad distributiva de los mismos,
+
+38
+00:03:03,532 --> 00:03:09,175
+el rol del Estado adquiere un valor
+significativo y ese rol del Estado
+
+39
+00:03:09,375 --> 00:03:13,934
+muchas veces tiene que ver con principios
+que son sustanciales para la organización
+
+40
+00:03:14,134 --> 00:03:18,815
+pero circunstancialmente
+el rol del Estado está también asociado
+
+41
+00:03:19,015 --> 00:03:23,568
+a empresas públicas y al ejercicio
+de gobiernos corporativos,
+
+42
+00:03:23,768 --> 00:03:32,202
+por eso es muy buen escenario, esta red
+y esta posibilidad de intercambio
+
+43
+00:03:32,402 --> 00:03:37,437
+de prácticas y experiencias
+para perfeccionar y mejorar
+
+44
+00:03:37,637 --> 00:03:42,438
+el comportamiento de los parámetros
+de administración.
+
+45
+00:03:42,638 --> 00:03:47,456
+Las empresas públicas tienen un objetivo
+sustancial que es garantizar
+
+46
+00:03:47,656 --> 00:03:52,209
+la prestación eficaz, eficiente
+y equitativa de servicios,
+
+47
+00:03:52,409 --> 00:03:58,057
+precisamente llegar a aquellos lugares
+en donde un espíritu de lucro
+
+48
+00:03:58,257 --> 00:04:03,639
+de rentabilidad no hace indispensable
+llegar y allí es donde el Estado
+
+49
+00:04:03,839 --> 00:04:06,657
+cumple un rol superior
+desde el punto de vista
+
+50
+00:04:06,857 --> 00:04:09,569
+de la equidad y de la transparencia.
+
+51
+00:04:09,769 --> 00:04:16,118
+Por eso en la República Argentina
+tenemos distintos niveles de organización
+
+52
+00:04:16,318 --> 00:04:20,609
+del Estado, el Estado Nacional,
+el Estado Provincial y los Estados
+
+53
+00:04:20,809 --> 00:04:22,158
+Municipales.
+
+54
+00:04:22,358 --> 00:04:25,902
+Tenemos un Estado Nacional,
+24 jurisdicciones provinciales
+
+55
+00:04:26,102 --> 00:04:32,683
+y aproximadamente 2.500 entre municipios
+y comisiones de fomentos y/o comunas
+
+56
+00:04:32,883 --> 00:04:35,877
+en distintos lugares
+de nuestro territorio nacional.
+
+57
+00:04:36,077 --> 00:04:41,821
+Pero principalmente se da en el Gobierno
+Nacional o también en muchos gobiernos
+
+58
+00:04:42,021 --> 00:04:48,018
+provinciales un rol activo del Estado
+respecto a la organización
+
+59
+00:04:48,218 --> 00:04:51,406
+en el proceso de administración
+de empresas públicas,
+
+60
+00:04:51,606 --> 00:04:58,653
+tal es así que empresas públicas
+son capaces de proveer servicios
+
+61
+00:04:58,853 --> 00:05:03,590
+de agua potable y cloacas,
+las empresas públicas principalmente
+
+62
+00:05:03,790 --> 00:05:06,925
+son capaces de brindar servicios
+de energía eléctrica.
+
+63
+00:05:07,125 --> 00:05:13,767
+También las empresas públicas
+son capaces de dinamizar procesos
+
+64
+00:05:13,967 --> 00:05:19,861
+de inversión para garantizar el acceso
+a la tecnología de carácter digital.
+
+65
+00:05:20,061 --> 00:05:25,439
+De hecho, aquí uno de los exponentes
+es el Ministerio de Planificación Federal
+
+66
+00:05:25,639 --> 00:05:32,464
+y la política activa por parte del Estado
+Nacional ha sido precisamente asignar
+
+67
+00:05:32,664 --> 00:05:38,281
+recursos para extender sustancialmente
+la provisión de agua potable y cloacas
+
+68
+00:05:38,481 --> 00:05:41,742
+a casi 10 millones de personas
+en los últimos 10 años,
+
+69
+00:05:41,942 --> 00:05:45,965
+eso tiene que ver con inversiones
+de infraestructura energética,
+
+70
+00:05:46,165 --> 00:05:51,185
+tanto en generación como en transporte
+como en una estrategia de comercialización
+
+71
+00:05:51,385 --> 00:05:56,838
+para llegar a una distribución creciente,
+lo cual implica satisfacer una demanda
+
+72
+00:05:57,038 --> 00:06:01,257
+en materia de energía eléctrica
+o también la demanda en materia
+
+73
+00:06:01,457 --> 00:06:04,702
+de provisión de agua potable
+y redes cloacales,
+
+74
+00:06:04,902 --> 00:06:10,503
+como así también la inversión sustantiva
+en la red de fibra óptica con el objeto
+
+75
+00:06:10,703 --> 00:06:17,047
+de garantizar conectividad a los efectos
+de lograr un mecanismo de modernización
+
+76
+00:06:17,247 --> 00:06:22,560
+en los vínculos y en las comunicaciones,
+en un extenso territorio en la República
+
+77
+00:06:22,760 --> 00:06:26,768
+Argentina que es el octavo país
+en superficie del mundo.
+
+78
+00:06:26,968 --> 00:06:33,371
+Por eso nosotros valoramos de un modo
+extraordinario esta posibilidad
+
+79
+00:06:33,571 --> 00:06:39,043
+que organismos calificados,
+que expositores calificados
+
+80
+00:06:39,243 --> 00:06:46,092
+puedan dar la perspectiva a través
+de intercambio de experiencias
+
+81
+00:06:46,292 --> 00:06:47,919
+y buenas prácticas.
+
+82
+00:06:48,119 --> 00:06:53,153
+En este sentido nos permitirá,
+no solamente mejorar resultados,
+
+83
+00:06:53,353 --> 00:06:59,467
+sino también garantizar la transparencia
+de los mismos para que el pueblo,
+
+84
+00:06:59,667 --> 00:07:04,192
+la sociedad organizada de cada uno
+de nuestros respectivos países,
+
+85
+00:07:04,392 --> 00:07:10,437
+identifique al Estado como garante
+de los parámetros de equidad social
+
+86
+00:07:10,637 --> 00:07:15,122
+que toda sociedad moderna
+debe tender a propender.
+
+87
+00:07:15,322 --> 00:07:21,771
+De manera que quiero felicitarlos
+por esta iniciativa, desearles éxitos
+
+88
+00:07:21,971 --> 00:07:26,881
+en la misma, promover y propiciar
+que encuentros de esta naturaleza
+
+89
+00:07:27,081 --> 00:07:33,977
+se repitan y que esta red pueda
+solidificarse en el transcurso del tiempo
+
+90
+00:07:34,177 --> 00:07:39,385
+a través de más y mejores prácticas,
+porque eso es lo que va a permitir
+
+91
+00:07:39,585 --> 00:07:44,715
+más y mejor calidad de servicios
+y de un rol del Estado que garantice
+
+92
+00:07:44,915 --> 00:07:46,571
+equidad y transparencia.
+
+93
+00:07:46,771 --> 00:07:48,571
+Muchas gracias y mis mejores deseos.
+

@@ -1,0 +1,1108 @@
+1
+00:00:00,000 --> 00:00:05,461
+Acompañada en esta oportunidad
+por el señor Ministro del Interior
+
+2
+00:00:05,561 --> 00:00:10,481
+y Transporte, contador Florencio Randazzo,
+como así también el encargado del centro
+
+3
+00:00:10,581 --> 00:00:13,927
+gerente de seguridad operacional,
+ingeniero Alejandro Leonetti
+
+4
+00:00:14,027 --> 00:00:18,074
+y el señor Mariano Rodríguez,
+director nacional de informática
+
+5
+00:00:18,174 --> 00:00:20,308
+del Ministerio del Interior.
+
+6
+00:00:20,408 --> 00:00:25,569
+Mientras la señora Presidenta
+sigue continuando con su recorrido,
+
+7
+00:00:25,669 --> 00:00:31,329
+porque hoy un país se hace con todos
+los argentinos y las argentinas,
+
+8
+00:00:31,429 --> 00:00:35,183
+trabajando, esforzándose y tirando
+para el mismo lado, es que hoy
+
+9
+00:00:35,283 --> 00:00:39,128
+el centro de monitoreo de trenes en directo
+creado en la órbita de la sociedad
+
+10
+00:00:39,228 --> 00:00:43,217
+operadora ferroviaria, es un ámbito
+desde donde se monitorean en vivo
+
+11
+00:00:43,317 --> 00:00:46,841
+las velocidades, los recorridos,
+las distancias que existen
+
+12
+00:00:46,941 --> 00:00:50,476
+entre cada formación y las maniobras
+también de ingreso a las terminales
+
+13
+00:00:50,576 --> 00:00:53,361
+en la red de trenes de área metropolitana.
+
+14
+00:00:53,461 --> 00:00:57,970
+Es importante destacar que ya está
+funcionando para la línea Sarmiento
+
+15
+00:00:58,070 --> 00:01:01,674
+y justamente esta semana comenzó
+a operarse también en los trenes
+
+16
+00:01:01,774 --> 00:01:07,007
+ramales de la línea Mitre y progresivamente
+se incorporarán todas las líneas de área
+
+17
+00:01:07,107 --> 00:01:11,067
+metropolitana que actualmente están
+en la etapa de prueba y ajustes.
+
+18
+00:01:11,167 --> 00:01:15,727
+Este centro de monitoreo cuenta
+con más de 100 pantallas LED de 46"
+
+19
+00:01:15,827 --> 00:01:21,219
+en las que se puede ver cada una de ellas,
+las distintas líneas en tiempo real.
+
+20
+00:01:21,319 --> 00:01:26,182
+Es operado con personal propio
+dividido en 3 turnos de 8 horas cada uno
+
+21
+00:01:26,282 --> 00:01:29,621
+que fueron capacitados oportunamente
+según las más altas normas de seguridad
+
+22
+00:01:29,721 --> 00:01:31,198
+ferroviarias.
+
+23
+00:01:31,298 --> 00:01:35,221
+Estos operadores se comunican
+con los motorman ante alguna maniobra
+
+24
+00:01:35,321 --> 00:01:39,387
+con acceso de velocidad
+de la aproximación indebida entre trenes.
+
+25
+00:01:39,487 --> 00:01:44,742
+Desarrollo y crecimiento son las 2 palabras
+que mejor sintetizan porque hoy estamos acá
+
+26
+00:01:44,842 --> 00:01:49,308
+con el objetivo de darle mayor seguridad
+y mejor operatividad al sistema.
+
+27
+00:01:49,408 --> 00:01:53,245
+Es por eso que incluimos en este centro
+de monitoreo de transporte ferroviario,
+
+28
+00:01:53,345 --> 00:01:56,962
+la experiencia similar de 2 países
+como España y China,
+
+29
+00:01:57,062 --> 00:02:00,719
+y gracias a la tecnología GPS
+que se instaló en los ferrocarriles,
+
+30
+00:02:00,819 --> 00:02:04,606
+ahora se puede observar en vivo
+el comportamiento de cada tren.
+
+31
+00:02:04,706 --> 00:02:08,738
+Esta es una nueva medida de control
+que se complementa con los nuevos
+
+32
+00:02:08,838 --> 00:02:13,043
+controles psicofísicos a los conductores
+en el Instituto Nacional de Medicina
+
+33
+00:02:13,143 --> 00:02:18,064
+Aeroespacial, la instalación del Paratren,
+como así también cámaras de vídeo
+
+34
+00:02:18,164 --> 00:02:20,525
+en las cabinas de los motorman.
+
+35
+00:02:20,625 --> 00:02:22,926
+Porque estamos fervientemente
+convencidos que la Argentina
+
+36
+00:02:23,026 --> 00:02:26,212
+siga creciendo con la fuerza
+que todos nos merecemos.
+
+37
+00:02:26,312 --> 00:02:29,641
+El centro de monitoreo de transporte
+ferroviario que en este momento
+
+38
+00:02:29,741 --> 00:02:33,506
+continúa recorriendo nuestra Presidenta,
+cuenta con operadores que en caso
+
+39
+00:02:33,606 --> 00:02:36,885
+de detectar alguna irregularidad
+como exceso de velocidad,
+
+40
+00:02:36,985 --> 00:02:40,792
+acercamiento excesivo a otra formación
+o detención no programada,
+
+41
+00:02:40,892 --> 00:02:45,429
+toma contacto directamente con el conductor
+del tren para controlar y dar respuesta
+
+42
+00:02:45,529 --> 00:02:47,433
+inmediata a la situación.
+
+43
+00:02:47,533 --> 00:02:54,444
+Por ello, el centro de formación funciona
+todos los días, los horarios y operación
+
+44
+00:02:54,544 --> 00:02:58,054
+ferroviaria inmediatamente.
+
+45
+00:03:01,739 --> 00:03:06,722
+El software que se utiliza fue desarrollado
+íntegramente por el Estado Nacional
+
+46
+00:03:06,822 --> 00:03:10,522
+con el costo final de cero pesos.
+
+47
+00:03:10,622 --> 00:03:15,413
+Se ha hecho esto a través del personal
+de la dirección informática del Ministerio
+
+48
+00:03:15,513 --> 00:03:20,674
+del Interior y Transporte, el mismo equipo
+que desarrolló oportunamente el soft
+
+49
+00:03:20,774 --> 00:03:25,283
+para el nuevo DNI, como así también
+de los nuevos pasaportes.
+
+50
+00:03:25,383 --> 00:03:27,961
+Porque los hechos unifican
+y mejor que decir es hacer,
+
+51
+00:03:28,061 --> 00:03:31,029
+la investigación que se realizó
+en tecnología y restauración
+
+52
+00:03:31,129 --> 00:03:35,110
+del edificio, fue una inversión
+de 5 millones de pesos.
+
+53
+00:04:14,091 --> 00:04:16,629
+La señora Presidenta se encuentra
+en estos momentos frente a uno
+
+54
+00:04:16,729 --> 00:04:21,237
+de los monitores a través de los cuales
+se pueden observar distintas terminales
+
+55
+00:04:21,337 --> 00:04:25,803
+como así también recorridos intermedios
+de las diversas líneas ferroviarias.
+
+56
+00:04:25,903 --> 00:04:30,419
+Destaquemos que es para dar mayor
+seguridad y mejor operatividad al sistema,
+
+57
+00:04:30,519 --> 00:04:34,731
+es por eso que incluimos en este centro
+de monitoreo de transporte ferroviario
+
+58
+00:04:34,831 --> 00:04:40,990
+algunas de las tecnologías más avanzadas
+como en países como España y China
+
+59
+00:04:41,090 --> 00:04:44,320
+y gracias a la tecnología GPS
+que se instaló en los ferrocarriles,
+
+60
+00:04:44,420 --> 00:04:48,111
+ahora se puede observar en vivo
+como lo está haciendo nuestra Presidenta,
+
+61
+00:04:48,211 --> 00:04:51,098
+el comportamiento de cada tren.
+
+62
+00:05:29,416 --> 00:05:33,423
+Estamos fervientemente convencidos
+que un país se hace con todos y con todas
+
+63
+00:05:33,523 --> 00:05:37,778
+las argentinas, trabajando, esforzándose,
+tirando para el mismo lado.
+
+64
+00:05:37,878 --> 00:05:41,908
+Es por eso que hoy el centro de monitoreo
+de trenes en directo, creado en la órbita
+
+65
+00:05:42,008 --> 00:05:45,968
+de la sociedad operadora ferroviaria,
+es un ámbito desde donde se monitorean
+
+66
+00:05:46,068 --> 00:05:50,555
+en vivo las velocidades, como también
+los recorridos, las distancias que existen
+
+67
+00:05:50,655 --> 00:05:55,070
+entre cada formación y las maniobras
+de ingreso en las terminales en la red
+
+68
+00:05:55,170 --> 00:05:57,049
+de trenes de área metropolitana.
+
+69
+00:05:57,149 --> 00:06:02,301
+En este momento la señora Presidenta
+continúa viendo los monitores
+
+70
+00:06:02,401 --> 00:06:10,167
+y es importante destacar que ya está
+funcionando para la línea Sarmiento.
+
+71
+00:06:10,267 --> 00:06:15,730
+Justamente esta semana comenzó
+a operarse también los 3 ramales
+
+72
+00:06:15,830 --> 00:06:19,501
+de la línea Mitre y progresivamente
+se incorporarán todas las líneas
+
+73
+00:06:19,601 --> 00:06:24,878
+del área metropolitana y actualmente
+están en etapa de prueba y ajuste también.
+
+74
+00:06:41,606 --> 00:06:44,308
+Además queremos contarles
+que el centro de monitoreo cuenta
+
+75
+00:06:44,408 --> 00:06:48,484
+con más de 100 pantallas LED
+que en este momento las estamos observando
+
+76
+00:06:48,584 --> 00:06:53,537
+de 46 pulgadas en las que se puede ver
+cada una de las líneas en tiempo
+
+77
+00:06:53,637 --> 00:06:55,973
+totalmente real.
+
+78
+00:07:33,866 --> 00:07:37,768
+Elegir seguir haciendo, aquí, hoy,
+en el centro de monitoreo de transporte
+
+79
+00:07:37,868 --> 00:07:42,420
+ferroviario que continúa recorriendo
+nuestra Presidenta, Cristina Fernández
+
+80
+00:07:42,520 --> 00:07:45,959
+de Kirchner, que cuenta con operadores
+que en caso de detectar alguna
+
+81
+00:07:46,059 --> 00:07:49,879
+irregularidad como es el exceso
+de velocidad, el acercamiento excesivo
+
+82
+00:07:49,979 --> 00:07:55,083
+a otra formación o detención no programada,
+toma contacto inmediata y directamente
+
+83
+00:07:55,183 --> 00:08:00,293
+con el conductor del tren para controlar
+y dar respuesta inmediata a la situación.
+
+84
+00:08:00,393 --> 00:08:04,706
+Es por ello que el centro funciona
+todos los días en los horarios
+
+85
+00:08:04,806 --> 00:08:07,752
+de operación ferroviaria.
+
+86
+00:08:27,749 --> 00:08:30,824
+Porque los hechos unifican
+y mejor que decir es hacer,
+
+87
+00:08:30,924 --> 00:08:34,326
+la inversión que se realizó
+en tecnología y restauración del edificio
+
+88
+00:08:34,426 --> 00:08:37,606
+fue de 5 millones de pesos.
+
+89
+00:09:12,829 --> 00:09:16,018
+En un día donde la felicidad del pueblo
+hace a la grandeza de la nación
+
+90
+00:09:16,118 --> 00:09:20,107
+con el crecimiento, con la dignidad,
+con la inclusión, la igualdad;
+
+91
+00:09:20,207 --> 00:09:23,398
+es que hoy junto con nuestra Presidenta
+Cristina Fernández de Kirchner,
+
+92
+00:09:23,498 --> 00:09:27,203
+que se encuentra en este momento
+recorriendo y hablando con los operarios
+
+93
+00:09:27,303 --> 00:09:32,313
+de este centro de monitoreo de transporte
+ferroviario, que en verdad es para todos
+
+94
+00:09:32,413 --> 00:09:35,301
+los argentinos y argentinas,
+por eso tenemos que estar contentos
+
+95
+00:09:35,401 --> 00:09:40,054
+en este día que estamos todos aquí
+recorriendo este centro de monitoreo
+
+96
+00:09:40,154 --> 00:09:45,952
+de transporte ferroviario,
+junto con el Ministro de Transportes
+
+97
+00:09:46,052 --> 00:09:50,452
+y Servicios, Florencio Randazzo.
+
+98
+00:10:30,766 --> 00:10:32,837
+Bien, bien.
+
+99
+00:10:32,937 --> 00:10:40,816
+Bueno, estamos acá en este centro
+de monitoreo, me parece inédito
+
+100
+00:10:40,916 --> 00:10:45,389
+y de lo más moderno en la República
+Argentina en materia de control
+
+101
+00:10:45,489 --> 00:10:51,300
+ferroviario en esta primera etapa
+de control ferroviario de todo lo que es
+
+102
+00:10:51,400 --> 00:10:54,289
+el área metropolitana,
+con más de 100 pantallas de LED
+
+103
+00:10:54,389 --> 00:10:59,587
+de los más modernos, con operadores
+que están controlando como ustedes verán,
+
+104
+00:10:59,687 --> 00:11:02,626
+cada uno 4 pantallas.
+
+105
+00:11:02,726 --> 00:11:06,851
+Nos falta incorporar únicamente
+la línea Roca, y el resto ya están
+
+106
+00:11:06,951 --> 00:11:09,414
+todas incorporadas.
+
+107
+00:11:09,514 --> 00:11:15,116
+Esto se puede hacer a partir
+de que cada locomotora tiene un GPS,
+
+108
+00:11:15,216 --> 00:11:21,034
+con lo cual nos permite controlar
+el nivel de velocidad, la proximidad
+
+109
+00:11:21,134 --> 00:11:30,491
+que hay entre formación y formación
+para que no superen el límite de kilómetros
+
+110
+00:11:30,591 --> 00:11:35,325
+que tiene que haber entre una y otra
+que lo torne peligroso sobre la misma vía.
+
+111
+00:11:35,425 --> 00:11:39,768
+También el exceso de velocidad,
+allá se ve claramente en aquella pantalla
+
+112
+00:11:39,868 --> 00:11:45,442
+que hay alguien que llegó con 1 kilómetro
+de exceso de velocidad, y ven que todos
+
+113
+00:11:45,542 --> 00:11:49,804
+llegaron con 10, se puede ver claramente
+allá, ahí hay uno que llegó con 11.
+
+114
+00:11:49,904 --> 00:11:51,838
+Así que habrá que agarrar
+a ese que llegó con 11 y decirle:
+
+115
+00:11:51,938 --> 00:11:54,738
+Qué hiciste que llegaste con 11,
+tienes que llegar con 10.
+
+116
+00:11:54,838 --> 00:12:00,116
+Y bueno, controlando muy fuerte
+para que nos permita no sólo tener
+
+117
+00:12:00,216 --> 00:12:04,302
+buenos trenes y nuevos trenes,
+sino hacer un control eficaz
+
+118
+00:12:04,402 --> 00:12:08,708
+para evitar cualquier tipo de cosas.
+
+119
+00:12:08,808 --> 00:12:14,875
+Creo que esto es muy importante,
+es una inversión también muy importante
+
+120
+00:12:14,975 --> 00:12:19,951
+la que hemos agregado a la inversión
+de los trenes y queríamos hoy visitarlo
+
+121
+00:12:20,051 --> 00:12:27,100
+aquí en retiro para precisamente
+poner en valor los recursos
+
+122
+00:12:27,200 --> 00:12:30,704
+que el Estado está colocando,
+la inversión qué está haciendo,
+
+123
+00:12:30,804 --> 00:12:34,209
+todo lo que ha sido la capacitación
+de este personal, estos chicos
+
+124
+00:12:34,309 --> 00:12:39,876
+y estas chicas han sido preparados
+para establecer esto.
+
+125
+00:12:39,976 --> 00:12:44,485
+El software además, que se utilizó,
+es un software diseñado por el Estado,
+
+126
+00:12:44,585 --> 00:12:49,179
+de propiedad del Estado, cero pesos,
+igual que los técnicos que diseñaron
+
+127
+00:12:49,279 --> 00:12:52,713
+el software para el pasaporte
+y para el Documento Nacional
+
+128
+00:12:52,813 --> 00:12:54,290
+de Identidad.
+
+129
+00:12:54,390 --> 00:12:59,512
+Con lo cual este sistema, todo sistema
+obviamente requiere de un software,
+
+130
+00:12:59,612 --> 00:13:02,522
+ha sido diseñado por el Estado
+y propiedad del Estado.
+
+131
+00:13:02,622 --> 00:13:07,360
+La inversión ha sido la compra obviamente
+de las pantallas y toda la capacitación
+
+132
+00:13:07,460 --> 00:13:09,480
+del personal.
+
+133
+00:13:09,580 --> 00:13:14,559
+Acá estamos controlando todo esto
+y poniéndolo en marcha,
+
+134
+00:13:14,659 --> 00:13:18,973
+estamos realmente muy contentos,
+muy orgullosos de poder mostrarlo
+
+135
+00:13:19,073 --> 00:13:25,645
+y seguir adelante como hicimos el otro día
+con la formación del tren Sarmiento.
+
+136
+00:13:25,745 --> 00:13:30,377
+Así que nada, quería agradecerles
+la presencia de todos ustedes,
+
+137
+00:13:30,477 --> 00:13:32,781
+quería venir a verlo yo personalmente.
+
+138
+00:13:32,881 --> 00:13:37,338
+Vamos a agregar también, miren,
+el otro día, lo que son las redes, ¿no?
+
+139
+00:13:37,438 --> 00:13:40,818
+El domingo te llamé, ¿no?
+
+140
+00:13:40,918 --> 00:13:46,528
+Sí, hasta los domingos los llamo
+y los molesto a todos. Así de molesta.
+
+141
+00:13:46,628 --> 00:13:50,891
+Como el tábano socrático,
+decía un amigo mío,
+
+142
+00:13:50,991 --> 00:13:53,228
+justo como el tábano socrático.
+
+143
+00:13:53,328 --> 00:13:56,448
+Para los que no saben,
+Sócrates el filósofo decía
+
+144
+00:13:56,548 --> 00:13:59,162
+que había un tábano venía
+y le picaba permanentemente.
+
+145
+00:13:59,262 --> 00:14:05,539
+Había recibido un mensaje en el facebook
+donde a un señor se le había ocurrido
+
+146
+00:14:05,639 --> 00:14:13,504
+poner en cada vagón un número grande
+de celular donde se pudiera mandar SMS,
+
+147
+00:14:13,604 --> 00:14:18,113
+un mensajito, para que cuando alguien
+estuviera haciendo actos de vandalismo
+
+148
+00:14:18,213 --> 00:14:22,707
+dentro de un vagón, ese usuario,
+porque también es cierto que nos cuentan
+
+149
+00:14:22,807 --> 00:14:27,145
+que si alguien quiere impedirlo por ahí
+le empiezan a pegar, lo agregen,
+
+150
+00:14:27,245 --> 00:14:30,299
+entonces la gente tiene miedo de decir:
+"No hagas tal cosa o no hagas tal otra",
+
+151
+00:14:30,399 --> 00:14:33,606
+porque tiene miedo a que le peguen por ahí.
+
+152
+00:14:33,706 --> 00:14:39,057
+Entonces este señor sugería que pusiésemos
+un número bien grande de modo tal
+
+153
+00:14:39,157 --> 00:14:41,386
+que el usuario que está viendo
+que alguien está haciendo un acto
+
+154
+00:14:41,486 --> 00:14:47,355
+de vandalismo, marcara un SMS,
+lo avisara al guarda, ¿cómo se dice?
+
+155
+00:14:47,455 --> 00:14:49,592
+Se le conoce como guarda, ¿no?
+
+156
+00:14:49,692 --> 00:14:53,869
+Guardas o en la próxima estación
+que hubiera la policía ferroviaria
+
+157
+00:14:53,969 --> 00:14:58,225
+pudiera tomarlo, mira,
+sin imaginar lo que iba a pasar.
+
+158
+00:14:58,325 --> 00:15:01,639
+Me comuniqué con él porque me pareció
+realmente una muy buena idea
+
+159
+00:15:01,739 --> 00:15:06,168
+y que esté conectado, habría que ver
+también cómo lo podemos conectar,
+
+160
+00:15:06,268 --> 00:15:10,546
+acá la gente de sistemas lo puede hacer.
+
+161
+00:15:10,646 --> 00:15:14,974
+Así que creo que vamos a tener
+la posibilidad también de hacer esto
+
+162
+00:15:15,074 --> 00:15:19,670
+como hicimos con el tema de precios
+cuidados, un sistema parecido,
+
+163
+00:15:19,770 --> 00:15:23,845
+utilizar todo lo que es la tecnología
+y el uso de las redes sociales
+
+164
+00:15:23,945 --> 00:15:28,345
+que hoy es tan pero tan importante
+para este tipo de cosas, ¿cierto?
+
+165
+00:15:28,445 --> 00:15:31,712
+No solamente para comunicarnos
+entre nosotros sino para ayudarnos
+
+166
+00:15:31,812 --> 00:15:34,737
+entre nosotros porque en definitiva
+también las redes sociales tienen
+
+167
+00:15:34,837 --> 00:15:38,797
+que servir para eso,
+para ayudarnos entre nosotros.
+
+168
+00:15:38,897 --> 00:15:43,327
+Y no significa, porque algunos dirán:
+Ay, qué van a andar denunciando.
+
+169
+00:15:43,427 --> 00:15:46,909
+No, no es denunciar, es defender,
+defender porque no es justo
+
+170
+00:15:47,009 --> 00:15:55,463
+que se quemen los nuevos tapizados
+o que rayen y que escriban o que hagan
+
+171
+00:15:55,563 --> 00:15:59,680
+cosas, porque son bienes de todos,
+y aunque fueran bienes privados,
+
+172
+00:15:59,780 --> 00:16:02,443
+tampoco nadie tiene el derecho de ir
+a romper lo que es del otro,
+
+173
+00:16:02,543 --> 00:16:10,845
+me parece a mí una cuestión casi tan obvia
+que no requiere mayores explicaciones.
+
+174
+00:16:10,945 --> 00:16:14,421
+Pero como siempre digo, en Argentina
+siempre hay que explicar hasta lo obvio.
+
+175
+00:16:14,521 --> 00:16:20,332
+Así que bueno, lo llamé y lo puse
+en contacto a este usuario de facebook,
+
+176
+00:16:20,432 --> 00:16:24,703
+conseguí su teléfono, lo puse en contacto.
+
+177
+00:16:24,803 --> 00:16:27,568
+¿Y con la chica de las cooperativas?
+
+178
+00:16:27,668 --> 00:16:30,113
+¿Ya está con Mirta?
+
+179
+00:16:30,213 --> 00:16:31,736
+¿Y ya está todo solucionado?
+
+180
+00:16:31,836 --> 00:16:38,654
+Bueno, hablando de las redes sociales,
+una Mirta en facebook también,
+
+181
+00:16:38,754 --> 00:16:44,780
+cuando se descargaba el Sarmiento
+vio todo el polietileno, todo lo que es
+
+182
+00:16:44,880 --> 00:16:49,201
+el "packaging" de las locomotoras
+y de los vagones, y hay una gran
+
+183
+00:16:49,301 --> 00:16:53,701
+cooperativa en Moreno de muchos
+trabajadores que reciclan,
+
+184
+00:16:53,801 --> 00:16:58,544
+y se comunicó conmigo para ver
+si podíamos darle ese material,
+
+185
+00:16:58,644 --> 00:17:01,402
+que qué íbamos a hacer, si lo íbamos
+a desechar o lo íbamos a dejar.
+
+186
+00:17:01,502 --> 00:17:04,701
+Pero me dijo: No, no lo vamos a utilizar.
+
+187
+00:17:04,801 --> 00:17:07,162
+Bueno, se lo podemos dar a la gente
+de la cooperativa, es una cooperativa
+
+188
+00:17:07,262 --> 00:17:09,375
+muy grande de Moreno,
+para que lo puedan reciclar,
+
+189
+00:17:09,475 --> 00:17:12,306
+así que creo que se conectaron ya
+con Florencio también, me conseguí
+
+190
+00:17:12,406 --> 00:17:15,199
+el teléfono, pasé el teléfono,
+hablé con ella, hablé con el otro
+
+191
+00:17:15,299 --> 00:17:16,993
+y se lo pasé al Ministro.
+
+192
+00:17:17,093 --> 00:17:21,624
+Y digo esto porque es importante
+la forma de comunicarnos entre nosotros
+
+193
+00:17:21,724 --> 00:17:25,330
+y no para la pálida y la mala onda,
+sino para ayudar y para tener ideas
+
+194
+00:17:25,430 --> 00:17:31,451
+y soluciones que es lo que necesitamos
+los argentinos, para decirnos lo que habría
+
+195
+00:17:31,551 --> 00:17:37,442
+que hacer, el "habraqueísmo",
+eso lo saqué del Papa Francisco,
+
+196
+00:17:37,542 --> 00:17:41,264
+el Papa Francisco dice el habraqueísmo.
+
+197
+00:17:41,364 --> 00:17:46,103
+Yo le diría: Qué es el habraqueísmo,
+"habría que...", "habría que...",
+
+198
+00:17:46,203 --> 00:17:48,767
+y bueno, nosotros no estamos
+con el "habría", nosotros estamos
+
+199
+00:17:48,867 --> 00:17:53,000
+con el hoy, el ahora, el hacer
+y sobre todo con los que dicen "habría"
+
+200
+00:17:53,100 --> 00:17:57,125
+los que ya tendrían que haber hecho
+cuando fueron "que" y no lo hicieron,
+
+201
+00:17:57,225 --> 00:18:00,707
+te dicen "habría que"
+y cuando fueron no lo hicieron.
+
+202
+00:18:00,807 --> 00:18:05,304
+No importa, eso fue un chascarrillo mío.
+
+203
+00:18:05,404 --> 00:18:11,758
+Pero lo importante es que hoy en este
+centro tan importante de monitoreo
+
+204
+00:18:11,858 --> 00:18:18,646
+de trenes, tenemos gente capacitada,
+jóvenes argentinos, ni tan jóvenes,
+
+205
+00:18:18,746 --> 00:18:21,388
+por ahí vi canas también.
+
+206
+00:18:21,488 --> 00:18:25,968
+Están capacitados y que no tenemos
+que envidiarle, cosas como estas
+
+207
+00:18:26,068 --> 00:18:30,259
+hay en España, hay en China,
+y trajimos precisamente esas ideas
+
+208
+00:18:30,359 --> 00:18:38,567
+de haber estado allá para lograr
+la prestación de un mejor servicio
+
+209
+00:18:38,667 --> 00:18:40,426
+a todos los usuarios.
+
+210
+00:18:40,526 --> 00:18:42,605
+Yo sé que ustedes también quieren
+preguntarme sobre este accidente
+
+211
+00:18:42,705 --> 00:18:44,963
+que ocurrió seguramente
+en estos momentos.
+
+212
+00:18:45,063 --> 00:18:52,432
+Bueno, ya Berni fue para allá,
+debe haber llegado, seguramente
+
+213
+00:18:52,532 --> 00:18:56,619
+unos minutos más yo estoy yéndome
+de acá a la Casa Rosada para seguir
+
+214
+00:18:56,719 --> 00:19:00,687
+con mi trabajo y con más cosas
+y me voy a comunicar con él
+
+215
+00:19:00,787 --> 00:19:06,533
+para ver exactamente en qué estado
+están las cosas, aparentemente,
+
+216
+00:19:06,633 --> 00:19:11,824
+no quiero dar datos pero me dicen
+que mejor no dar porque no tenemos
+
+217
+00:19:11,924 --> 00:19:20,021
+certezas todavía y no parece prudente
+ni serio decir tal vez, habría...
+
+218
+00:19:20,121 --> 00:19:24,194
+Nada, cuando uno habla
+no tiene que decir "habría", sino "es".
+
+219
+00:19:24,294 --> 00:19:29,064
+Así que una vez que tengamos la información
+seguramente el Ministerio de Seguridad
+
+220
+00:19:29,164 --> 00:19:33,304
+dará las informaciones del caso.
+
+221
+00:19:33,404 --> 00:19:37,957
+Y bueno, hoy estamos aquí
+dando y brindando un servicio más.
+
+222
+00:19:38,057 --> 00:19:40,894
+Muchas gracias por la presencia
+de todos ustedes y todas ustedes.
+
+223
+00:19:40,994 --> 00:19:42,139
+Gracias.
+
+224
+00:19:42,239 --> 00:19:47,516
+Desde el centro de monitoreo de transporte
+ferroviario, han sido las palabras
+
+225
+00:19:47,616 --> 00:19:51,306
+de la señora Presidenta de la Nación,
+la doctora Cristina Fernández de Kirchner,
+
+226
+00:19:51,406 --> 00:19:55,172
+quien procede a retirarse junto al señor
+Ministro de Interior y Transporte,
+
+227
+00:19:55,272 --> 00:19:58,578
+contador Florencio Randazzo,
+y demás autoridades nacionales
+
+228
+00:19:58,678 --> 00:20:02,624
+y del transporte público
+hacia la Casa de Gobierno.
+
+229
+00:20:02,724 --> 00:20:07,022
+Muchas gracias por vuestra presencia,
+que tengan muy buena tarde y hasta siempre.
+

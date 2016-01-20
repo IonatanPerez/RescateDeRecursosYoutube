@@ -1,0 +1,934 @@
+1
+00:00:00,334 --> 00:00:04,234
+Buenos días a todos y a todas,
+
+2
+00:00:04,334 --> 00:00:06,467
+al señor Presidente
+de la Asociación Argentina
+
+3
+00:00:06,534 --> 00:00:10,734
+de Carreteras,
+Ingeniero Guillermo Cabana,
+
+4
+00:00:10,801 --> 00:00:13,701
+al Administrador General
+de Vialidad Nacional,
+
+5
+00:00:13,767 --> 00:00:15,868
+Ingeniero Nelson Periotti,
+
+6
+00:00:15,934 --> 00:00:19,033
+al Director Ejecutivo
+de los... Gustavo.
+
+7
+00:00:19,601 --> 00:00:21,934
+autoridades naciones,
+provinciales, municipales,
+
+8
+00:00:22,000 --> 00:00:24,434
+legisladores, representantes
+de entidades sociales,
+
+9
+00:00:24,501 --> 00:00:28,801
+gremiales, empresarias,
+compañeros de la UOCRA,
+
+10
+00:00:28,868 --> 00:00:31,801
+de la Cámara Argentina
+de la Construcción,
+
+11
+00:00:31,868 --> 00:00:36,200
+empresarios en general,
+señoras y señores.
+
+12
+00:00:36,267 --> 00:00:38,834
+Quiero, en principio, agradecer
+a la Asociación Argentina
+
+13
+00:00:38,901 --> 00:00:41,434
+de Carreteras esta invitación,
+
+14
+00:00:41,501 --> 00:00:44,501
+a poder charlar estos minutos
+con ustedes,
+
+15
+00:00:44,567 --> 00:00:50,067
+abrir el simposio, este encuentro,
+en donde, seguramente,
+
+16
+00:00:50,133 --> 00:00:54,534
+no solamente se va a hablar
+de todo lo que se hizo,
+
+17
+00:00:54,601 --> 00:00:56,834
+seguramente como lo hace
+habitualmente
+
+18
+00:00:56,901 --> 00:00:58,734
+la Asociación Argentina
+de Carreteras,
+
+19
+00:00:58,801 --> 00:01:02,834
+ellos eligen obras
+o analizan obras,
+
+20
+00:01:02,901 --> 00:01:04,767
+como recién planteaba
+el Ingeniero Cabana,
+
+21
+00:01:04,834 --> 00:01:06,534
+como la General Paz,
+
+22
+00:01:06,601 --> 00:01:09,100
+de importancia
+e impacto estratégico,
+
+23
+00:01:09,200 --> 00:01:12,834
+no solamente para la comodidad
+del tránsito de quienes
+
+24
+00:01:12,901 --> 00:01:16,634
+recorren o circulan el área
+metropolitana de Buenos Aires,
+
+25
+00:01:16,701 --> 00:01:23,100
+sino también para seguir
+trabajando en este crecimiento
+
+26
+00:01:23,200 --> 00:01:26,067
+que ha tenido la Argentina
+en los últimos 10 años
+
+27
+00:01:26,133 --> 00:01:28,834
+en materia de desarrollo
+económico y, fundamentalmente,
+
+28
+00:01:28,901 --> 00:01:30,801
+el sector industrial.
+
+29
+00:01:30,868 --> 00:01:36,634
+Está claro que una infraestructura
+funcional, ágil, dinámica
+
+30
+00:01:36,701 --> 00:01:39,434
+y en crecimiento permanente
+le da competitividad
+
+31
+00:01:39,501 --> 00:01:42,501
+a la económica porque baja
+los costos de la logísticas.
+
+32
+00:01:42,567 --> 00:01:44,667
+Esto es fundamental.
+
+33
+00:01:44,734 --> 00:01:49,567
+Esto es la tarea en la que
+debemos seguir empeñándonos.
+
+34
+00:01:49,634 --> 00:01:53,734
+Estamos en vísperas
+de un año electoral donde,
+
+35
+00:01:53,801 --> 00:01:56,200
+seguramente, la Asociación
+Argentina de Carreteras
+
+36
+00:01:56,267 --> 00:01:59,501
+y distintas entidades
+intermedias escucharán
+
+37
+00:01:59,567 --> 00:02:02,901
+de los distintos candidatos
+cuáles son las propuestas
+
+38
+00:02:02,968 --> 00:02:07,234
+que surgen, y nosotros creemos
+y sostenemos que debemos
+
+39
+00:02:07,300 --> 00:02:11,400
+apoyar y sustentar aquellos
+proyectos que impulsen
+
+40
+00:02:11,467 --> 00:02:14,901
+y profundicen este esquema
+de trabajo y desarrollo
+
+41
+00:02:14,968 --> 00:02:18,467
+de la infraestructura que llevaron
+adelante los dos presidentes
+
+42
+00:02:18,534 --> 00:02:21,067
+de esta década, Néstor
+y Cristina Kirchner,
+
+43
+00:02:21,133 --> 00:02:24,334
+porque allí está el fenómeno
+de la gobernabilidad,
+
+44
+00:02:24,400 --> 00:02:28,267
+ahí se plantea claramente
+la sustentabilidad del gobierno
+
+45
+00:02:28,367 --> 00:02:31,501
+porque un plan de infraestructura
+como el que ha sido llevado
+
+46
+00:02:31,567 --> 00:02:34,334
+adelante en estos últimos
+10 años,
+
+47
+00:02:34,400 --> 00:02:38,701
+es el que le da vida
+a la ocupación plena,
+
+48
+00:02:38,767 --> 00:02:41,234
+le da vida al crecimiento
+del Producto Bruto,
+
+49
+00:02:41,300 --> 00:02:44,133
+le da vida al desendeudamiento
+permanente que ha tenido
+
+50
+00:02:44,200 --> 00:02:46,767
+la Argentina en todos
+estos años.
+
+51
+00:02:46,934 --> 00:02:49,400
+Quiero definir brevemente
+el fenomenal impacto
+
+52
+00:02:49,467 --> 00:02:52,634
+que tuvieron las obras viales
+ejecutadas a partir
+
+53
+00:02:52,734 --> 00:02:55,701
+de la decisión geopolítica
+del año 2003,
+
+54
+00:02:55,767 --> 00:02:58,234
+del entonces Presidente
+Néstor Kirchner,
+
+55
+00:02:58,300 --> 00:03:01,234
+y continuada
+por la Presidenta Cristina,
+
+56
+00:03:01,300 --> 00:03:03,634
+llevando a cabo el plan
+de obras publicas más grande
+
+57
+00:03:03,701 --> 00:03:07,467
+de la historia, el cual lleva
+acumulado en todas las áreas
+
+58
+00:03:07,534 --> 00:03:09,634
+de infraestructura una inversión
+que supera
+
+59
+00:03:09,701 --> 00:03:12,501
+los 350.000 millones de pesos.
+
+60
+00:03:12,567 --> 00:03:15,701
+Argentina más que duplicó
+su parque automotor
+
+61
+00:03:15,767 --> 00:03:17,901
+en los últimos 10 años.
+
+62
+00:03:18,000 --> 00:03:19,901
+En el caso de los automóviles
+particulares,
+
+63
+00:03:19,968 --> 00:03:26,400
+pasó de 4.600.000 a 9 millones
+y medio de unidades en circulación
+
+64
+00:03:26,467 --> 00:03:29,467
+con un incremento del 104%.
+
+65
+00:03:29,534 --> 00:03:32,033
+En el caso del transporte
+de cargas, reparto comercial
+
+66
+00:03:32,100 --> 00:03:39,934
+y pasajeros, se pasó de 1.200.000
+a 2.900.000 unidades, un 142% más.
+
+67
+00:03:40,000 --> 00:03:42,000
+Al igual que las variables
+macroeconómicas
+
+68
+00:03:42,167 --> 00:03:44,767
+en el interior,
+el parque automotor creció más
+
+69
+00:03:44,834 --> 00:03:47,767
+que en los grandes centros
+de consumo, o sea,
+
+70
+00:03:47,868 --> 00:03:53,400
+en el noroeste argentinos,
+que era una zona postergada,
+
+71
+00:03:53,467 --> 00:03:56,767
+olvidada, marginada,
+hasta el año 2002,
+
+72
+00:03:56,834 --> 00:04:00,367
+creció el 131%
+el parque automotor.
+
+73
+00:04:00,434 --> 00:04:04,968
+En la Patagonia y el Comahue,
+el 129%.
+
+74
+00:04:05,067 --> 00:04:07,467
+El 122% en Cuyo.
+
+75
+00:04:07,534 --> 00:04:10,901
+El 113% en el NEA.
+
+76
+00:04:11,000 --> 00:04:14,901
+Y el 85% en el área metropolitana,
+
+77
+00:04:14,968 --> 00:04:16,901
+90% en Córdoba y Santa Fe.
+
+78
+00:04:16,968 --> 00:04:18,901
+Esto habla a las claras
+de una Argentina
+
+79
+00:04:18,968 --> 00:04:19,968
+que busca equilibrarse,
+
+80
+00:04:20,033 --> 00:04:23,567
+de una Argentina que busca
+generar igualdad de oportunidades,
+
+81
+00:04:23,634 --> 00:04:26,934
+en una Argentina donde además
+de incorporar a la gente,
+
+82
+00:04:27,000 --> 00:04:29,434
+incorporamos la región
+donde la gente vive,
+
+83
+00:04:29,501 --> 00:04:34,400
+de nada sirve que los habitantes,
+que los ciudadanos
+
+84
+00:04:34,467 --> 00:04:38,000
+se agolpen en los grandes
+centros urbanos,
+
+85
+00:04:38,067 --> 00:04:42,033
+hay que darle viabilidad,
+hay que darle sustentabilidad,
+
+86
+00:04:42,133 --> 00:04:47,267
+en el marco de una gestión
+eficiente al interior del país.
+
+87
+00:04:47,367 --> 00:04:49,834
+Esto es lo que hemos hecho
+con las líneas eléctricas,
+
+88
+00:04:49,901 --> 00:04:54,367
+esto hemos hecho cuando
+trabajamos en la Ruta 9,
+
+89
+00:04:54,434 --> 00:04:56,901
+cuando trabajamos en
+la autopista Ruta 14,
+
+90
+00:04:56,968 --> 00:05:01,200
+cuando trabajamos en el cuarto
+carril de la General Paz.
+
+91
+00:05:01,300 --> 00:05:03,734
+Es una muestra ineludible
+de los resultados
+
+92
+00:05:03,801 --> 00:05:06,267
+del modelo de desarrollo
+con inclusión social
+
+93
+00:05:06,334 --> 00:05:11,167
+que ha permitido duplicar el PBI
+en los últimos 10 años.
+
+94
+00:05:11,601 --> 00:05:13,834
+El impacto del crecimiento
+del parque automotor
+
+95
+00:05:13,934 --> 00:05:18,434
+se puede constatar fácilmente
+con algunos ejemplos
+
+96
+00:05:18,501 --> 00:05:21,567
+de crecimiento del transito
+vehicular.
+
+97
+00:05:22,367 --> 00:05:25,467
+El movimiento anual de vehículos
+en los peajes de las concesiones
+
+98
+00:05:25,534 --> 00:05:30,067
+de las rutas viales paso
+de 85 a 160 millones,
+
+99
+00:05:30,133 --> 00:05:33,167
+un incremento del 88%,
+
+100
+00:05:33,267 --> 00:05:35,734
+mientras que en los peajes
+de acceso a la Ciudad Autónoma
+
+101
+00:05:35,834 --> 00:05:39,901
+la cantidad de vehículos
+se incrementó de 230 millones
+
+102
+00:05:40,000 --> 00:05:44,167
+a 366, un 59%.
+
+103
+00:05:44,234 --> 00:05:47,067
+Estos indicadores son una muestra
+indiscutible del resultado
+
+104
+00:05:47,133 --> 00:05:50,868
+de las obras ejecutadas
+que acompañaron y posibilitaron
+
+105
+00:05:50,934 --> 00:05:53,434
+este fenomenal crecimiento
+del parque automotor
+
+106
+00:05:53,501 --> 00:05:56,000
+y del tránsito vehicular
+en la Argentina,
+
+107
+00:05:56,100 --> 00:06:00,400
+en el marco de un país que duplicó
+su Producto Bruto,
+
+108
+00:06:00,501 --> 00:06:02,000
+que duplicó su actividad
+económica,
+
+109
+00:06:02,067 --> 00:06:04,968
+que duplicó su actividad
+industrial.
+
+110
+00:06:05,033 --> 00:06:07,000
+Seguramente las obras
+de mayor envergadura,
+
+111
+00:06:07,100 --> 00:06:10,834
+como la Ruta 14,
+la Autopista Rosario-Córdoba,
+
+112
+00:06:10,934 --> 00:06:12,701
+la pavimentación de la Ruta 40
+
+113
+00:06:12,767 --> 00:06:14,601
+o la ampliación
+de la General Paz,
+
+114
+00:06:14,701 --> 00:06:18,501
+sean las de mayor renombre
+y las más reconocidas.
+
+115
+00:06:18,601 --> 00:06:21,567
+No tiene que caber la menor
+duda que igualmente importante
+
+116
+00:06:21,667 --> 00:06:25,200
+fueron el resto de los kilómetros
+de autovías y autopistas,
+
+117
+00:06:25,300 --> 00:06:29,868
+y los 4.500 kilómetros de rutas
+provinciales y nacionales
+
+118
+00:06:29,968 --> 00:06:33,234
+pavimentadas en el interior
+de la Argentina.
+
+119
+00:06:33,334 --> 00:06:36,501
+El futuro nos plantea
+el desafío de seguir construyendo
+
+120
+00:06:36,601 --> 00:06:40,467
+infraestructura para poder
+continuar propiciando
+
+121
+00:06:40,567 --> 00:06:43,434
+el desarrollo y la competitividad
+de la economía.
+
+122
+00:06:43,534 --> 00:06:46,801
+Siempre recalco que cuando
+asumimos la gestión de gobierno
+
+123
+00:06:46,901 --> 00:06:51,467
+no encontramos ni un papel
+escrito en un plan de obras,
+
+124
+00:06:51,567 --> 00:06:56,234
+sean públicas, viales,
+de vivienda, de energía.
+
+125
+00:06:56,334 --> 00:06:58,968
+Bastaba observar el mapa
+de infraestructura existente
+
+126
+00:06:59,033 --> 00:07:01,701
+que daba una imagen
+de una Argentina dividida
+
+127
+00:07:01,767 --> 00:07:04,634
+en tres territorios:
+la Argentina central,
+
+128
+00:07:04,701 --> 00:07:07,000
+Buenos Aires, Córdoba y Santa Fe.
+
+129
+00:07:07,100 --> 00:07:09,934
+El norte argentino y Cuyo.
+
+130
+00:07:10,033 --> 00:07:14,634
+Y el noreste argentino,
+que era el país inviable,
+
+131
+00:07:14,701 --> 00:07:18,501
+el país que cuando, recuerdo,
+yo era Ministro de Economía
+
+132
+00:07:18,601 --> 00:07:22,501
+de mi provincia, de Santa Cruz,
+veníamos a las reuniones
+
+133
+00:07:22,601 --> 00:07:25,033
+con los miembros del Gabinete
+de la década neoliberal
+
+134
+00:07:25,100 --> 00:07:26,801
+y decían directamente
+a los gobernadores
+
+135
+00:07:26,901 --> 00:07:29,267
+que sus provincias
+no era viables,
+
+136
+00:07:29,367 --> 00:07:32,601
+sin darles ninguna propuesta
+ni ninguna alternativa.
+
+137
+00:07:32,701 --> 00:07:35,501
+Ahí se generaron los grandes
+conflictos sociales
+
+138
+00:07:35,567 --> 00:07:38,234
+que ocasionaron en el 2001.
+
+139
+00:07:38,367 --> 00:07:42,501
+Del Rio Colorado al sur,
+que como decía Néstor Kirchner,
+
+140
+00:07:42,601 --> 00:07:44,801
+era el patio trasero
+de la Argentina,
+
+141
+00:07:44,901 --> 00:07:51,067
+era el patio trasero donde
+se sacaban en forma indiscriminada
+
+142
+00:07:51,133 --> 00:07:54,234
+sus recursos energéticos,
+fundamentalmente,
+
+143
+00:07:54,300 --> 00:07:59,167
+y en muchos casos se exportaban
+a valores venales al exterior,
+
+144
+00:07:59,267 --> 00:08:05,000
+luego cobrando la diferencia,
+el delta, se cobraba afuera,
+
+145
+00:08:05,067 --> 00:08:07,667
+no dentro de las fronteras
+argentinas.
+
+146
+00:08:07,734 --> 00:08:09,501
+No se puede hablar
+de unidad nacional
+
+147
+00:08:09,601 --> 00:08:12,968
+si las provincias se encuentran
+físicamente aisladas,
+
+148
+00:08:13,067 --> 00:08:15,534
+o si mínimamente no tienen
+desarrollado una red
+
+149
+00:08:15,634 --> 00:08:18,167
+de transporte terrestre
+confiable.
+
+150
+00:08:18,234 --> 00:08:20,267
+Por eso, es vital un sistema
+de rutas que conecte
+
+151
+00:08:20,334 --> 00:08:24,033
+todas las regiones, porque
+contar con un sistema seguro
+
+152
+00:08:24,133 --> 00:08:28,033
+e integrado significa que el país
+es uno solo.
+
+153
+00:08:28,100 --> 00:08:30,901
+Las obras viales que
+se realizaron durante 11 años
+
+154
+00:08:31,000 --> 00:08:33,501
+constituyen un estimulo
+de la producción
+
+155
+00:08:33,567 --> 00:08:36,133
+y la puesta en valor
+de regiones históricamente
+
+156
+00:08:36,200 --> 00:08:39,534
+consideradas marginales
+o inviables.
+
+157
+00:08:39,634 --> 00:08:42,467
+El ejemplo, en el caso
+de la agricultura,
+
+158
+00:08:42,567 --> 00:08:46,834
+la de superficies sembradas
+se incrementó en un 26%,
+
+159
+00:08:46,968 --> 00:08:50,267
+que representa casi
+5 millones de hectáreas más,
+
+160
+00:08:50,367 --> 00:08:53,534
+el equivalente a la superficie
+de la provincia de Formosa,
+
+161
+00:08:53,634 --> 00:08:56,734
+o tres veces de la provincia
+de Tucumán.
+
+162
+00:08:56,834 --> 00:09:01,234
+Este incremente claramente
+estuvo liderado fuertemente
+
+163
+00:09:01,334 --> 00:09:04,667
+con la expansión de la frontera
+agrícola,
+
+164
+00:09:04,767 --> 00:09:08,767
+sin las obras de infraestructura,
+nacionales o provinciales,
+
+165
+00:09:09,000 --> 00:09:15,400
+hubiera sido imposible, inviable,
+canalizar esta mayor producción
+
+166
+00:09:15,467 --> 00:09:17,534
+hacia las industrias
+o a los puertos
+
+167
+00:09:17,601 --> 00:09:20,033
+para su posterior exportación.
+
+168
+00:09:20,234 --> 00:09:22,767
+Por eso tenemos que tomar
+conciencia del verdadero
+
+169
+00:09:22,834 --> 00:09:25,934
+protagonismo que tuvo
+este sector,
+
+170
+00:09:26,033 --> 00:09:29,567
+por eso es fundamental que esto
+se haga en este ámbito,
+
+171
+00:09:29,634 --> 00:09:31,801
+con la Asociación Argentina
+de Carreteras de por medio
+
+172
+00:09:31,868 --> 00:09:35,434
+que siempre trabajó y bregó
+para que esto sea posible,
+
+173
+00:09:35,534 --> 00:09:38,567
+y entendemos que va a seguir
+bregando para que continúe.
+
+174
+00:09:38,667 --> 00:09:42,734
+Esta es la tarea en la que
+debemos estar involucrados todos
+
+175
+00:09:42,834 --> 00:09:44,968
+los que estamos en este salón,
+
+176
+00:09:45,033 --> 00:09:49,400
+con la plena consciencia
+que había que enfrentar
+
+177
+00:09:49,467 --> 00:09:51,767
+la situación de abandono
+en materia de infraestructura,
+
+178
+00:09:51,868 --> 00:09:54,067
+que era un cepo para
+el crecimiento de la Argentina,
+
+179
+00:09:54,167 --> 00:09:57,434
+tanto Néstor Kirchner,
+como la Presidenta Cristina,
+
+180
+00:09:57,501 --> 00:09:59,467
+hicieron aquello que desde
+hacía décadas
+
+181
+00:09:59,534 --> 00:10:03,467
+se había dejado de hacer:
+planificar obras y ejecutarlas,
+
+182
+00:10:03,534 --> 00:10:05,801
+o sea, gestionar.
+
+183
+00:10:05,901 --> 00:10:10,601
+En estos 10 años, todo juntos,
+bajo el liderazgo de Néstor
+
+184
+00:10:10,667 --> 00:10:14,901
+y Cristina, en la Argentina
+ejecutamos el plan de obras
+
+185
+00:10:15,000 --> 00:10:17,200
+más grande de toda la historia,
+
+186
+00:10:17,267 --> 00:10:20,567
+el cual debe seguir,
+el cual debe continuar
+
+187
+00:10:20,634 --> 00:10:23,801
+hacia el futuro para continuar
+transitando el camino
+
+188
+00:10:23,868 --> 00:10:26,534
+del crecimiento, de la inclusión,
+
+189
+00:10:26,601 --> 00:10:31,200
+y fundamentalmente de un país
+en el que sea posible vivir,
+
+190
+00:10:31,267 --> 00:10:34,200
+en un país en el que podamos
+convivir en armonía,
+
+191
+00:10:34,267 --> 00:10:38,033
+en crecimiento, con desarrollo
+y con plena ocupación.
+
+192
+00:10:38,100 --> 00:10:39,601
+Muchísimas gracias.
+

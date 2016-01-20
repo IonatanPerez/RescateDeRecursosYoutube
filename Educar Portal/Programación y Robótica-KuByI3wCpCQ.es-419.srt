@@ -1,0 +1,161 @@
+1
+00:00:02,039 --> 00:00:02,981
+Pasó otro GAP.
+
+2
+00:00:02,981 --> 00:00:05,355
+¡Vamos todavía! Uh, qué puntaje, dios mío.
+
+3
+00:00:05,805 --> 00:00:08,029
+Vamos, vamos. ¡Suba!
+
+4
+00:00:08,079 --> 00:00:08,748
+Sí, sí, sí.
+
+5
+00:00:08,748 --> 00:00:09,534
+Cruce, cruce. ¡Bien!
+
+6
+00:00:09,534 --> 00:00:10,713
+¡Vamos!
+
+7
+00:00:10,888 --> 00:00:13,053
+Dale, dale. ¡Cruce!
+
+8
+00:00:13,053 --> 00:00:17,096
+Vamos, chiquito; vamos, chiquito.
+¡Vamos! ¡Sí!
+
+9
+00:00:22,477 --> 00:00:27,013
+Fabriqué un robot y lo programé
+ con la netbook. Es un robot de rescate.
+
+10
+00:00:27,013 --> 00:00:30,750
+La Universidad de La Punta de San Luis 
+me llevó a México con el robot a competir.
+
+11
+00:00:30,750 --> 00:00:34,381
+Allá en México colocamos el robot 
+dentro de una maqueta que simulaba
+
+12
+00:00:34,381 --> 00:00:37,594
+un ambiente destruido, 
+el robot debía esquivar obstáculos, 
+
+13
+00:00:37,594 --> 00:00:43,009
+encontrar el camino para salir del edificio, 
+buscar a una persona sobreviviente, 
+
+14
+00:00:43,009 --> 00:00:47,060
+rescatarla y llevarla a una zona de rescate. 
+Para simular a la persona, usábamos
+
+15
+00:00:47,060 --> 00:00:50,183
+una lata de gaseosa y el robot 
+era de un tamaño pequeño.
+
+16
+00:00:50,333 --> 00:00:53,310
+En esa competencia, obtuvimos 
+un puesto bastante alto 
+
+17
+00:00:53,310 --> 00:00:56,491
+y tengo que destacar que la netbook 
+me fue de gran utilidad. 
+
+18
+00:00:56,491 --> 00:01:00,253
+Yo en mi casa tengo una computadora 
+de escritorio de hace más de seis años. 
+
+19
+00:01:00,253 --> 00:01:03,247
+Si no hubiera tenido la netbook, 
+no hubiera podido programar todo esto 
+
+20
+00:01:03,247 --> 00:01:06,604
+ya que la computadora es muy vieja,
+ como les decía, y por lo tanto muy lenta. 
+
+21
+00:01:06,604 --> 00:01:10,724
+Aparte, al robot no lo terminé 
+antes de viajar, sino que lo tuve 
+
+22
+00:01:10,724 --> 00:01:13,493
+que terminar en México. 
+Entonces aproveché y me llevé la netbook 
+
+23
+00:01:13,493 --> 00:01:15,334
+allá y lo terminé de programar allá.
+
+24
+00:01:15,334 --> 00:01:19,166
+Si un chico quiere o alguna persona
+desea aprender sobre el tema, 
+
+25
+00:01:19,166 --> 00:01:23,623
+puede aprender por internet buscando 
+en Google información acerca de programación, 
+
+26
+00:01:23,623 --> 00:01:27,111
+principalmente en lenguaje C++ 
+o en Arduino, que son lenguajes 
+
+27
+00:01:27,111 --> 00:01:29,431
+muy conocidos a nivel mundial.
+
+28
+00:01:29,431 --> 00:01:33,527
+Cualquier persona puede iniciarse en esto, 
+no hace falta ser ingeniero
+
+29
+00:01:33,527 --> 00:01:36,685
+ o estar estudiando una carrera avanzada,
+ que es un prejuicio que tienen
+
+30
+00:01:36,685 --> 00:01:40,600
+muchas personas. Muchos piensan que, 
+si no sos ingeniero, no podés armar un robot, 
+
+31
+00:01:40,600 --> 00:01:44,965
+pero claramente se demostró lo contrario. 
+Con un poco de práctica, ¿no? 
+
+32
+00:01:44,965 --> 00:01:49,485
+Y obviamente con gusto sobre estos temas; 
+a uno tiene que gustarle esto porque, 
+
+33
+00:01:49,485 --> 00:01:55,303
+si no, no sirve. Si uno se interesa por esto,
+ va a investigar, va a buscar en internet 
+
+34
+00:01:55,303 --> 00:02:00,534
+y va a practicar, y con práctica es que 
+se logra todo este aprendizaje.
+

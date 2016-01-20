@@ -1,0 +1,3628 @@
+1
+00:00:00,185 --> 00:00:02,880
+Nos comunicamos, a continuación por
+videoconferencia con el núcleo de
+
+2
+00:00:02,890 --> 00:00:06,085
+acceso al conocimiento de la ciudad
+de Paraná, provincia de Entre Ríos.
+
+3
+00:00:06,085 --> 00:00:09,138
+Allí se encuentran el Secretario de
+Comunicaciones de la provincia de
+
+4
+00:00:09,138 --> 00:00:12,225
+Entre Ríos, Sergio Del Canto, y el
+coordinador del programa NAT,
+
+5
+00:00:12,225 --> 00:00:14,005
+Ingeniero Fernando Ibarra.
+
+6
+00:00:14,005 --> 00:00:17,690
+Ambos nos explicaran sobre el uso de la
+herramienta para el despliegue territorial
+
+7
+00:00:17,690 --> 00:00:18,813
+de la política pública.
+
+8
+00:00:23,439 --> 00:00:27,902
+Tanto al Secretario de Comunicaciones
+de la provincia, el compañero Canto,
+
+9
+00:00:27,902 --> 00:00:31,761
+como también al coordinador del programa
+NAT, Ingeniero Fernando Ibarra,
+
+10
+00:00:32,707 --> 00:00:38,866
+bueno, quería preguntarle cuales son las
+expectativas que tiene Entre Ríos respecto
+
+11
+00:00:38,876 --> 00:00:46,705
+a esta nueva plataforma de identificación
+de problemáticas que nosotros...
+
+12
+00:00:46,705 --> 00:00:52,150
+en términos justicialistas o peronistas,
+vamos a definir como de identificación de
+
+13
+00:00:52,150 --> 00:00:55,370
+prioridades, porque ahí
+donde hay una problemática,
+
+14
+00:00:55,380 --> 00:00:58,463
+ahí donde hay una necesidad,
+hay un derecho decía Perón.
+
+15
+00:00:58,463 --> 00:01:03,912
+Y nuestra obligación es dar respuesta
+concreta y efectiva a las problemáticas
+
+16
+00:01:03,912 --> 00:01:05,174
+que plantea nuestra gente.
+
+17
+00:01:05,874 --> 00:01:10,779
+Y creo que ustedes van a cumplir un
+rol fundamental allí, desde Paraná,
+
+18
+00:01:10,789 --> 00:01:16,233
+al poder difundir para que todos los NAT
+del país puedan llevar adelante esta
+
+19
+00:01:16,233 --> 00:01:21,438
+importante tarea que tiene asignada,
+que es la posibilidad de que nuestro
+
+20
+00:01:21,438 --> 00:01:27,176
+acceda masivamente al proceso de
+digitalización global que se está dando
+
+21
+00:01:27,176 --> 00:01:33,517
+a nivel mundial y a este proceso de
+gigantesca confluencia tecnológica
+
+22
+00:01:33,517 --> 00:01:38,141
+que se va dando en el mundo, y que nuestra
+Presidenta interpretó con absoluta claridad
+
+23
+00:01:38,141 --> 00:01:45,120
+días pasados enviando al Congreso de la
+Nación la nueva ley que ampara la idea
+
+24
+00:01:45,120 --> 00:01:47,143
+de una Argentina digitalizada.
+
+25
+00:01:47,143 --> 00:01:50,028
+Así que, compañeros, les
+paso el uso de la palabra.
+
+26
+00:01:50,028 --> 00:01:53,209
+Los escuchamos atentamente,
+y mucha fuerza en la tarea.
+
+27
+00:01:57,409 --> 00:01:59,030
+Bueno. Muy buenos días.
+
+28
+00:01:59,030 --> 00:02:02,193
+Desde ya muchas gracias
+por esta oportunidad.
+
+29
+00:02:03,152 --> 00:02:07,479
+Nuestro saludo del pueblo entrerriano,
+del gobernador, Sergio Urribarri.
+
+30
+00:02:07,479 --> 00:02:12,444
+Estamos con Fernando del
+Ministerio de Planificación.
+
+31
+00:02:12,887 --> 00:02:19,682
+Quiero saludar al compañero ministro
+de Vido, a los compañeros presentes.
+
+32
+00:02:19,682 --> 00:02:28,152
+Y desde Entre Ríos, lo que podemos decir
+es que una vez más el Estado Nacional,
+
+33
+00:02:28,152 --> 00:02:34,750
+el Gobierno Nacional, con hechos concretos
+verifica, concreta proyectos de inclusión.
+
+34
+00:02:35,435 --> 00:02:39,177
+Yo debo decir, y es bueno saber, en la
+provincia de Entre Ríos se están
+
+35
+00:02:39,177 --> 00:02:46,591
+finalizando, en este momento, el
+tendido de 2.700 km de fibra óptica,
+
+36
+00:02:46,591 --> 00:02:49,162
+de lo que son las redes
+troncales y provinciales.
+
+37
+00:02:49,162 --> 00:02:51,156
+Estamos funcionando siete NACs.
+
+38
+00:02:51,852 --> 00:02:54,162
+Y en referencia a lo que decía
+el compañero ministro de Vido,
+
+39
+00:02:54,162 --> 00:02:59,035
+Perón decía algo que es bueno recordarlo.
+
+40
+00:02:59,035 --> 00:03:04,690
+"En política se obra tan bien
+como bien informado se esté."
+
+41
+00:03:06,578 --> 00:03:07,509
+La...
+
+42
+00:03:08,223 --> 00:03:15,031
+la concreción, la posibilidad de esta
+plataforma a nivel nacional que tiene
+
+43
+00:03:15,031 --> 00:03:18,759
+el concepto de inclusión
+y de federalización
+
+44
+00:03:18,759 --> 00:03:22,792
+porque está dispuesta y va a estar al
+servicio de todos y cada uno de los
+
+45
+00:03:22,792 --> 00:03:25,805
+habitantes de nuestro pueblo,
+de nuestras ciudades.
+
+46
+00:03:25,805 --> 00:03:31,067
+Realmente, es un concepto que nutre y es
+parte vital del espíritu de este proyecto
+
+47
+00:03:31,067 --> 00:03:32,846
+nacional del cual somos parte.
+
+48
+00:03:33,086 --> 00:03:36,733
+Por lo tanto, los entrerrianos,
+en este caso en particular,
+
+49
+00:03:36,733 --> 00:03:43,018
+debemos reconocer, agradecer
+y nos sentimos parte
+
+50
+00:03:43,890 --> 00:03:47,055
+de este proyecto formidable,
+que en este caso en particular,
+
+51
+00:03:47,055 --> 00:03:51,558
+va a disponer a disposición del pueblo
+argentino, de sus instituciones,
+
+52
+00:03:51,558 --> 00:03:52,576
+sus organizaciones...
+
+53
+00:03:53,500 --> 00:03:58,712
+esta plataforma que va a contar
+información fidedigna actualizada
+
+54
+00:03:58,712 --> 00:04:05,176
+y que nos va a permitir desarrollar,
+planificar las mejores políticas públicas
+
+55
+00:04:05,751 --> 00:04:07,925
+destinadas al mejoramiento
+de nuestro pueblo.
+
+56
+00:04:08,718 --> 00:04:13,073
+Así que, compañero ministro y
+a quienes están allí presentes,
+
+57
+00:04:13,798 --> 00:04:17,353
+nuestro reconocimiento,
+nuestro agradecimiento,
+
+58
+00:04:17,363 --> 00:04:24,580
+y un orgullo de que desde el NAC
+de Paraná podamos ser parte de esto,
+
+59
+00:04:24,590 --> 00:04:31,005
+en donde los 7 NAC entrerrianos
+y los más de 170 NAC del país,
+
+60
+00:04:31,005 --> 00:04:33,293
+que también demuestra
+esta política de inclusión,
+
+61
+00:04:33,813 --> 00:04:36,387
+van a ser las aulas, los lugares...
+
+62
+00:04:36,479 --> 00:04:41,883
+abiertos a nuestro pueblo para el
+aprendizaje, la comprensión y el
+
+63
+00:04:41,883 --> 00:04:43,548
+desarrollo de estas políticas públicas.
+
+64
+00:04:43,548 --> 00:04:46,163
+Así que, nuestro saludo,
+nuestro agradecimiento
+
+65
+00:04:46,163 --> 00:04:48,445
+con total franqueza.
+
+66
+00:04:48,973 --> 00:04:53,716
+Muchos saludos a todos allí.
+Un gran abrazo y mi reconocimiento al
+
+67
+00:04:53,716 --> 00:04:56,706
+gobernador Urribarri,
+al compañero Urribarri
+
+68
+00:04:56,706 --> 00:04:59,634
+por el impulso que le ha
+dado a todas estas políticas,
+
+69
+00:04:59,634 --> 00:05:04,470
+que desde el Gobierno Nacional en
+materia de comunicaciones y digitalización
+
+70
+00:05:04,470 --> 00:05:10,392
+y de universalización de acceso a la
+tecnología de la información y de las
+
+71
+00:05:10,392 --> 00:05:11,669
+comunicaciones, ha hecho,
+
+72
+00:05:11,669 --> 00:05:14,873
+de los legisladores entrerrianos
+que apoyan el proyecto.
+
+73
+00:05:14,873 --> 00:05:18,130
+Un gran abrazo para todos,
+allí en Entre Ríos.
+
+74
+00:05:18,130 --> 00:05:22,426
+Y muchas gracias por la tarea de difusión
+que están llevando ya a nivel nacional
+
+75
+00:05:22,436 --> 00:05:24,487
+de los núcleos de acceso al conocimiento.
+
+76
+00:05:24,487 --> 00:05:25,442
+Un abrazo para todos.
+
+77
+00:05:27,223 --> 00:05:28,997
+Igualmente, un abrazo.
+
+78
+00:05:34,466 --> 00:05:37,972
+Entramos ahora en contacto con el
+centro nacional operativo de CiberSalud,
+
+79
+00:05:37,972 --> 00:05:40,867
+donde se encuentran presentes:
+el subsecretario de Salud Comunitaria
+
+80
+00:05:40,877 --> 00:05:43,916
+del Ministerio de Salud de la Nación,
+Doctor Nicolás Kreplak;
+
+81
+00:05:43,916 --> 00:05:47,778
+la presidenta de la Comisión Nacional de
+Energía Atómica, licenciada Norma Boero;
+
+82
+00:05:47,788 --> 00:05:52,497
+la directora de área del Instituto de
+Oncología Ángel Roffo, Dra. Berta Roth;
+
+83
+00:05:52,497 --> 00:05:55,056
+y el director de presupuesto
+del Ministerio de Planificación,
+
+84
+00:05:55,056 --> 00:05:56,818
+licenciado Nicolás Michudis,
+
+85
+00:05:56,828 --> 00:06:00,147
+quienes nos van a explicar la utilización
+de la plataforma para la planificación de
+
+86
+00:06:00,147 --> 00:06:02,542
+la instalación de centros
+de medicina nuclear.
+
+87
+00:06:04,371 --> 00:06:06,805
+Buenos días, a todos.
+
+88
+00:06:06,815 --> 00:06:13,023
+Al subsecretario de salud comunitaria
+del Ministerio de Salud, Nicolás Kreplak,
+
+89
+00:06:13,023 --> 00:06:14,478
+un gran abrazo allá;
+
+90
+00:06:14,478 --> 00:06:21,006
+a la señora presidenta de la Comisión
+Nacional de Energía Atómica, Norma Boero;
+
+91
+00:06:21,006 --> 00:06:25,407
+a la directora del Hospital Roffo,
+Doctora Bertha Roth;
+
+92
+00:06:25,407 --> 00:06:29,120
+y al director de presupuesto
+del Ministerio de Planificación,
+
+93
+00:06:29,120 --> 00:06:33,979
+compañero Michudis, que estamos
+haciendo un trabajo muy fuerte...
+
+94
+00:06:34,975 --> 00:06:39,664
+de la mano de la Comisión
+Nacional de Energía Atómica,
+
+95
+00:06:39,664 --> 00:06:42,655
+de Juan Manzur del Ministerio de Salud,
+
+96
+00:06:43,447 --> 00:06:50,208
+y fundamentalmente, también ahora, esta
+etapa de fuerte federalización del acceso
+
+97
+00:06:50,208 --> 00:06:55,947
+a la salud o a los medios de terapia que
+nos brinda el desarrollo nuclear argentino.
+
+98
+00:06:55,947 --> 00:07:03,116
+A lo largo y a lo ancho del país, vamos
+a lanzar centros de medicina nuclear
+
+99
+00:07:03,116 --> 00:07:07,468
+en la Patagonia, en Comodoro,
+en Bariloche, en Río Gallegos,
+
+100
+00:07:07,468 --> 00:07:12,469
+en Formosa, y estamos trabajando
+seguramente en todo el norte argentino.
+
+101
+00:07:12,469 --> 00:07:17,624
+No quiero dejar de nombrar a nada ni a
+nadie en particular porque la idea es que
+
+102
+00:07:17,624 --> 00:07:22,644
+en todos los puntos estratégicos de
+la Argentina, definidos por esta nueva
+
+103
+00:07:22,654 --> 00:07:26,436
+plataforma de identificación de
+prioridades o problemáticas,
+
+104
+00:07:26,436 --> 00:07:33,144
+como la han dado a llamar los técnicos,
+vamos a avanzar fuertemente en distribuir
+
+105
+00:07:33,154 --> 00:07:37,467
+los logros que hemos obtenido los
+argentinos en materia de desarrollo
+
+106
+00:07:37,467 --> 00:07:40,875
+tecnológico, en este caso en la terapia
+a través de la medicina nuclear,
+
+107
+00:07:40,875 --> 00:07:43,121
+a lo largo y a lo ancho del país.
+
+108
+00:07:43,121 --> 00:07:46,567
+Como decíamos el otro día en ocasión
+de la presentación de la nueva ley de
+
+109
+00:07:46,577 --> 00:07:53,312
+comunicaciones, incluyendo a las personas,
+a los compañeros, al pueblo, y también
+
+110
+00:07:53,322 --> 00:07:56,381
+al territorio. Porque si no
+hay inclusión del territorio...
+
+111
+00:07:56,381 --> 00:08:00,417
+la desinclusión es una problemática
+que no se resolverá.
+
+112
+00:08:00,417 --> 00:08:04,132
+Así que, les paso allá la
+palabra a todos ustedes.
+
+113
+00:08:04,132 --> 00:08:10,542
+No sé quién va a iniciar el diálogo, y
+realmente, agradecerles también
+
+114
+00:08:10,542 --> 00:08:15,203
+para que los NACs de todo el país, todo
+esto que yo tan brevemente he explicado
+
+115
+00:08:15,203 --> 00:08:19,727
+y que con tan buen detalle explicaron
+antes, en cuanto a esta nueva herramienta,
+
+116
+00:08:19,727 --> 00:08:24,947
+a esta nueva plataforma, qué tarea
+vamos a llevar adelante desde allí.
+
+117
+00:08:24,947 --> 00:08:26,722
+Muchísimas gracias y adelante ustedes.
+
+118
+00:08:31,057 --> 00:08:33,615
+Bueno. Buenos días a todos y a todas.
+
+119
+00:08:35,983 --> 00:08:42,404
+Realmente, esta plataforma va a servirnos
+para las instituciones, pero también para
+
+120
+00:08:42,404 --> 00:08:49,756
+toda la población, a informarnos de todos
+los centros y todas las actividades que
+
+121
+00:08:49,756 --> 00:08:51,486
+se realizan en el país.
+
+122
+00:08:51,486 --> 00:08:56,647
+No solo nos va a informar, sino
+que nos va a permitir programar,
+
+123
+00:08:56,647 --> 00:09:02,240
+y en función de eso, tomar decisiones de
+cuáles van a ser las nuevas actividades
+
+124
+00:09:02,240 --> 00:09:03,833
+que tenemos que hacer.
+
+125
+00:09:04,889 --> 00:09:09,421
+Nuestro caso en especial, quería
+hablar de lo que son los centros de
+
+126
+00:09:09,421 --> 00:09:14,848
+medicina nuclear y radioterapia,
+que de acuerdo al nuevo plan...
+
+127
+00:09:16,640 --> 00:09:23,046
+plan nacional de medicina nuclear,
+estamos conjuntamente utilizando,
+
+128
+00:09:23,046 --> 00:09:28,462
+no solo esta plataforma sino también
+todo el plan de CiberSalud para generar
+
+129
+00:09:28,462 --> 00:09:31,123
+nuevos centros en todo el país.
+
+130
+00:09:33,371 --> 00:09:38,758
+En general, tenemos los centros ya
+funcionando, de altísima tecnología.
+
+131
+00:09:38,758 --> 00:09:45,189
+FUESMEN en Mendoza, la fundación de
+Diagnóstico Nuclear en Buenos Aires
+
+132
+00:09:45,189 --> 00:09:50,860
+y los centros que tenemos en el Hospital
+de Clínicas y el instituto Roffo.
+
+133
+00:09:51,293 --> 00:10:00,504
+Pero estamos extendiendo estos centros
+gracias al plan nacional que se ejecuta
+
+134
+00:10:00,504 --> 00:10:04,759
+con el Ministerio de Planificación
+y el apoyo del Ministerio de Salud,
+
+135
+00:10:04,759 --> 00:10:10,750
+y por supuesto, siempre con el apoyo
+incondicional de nuestra Presidenta,
+
+136
+00:10:10,750 --> 00:10:17,636
+Cristina Fernández de Kirchner,
+estamos instalando nuevos centros en
+
+137
+00:10:17,636 --> 00:10:23,699
+la provincia de Santa Cruz;
+en Bariloche, provincia de Río Negro;
+
+138
+00:10:23,699 --> 00:10:28,680
+y sobre todo, también en Formosa,
+para llegar a todos los extremos de
+
+139
+00:10:28,680 --> 00:10:34,079
+nuestro país. Que la medicina nuclear
+y la radioterapia no sean solo de los
+
+140
+00:10:34,089 --> 00:10:38,866
+grandes centros poblados, sino
+distribuidos en toda la Argentina.
+
+141
+00:10:38,866 --> 00:10:45,276
+Es realmente un plan federal de medicina
+nuclear y radioterapia, llegando con la
+
+142
+00:10:45,276 --> 00:10:49,571
+mejor tecnología en
+diagnóstico y tratamiento.
+
+143
+00:10:49,571 --> 00:10:55,841
+Siempre hablamos de tecnología de punta
+para que todo el país, toda la población
+
+144
+00:10:55,841 --> 00:11:01,654
+argentina, pueda tener el mismo nivel de
+medicina que los grandes centros poblados.
+
+145
+00:11:02,566 --> 00:11:06,616
+En especial, bueno, volver a agradecer
+al ministro de Vido por el apoyo que
+
+146
+00:11:06,616 --> 00:11:12,758
+nos está dando en este programa, y
+quisiera que la Doctora Bertha Roth
+
+147
+00:11:12,758 --> 00:11:18,948
+explique un poco el último equipo que se
+está comprando que va a ser de altísima
+
+148
+00:11:18,948 --> 00:11:21,782
+tecnología y único en Latinoamérica.
+
+149
+00:11:22,930 --> 00:11:24,809
+Gracias, Doctora Buero.
+
+150
+00:11:24,809 --> 00:11:26,577
+Bueno. Buenos días a todos.
+
+151
+00:11:26,577 --> 00:11:34,170
+Como médica oncóloga radioterapeuta,
+una pequeña introducción para recordarles
+
+152
+00:11:34,170 --> 00:11:41,878
+que entre los 35 y 65 años el cáncer
+es la primer causa de muerte,
+
+153
+00:11:41,878 --> 00:11:48,459
+y esto nos moviliza a todos porque siempre
+decimos que el cáncer no reconoce barreras,
+
+154
+00:11:48,703 --> 00:11:52,461
+ni sociales, ni de edad,
+ni de ningún tipo.
+
+155
+00:11:53,513 --> 00:11:58,779
+Como oncóloga siempre hemos soñado en
+tener una red oncológica nacional que
+
+156
+00:11:58,779 --> 00:12:03,778
+pueda unir desde La Quiaca a
+la Ushuaia a todos nosotros,
+
+157
+00:12:04,262 --> 00:12:09,777
+que podamos intercambiar conocimientos,
+que podamos saber qué tumor es más
+
+158
+00:12:09,777 --> 00:12:14,974
+frecuente en el norte, cual en el sur,
+adaptarnos a cada una de estas
+
+159
+00:12:14,974 --> 00:12:20,838
+modalidades de tratamiento, y esto no
+se logra si no hay una red informática
+
+160
+00:12:21,587 --> 00:12:22,893
+que nos una.
+
+161
+00:12:22,893 --> 00:12:29,091
+Así como la medicina tiene cambios
+nuevos, también en la informática hay
+
+162
+00:12:29,091 --> 00:12:33,732
+mucha innovación y esto nos
+permite estar más cerca.
+
+163
+00:12:33,732 --> 00:12:36,062
+La Argentina es un país muy amplio.
+
+164
+00:12:36,062 --> 00:12:40,974
+No somos tantos habitantes y
+tenemos que estar interconectados.
+
+165
+00:12:44,403 --> 00:12:51,473
+Lo que quería decir es que, para todo
+esto tiene que existir una firme y 
+
+166
+00:12:51,473 --> 00:12:57,107
+sostenida voluntad política y
+pública, para crecer con los cambios.
+
+167
+00:12:57,107 --> 00:13:00,791
+Y, agradecerle más que
+nada a nuestra Presidenta,
+
+168
+00:13:00,791 --> 00:13:05,496
+ al ministro de Planificación
+Federal e Inversión Pública,
+
+169
+00:13:05,496 --> 00:13:11,229
+y al Ministerio de Salud, que nos permite
+a nosotros poder acceder y ofrecer estos
+
+170
+00:13:11,229 --> 00:13:13,862
+servicios a toda la población.
+
+171
+00:13:14,259 --> 00:13:19,762
+Dentro de la radioterapia, pensamos y
+tenemos el apoyo del Ministerio de
+
+172
+00:13:19,762 --> 00:13:23,959
+Planificación y de la Comisión
+Nacional de Energía Atómica,
+
+173
+00:13:23,959 --> 00:13:30,297
+de poder introducir un equipamiento que
+es de la gamma más alta en el tratamiento
+
+174
+00:13:30,297 --> 00:13:36,553
+radiante, que es un equipo de
+protones que da mayor precisión,
+
+175
+00:13:36,553 --> 00:13:38,356
+menor toxicidad...
+
+176
+00:13:38,356 --> 00:13:45,668
+sería el primer equipo para Latinoamérica,
+y en uso, el primero del Cono Sur,
+
+177
+00:13:46,164 --> 00:13:51,422
+por lo que pensamos que podemos brindar
+este servicio, no solo a nuestra población,
+
+178
+00:13:51,422 --> 00:13:57,219
+sino también al resto de Latinoamérica
+y esto nos va a posicionar muy fuerte.
+
+179
+00:13:57,219 --> 00:14:02,669
+Creemos que podemos hacerlo, que tenemos
+recursos humanos, tanto de la Comisión
+
+180
+00:14:02,669 --> 00:14:06,813
+Nacional de Energía Atómica como los
+nuestros propios y los que estamos
+
+181
+00:14:06,813 --> 00:14:12,280
+formando, y estamos como muy esperanzados
+y quisiéramos agradecer, realmente,
+
+182
+00:14:12,280 --> 00:14:15,918
+de corazón que esto podamos tenerlo
+
+183
+00:14:16,652 --> 00:14:19,591
+y invitarlos a todos a que
+nos ayuden también en esto,
+
+184
+00:14:19,932 --> 00:14:24,179
+y decirles que si todo esto sale
+bien, yo los invito para un café.
+
+185
+00:14:24,180 --> 00:14:25,180
+(...)
+
+186
+00:14:40,546 --> 00:14:45,448
+Muchísimas gracias por su reconocimiento,
+
+187
+00:14:45,448 --> 00:14:48,084
+por su amistad y por su trabajo denodado.
+
+188
+00:14:48,084 --> 00:14:49,013
+Realmente...
+
+189
+00:14:49,962 --> 00:14:54,627
+su charla, igual que la de Norma y la
+gente de Entre Ríos, ha levantado
+
+190
+00:14:54,627 --> 00:15:00,681
+fuertemente el nivel de esta reunión,
+y bueno, los insto a seguir trabajando
+
+191
+00:15:00,691 --> 00:15:05,936
+a todos en aras de los proyectos, de los
+objetivos, de las prioridades que nos da
+
+192
+00:15:05,946 --> 00:15:10,994
+este plan, pero fundamentalmente de la
+política que instrumenta Cristina para
+
+193
+00:15:10,994 --> 00:15:13,923
+llevar adelante la solución
+de estos problemas.
+
+194
+00:15:13,923 --> 00:15:15,074
+Muchísimas gracias.
+
+195
+00:15:22,375 --> 00:15:26,016
+A continuación, se procederá con la
+firma de los convenios de la Plataforma
+
+196
+00:15:26,016 --> 00:15:27,852
+de Identificación de Problemáticas.
+
+197
+00:15:27,852 --> 00:15:31,225
+Por el Ministerio de Salud,
+firman el viceministro de Salud,
+
+198
+00:15:31,225 --> 00:15:32,259
+Doctor Gabriel Yedlin.
+
+199
+00:15:39,887 --> 00:15:44,274
+Firma a continuación el subsecretario
+de Coordinación y Control de Gestión,
+
+200
+00:15:44,274 --> 00:15:45,625
+licenciado Roberto Baratta.
+
+201
+00:15:53,722 --> 00:15:54,929
+Refrenda...
+
+202
+00:15:54,739 --> 00:15:58,153
+el señor ministro de Planificación
+Federal, Inversión Pública y Servicios,
+
+203
+00:15:58,163 --> 00:15:59,411
+arquitecto Julio de Vido.
+
+204
+00:16:06,301 --> 00:16:09,564
+Por el Ministerio de Cultura,
+firma la señora ministra de Cultura,
+
+205
+00:16:10,409 --> 00:16:11,630
+Teresa Parodi.
+
+206
+00:16:17,950 --> 00:16:22,191
+Firma, a continuación, el señor
+subsecretario de Coordinación y
+
+207
+00:16:22,201 --> 00:16:24,096
+Control de Gestión,
+licenciado Roberto Baratta.
+
+208
+00:16:24,096 --> 00:16:27,597
+Y refrenda el ministro de Planificación
+Federal, Inversión Pública y Servicios,
+
+209
+00:16:27,597 --> 00:16:29,136
+arquitecto Julio de Vido.
+
+210
+00:16:33,096 --> 00:16:37,956
+Por la Federación Argentina de Municipios
+firma el presidente de la FAM,
+
+211
+00:16:37,956 --> 00:16:38,853
+Julio Pereyra.
+
+212
+00:16:43,406 --> 00:16:46,407
+Firma, a continuación, el subsecretario
+de Coordinación y Control de Gestión,
+
+213
+00:16:46,407 --> 00:16:49,500
+licenciado Roberto Baratta.
+
+214
+00:16:52,810 --> 00:16:56,039
+Refrenda el ministro de Planificación
+Federal, Inversión Pública y Servicios,
+
+215
+00:16:56,039 --> 00:16:57,366
+arquitecto Julio de Vido.
+
+216
+00:16:57,366 --> 00:17:03,807
+Por la SEDRONAR firma el señor secretario
+de la SEDRONAR, padre Juan Carlos Molina.
+
+217
+00:17:05,839 --> 00:17:09,826
+Firma, a continuación, el subsecretario
+de Coordinación y Control de Gestión,
+
+218
+00:17:09,826 --> 00:17:11,026
+licenciado Roberto Baratta.
+
+219
+00:17:11,026 --> 00:17:14,660
+Y refrenda el ministro de Panificación
+Federal, Inversión Pública y Servicios,
+
+220
+00:17:14,670 --> 00:17:16,106
+arquitecto Julio de Vido.
+
+221
+00:17:18,455 --> 00:17:22,267
+Por la Sindicatura General de la Nación
+firma el señor Síndico General de la Nación,
+
+222
+00:17:22,267 --> 00:17:23,550
+Doctor Daniel Reposo.
+
+223
+00:17:27,466 --> 00:17:30,369
+Firma, a continuación, el subsecretario
+de Coordinación y Control de Gestión,
+
+224
+00:17:30,369 --> 00:17:32,104
+licenciado Roberto Baratta.
+
+225
+00:17:32,104 --> 00:17:36,053
+Y refrenda el ministro de Panificación
+Federal, Inversión Pública y Servicios,
+
+226
+00:17:36,063 --> 00:17:37,873
+arquitecto Julio de Vido.
+
+227
+00:17:37,873 --> 00:17:44,346
+Firma por la ANSES, el señor
+Director Ejecutivo de la ANSES,
+
+228
+00:17:44,346 --> 00:17:45,983
+licenciado Diego Bossio.
+
+229
+00:17:49,799 --> 00:17:52,303
+Firma el subsecretario de
+Coordinación y Control de Gestión,
+
+230
+00:17:52,313 --> 00:17:53,703
+licenciado Roberto Baratta.
+
+231
+00:17:53,713 --> 00:17:57,089
+Y refrenda el ministro de Panificación
+Federal, Inversión Pública y Servicios,
+
+232
+00:17:57,089 --> 00:17:59,003
+arquitecto Julio de Vido.
+
+233
+00:18:01,131 --> 00:18:04,287
+En el cierre de este acto de lanzamiento
+de la Plataforma de Detección de
+
+234
+00:18:04,287 --> 00:18:07,733
+Problemáticas, denominada PIP,
+escuchamos las palabras del señor
+
+235
+00:18:07,733 --> 00:18:10,764
+ministro de Planificación Federal,
+Inversión Pública y Servicios,
+
+236
+00:18:10,774 --> 00:18:12,658
+arquitecto Julio de Vido.
+
+237
+00:18:13,457 --> 00:18:15,621
+Bueno. Buenos días a todos y a todas.
+
+238
+00:18:17,050 --> 00:18:20,709
+En primer lugar, quiero agradecer...
+
+239
+00:18:20,969 --> 00:18:26,959
+no solamente la presencia porque
+no es una presencia testimonial,
+
+240
+00:18:26,959 --> 00:18:32,592
+sino que es una presencia activa de los
+que me acompañan acá arriba en el escenario.
+
+241
+00:18:32,592 --> 00:18:39,376
+En primer lugar, la compañera Teresa con
+la que venimos trabajando en infinidad
+
+242
+00:18:39,376 --> 00:18:46,285
+de programas conjuntos, hemos puesto
+toda la tarea de trabajo en equipo para
+
+243
+00:18:46,285 --> 00:18:50,661
+poder llevar adelante con toda la
+profundidad que los medios técnicos
+
+244
+00:18:50,661 --> 00:18:52,822
+nos brindan en el plan
+de igualdad cultural,
+
+245
+00:18:52,822 --> 00:18:57,608
+ el banco de contenidos audiovisuales...
+Estamos trabajando, por supuesto, con la
+
+246
+00:18:57,608 --> 00:19:00,636
+coordinación de ella en todo lo
+que va a ser el primer año del
+
+247
+00:19:00,636 --> 00:19:05,053
+Centro Cultural Kirchner, que lo tenemos
+aquí muy pocos metros, y ahora...
+
+248
+00:19:05,053 --> 00:19:12,211
+esta posibilidad de identificación,
+a partir de esta plataforma, de todos
+
+249
+00:19:12,211 --> 00:19:18,022
+aquellos sitios y lugares de la Argentina
+que reclamen; y que planteen;
+
+250
+00:19:18,022 --> 00:19:22,394
+ y que necesiten la presencia activa
+del Estado Nacional en aquellas
+
+251
+00:19:22,394 --> 00:19:25,834
+manifestaciones culturales
+que así  lo requieran.
+
+252
+00:19:25,834 --> 00:19:26,941
+También...
+
+253
+00:19:31,473 --> 00:19:37,273
+sería correcto pero, fundamentalmente,
+no sería conducente no mencionar a Julio.
+
+254
+00:19:37,273 --> 00:19:42,884
+En primer lugar, porque es un compañero
+de todas las horas que arrancó en los
+
+255
+00:19:42,884 --> 00:19:46,611
+albores de este proyecto junto a Néstor
+Kirchner que fue quien impulsó todas
+
+256
+00:19:46,611 --> 00:19:52,329
+políticas que hoy está llevando adelante
+con la fuerza, la dedicación, la entrega,
+
+257
+00:19:52,329 --> 00:19:59,106
+el sacrificio de Cristina, que día a día
+nos impulsa denodadamente para poder
+
+258
+00:19:59,106 --> 00:20:02,806
+avanzar en estos proyectos.
+Además ella estaba al tanto perfectamente
+
+259
+00:20:02,806 --> 00:20:07,956
+de este anuncio, estuvimos explicándole
+en detalle esta cuestión de las capas
+
+260
+00:20:07,956 --> 00:20:12,332
+que nos van dando la información que nos
+permiten tomar las mejores resoluciones,
+
+261
+00:20:12,332 --> 00:20:17,013
+pero más allá de la personalidad
+de Julio, más allá de la FAM,
+
+262
+00:20:17,013 --> 00:20:20,094
+están todos los municipios
+argentinos representados aquí.
+
+263
+00:20:20,094 --> 00:20:24,868
+Recién estábamos, poco minutos antes de
+esta reunión, estábamos hablando con...
+
+264
+00:20:25,118 --> 00:20:30,663
+con Paco (...) sobre la problemática
+planteada por la reciente inundación
+
+265
+00:20:30,673 --> 00:20:35,333
+en la localidad de San Antonio de Areco.
+Ya vino con obras, con soluciones,
+
+266
+00:20:35,333 --> 00:20:41,370
+con generar aquellos desarrollos
+que eviten la situación planteada.
+
+267
+00:20:41,646 --> 00:20:46,001
+Bueno, lo veo a Alberto Descalzo,
+a Cafaro, a Guca, a Mariano West,
+
+268
+00:20:46,001 --> 00:20:54,890
+a Sobrero, a de Chico, a Estela,
+Chiroldi también, compañera amiga Inza,
+
+269
+00:20:54,890 --> 00:20:57,807
+y seguramente me olvido
+de alguno más pero...
+
+270
+00:20:59,108 --> 00:21:04,514
+acá tengo anotado a Darío Díaz Pérez que
+seguramente va a estar en zona o llegando
+
+271
+00:21:04,514 --> 00:21:05,453
+o está por ahí...
+
+272
+00:21:06,602 --> 00:21:08,766
+y también...bueno
+
+273
+00:21:08,766 --> 00:21:14,156
+a todos los miembros de los distintos
+municipios que nos acompañan.
+
+274
+00:21:14,156 --> 00:21:20,691
+Ustedes imagínense este proyecto sin la
+incorporación clara de todos los municipios
+
+275
+00:21:20,701 --> 00:21:25,203
+argentinos que son la base, no solamente
+de la democracia como nos enseñaron en
+
+276
+00:21:25,203 --> 00:21:30,639
+la escuela, sino son la base generadora
+de todas las políticas, porque todas las
+
+277
+00:21:30,639 --> 00:21:35,863
+políticas apuntan a resolver,
+apuntan a llevar adelante este proyecto
+
+278
+00:21:35,863 --> 00:21:39,395
+de inclusión nacional y popular
+que iniciara Néstor Kirchner y que,
+
+279
+00:21:39,395 --> 00:21:41,355
+como decíamos hoy, lo
+lleva adelante Cristina.
+
+280
+00:21:42,580 --> 00:21:51,377
+También es importantísima la presencia de
+Daniel Reposo que es quien controla, por
+
+281
+00:21:51,377 --> 00:21:56,745
+parte del Ejecutivo Nacional, la gestión
+que llevamos adelante todos nosotros.
+
+282
+00:21:56,745 --> 00:22:03,054
+Bueno aquí hay una clara expresión,
+una clara herramienta de control
+
+283
+00:22:03,054 --> 00:22:06,855
+porque inclusive, además de auditar
+que la herramienta sea fidedigna,
+
+284
+00:22:06,865 --> 00:22:12,466
+en el caso de llevarla y al estar
+auditada en este sentido, le da una
+
+285
+00:22:12,476 --> 00:22:17,537
+palmaria claridad en cuanto al famoso
+esquema estímulo-respuesta, es decir
+
+286
+00:22:18,165 --> 00:22:24,011
+de qué manera responde el Ejecutivo con
+políticas concretas a las problemáticas,
+
+287
+00:22:24,011 --> 00:22:27,316
+tal cual el nombre que
+le pusieron los técnicos,
+
+288
+00:22:27,316 --> 00:22:31,222
+la Plataforma de Identificación de
+Prioridades, tal cual le digo yo...
+
+289
+00:22:33,477 --> 00:22:36,794
+con qué efectividad y con qué
+eficiencia se lleva adelante la política.
+
+290
+00:22:36,794 --> 00:22:38,921
+Por supuesto, también...
+
+291
+00:22:38,921 --> 00:22:43,912
+Diego, quiero que sepas la importancia
+que fue para nosotros que el ANSES
+
+292
+00:22:43,912 --> 00:22:50,997
+participara en esto, porque está claro
+que la llegada y la permeabilidad a un
+
+293
+00:22:50,997 --> 00:22:59,510
+sector de la sociedad tan particular y
+tan ávido de respuestas y tan ávido de
+
+294
+00:22:59,510 --> 00:23:04,992
+ingresar al mundo de la digitalización,
+tan ávido de poder, a través de los
+
+295
+00:23:04,992 --> 00:23:09,150
+núcleos de acceso al conocimiento,
+a través del plan Conectar Igualdad
+
+296
+00:23:09,160 --> 00:23:14,553
+que se lleva adelante hoy,
+poder avanzar en las...
+
+297
+00:23:14,858 --> 00:23:20,355
+distintas políticas necesarias para
+dar las soluciones correctas.
+
+298
+00:23:20,365 --> 00:23:27,312
+El mismo plan PROCREAR le da volumen a
+la herramienta, la valida, la legítima.
+
+299
+00:23:27,745 --> 00:23:29,268
+De la misma manera...
+
+300
+00:23:30,284 --> 00:23:34,224
+el padre Molina, el compañero
+Molina, que venimos trabajando...
+
+301
+00:23:34,224 --> 00:23:38,429
+no voy a decir los años,
+pero muchos años juntos...
+
+302
+00:23:39,194 --> 00:23:43,252
+el problema no es mío, yo ya parezco la
+edad que tengo pero Juan Carlos es un pibe.
+
+303
+00:23:43,252 --> 00:23:45,554
+Buen, era un pibe cuando
+te conocía así que...
+
+304
+00:23:46,706 --> 00:23:49,578
+Allá en Caleta Olivia, muchos años atrás.
+
+305
+00:23:49,578 --> 00:23:54,217
+Y, la verdad que estamos llevando
+adelante Juan Carlos, en conjunto
+
+306
+00:23:54,740 --> 00:23:57,934
+con los centros de integración,
+de recuperación...
+
+307
+00:23:57,934 --> 00:24:00,447
+yo para las siglas soy bastante...
+
+308
+00:24:02,835 --> 00:24:06,199
+Y por eso mis colaboradores me escriben,
+después voy a tener que leer algunas cosas
+
+309
+00:24:06,199 --> 00:24:10,055
+porque son muchos los datos y si no nos
+vamos a olvidar de todo y de todos.
+
+310
+00:24:10,065 --> 00:24:14,734
+Así que, también es muy importante porque
+hay una política, al igual que tenemos
+
+311
+00:24:14,734 --> 00:24:19,749
+con Cultura, una política muy fuerte,
+muy activa, muy ensamblada.
+
+312
+00:24:20,025 --> 00:24:24,924
+Al Doctor Gabriel Yedlin,
+en representación de Juan Manzur,
+
+313
+00:24:25,974 --> 00:24:33,297
+creo que lo que explicaban la
+Doctora Roth, la licenciada Boero,
+
+314
+00:24:33,297 --> 00:24:39,103
+en relación a la medicina nuclear
+en términos federales, o sea,
+
+315
+00:24:39,399 --> 00:24:42,868
+cuando asumimos teníamos prácticamente
+en ruinas el hospital Roffo,
+
+316
+00:24:43,704 --> 00:24:48,831
+sin ninguna posibilidad operativa y
+hoy estamos hablando de federalizar
+
+317
+00:24:48,841 --> 00:24:52,026
+lo que hoy es un centro
+conducido por la Doctora Roth.
+
+318
+00:24:52,026 --> 00:24:55,348
+Un centro de excelencia y
+referencia, diría internacional
+
+319
+00:24:55,348 --> 00:24:57,335
+sin temor a equivocarnos.
+
+320
+00:24:57,345 --> 00:25:03,775
+El plan CiberSalud, que hemos inaugurado
+con Juan Manzur en la sede central del
+
+321
+00:25:03,775 --> 00:25:12,949
+plan donde están ahora Norma y la Dra.
+Roth, y Michudis y todos los compañeros
+
+322
+00:25:12,959 --> 00:25:13,834
+que están allí.
+
+323
+00:25:15,270 --> 00:25:19,645
+La primera interconferencia
+entre hospitales.
+
+324
+00:25:19,645 --> 00:25:26,456
+Hoy, el hospital de Formosa puede
+tener una conferencia a través...
+
+325
+00:25:28,394 --> 00:25:32,611
+un esquema digital, claro,
+preciso y confidencial,
+
+326
+00:25:32,611 --> 00:25:35,351
+ con el hospital de Río Gallegos;
+el de Río Gallegos con el de La Quiaca;
+
+327
+00:25:35,361 --> 00:25:38,702
+el de La Quiaca con el de Buenos Aires,
+con el Posadas, con el Garrahan, bueno...
+
+328
+00:25:38,712 --> 00:25:45,512
+Genera un proceso de interconsulta,
+que en muchos casos, evita el traslado
+
+329
+00:25:46,262 --> 00:25:51,891
+del paciente que es uno de los problemas
+más graves que nos explicaba Juan Manzur,
+
+330
+00:25:51,891 --> 00:25:56,998
+el Dr. Yedlin cuando inauguramos
+esto en el proceso de recuperación,
+
+331
+00:25:57,194 --> 00:26:02,032
+sobre todo en los pacientes más
+pequeños o de los más adultos.
+
+332
+00:26:02,640 --> 00:26:03,863
+Creo que...
+
+333
+00:26:03,863 --> 00:26:09,355
+es muy importante también destacar
+la exposición que hizo Gabriel,
+
+334
+00:26:10,260 --> 00:26:12,712
+también el amigo Rezetti
+que lo veo por ahí,
+
+335
+00:26:12,712 --> 00:26:17,030
+ que trabajan juntos, son parte del equipo
+que tiene el Ministerio de Planificación
+
+336
+00:26:17,030 --> 00:26:27,409
+que desarrolla estas tecnologías y quiero
+destacar también el rol fundamental que
+
+337
+00:26:27,409 --> 00:26:33,737
+cumplieron en ocasión de la recuperación
+de YPF cuando yo fui interventor enviado
+
+338
+00:26:33,747 --> 00:26:38,591
+por la Presidenta el día de la
+recuperación evitando que de alguna manera
+
+339
+00:26:38,601 --> 00:26:42,136
+nos complicaran, desde el
+punto de vista informático,
+
+340
+00:26:42,136 --> 00:26:46,269
+por no utilizar otros adjetivos,
+que lo intentaron y gracias a su
+
+341
+00:26:46,269 --> 00:26:50,638
+destreza y su capacidad pudimos llevar
+adelante una gestión que se hubiera visto
+
+342
+00:26:50,648 --> 00:26:52,689
+gravemente comprometida.
+
+343
+00:26:52,699 --> 00:26:56,407
+Prácticamente hubiera llevado a la
+paralización de la empresa en esos días
+
+344
+00:26:56,417 --> 00:27:01,773
+y fue evitada, gracias al control
+digital que tuvimos de la empresa
+
+345
+00:27:01,773 --> 00:27:04,303
+en todo momento, desde el
+momento que nos hicimos cargo.
+
+346
+00:27:05,439 --> 00:27:06,650
+Quiero...
+
+347
+00:27:11,447 --> 00:27:17,882
+también lo veo al compañero Rutta,
+que es un compañero de ruta también
+
+348
+00:27:17,882 --> 00:27:24,776
+de muchos años, de comienzo de la gestión
+hemos hecho creo que la mejor imagen de
+
+349
+00:27:24,776 --> 00:27:32,224
+la relación es ir hoy a visitar la
+Universidad de San Martín y hacer
+
+350
+00:27:32,224 --> 00:27:39,705
+para aquellos que la veíamos en
+el 2002-2003 y que la vemos hoy
+
+351
+00:27:39,715 --> 00:27:43,004
+en unos viejos talleres ferroviarios
+en aquel momento, que hoy son
+
+352
+00:27:43,014 --> 00:27:44,669
+una obra de arquitectura fenomenal.
+
+353
+00:27:44,669 --> 00:27:49,682
+Con una serie de carreras nuevas y de
+tecnicaturas que van a acompañando...
+
+354
+00:27:49,692 --> 00:27:55,480
+y por supuesto, maestrías y carreas de
+ingeniería, de economía...
+
+355
+00:27:55,490 --> 00:28:03,089
+que van acompañando este proceso de
+crecimiento de la ciencia y tecnología
+
+356
+00:28:03,099 --> 00:28:07,627
+argentina, en términos del desarrollo
+institucional pero también de la
+
+357
+00:28:07,637 --> 00:28:12,614
+ciencia aplicada. Y en esto, también
+la Universidad de San Martín es un ejemplo.
+
+358
+00:28:14,908 --> 00:28:16,197
+Nos ha acompañado.
+
+359
+00:28:16,197 --> 00:28:20,531
+Y yo diría que hoy no tendríamos
+la televisión digital abierta
+
+360
+00:28:21,024 --> 00:28:25,829
+si no hubiera sido por el apoyo y
+la colaboración y, por supuesto,
+
+361
+00:28:25,839 --> 00:28:29,190
+la asociación que hizo el
+Estado con esa universidad.
+
+362
+00:28:30,689 --> 00:28:34,369
+Parte de la cuestión satelital,
+
+363
+00:28:35,948 --> 00:28:41,116
+las incorporaciones de antena de espacio
+profundo que hizo la Unión Europea y China
+
+364
+00:28:41,116 --> 00:28:45,325
+que en algún momento se hablaba que
+era una base militar de otro país...
+
+365
+00:28:45,703 --> 00:28:50,416
+Bueno, las barbaridades que uno tiene
+hoy que escuchar en relación a la
+
+366
+00:28:50,416 --> 00:28:53,866
+universalización del
+acceso a la digitalización.
+
+367
+00:28:53,866 --> 00:29:01,016
+Los que se oponen a la ley argentina
+digitalizada, de acceso universal a las
+
+368
+00:29:01,016 --> 00:29:03,714
+tecnologías de la información
+y las comunicaciones,
+
+369
+00:29:03,714 --> 00:29:08,510
+ y en muchos casos, son los mismos que
+se hicieron los chanchos rengos cuando
+
+370
+00:29:08,520 --> 00:29:11,834
+se hizo el rebalanceo de
+tarifas telefónicas, los mismos.
+
+371
+00:29:12,954 --> 00:29:18,223
+Y creo que la universidad junto con
+nosotros, en materia de digitalización,
+
+372
+00:29:18,223 --> 00:29:22,940
+trabajó en estos avances que hizo la
+Argentina en todo este tiempo.
+
+373
+00:29:22,940 --> 00:29:28,803
+La red de digitalización a partir
+de la fibra óptica que...
+
+374
+00:29:29,554 --> 00:29:35,282
+eso, por ahí el otro día parecía que
+decían que el Estado Nacional había
+
+375
+00:29:35,292 --> 00:29:42,937
+invertido en la red de fibra óptica
+para salvarle los trapos sucios a las
+
+376
+00:29:42,937 --> 00:29:47,505
+telefónicas, y en realidad el Estado
+definió la inversión como una política
+
+377
+00:29:47,505 --> 00:29:52,044
+estratégica de desarrollo, como una
+política estratégica de inclusión.
+
+378
+00:29:52,054 --> 00:29:57,760
+Allí, donde los contratos que firmaron
+en su momento impedían que fueran por
+
+379
+00:29:57,760 --> 00:29:59,394
+mejor rentabilidad a las telefónicas.
+
+380
+00:29:59,394 --> 00:30:06,713
+Lo que se trata en esta ley simplemente es,
+que los caños, llamémosle fibra óptica,
+
+381
+00:30:06,723 --> 00:30:14,177
+llamémosle cable, llamémosle el cobre de
+la telefonía, estén al servicio de los
+
+382
+00:30:14,177 --> 00:30:19,559
+40-45 millones de usuarios y dicen:
+"pero Argentina tiene 40-42",
+
+383
+00:30:19,569 --> 00:30:23,248
+bueno, pero hay 45 millones de
+teléfonos celulares habilitados,
+
+384
+00:30:23,248 --> 00:30:25,835
+hay quienes son usuarios
+por partida doble,
+
+385
+00:30:25,835 --> 00:30:30,828
+que tengan la posibilidad de que el
+Estado declare de interés público
+
+386
+00:30:30,828 --> 00:30:36,200
+el uso de los vínculos y de todos los
+cables, cablecitos y onda, que andan
+
+387
+00:30:36,200 --> 00:30:40,692
+dando vuelta por ahí, para que cada uno
+de nosotros, tal cual lo dice cada uno de
+
+388
+00:30:40,692 --> 00:30:45,618
+los artículos de la ley, tenga un
+acceso universal a la digitalización.
+
+389
+00:30:46,066 --> 00:30:47,018
+¿Está claro?
+
+390
+00:30:47,028 --> 00:30:53,246
+Porque hoy la mayoría de los chicos
+miran televisión por internet.
+
+391
+00:30:53,256 --> 00:30:57,533
+No van ni al cable ni
+a la televisión por aire.
+
+392
+00:30:57,533 --> 00:31:01,725
+Más allá de los importantes avances,
+fundamentalmente, con el programa
+
+393
+00:31:01,735 --> 00:31:06,351
+Fútbol Para Todos que tenemos por la
+televisión digital abierta, pero...
+
+394
+00:31:06,351 --> 00:31:10,110
+si nosotros, como decía el otro día
+Norberto Berner en el Congreso,
+
+395
+00:31:10,120 --> 00:31:14,378
+no vamos hacia la
+integración tecnológica,
+
+396
+00:31:14,378 --> 00:31:17,577
+hacia el encuentro de tecnología
+que se está dando en ese sentido,
+
+397
+00:31:17,577 --> 00:31:23,169
+ese encuentro de tecnologías,
+esa fusión de tecnologías,
+
+398
+00:31:23,169 --> 00:31:26,178
+viene a nosotros y nos van a
+imponer ellos las condiciones.
+
+399
+00:31:26,178 --> 00:31:29,913
+Por eso es importante esta ley que
+envió la Presidenta al Congreso.
+
+400
+00:31:29,913 --> 00:31:34,710
+Y en general, se escuchan muchas excusas
+que están tendientes a mantener el
+
+401
+00:31:34,720 --> 00:31:40,030
+monopolio actual en materia de contenido
+que es producto de la resistencia de la
+
+402
+00:31:40,040 --> 00:31:44,985
+aceptación y de la adecuación del grupo
+multi-monopólico a la ley de Medios
+
+403
+00:31:44,985 --> 00:31:49,098
+Audiovisuales que no es cambiada en
+absoluto, simplemente con esta norma
+
+404
+00:31:49,098 --> 00:31:54,870
+se genera y se potencia aún más la
+posibilidad de la universalidad de voces,
+
+405
+00:31:54,870 --> 00:32:00,152
+de medios y de difusiones que el
+Estado no ha permanecido, digamos,
+
+406
+00:32:00,152 --> 00:32:02,184
+ausente durante todos estos años.
+
+407
+00:32:02,184 --> 00:32:07,473
+Fíjense, desde que se sancionó la
+Ley de Medios hasta hoy, y con esto
+
+408
+00:32:07,473 --> 00:32:10,671
+termino sobre este tema pero es
+apasionante y el debate del momento,
+
+409
+00:32:10,671 --> 00:32:16,367
+el Estado Nacional construyó
+30.000 kilómetros de fibra óptica
+
+410
+00:32:17,478 --> 00:32:22,969
+y tiene firmado convenios con infinidad
+de municipios para hacer la última milla,
+
+411
+00:32:22,979 --> 00:32:29,223
+para llevar la fibra óptica hasta el
+domicilio de cada uno de los habitantes
+
+412
+00:32:29,223 --> 00:32:32,139
+de aquellos lugares donde las
+telefónicas no tiene presencia.
+
+413
+00:32:32,139 --> 00:32:37,293
+Pero eso lo hace la empresa ARSAT,
+y lo hace como empresa,
+
+414
+00:32:37,293 --> 00:32:39,260
+y va a tener un rédito,
+va a tener un beneficio, 
+
+415
+00:32:39,260 --> 00:32:42,863
+va a tener una presencia en el mercado,
+y que eso es lo que se trata de evitar
+
+416
+00:32:42,873 --> 00:32:44,432
+al no apoyar esta ley.
+
+417
+00:32:44,432 --> 00:32:50,299
+ARSAT invirtió las redes pero no son
+redes que sean de las telefónicas,
+
+418
+00:32:50,309 --> 00:32:56,015
+son redes de todos los argentinos que se
+suman a partir de esta ley, a partir de
+
+419
+00:32:56,015 --> 00:32:59,799
+esta voluntad que plantea esta ley,
+a las redes que ya están existentes
+
+420
+00:32:59,799 --> 00:33:03,788
+y que generalmente han estado al
+servicio de una vocación monopólica.
+
+421
+00:33:03,788 --> 00:33:08,143
+En este caso, su universalización se abre,
+con lo cual se potencia la ley.
+
+422
+00:33:08,143 --> 00:33:11,769
+Quienes hoy más se resisten y quienes
+se resistieron en la aplicación
+
+423
+00:33:11,779 --> 00:33:13,522
+de la ley, durante todos estos años.
+
+424
+00:33:14,686 --> 00:33:19,753
+Quien tiene mayor o menor de
+cobre o de cable con esta ley,
+
+425
+00:33:19,753 --> 00:33:26,247
+ tiende a perder a perder privilegios
+y tendemos a ganar todos el privilegio
+
+426
+00:33:26,247 --> 00:33:30,910
+de estar debidamente informados
+y conectados a las redes
+
+427
+00:33:30,920 --> 00:33:35,920
+ a los servicios internacionales
+de internet.
+
+428
+00:33:39,531 --> 00:33:44,057
+La plataforma digital que estamos
+presentando hoy se llama:
+
+429
+00:33:44,057 --> 00:33:46,569
+"Plataforma de Identificación
+de Problemáticas",
+
+430
+00:33:46,579 --> 00:33:51,532
+esto lo dicen los técnicos porque,
+en realidad, detecta problemas
+
+431
+00:33:51,532 --> 00:33:55,694
+en distintos lugares del país,
+en todo el mapa.
+
+432
+00:33:56,554 --> 00:33:59,932
+Nosotros, en términos políticos,
+le vamos a llamar Plataforma de
+
+433
+00:33:59,932 --> 00:34:03,189
+Identificación de Prioridades,
+porque ahí vamos a marcar junto
+
+434
+00:34:03,189 --> 00:34:08,072
+con todos ustedes, fundamentalmente,
+los intendentes; los académicos;
+
+435
+00:34:08,072 --> 00:34:13,417
+los sectores de la salud;
+los que luchan contra las adicciones;
+
+436
+00:34:13,427 --> 00:34:17,422
+con el sector previsional que es enorme,
+debe ser la red informática más importante
+
+437
+00:34:17,422 --> 00:34:21,894
+del Estado, que llega a la mayor cantidad
+de usuarios y hay un doble control;
+
+438
+00:34:21,894 --> 00:34:28,215
+los municipios; el ANSES;
+los jubilados, en definitiva,
+
+439
+00:34:28,225 --> 00:34:33,119
+que nos van a estar marcando sus
+problemáticas a través de la casilla
+
+440
+00:34:33,119 --> 00:34:36,692
+habilitada, o sea, de la línea de correo
+habilitado para acceder y dar,
+
+441
+00:34:36,692 --> 00:34:40,398
+en esta plataforma, cuales son los
+problemas y las problemáticas que
+
+442
+00:34:40,408 --> 00:34:44,324
+plantea cada lugar, y por supuesto,
+nosotros desde la política tendremos que
+
+443
+00:34:44,324 --> 00:34:47,908
+generar las prioridades y
+las soluciones a los problemas.
+
+444
+00:34:48,816 --> 00:34:53,272
+Desde el año 2003, esa es la tarea que
+nos dimos todos los que estamos aquí
+
+445
+00:34:53,282 --> 00:34:54,338
+en el país.
+
+446
+00:34:54,338 --> 00:35:01,153
+Identificar problemas, recurriendo cada
+lugar, cada necesidad (...)
+
+447
+00:35:01,163 --> 00:35:04,895
+(Problema de sonido)
+
+448
+00:35:05,975 --> 00:35:07,253
+... las banderas de la sociedad.
+
+449
+00:35:07,263 --> 00:35:12,877
+Atucha; Yacyretá; la fibra óptica;
+el satélite ARSAT;
+
+450
+00:35:12,877 --> 00:35:18,423
+el vector para poner los satélites de
+observación en el aire; el Tronador,
+
+451
+00:35:18,423 --> 00:35:20,530
+son todas banderas de
+la sociedad argentina
+
+452
+00:35:20,530 --> 00:35:22,664
+y esta va a ser difícil
+encontrarla en el mapa,
+
+453
+00:35:22,674 --> 00:35:26,024
+todo el mapa va a dar el mismo color
+porque son banderas de la sociedad.
+
+454
+00:35:26,024 --> 00:35:29,623
+Recuerdo, Juan Carlos, cuando
+Néstor Kirchner decide hacer
+
+455
+00:35:29,623 --> 00:35:32,256
+el puerto de Caleta Olivia...
+
+456
+00:35:32,266 --> 00:35:35,825
+El puerto de Caleta Olivia se hace en una
+pequeña rada pero en realidad se excava
+
+457
+00:35:35,825 --> 00:35:41,429
+en la tierra, porque era la voluntad
+política y soberana de la gente que
+
+458
+00:35:41,439 --> 00:35:46,109
+vivía allí de tener un puerto porque
+veían que todas las riquezas pasaban por
+
+459
+00:35:46,119 --> 00:35:50,457
+la puerta o por la rada de Caleta Olivia
+y no entraba absolutamente ningún
+
+460
+00:35:50,467 --> 00:35:52,329
+valor agregado a la localidad.
+
+461
+00:35:52,329 --> 00:35:56,329
+Después está la pelea, la discusión
+de intereses por el puerto...
+
+462
+00:35:56,965 --> 00:36:01,481
+Se tomó una bandera de la sociedad,
+de años y décadas y se la llevó adelante.
+
+463
+00:36:02,125 --> 00:36:06,443
+Esto nos permitió diseñar políticas
+públicas junto con todos ustedes.
+
+464
+00:36:06,684 --> 00:36:10,965
+Yo creo que las miles de reuniones que
+llevamos hechas con la FAN o con los
+
+465
+00:36:10,975 --> 00:36:14,272
+distintos municipios (...)
+
+466
+00:36:14,788 --> 00:36:17,877
+Y, por supuesto, de la mano de
+Néstor y luego de Cristina,
+
+467
+00:36:17,887 --> 00:36:22,039
+ llevar adelante el plan de obra más
+importante del país y de toda su historia.
+
+468
+00:36:22,039 --> 00:36:26,004
+350 mil millones de pesos en 12 años.
+
+469
+00:36:26,004 --> 00:36:30,995
+Trabajar en conjunto con las provincias
+argentinas y los municipios y con todos
+
+470
+00:36:30,995 --> 00:36:33,321
+los sectores de la
+producción y el trabajo.
+
+471
+00:36:33,321 --> 00:36:37,017
+Toda esa información, toda
+esa tarea de estos 12 años
+
+472
+00:36:37,017 --> 00:36:42,123
+desde este Ministerio de Planificación,
+desde el Gobierno Nacional, está volcada
+
+473
+00:36:42,123 --> 00:36:45,671
+en los hechos concretados de la plataforma.
+
+474
+00:36:45,671 --> 00:36:48,411
+Estamos poniendo la herramienta de trabajo.
+
+475
+00:36:48,421 --> 00:36:51,080
+Nuestra herramienta de trabajo,
+la de todos los que estamos acá
+
+476
+00:36:51,080 --> 00:36:56,668
+que nos permitió soñar primero con
+Néstor y ahora con Cristina y así diseñar
+
+477
+00:36:56,678 --> 00:36:59,941
+y llevar adelante un plan
+estratégico territorial,
+
+478
+00:36:59,941 --> 00:37:02,853
+que creo que ya va por la
+tercera o cuarta corrección.
+
+479
+00:37:03,962 --> 00:37:08,792
+El plan de obras viales, el plan
+de obras de infraestructura, o sea,
+
+480
+00:37:08,792 --> 00:37:13,295
+todas las obras de la secretaría de
+obras públicas que involucró directamente
+
+481
+00:37:13,305 --> 00:37:17,353
+a todos los sectores: públicos,
+privados, social, universidades,
+
+482
+00:37:17,353 --> 00:37:22,463
+los trabajadores, empresas, cooperativas,
+con los que mantuvimos y esto creo...
+
+483
+00:37:22,463 --> 00:37:27,318
+en mejor o con peor resultado,
+un diálogo permanente.
+
+484
+00:37:27,318 --> 00:37:31,728
+Lo que nadie va a poder decir es que en
+este Ministerio no entraban y salían
+
+485
+00:37:31,728 --> 00:37:34,906
+como prácticamente de su casa.
+
+486
+00:37:34,906 --> 00:37:38,838
+Hay veces, con mejores soluciones,
+hay veces sin soluciones y otras
+
+487
+00:37:38,838 --> 00:37:41,227
+veces con soluciones importantes.
+
+488
+00:37:41,227 --> 00:37:45,159
+Todo este trabajo fue referenciado
+y está mapeado en la plataforma.
+
+489
+00:37:45,159 --> 00:37:50,007
+Están graficados los 1.800 kilómetros
+de autopista construidos;
+
+490
+00:37:50,007 --> 00:37:56,251
+los 4.500 kilómetros de ruta;
+los 5.500 kilómetros de líneas de 500,
+
+491
+00:37:56,261 --> 00:38:01,196
+llevados adelante por el Gobierno Nacional
+a través de este Ministerio que beneficia
+
+492
+00:38:01,196 --> 00:38:04,568
+en forma directa a los
+habitantes de cada municipio,
+
+493
+00:38:04,578 --> 00:38:10,027
+en cada provincia que se fueron sumando
+a estos años a un suministro de
+
+494
+00:38:10,037 --> 00:38:13,144
+electricidad más seguro y estable
+mejorando la calidad de vida y
+
+495
+00:38:13,144 --> 00:38:18,676
+haciendo posible el desarrollo de muchas
+de las economías regionales que estaban
+
+496
+00:38:18,676 --> 00:38:22,737
+paralizadas o simplemente eran ideas
+fuerza que nunca habían podido
+
+497
+00:38:22,737 --> 00:38:23,898
+ser concretadas.
+
+498
+00:38:24,227 --> 00:38:26,932
+Están localizadas todas las
+centrales eléctricas. Miren...
+
+499
+00:38:28,961 --> 00:38:32,420
+Estos días empezó...
+
+500
+00:38:32,430 --> 00:38:38,588
+hizo su primero fuego la central
+eléctrica térmica de Timbúes,
+
+501
+00:38:38,588 --> 00:38:41,211
+la denominada: "Vuelta de Obligado".
+
+502
+00:38:41,221 --> 00:38:44,831
+Que se llama Vuelta de Obligado en honor
+a la batalla de la Vuelta de Obligado,
+
+503
+00:38:44,831 --> 00:38:49,897
+pero no está situada en el lugar de San
+Pedro donde está la Vuelta de Obligado.
+
+504
+00:38:50,963 --> 00:38:52,735
+Bueno, no lo vi en ningún diario.
+
+505
+00:38:53,895 --> 00:38:57,694
+El otro día cuando hizo calor, obviamente
+suben los niveles de cortes de luz y fue
+
+506
+00:38:57,704 --> 00:38:59,519
+todo los 15 días...
+
+507
+00:38:59,519 --> 00:39:04,196
+y me parece muy bien que se informe
+y que demos la pelea con el (...)
+
+508
+00:39:04,206 --> 00:39:07,986
+en cada uno de los municipios y demás,
+y que se informe que hubo cortes de luz.
+
+509
+00:39:07,996 --> 00:39:14,573
+Lo que me parece absolutamente
+tendencioso, diría hasta malicioso,
+
+510
+00:39:14,583 --> 00:39:23,185
+desinformar...desinformar sobre la
+puesta en marcha en los próximos días.
+
+511
+00:39:23,195 --> 00:39:26,694
+Ayer estaba brindando 250
+mega la red de prueba.
+
+512
+00:39:26,704 --> 00:39:30,961
+En los próximos días se va a inaugurar,
+seguramente con nuestra Presidenta
+
+513
+00:39:30,971 --> 00:39:32,592
+ahí al frente de la inauguración.
+
+514
+00:39:32,602 --> 00:39:36,970
+Una obra que va a brindar
+540 megavatios al mercado.
+
+515
+00:39:38,409 --> 00:39:40,421
+540 megavatios...
+
+516
+00:39:42,234 --> 00:39:49,126
+no es una cifra menor en 24.000 que tiene
+el sistema en el pico máximo de consumo,
+
+517
+00:39:49,126 --> 00:39:53,997
+o sea que, en este momento debemos
+estar en 16 o 17 mil megavatios,
+
+518
+00:39:54,007 --> 00:39:59,183
+500 megavatios es un volumen importante,
+y el año que viene con el ciclo cerrado
+
+519
+00:39:59,193 --> 00:40:01,465
+va a estar cerca de 800.
+
+520
+00:40:02,259 --> 00:40:11,135
+Vimos el otro día, como una gran noticia,
+que una asesora de la Secretaría de Energía
+
+521
+00:40:11,145 --> 00:40:16,282
+que era una funcionaria contratada,
+que no tenía un cargo de planta
+
+522
+00:40:17,426 --> 00:40:24,074
+en la administración pública ni tampoco
+tenía un cargo ganado por concurso,
+
+523
+00:40:24,074 --> 00:40:24,917
+fue tapa de los diarios.
+
+524
+00:40:24,917 --> 00:40:31,281
+Los principales periodistas del país la
+entrevistaron y no me parece mal que la
+
+525
+00:40:31,291 --> 00:40:38,133
+entrevisten y que la asesora, después de
+13 años y 5 secretarios que asesoró,
+
+526
+00:40:38,143 --> 00:40:42,440
+la nueva Secretaría tiene la posibilidad
+de designar su cuerpo de asesores.
+
+527
+00:40:42,450 --> 00:40:47,492
+Bueno, era la noticia de tapa de
+los grandes medios, que bueno...
+
+528
+00:40:47,502 --> 00:40:49,194
+que la secretaria había
+cambiado de asesor.
+
+529
+00:40:49,204 --> 00:40:54,228
+Imagínense que yo mantuviera todavía
+a los asesores de Cavallo...
+
+530
+00:40:55,101 --> 00:41:00,467
+porque eran asesores del Ministerio
+de Economía, o Kicillof tuviera asesores
+
+531
+00:41:00,477 --> 00:41:01,589
+de Martínez de Hoz.
+
+532
+00:41:01,599 --> 00:41:05,669
+Habría mil asesores, cuando
+van cambiando los funcionarios...
+
+533
+00:41:05,679 --> 00:41:10,252
+(...)
+
+534
+00:41:10,262 --> 00:41:13,529
+550 megavatios no fueron noticia.
+
+535
+00:41:15,197 --> 00:41:18,882
+Y un tema menor pero
+vale por la comparación...
+
+536
+00:41:20,392 --> 00:41:23,312
+están en diseño 2.800
+kilómetros de gasoducto;
+
+537
+00:41:23,312 --> 00:41:28,622
+ 2.900 caballos de presión para poder
+
+538
+00:41:28,622 --> 00:41:31,897
+transportar el gas para
+las plantas compresoras;
+
+539
+00:41:31,907 --> 00:41:35,350
+30.000 kilómetros de fibra
+óptica están construidos;
+
+540
+00:41:35,350 --> 00:41:38,765
+90 estaciones de TV digital,
+que son eje estratégico
+
+541
+00:41:38,775 --> 00:41:41,966
+de la inclusión digital del plan
+nacional de telecomunicaciones.
+
+542
+00:41:41,976 --> 00:41:45,446
+Si nosotros no hubiéramos hecho...
+a ver, si nos podemos entender bien
+
+543
+00:41:45,456 --> 00:41:47,383
+en cuanto al tema de la
+ley de Argentina digital...
+
+544
+00:41:47,393 --> 00:41:51,136
+si nosotros no hubiéramos hecho los
+30.000 kilómetros de fibra óptica,
+
+545
+00:41:51,146 --> 00:41:54,182
+si no estaríamos firmando la
+última milla de fibra óptica...
+
+546
+00:41:55,958 --> 00:42:02,764
+en los próximos días estará inaugurando
+Patricio Mussi el nuevo edificio de
+
+547
+00:42:02,774 --> 00:42:05,828
+la intendencia municipal de Berazategui,
+edificio inteligente,
+
+548
+00:42:05,838 --> 00:42:07,408
+todo el pueblo con fibra óptica...
+
+549
+00:42:07,418 --> 00:42:12,912
+si no hubiéramos hecho todas estas
+cuestiones la ley sería de contenido vacío
+
+550
+00:42:12,922 --> 00:42:16,231
+y realmente, a lo mejor tendrían razón
+que estaríamos apuntando en un sentido
+
+551
+00:42:16,231 --> 00:42:16,938
+o en otro.
+
+552
+00:42:16,948 --> 00:42:19,346
+El satélite es argentino.
+
+553
+00:42:19,346 --> 00:42:24,175
+ARSAT tiene el mayor
+call-center de Latinoamérica.
+
+554
+00:42:25,342 --> 00:42:29,425
+Tenemos la televisión digital abierta
+con más de 10 millones de usuarios.
+
+555
+00:42:29,425 --> 00:42:35,126
+Hemos llevado, durante este gobierno
+con políticas de este gobierno
+
+556
+00:42:35,126 --> 00:42:37,618
+y tal vez con la prestación
+de las telefónicas,
+
+557
+00:42:37,628 --> 00:42:40,882
+de 6 millones a 45 millones de celulares.
+
+558
+00:42:40,892 --> 00:42:46,203
+Evidentemente, si no hubiera pasado todo
+eso en la Argentina seguramente, 
+
+559
+00:42:46,203 --> 00:42:51,440
+como pasó en gobiernos anteriores,
+la ley 1.972 estaría bien igual.
+
+560
+00:42:51,440 --> 00:42:56,063
+En realidad, lo que
+cambió son los tiempos.
+
+561
+00:42:56,063 --> 00:42:58,150
+Lo que cambió es la
+forma de hacer política.
+
+562
+00:42:58,150 --> 00:43:01,511
+Lo que cambió es la voluntad
+política de ejecución.
+
+563
+00:43:02,534 --> 00:43:04,866
+Y algunos parece que se quedaron...
+
+564
+00:43:06,426 --> 00:43:08,666
+en el rebalanceo de Cameron.
+
+565
+00:43:09,278 --> 00:43:14,702
+Bueno. Los NAC fueron abiertos
+en departamentos en donde más del 50%,
+
+566
+00:43:14,702 --> 00:43:17,893
+escuchen bien esto...
+los NAC, en general, fueron abiertos en
+
+567
+00:43:17,903 --> 00:43:23,778
+departamentos y municipios donde más del
+50% de los hogares no tienen computadora.
+
+568
+00:43:24,901 --> 00:43:27,988
+Y las vas adquiriendo en muchos casos
+a través de Conectar Igualdad,
+
+569
+00:43:27,988 --> 00:43:31,815
+que es otra política que se mancomuna
+ahora en el anuncio de esta plataforma,
+
+570
+00:43:31,815 --> 00:43:36,560
+y el 51% de ellos provee internet de
+manera gratuita a comunidades donde
+
+571
+00:43:36,560 --> 00:43:40,986
+por razones geográficas los servicios
+de internet superan el precio promedio
+
+572
+00:43:40,986 --> 00:43:46,859
+de contratación y algunos incluso están en
+zona donde aún no llega la energía eléctrica.
+
+573
+00:43:46,859 --> 00:43:51,338
+O sea, hay internet y hay televisión
+digital abierta y en algunos lugares
+
+574
+00:43:51,338 --> 00:43:56,533
+todavía no ha llegado la red de la
+energía eléctrica al 100% de los hogares.
+
+575
+00:43:56,543 --> 00:43:59,631
+Pero está disponible para
+ser distribuida y conectada,
+
+576
+00:43:59,641 --> 00:44:02,042
+y lo mejor es que podemos,
+con esta herramienta de trabajo,
+
+577
+00:44:02,042 --> 00:44:08,312
+ver entre todos lo qué falta, dónde falta
+y que está haciendo cada uno para mejorar
+
+578
+00:44:08,322 --> 00:44:11,082
+la calidad de vida de todos y,
+fundamentalmente, a partir de la
+
+579
+00:44:11,092 --> 00:44:16,168
+problemática como dice el nombre,
+plantear desde la política...
+
+580
+00:44:16,178 --> 00:44:17,613
+desde la política, amigos...
+
+581
+00:44:17,623 --> 00:44:20,793
+las prioridades, que eso
+es hacer política.
+
+582
+00:44:20,803 --> 00:44:25,377
+Es fijar prioridades y una vez que uno
+las fijó, llevar adelante la herramienta,
+
+583
+00:44:25,377 --> 00:44:29,186
+las obras y los hechos concretos
+para resolver los problemas.
+
+584
+00:44:29,186 --> 00:44:34,507
+De esta forma trabajamos y diseñamos
+estos 30.000 kilómetros de fibra óptica;
+
+585
+00:44:34,517 --> 00:44:39,090
+los 173 núcleos de acceso al
+conocimiento en 150 localidades;
+
+586
+00:44:39,100 --> 00:44:44,951
+120 puntos de acceso digital;
+2.400 estaciones satelitales de
+
+587
+00:44:44,961 --> 00:44:47,141
+conectividad a internet
+para escuelas rurales.
+
+588
+00:44:47,151 --> 00:44:50,172
+Y ahí después van Diego y Cristina...
+
+589
+00:44:50,172 --> 00:44:54,682
+y va la maquinita,
+la laptop de Conectar Igualdad.
+
+590
+00:44:54,692 --> 00:44:58,861
+Esta es la política, se
+detecta la prioridad
+
+591
+00:44:58,861 --> 00:45:04,489
+y las distintas capas de la
+resolución fáctica del problema.
+
+592
+00:45:04,489 --> 00:45:09,048
+Hemos brindado internet para
+escuelas rurales y de frontera;
+
+593
+00:45:09,048 --> 00:45:13,867
+83 estaciones de TV digital que dan
+cobertura al 82% de la población;
+
+594
+00:45:13,877 --> 00:45:17,918
+se elevó el servicio de TV digital
+al 100% de escuelas rurales.
+
+595
+00:45:17,918 --> 00:45:21,701
+La propuesta es subir esta
+plataforma digital a este PIP,
+
+596
+00:45:21,701 --> 00:45:25,734
+la totalidad de las políticas de
+desarrollo promovidas y ejecutadas
+
+597
+00:45:25,744 --> 00:45:28,170
+en cada área,
+no solamente de este Ministerio,
+
+598
+00:45:28,170 --> 00:45:30,887
+sino de los que estamos formando
+parte aquí de esta mesa.
+
+599
+00:45:30,887 --> 00:45:34,495
+Para que esté a disposición,
+sea conocida y utilizada
+
+600
+00:45:35,924 --> 00:45:40,120
+y adoptada, no solamente por los municipios
+sino cada uno ustedes intendentes,
+
+601
+00:45:40,120 --> 00:45:42,882
+llevarlos a los sectores productivos,
+industriales, comerciales.
+
+602
+00:45:42,882 --> 00:45:46,706
+Es una herramienta fantástica,
+no para hacer política sino para que,
+
+603
+00:45:46,706 --> 00:45:51,666
+a través de la difusión de la herramienta,
+los propios sectores y la fuerza de la
+
+604
+00:45:51,666 --> 00:45:56,204
+comunidad generen el criterio
+de la comunidad organizada,
+
+605
+00:45:56,204 --> 00:46:00,193
+el planteo básico de nuestra filosofía
+y nuestra forma de hacer política.
+
+606
+00:46:00,193 --> 00:46:04,851
+Que muchos no entienden y algunos que
+la entienden no la quieren hacer cambiar,
+
+607
+00:46:04,851 --> 00:46:07,775
+y nosotros estamos
+empecinados en no cambiarla.
+
+608
+00:46:11,886 --> 00:46:14,751
+Cada decisión en estos años,
+cada obra...
+
+609
+00:46:15,244 --> 00:46:20,270
+fue pensada para que cada sector en cada
+actividad pueda definir su competitividad,
+
+610
+00:46:20,280 --> 00:46:24,068
+sus posibilidades de dar trabajo,
+de competir con salarios dignos,
+
+611
+00:46:24,068 --> 00:46:27,694
+que promuevan el mercado interno y el
+crecimiento de las empresas, comercios,
+
+612
+00:46:27,694 --> 00:46:31,656
+productores y fábricas que
+de otra manera no existirían,
+
+613
+00:46:31,656 --> 00:46:35,005
+y lo hicimos para poder crecer y
+generar las condiciones para crecer
+
+614
+00:46:35,015 --> 00:46:36,232
+cada rincón del país.
+
+615
+00:46:36,662 --> 00:46:40,376
+Esta plataforma es la que ponemos al
+servicio y disposición de los otros
+
+616
+00:46:40,376 --> 00:46:45,324
+Ministerios, al servicio de las provincias,
+de los municipios y de todas las
+
+617
+00:46:45,324 --> 00:46:49,636
+organizaciones de la sociedad y de los
+ciudadanos que quieran aportarle,
+
+618
+00:46:49,646 --> 00:46:52,754
+no solamente mayor valor
+cargando la información,
+
+619
+00:46:52,754 --> 00:46:58,965
+sino que permitan también complejizar
+el sistema, darle más escala y más volumen
+
+620
+00:46:58,965 --> 00:47:02,052
+y al sistema de toma de decisiones.
+
+621
+00:47:02,062 --> 00:47:06,360
+Se arrancó sobre la base
+de las carencias de la gente.
+
+622
+00:47:06,360 --> 00:47:11,859
+Se arrancó sobre la base de necesidades
+básicas profundas insatisfechas,
+
+623
+00:47:11,869 --> 00:47:16,404
+y cada vez los niveles de resolución,
+cada vez los niveles de la demanda social,
+
+624
+00:47:16,404 --> 00:47:21,174
+cada vez la demanda de las fuerzas vivas
+de cada una de nuestras comunidades
+
+625
+00:47:21,174 --> 00:47:22,541
+se va complejizando.
+
+626
+00:47:22,541 --> 00:47:29,707
+Este mapa nos enseña y nos ordena en la
+manera de formular las prioridades y
+
+627
+00:47:29,707 --> 00:47:30,909
+tomar las decisiones.
+
+628
+00:47:31,134 --> 00:47:34,166
+Esta plataforma es como una ruta,
+como un camino,
+
+629
+00:47:34,166 --> 00:47:38,140
+como las tantas que construimos,
+a las que todos podemos y debemos
+
+630
+00:47:38,151 --> 00:47:41,769
+subirnos para seguir construyendo
+las obras que el país necesita.
+
+631
+00:47:42,159 --> 00:47:46,586
+Es la que ha servido en estos años
+para planificar y tomar decisiones.
+
+632
+00:47:46,596 --> 00:47:51,697
+Como dijeron recién los técnicos amigos,
+es una plataforma de acceso universal
+
+633
+00:47:51,697 --> 00:47:54,485
+a la que se podrá ingresar
+en el sitio de internet:
+
+634
+00:47:54,485 --> 00:47:57,172
+PIP.MINPLAN.GOB.AR
+
+635
+00:47:57,182 --> 00:48:03,753
+esto se va a definir claramente y se va
+a difundir para que todos podamos estar
+
+636
+00:48:04,466 --> 00:48:10,131
+informados de cómo llegar a acceder a la
+plataforma y generar las propuestas que
+
+637
+00:48:10,131 --> 00:48:10,994
+hagan falta.
+
+638
+00:48:10,994 --> 00:48:15,315
+Sumados desde ahora los Ministerios de
+organismos que nos acompañan acá,
+
+639
+00:48:15,315 --> 00:48:20,246
+que somos todos parte de un mismo equipo
+de gobierno, podremos visualizar en capas
+
+640
+00:48:20,246 --> 00:48:26,171
+no solo la información acerca de
+infraestructura sino también de salud,
+
+641
+00:48:26,171 --> 00:48:31,592
+de educación, la situación, las cuestiones
+que plantea el ANSES, toda la variedad
+
+642
+00:48:31,592 --> 00:48:35,156
+y la gamma de planteos, no solamente de la
+cuestión provisional que plantea el ANSES,
+
+643
+00:48:35,166 --> 00:48:38,711
+deportes, estadística, medio ambiente,
+actividad económica, industrial,
+
+644
+00:48:38,711 --> 00:48:42,504
+meteorología, empleo...
+hablábamos recién con Paco de la
+
+645
+00:48:42,504 --> 00:48:45,934
+posibilidad de incorporar portales...
+
+646
+00:48:47,022 --> 00:48:49,791
+estuvimos trabajando con Santiago
+Rodríguez, ayer cuando estuvimos
+
+647
+00:48:49,801 --> 00:48:53,086
+en Bolivia, en el avión veníamos
+conversando para que desde el servicio
+
+648
+00:48:53,086 --> 00:49:00,009
+meteorológico tengamos una señal clara
+de alerta tempranas ante las situaciones
+
+649
+00:49:00,914 --> 00:49:04,953
+previas a las tormentas que nos permitan
+tomar las decisiones adecuadas.
+
+650
+00:49:05,391 --> 00:49:09,353
+Siendo Argentina el octavo territorio
+geográfico más extenso del mundo
+
+651
+00:49:09,363 --> 00:49:13,468
+con una superficie que reúne una amplia
+variedad geográfica, climática y
+
+652
+00:49:13,468 --> 00:49:18,075
+una población dispersa, a diferencia de
+países donde la población se concentra
+
+653
+00:49:18,075 --> 00:49:20,064
+en una superficie más acotada.
+
+654
+00:49:20,064 --> 00:49:25,467
+El desafío de desarrollar esta herramienta
+será formidable y es posible plantearlo
+
+655
+00:49:25,467 --> 00:49:29,545
+a partir del enorme desarrollo de
+infraestructura, de obras públicas,
+
+656
+00:49:29,555 --> 00:49:31,942
+científicas y tecnológicas
+alcanzadas en el 2003.
+
+657
+00:49:31,942 --> 00:49:35,724
+Si no se hubiera desarrollado
+toda esa infraestructura,
+
+658
+00:49:35,724 --> 00:49:39,623
+si no hubiera participado la Universidad
+de San Martín, la de Buenos Aires y
+
+659
+00:49:39,623 --> 00:49:40,261
+tantas otras.
+
+660
+00:49:40,271 --> 00:49:42,291
+ No quiero ser injusto,
+la de Paraná...
+
+661
+00:49:43,606 --> 00:49:44,613
+que han participado...
+
+662
+00:49:44,613 --> 00:49:49,191
+la Comisión Nacional de la Energía
+Atómica, evidentemente la existencia
+
+663
+00:49:49,201 --> 00:49:52,035
+de este PIP sería, como hablábamos
+recién con Diego antes de entrar,
+
+664
+00:49:52,035 --> 00:49:55,354
+un conjunto vacío.
+No serviría absolutamente para nada,
+
+665
+00:49:55,354 --> 00:50:02,010
+porque no habría nada que activar,
+nada que archivar y sí mucho para decir,
+
+666
+00:50:02,010 --> 00:50:06,695
+los planteos que originalmente los
+hicieron en el 2002 o 2003 y evidentemente
+
+667
+00:50:06,705 --> 00:50:10,300
+el proceso de inestabilidad y de
+ingobernabilidad que habría en este país
+
+668
+00:50:10,310 --> 00:50:15,389
+si hubiéramos continuado con las políticas
+del neoliberalismo no darían lugar al
+
+669
+00:50:15,399 --> 00:50:20,137
+menor espacio para idear o planificar
+cualquier tipo de plataforma digital
+
+670
+00:50:20,137 --> 00:50:21,228
+de nada.
+
+671
+00:50:21,238 --> 00:50:26,448
+Ni siquiera tendríamos las herramientas
+ni los medios para poder acceder.
+
+672
+00:50:26,852 --> 00:50:30,891
+Bueno. Esto es, en líneas
+generales, lo que quería decirles.
+
+673
+00:50:30,891 --> 00:50:35,366
+Me escribieron muchísimas más cosas
+pero no quiero abrumarlos con datos.
+
+674
+00:50:35,366 --> 00:50:36,842
+Simplemente...
+
+675
+00:50:38,127 --> 00:50:41,886
+en el sector nuclear,
+en el sector comunicaciones...
+
+676
+00:50:42,866 --> 00:50:47,794
+la empresa INVAP, una empresa
+de la provincia de Río Negro...
+
+677
+00:50:47,794 --> 00:50:53,253
+hemos logrado hacer realidad,
+después de muchísimos años,
+
+678
+00:50:54,274 --> 00:50:57,264
+del Instituto Roffo,
+de la Comisión de Energía Atómica,
+
+679
+00:50:57,264 --> 00:50:59,787
+la ciencia aplicada en la Argentina.
+
+680
+00:50:59,787 --> 00:51:03,810
+El satélite ARSAT, la puesta en marcha
+por la empresa NASA dependiente
+
+681
+00:51:03,820 --> 00:51:09,185
+del CONEA, de la central Atucha 2,
+actualmente central Néstor Kirchner,
+
+682
+00:51:09,185 --> 00:51:11,922
+habla a las claras de
+una voluntad inclaudicable.
+
+683
+00:51:11,922 --> 00:51:15,822
+Y me da la sensación...
+estoy totalmente persuadido
+
+684
+00:51:15,822 --> 00:51:17,190
+que a futuro...
+
+685
+00:51:18,011 --> 00:51:23,256
+con la conducción política de nuestra
+Presidenta, no genera espacios para
+
+686
+00:51:23,256 --> 00:51:24,855
+dar ningún paso atrás.
+
+687
+00:51:24,855 --> 00:51:30,851
+Ustedes fíjense, ayer creo que
+Julián Domínguez decía que
+
+688
+00:51:30,861 --> 00:51:34,478
+sería bueno que los candidatos
+presidenciales plantearan claramente
+
+689
+00:51:35,410 --> 00:51:38,942
+cómo van a seguir avanzando en
+estas políticas de ciencia aplicada,
+
+690
+00:51:38,942 --> 00:51:43,003
+cómo van a seguir avanzando en
+la política de ciencia y tecnología,
+
+691
+00:51:43,013 --> 00:51:46,365
+y si van a hacer recortes, sería
+bueno que explicaran cual va a ser,
+
+692
+00:51:46,365 --> 00:51:49,993
+y a qué provincia no vamos
+a llevar la medicina nuclear,
+
+693
+00:51:51,115 --> 00:51:56,647
+qué obra vamos a dejar de hacer
+para mejorar aún más el sistema
+
+694
+00:51:56,657 --> 00:51:57,309
+hídrico argentino.
+
+695
+00:51:57,319 --> 00:52:02,132
+Nosotros, cuando fue la inundación
+del 2009, dijimos claramente en el caso
+
+696
+00:52:02,132 --> 00:52:05,150
+de Areco, tanto Carmen
+como San Antonio de Areco,
+
+697
+00:52:05,160 --> 00:52:10,553
+que había problemas graves de diferencia
+de velocidad de escurrimiento de agua
+
+698
+00:52:10,563 --> 00:52:14,585
+a partir de haber pasado la
+zona de ganadera a agrícola.
+
+699
+00:52:14,585 --> 00:52:18,770
+Esto ahora salvo Paco no ha
+escuchado otro comentario.
+
+700
+00:52:19,226 --> 00:52:21,199
+Y sería bueno que nos
+pongamos a trabajar,
+
+701
+00:52:21,199 --> 00:52:24,143
+y tal vez, sería bueno aplicar en este
+mapa y ver realmente porque...
+
+702
+00:52:24,153 --> 00:52:28,237
+tenemos herramientas...
+a ver cómo era el mapa antes
+
+703
+00:52:28,247 --> 00:52:29,196
+y cómo es ahora.
+
+704
+00:52:29,196 --> 00:52:31,998
+Qué canales habían antes y
+qué canales hay ahora.
+
+705
+00:52:33,335 --> 00:52:40,531
+Y, por supuesto, la forma indiscriminada
+de las urbanizaciones, ¿no?
+
+706
+00:52:40,531 --> 00:52:45,937
+Que entonces el que lotea, vende,
+monetiza, se lleva la plata a otro lugar,
+
+707
+00:52:45,947 --> 00:52:50,047
+no la deja en Areco...
+la lleva a otro lugar
+
+708
+00:52:50,047 --> 00:52:57,787
+y las cloacas, el agua, la televisión
+digital...toda la infraestructura se
+
+709
+00:52:57,787 --> 00:52:59,427
+va a tener que hacer cargo el intendente.
+
+710
+00:52:59,427 --> 00:53:03,671
+O sea, vos te llevaste la renta de
+la tierra y dejaste el problema.
+
+711
+00:53:03,671 --> 00:53:04,167
+Bueno.
+
+712
+00:53:05,658 --> 00:53:10,914
+Y algunos son barrios cerrados, otros
+son semi-cerrados y otros son abiertos,
+
+713
+00:53:10,914 --> 00:53:16,449
+pero el problema está y son la política
+en materia de tierra que también
+
+714
+00:53:16,459 --> 00:53:19,138
+vamos a tener que empezar
+a estudiar y a revisar.
+
+715
+00:53:19,148 --> 00:53:21,254
+No puede haber ningún
+tipo de revisaciones
+
+716
+00:53:21,254 --> 00:53:24,663
+si no hay inversiones
+paralelas de infraestructura.
+
+717
+00:53:24,663 --> 00:53:26,196
+Bueno, esto nos sirve para eso.
+
+718
+00:53:27,175 --> 00:53:28,232
+Esto nos sirve para eso.
+
+719
+00:53:29,664 --> 00:53:30,472
+Como dice...
+
+720
+00:53:31,681 --> 00:53:32,513
+el pueblo...
+
+721
+00:53:33,809 --> 00:53:36,337
+es un lugar común,
+es un canta claro. ¿Está?
+
+722
+00:53:36,725 --> 00:53:43,011
+Entonces, usémoslo con inteligencia,
+usémoslo con sabiduría política
+
+723
+00:53:43,011 --> 00:53:47,150
+como ha tenido la Presidenta para que lo
+lancemos y para poder detectar verdaderas
+
+724
+00:53:47,150 --> 00:53:50,099
+problemáticas y avancemos
+entonces estas políticas.
+
+725
+00:53:50,099 --> 00:53:56,964
+La universalización de los servicios de
+comunicación, a través de la declaración
+
+726
+00:53:56,974 --> 00:54:00,627
+de interés público de todas las redes.
+La convergencia tecnológica.
+
+727
+00:54:00,627 --> 00:54:02,385
+Antes no me salió la palabra convergencia.
+
+728
+00:54:03,265 --> 00:54:05,920
+La convergencia tecnológica.
+Si nosotros no vamos hacia la
+
+729
+00:54:05,930 --> 00:54:10,789
+convergencia tecnológica, la convergencia
+tecnológica vendrá hacia nosotros
+
+730
+00:54:10,789 --> 00:54:11,907
+de la peor manera.
+
+731
+00:54:11,907 --> 00:54:16,008
+Entonces, tenemos que trabajar
+fuertemente y creo que el proyecto
+
+732
+00:54:16,018 --> 00:54:18,806
+de ley, en ese sentido,
+que mandó la Presidenta al Congreso,
+
+733
+00:54:18,806 --> 00:54:26,469
+como este proyecto de plataforma
+tecnológica de información de prioridades
+
+734
+00:54:26,469 --> 00:54:28,932
+y de problemáticas, son básicas.
+
+735
+00:54:28,932 --> 00:54:31,315
+Y se necesita el debate y
+se necesita la discusión.
+
+736
+00:54:31,315 --> 00:54:36,526
+Pero, ojo. La discusión sabiendo todos y
+cada uno dónde estamos, pero también
+
+737
+00:54:36,526 --> 00:54:37,934
+viendo dónde estuvimos antes.
+
+738
+00:54:37,934 --> 00:54:40,851
+Nosotros tenemos muy
+claro de dónde venimos.
+
+739
+00:54:40,851 --> 00:54:43,744
+Venimos de un país con
+6 millones de celulares,
+
+740
+00:54:43,744 --> 00:54:48,260
+con 53% de gente bajo
+la línea de pobreza,
+
+741
+00:54:48,260 --> 00:54:52,291
+con 24% en la miseria,
+con 25% de desocupación
+
+742
+00:54:53,508 --> 00:54:57,012
+sin ninguna...con la empresa
+Nahuelsat entregándonos la llave
+
+743
+00:54:57,012 --> 00:55:01,154
+de la central ahí en Benavídez,
+que hoy es el call-center más
+
+744
+00:55:01,154 --> 00:55:04,213
+importante de Latinoamérica,
+con Atucha paralizada...
+
+745
+00:55:06,561 --> 00:55:09,391
+Hoy son todas concreciones y son todas
+banderas que nosotros podemos mostrar.
+
+746
+00:55:09,391 --> 00:55:12,859
+Bueno, los que cuestionan,
+que digan de dónde vienen.
+
+747
+00:55:12,869 --> 00:55:17,631
+Que digan qué proyectos apoyaron
+y fundamentalmente, que digan que
+
+748
+00:55:17,631 --> 00:55:21,324
+soluciones y qué continuidad tienen
+para esta política de inclusión que
+
+749
+00:55:21,334 --> 00:55:22,365
+llevó adelante el Gobierno Nacional.
+
+750
+00:55:22,375 --> 00:55:25,082
+Muchísimas gracias.
+Y adelante con todo.
+
+751
+00:55:25,082 --> 00:55:29,716
+Señoras y señores, con las palabras
+del ministro de Planificación Federal,
+
+752
+00:55:29,716 --> 00:55:32,801
+Inversión Pública y Servicios,
+damos por finalizado el acto de
+
+753
+00:55:32,801 --> 00:55:35,374
+lanzamiento de Plataforma de
+Detección de Problemáticas.
+
+754
+00:55:35,374 --> 00:55:37,283
+A todos, muchas gracias.
+

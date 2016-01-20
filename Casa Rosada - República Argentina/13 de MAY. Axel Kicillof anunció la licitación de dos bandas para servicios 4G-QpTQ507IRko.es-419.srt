@@ -1,0 +1,7400 @@
+1
+00:00:00,167 --> 00:00:05,567
+Recibimos aquí en este Microcine
+del Ministerio de Economía
+
+2
+00:00:05,634 --> 00:00:07,701
+a los Ministros de Economías
+y Finanzas publicas
+
+3
+00:00:07,801 --> 00:00:10,334
+y al Ministro de Planificación
+Federal, Inversión Pública
+
+4
+00:00:10,400 --> 00:00:11,968
+y Servicios.
+
+5
+00:00:12,067 --> 00:00:13,934
+Acompañados por el Secretario
+de Comunicación.
+
+6
+00:00:14,033 --> 00:00:16,834
+Serán los encargados de brindar
+esta conferencia de prensa.
+
+7
+00:00:16,901 --> 00:00:18,667
+En primer lugar vamos a escuchar
+las palabras
+
+8
+00:00:18,767 --> 00:00:21,033
+del señor Ministro de Economía
+y Finanzas Públicas,
+
+9
+00:00:21,100 --> 00:00:23,534
+el doctor Axel Kicillof.
+
+10
+00:00:44,467 --> 00:00:47,300
+Bueno, buenos días.
+Muchas gracias por venir.
+
+11
+00:00:47,501 --> 00:00:51,901
+Estoy acá junto con el Ministro
+de Planificación Federal,
+
+12
+00:00:52,000 --> 00:00:53,934
+Julio De Vido,
+
+13
+00:00:54,067 --> 00:00:56,067
+y con el Secretario
+de Comunicación
+
+14
+00:00:56,200 --> 00:01:01,267
+para anunciar el llamado
+a licitación de nuevas bandas
+
+15
+00:01:01,334 --> 00:01:03,400
+para servicios móviles.
+
+16
+00:01:03,501 --> 00:01:05,667
+Concretamente se van a licitar
+dos nuevas bandas
+
+17
+00:01:05,767 --> 00:01:09,267
+para brindar servicios
+de comunicación móvil avanzada,
+
+18
+00:01:09,400 --> 00:01:15,601
+la conocida como 4G,
+Banda AWS y Banda 700.
+
+19
+00:01:15,968 --> 00:01:19,167
+Estas bandas van a permitir
+a los usuarios a acceder
+
+20
+00:01:19,267 --> 00:01:22,934
+a la renovación en web,
+en la red,
+
+21
+00:01:23,033 --> 00:01:24,868
+a mucha mejor velocidad,
+
+22
+00:01:25,234 --> 00:01:31,801
+cercana al tipo de tecnología
+aquella que viene por cable,
+
+23
+00:01:31,934 --> 00:01:35,501
+la velocidad, y también
+servicios de video streaming,
+
+24
+00:01:35,601 --> 00:01:38,868
+o sea, video por los aparatos
+móviles
+
+25
+00:01:38,968 --> 00:01:44,634
+que también está incluido
+dentro de esta nueva tecnología.
+
+26
+00:01:45,501 --> 00:01:48,234
+Al mismo también vamos
+a anunciar
+
+27
+00:01:48,334 --> 00:01:50,901
+y lo van a hacer con más precisión
+el Secretario de Comunicación,
+
+28
+00:01:51,033 --> 00:01:52,767
+y por supuesto, el Ministro,
+
+29
+00:01:52,868 --> 00:01:55,968
+que se van a licitar
+los bloques remanentes
+
+30
+00:01:56,067 --> 00:01:58,734
+de la tecnología 3G,
+
+31
+00:01:58,968 --> 00:02:01,601
+esto va a permitir rápidamente
+mejorar la asignación
+
+32
+00:02:01,701 --> 00:02:04,767
+de recursos para la red
+de servicios actuales
+
+33
+00:02:04,868 --> 00:02:08,934
+en voz y SMS,
+lo que seguramente,
+
+34
+00:02:09,067 --> 00:02:12,501
+en alguna medida va a impactar
+sobre la calidad del servicio
+
+35
+00:02:12,601 --> 00:02:14,701
+y la cobertura del servicio.
+
+36
+00:02:14,834 --> 00:02:19,667
+Antes de brindarle la palabra
+al Ministro y al Secretario,
+
+37
+00:02:19,801 --> 00:02:22,300
+quería hacer algunas
+consideraciones económicas
+
+38
+00:02:22,400 --> 00:02:25,968
+sobre la cuestión referidas,
+tanto al sector
+
+39
+00:02:26,133 --> 00:02:28,534
+de la telecomunicación
+en móviles
+
+40
+00:02:28,634 --> 00:02:32,400
+como a la cuestión
+estrictamente vinculada
+
+41
+00:02:32,534 --> 00:02:40,567
+a la inversión y a la magnitud
+de aporte al PBI del sector.
+
+42
+00:02:40,667 --> 00:02:43,868
+Lo hago porque la verdad
+para la economía argentina,
+
+43
+00:02:43,968 --> 00:02:49,234
+tal como están indicando
+informes internacionales,
+
+44
+00:02:49,300 --> 00:02:51,501
+también en el terreno
+de la telefonía móvil,
+
+45
+00:02:51,634 --> 00:02:55,000
+estos 10 años fueron
+una década ganada.
+
+46
+00:02:55,133 --> 00:02:58,801
+Repasábamos recién los números,
+sabrán ustedes que en 2003
+
+47
+00:02:58,901 --> 00:03:04,501
+existían 4 millones y medio
+de líneas activas.
+
+48
+00:03:04,567 --> 00:03:09,701
+Y en este momento, si bien
+yo voy a hablar de 60 millones
+
+49
+00:03:09,767 --> 00:03:12,868
+de líneas vendidas,
+uno podría decir
+
+50
+00:03:12,934 --> 00:03:18,234
+que las líneas activas
+son 45 millones.
+
+51
+00:03:18,334 --> 00:03:20,868
+Quiere decir que estamos hablando
+en estos 10 años
+
+52
+00:03:20,968 --> 00:03:25,968
+de un crecimiento explosivo,
+exponencial de la demanda
+
+53
+00:03:26,033 --> 00:03:28,400
+de este tipo de servicios
+móviles.
+
+54
+00:03:28,567 --> 00:03:32,667
+De ahí su importancia
+para la economía nacional.
+
+55
+00:03:32,767 --> 00:03:36,400
+Y esto destaca incluso
+con respecto a otros países
+
+56
+00:03:36,501 --> 00:03:39,667
+de la región y del mundo.
+
+57
+00:03:39,801 --> 00:03:43,634
+Lo digo porque muchas veces
+critican algunos
+
+58
+00:03:43,701 --> 00:03:47,067
+las estadísticas, o no les
+gustan las estadísticas,
+
+59
+00:03:47,167 --> 00:03:49,901
+y sobre todo cuando hablan
+de la mejora en el bienestar
+
+60
+00:03:50,000 --> 00:03:51,200
+de todos los argentinos.
+
+61
+00:03:51,267 --> 00:03:53,601
+Nos quieren hacer creer
+que 4 millones y medio
+
+62
+00:03:53,667 --> 00:03:58,400
+de celulares son lo mismo
+o menos que 45 millones,
+
+63
+00:03:58,501 --> 00:03:59,701
+pero no, son 10 veces más.
+
+64
+00:03:59,767 --> 00:04:04,767
+Entonces ha sido un sector
+que ha crecido exponencialmente,
+
+65
+00:04:04,868 --> 00:04:09,534
+lo cual, tal como voy
+a señalar ahora,
+
+66
+00:04:09,601 --> 00:04:12,734
+ha representado un desafío
+en diversas dimensiones.
+
+67
+00:04:12,868 --> 00:04:16,968
+Cabe decir también
+que obviamente este crecimiento
+
+68
+00:04:17,067 --> 00:04:20,234
+es resultado del crecimiento
+económico del país,
+
+69
+00:04:20,367 --> 00:04:22,334
+pero se monta sobre
+una tecnología
+
+70
+00:04:22,467 --> 00:04:24,701
+que se ha ido desarrollando
+a lo largo y a lo ancho
+
+71
+00:04:24,801 --> 00:04:27,968
+del planeta, y que ha ido
+desplazando otras formas
+
+72
+00:04:28,100 --> 00:04:29,534
+de comunicación.
+
+73
+00:04:29,634 --> 00:04:32,267
+La primera lamina que muestro
+es muy breve,
+
+74
+00:04:32,367 --> 00:04:35,534
+pero no por eso menos
+impresionante.
+
+75
+00:04:35,601 --> 00:04:39,167
+Muestro que esas 59 millones
+de conexiones,
+
+76
+00:04:39,267 --> 00:04:41,501
+no hablo de las activas
+que son las 45
+
+77
+00:04:41,567 --> 00:04:44,601
+de telefonía celular en el 2012,
+
+78
+00:04:44,734 --> 00:04:47,868
+contrastan fuertemente
+con la telefonía fija.
+
+79
+00:04:48,000 --> 00:04:53,033
+Mi experiencia personal empezó
+con los teléfonos a disco
+
+80
+00:04:53,100 --> 00:04:57,667
+y hoy vemos 6 veces más
+teléfonos celulares
+
+81
+00:04:57,767 --> 00:05:00,734
+que teléfonos fijos.
+
+82
+00:05:00,834 --> 00:05:04,667
+De la misma manera esto supera
+fuertemente a la banda ancha,
+
+83
+00:05:04,801 --> 00:05:08,834
+es decir, aquellos que reciben
+internet en sus domicilios,
+
+84
+00:05:08,934 --> 00:05:11,267
+ya sea por el servicio de cable
+
+85
+00:05:11,334 --> 00:05:14,434
+o por el servicio telefónico,
+
+86
+00:05:14,534 --> 00:05:17,100
+lo cual también tiene
+mucho interés
+
+87
+00:05:17,200 --> 00:05:19,534
+lo de los 6 millones de abonados
+
+88
+00:05:19,634 --> 00:05:23,267
+porque lo que estamos presentando
+hoy, esta licitación,
+
+89
+00:05:23,367 --> 00:05:28,200
+no representa solamente avanzar
+sobre lo que quedaba remanente
+
+90
+00:05:28,300 --> 00:05:33,234
+del espectro de 3G,
+sino incorporar el espectro de 4G,
+
+91
+00:05:33,367 --> 00:05:38,701
+lo cual da lugar a un avance
+tecnológico muy importante.
+
+92
+00:05:38,801 --> 00:05:40,968
+Es muy importante para
+nosotros que ocurra
+
+93
+00:05:41,067 --> 00:05:45,834
+y que permite, y que lo ha hecho
+en otros lugares del mundo,
+
+94
+00:05:45,934 --> 00:05:50,100
+que prácticamente
+el acceso a internet estándar
+
+95
+00:05:50,200 --> 00:05:53,701
+sea por dispositivos móviles,
+no por dispositivos fijos.
+
+96
+00:05:53,801 --> 00:05:56,067
+Y esto es porque tiene
+mucha más velocidad
+
+97
+00:05:56,167 --> 00:06:00,667
+de ancho de banda lo cual
+permite que sea competitivo
+
+98
+00:06:00,767 --> 00:06:04,834
+internet cuando se recibe
+por dispositivos móviles
+
+99
+00:06:04,968 --> 00:06:08,501
+con aquel que se recibe
+a través del cable
+
+100
+00:06:08,601 --> 00:06:12,667
+o de algún otro servicio fijo.
+
+101
+00:06:12,734 --> 00:06:14,267
+Y otras tanto con la TV paga,
+
+102
+00:06:14,400 --> 00:06:18,100
+fíjense las proporciones
+de lo que estamos discutiendo hoy,
+
+103
+00:06:18,200 --> 00:06:22,334
+anunciando hoy, es que son
+8 millones las conexiones
+
+104
+00:06:22,434 --> 00:06:27,968
+de TV paga contra prácticamente
+los 60 millones de conexiones
+
+105
+00:06:28,100 --> 00:06:31,067
+en telefonía móvil.
+
+106
+00:06:31,167 --> 00:06:36,801
+Esto también es muy importante
+decirlo porque la Argentina
+
+107
+00:06:36,901 --> 00:06:43,067
+con la magnitud de su población,
+de su territorio,
+
+108
+00:06:43,200 --> 00:06:45,434
+la dificultad hoy está
+representada
+
+109
+00:06:45,534 --> 00:06:46,501
+en términos de cobertura,
+
+110
+00:06:46,601 --> 00:06:49,067
+porque una cosa es generar
+cobertura para un país pequeño
+
+111
+00:06:49,167 --> 00:06:51,267
+y otra cosa para la región
+geográfica,
+
+112
+00:06:51,367 --> 00:06:55,167
+la bastas regiones geográficas
+que tiene la República Argentina.
+
+113
+00:06:55,267 --> 00:06:57,567
+Pero lo cierto es que
+una medida estándar
+
+114
+00:06:57,667 --> 00:06:59,501
+de la penetración
+de la telefonía móvil
+
+115
+00:06:59,601 --> 00:07:02,234
+en la relación,
+también impresionante,
+
+116
+00:07:02,334 --> 00:07:05,634
+entre la población
+y los suscriptores,
+
+117
+00:07:05,734 --> 00:07:08,167
+en este caso de 130%.
+
+118
+00:07:08,267 --> 00:07:11,467
+Lo comparamos, por ejemplo,
+con Brasil o con México,
+
+119
+00:07:11,601 --> 00:07:15,734
+países que son muy comparables
+por el grado de desarrollo,
+
+120
+00:07:15,868 --> 00:07:20,133
+y dentro de América Latina,
+Brasil, Argentina, México,
+
+121
+00:07:20,234 --> 00:07:23,100
+Colombia, son los países
+más grandes,
+
+122
+00:07:23,200 --> 00:07:25,968
+y vemos que la penetración
+en la Argentina, es muy alta,
+
+123
+00:07:26,067 --> 00:07:31,334
+no más alta que en Chile
+o Uruguay, pero sí muy elevada.
+
+124
+00:07:31,534 --> 00:07:35,968
+O sea que somos el tercer
+país en penetración
+
+125
+00:07:36,100 --> 00:07:37,868
+en América Latina.
+
+126
+00:07:37,968 --> 00:07:40,200
+Esto es la cantidad
+de teléfonos celulares
+
+127
+00:07:40,300 --> 00:07:45,934
+o de líneas vendidas comparadas
+con la población, 130%.
+
+128
+00:07:46,100 --> 00:07:51,033
+De la misma manera tengo
+que mostrar el potencial
+
+129
+00:07:51,133 --> 00:07:53,767
+de desarrollo para
+la banda ancha móvil.
+
+130
+00:07:53,868 --> 00:07:57,968
+En Argentina hay un retraso
+actualmente
+
+131
+00:07:58,100 --> 00:08:01,868
+dado que los operadores
+no terminaron de realizar
+
+132
+00:08:01,934 --> 00:08:04,934
+la migración a 3G.
+
+133
+00:08:05,067 --> 00:08:07,334
+Y este uno de los elementos
+centrales que remiten
+
+134
+00:08:07,434 --> 00:08:11,501
+a la calidad de servicio
+y la problemática efectiva
+
+135
+00:08:11,601 --> 00:08:14,701
+que hay con la calidad
+de prestación de servicio.
+
+136
+00:08:14,767 --> 00:08:17,133
+Eso tiene que ver, por un lado,
+que Argentina,
+
+137
+00:08:17,234 --> 00:08:20,033
+acá lo que muestro
+es la banda ancha móvil
+
+138
+00:08:20,133 --> 00:08:21,667
+y la banda ancha fija,
+
+139
+00:08:21,767 --> 00:08:24,334
+esto muestra que la banda ancha
+móvil no ha penetrado
+
+140
+00:08:24,434 --> 00:08:26,834
+lo suficiente,
+hay mucho potencial.
+
+141
+00:08:26,934 --> 00:08:29,300
+En otros países como Brasil,
+Uruguay y Chile,
+
+142
+00:08:29,400 --> 00:08:34,033
+llegan 33, 28 y 27%
+con la banda ancha,
+
+143
+00:08:34,133 --> 00:08:39,200
+es decir con el internet
+concretamente recibido por aire.
+
+144
+00:08:39,367 --> 00:08:42,601
+Y la otra es,
+la barrita más oscura,
+
+145
+00:08:42,734 --> 00:08:46,067
+la banda ancha recibida
+a través de la red fija.
+
+146
+00:08:46,200 --> 00:08:49,434
+O sea que en Argentina
+todavía hay mucho para crecer,
+
+147
+00:08:49,534 --> 00:08:51,868
+esto requiere que haya
+un avance en 3G,
+
+148
+00:08:51,968 --> 00:08:55,200
+y sobre todo que se abra
+la puerta a 4G
+
+149
+00:08:55,300 --> 00:08:57,701
+que es lo que estamos haciendo
+en este momento,
+
+150
+00:08:57,834 --> 00:09:01,701
+que es la tecnología más moderna.
+
+151
+00:09:01,801 --> 00:09:06,767
+Pero quería hacer la apreciación
+con respecto a la cuestión
+
+152
+00:09:06,868 --> 00:09:10,501
+de las inversiones
+y de los problemas que hay
+
+153
+00:09:10,601 --> 00:09:12,934
+en la prestación del servicio,
+evidentes.
+
+154
+00:09:13,000 --> 00:09:16,367
+Esto tiene que ver
+con lo siguiente:
+
+155
+00:09:16,501 --> 00:09:18,267
+los teléfonos celulares,
+como dije,
+
+156
+00:09:18,367 --> 00:09:23,434
+se multiplicaron por 10
+en el 2003 a 2013.
+
+157
+00:09:23,534 --> 00:09:26,767
+Pero lo cierto es que no solo
+cambio la cantidad
+
+158
+00:09:26,868 --> 00:09:31,801
+sino la calidad, porque una cosa
+era la demanda de inversiones
+
+159
+00:09:31,934 --> 00:09:35,033
+cuando los teléfonos eran menos,
+
+160
+00:09:35,133 --> 00:09:37,968
+pero además solamente había
+comunicación de voz,
+
+161
+00:09:38,067 --> 00:09:41,634
+que la revolución que ha ocurrido
+con los llamados “smartphones”,
+
+162
+00:09:41,701 --> 00:09:46,067
+o sea con los teléfonos
+que en su interior tienen,
+
+163
+00:09:46,167 --> 00:09:49,801
+además de voz, el acceso a datos,
+internet, música, películas,
+
+164
+00:09:49,868 --> 00:09:54,100
+porque todo este nuevo servicio
+que se presta
+
+165
+00:09:54,200 --> 00:09:57,200
+a través de los teléfonos
+celulares, y también las tabletas,
+
+166
+00:09:57,300 --> 00:10:01,701
+todo este nuevo servicio
+genera una demanda muy fuerte
+
+167
+00:10:01,801 --> 00:10:03,734
+sobre el uso de la red.
+
+168
+00:10:03,834 --> 00:10:07,300
+Es decir que la misma red
+a partir de la inserción
+
+169
+00:10:07,400 --> 00:10:10,167
+de los smartphones se vio
+mucho más exigida,
+
+170
+00:10:10,267 --> 00:10:14,868
+y se necesita todavía
+redoblar el esfuerzo inversor
+
+171
+00:10:15,000 --> 00:10:18,501
+para que se pueda sostener
+un servicio de telefonía celular,
+
+172
+00:10:18,601 --> 00:10:20,634
+que no solo nos permita
+hablar por teléfono,
+
+173
+00:10:20,767 --> 00:10:22,801
+sino también mirar
+el partido de futbol,
+
+174
+00:10:22,901 --> 00:10:26,200
+entrar a los buscadores,
+recibir música,
+
+175
+00:10:26,300 --> 00:10:29,767
+y los demás servicios
+vinculados a los datos.
+
+176
+00:10:29,968 --> 00:10:33,467
+Esto pone presión sobre
+la necesidad de inversión,
+
+177
+00:10:33,601 --> 00:10:36,467
+y deteriora el servicio
+si esa inversión no se hace
+
+178
+00:10:36,601 --> 00:10:39,000
+porque la misma red que se usaba
+para una cosa
+
+179
+00:10:39,100 --> 00:10:41,567
+ahora se usa para dos,
+para decirlo sencillamente,
+
+180
+00:10:41,701 --> 00:10:46,534
+y eso requiere que las compañías
+realicen mayores inversiones,
+
+181
+00:10:46,701 --> 00:10:49,400
+pero también requiere,
+porque esto es sabido,
+
+182
+00:10:49,501 --> 00:10:51,300
+que dispongan de más espectro,
+
+183
+00:10:51,400 --> 00:10:53,501
+o sea de más aire
+para las transmisiones.
+
+184
+00:10:53,601 --> 00:10:55,133
+Son los dos factores.
+
+185
+00:10:55,234 --> 00:11:00,534
+De forma tal que las inversiones,
+y para terminar voy a dar
+
+186
+00:11:00,634 --> 00:11:02,467
+una apreciación sobre el volumen
+de inversiones
+
+187
+00:11:02,567 --> 00:11:05,000
+y sobre las exigencias
+de inversiones
+
+188
+00:11:05,100 --> 00:11:07,000
+que están incluidas
+en esta licitación,
+
+189
+00:11:07,100 --> 00:11:10,033
+pero lo que quiero decir es que
+hacen falta los dos factores:
+
+190
+00:11:10,133 --> 00:11:13,868
+mayor disponibilidad de aire
+pero también más antenas,
+
+191
+00:11:14,000 --> 00:11:18,801
+y esto a veces encuentra
+hasta dificultades
+
+192
+00:11:18,934 --> 00:11:23,267
+de alguna legislación o algún tipo
+de apreciación ambiental,
+
+193
+00:11:23,367 --> 00:11:26,067
+que hay lugares donde no dejan
+instalar una antena
+
+194
+00:11:26,200 --> 00:11:32,334
+por regímenes ambientales
+o por decisiones que se toman,
+
+195
+00:11:32,434 --> 00:11:34,467
+pero entonces cuando
+no se instala una antena
+
+196
+00:11:34,567 --> 00:11:36,934
+sepamos que el servicio
+pierde calidad.
+
+197
+00:11:37,033 --> 00:11:39,234
+Así que se necesitan más
+antenas,
+
+198
+00:11:39,334 --> 00:11:42,133
+se necesita más tecnología
+y se necesita más espectro.
+
+199
+00:11:42,200 --> 00:11:44,767
+Todo esto junto es el paquete
+que estamos anunciando hoy
+
+200
+00:11:44,834 --> 00:11:48,167
+porque va a ser un salto
+muy importante
+
+201
+00:11:48,267 --> 00:11:49,934
+en términos de acceso
+al espectro,
+
+202
+00:11:50,000 --> 00:11:54,634
+pero también de requisitos
+de inversión para poder hacerlo.
+
+203
+00:11:54,701 --> 00:11:58,234
+Marco aquí, tengo los datos
+para 2010 y 2011.
+
+204
+00:11:58,334 --> 00:12:01,667
+Lo que tenemos en azul oscuro
+son las barritas
+
+205
+00:12:01,734 --> 00:12:05,400
+que en el 2010 era 72%,
+son los teléfonos básicos,
+
+206
+00:12:05,501 --> 00:12:09,200
+o sea aquellos celulares
+que no tienen acceso a datos,
+
+207
+00:12:09,267 --> 00:12:11,734
+que no tienen la pantallita
+para entrar a internet,
+
+208
+00:12:11,834 --> 00:12:14,834
+o que no tienen el mail
+en el teléfono.
+
+209
+00:12:14,901 --> 00:12:19,300
+Bueno, la otra, 2011,
+es lo que ocurrió
+
+210
+00:12:19,400 --> 00:12:20,534
+con los teléfonos básicos,
+
+211
+00:12:20,601 --> 00:12:24,100
+que pasaron del 72% en un año
+a representar el 41%.
+
+212
+00:12:24,200 --> 00:12:28,701
+La diferencia básicamente
+en los teléfonos más sofisticados
+
+213
+00:12:28,801 --> 00:12:30,534
+que antes representaban
+una porción muy chica,
+
+214
+00:12:30,634 --> 00:12:32,601
+y cada vez más una porción
+más grande.
+
+215
+00:12:32,667 --> 00:12:34,667
+Es decir que un cambio
+tecnológico,
+
+216
+00:12:34,734 --> 00:12:36,567
+un cambio en la costumbre
+del consumo,
+
+217
+00:12:36,667 --> 00:12:38,534
+más exigencia sobre la red,
+
+218
+00:12:38,634 --> 00:12:40,701
+donde no solo hay que
+transmitir la voz
+
+219
+00:12:40,801 --> 00:12:43,801
+sino también pasar a internet,
+roam, los datos,
+
+220
+00:12:43,868 --> 00:12:47,534
+y entonces se necesita
+más infraestructura
+
+221
+00:12:47,601 --> 00:12:50,534
+y mayor inversión,
+pero toda junta,
+
+222
+00:12:50,601 --> 00:12:52,667
+porque son más teléfonos
+pero que exigen más
+
+223
+00:12:52,767 --> 00:12:54,501
+a la red de transmisión.
+
+224
+00:12:54,567 --> 00:12:59,501
+Hago un comentario también
+sobre la estructura de mercado.
+
+225
+00:12:59,601 --> 00:13:02,234
+ustedes saben que son pocas
+compañías las que operan
+
+226
+00:13:02,334 --> 00:13:05,601
+en la Argentina, en el caso
+de los teléfonos celulares,
+
+227
+00:13:05,701 --> 00:13:10,501
+tenemos la participación,
+la primer torta,
+
+228
+00:13:10,601 --> 00:13:12,400
+es la de Argentina,
+
+229
+00:13:12,501 --> 00:13:16,200
+se reparte en partes
+prácticamente iguales
+
+230
+00:13:16,300 --> 00:13:18,434
+entre tres compañías,
+y hay una cuarta compañía.
+
+231
+00:13:18,534 --> 00:13:21,400
+Son Claro, Personal,
+Movistar y Nextel
+
+232
+00:13:21,534 --> 00:13:23,367
+para telefonía celular.
+
+233
+00:13:23,467 --> 00:13:26,300
+Y después tenemos las tortas
+equivalentes para Brasil,
+
+234
+00:13:26,400 --> 00:13:29,934
+Chile, México, Italia,
+España, Francia, EE.UU.
+
+235
+00:13:30,067 --> 00:13:32,934
+Hay dos conclusiones
+económicas para sacar
+
+236
+00:13:33,033 --> 00:13:34,801
+y las quiero marcar.
+
+237
+00:13:34,901 --> 00:13:36,000
+En primer lugar que
+la concentración
+
+238
+00:13:36,100 --> 00:13:39,300
+en la industria o en la rama
+de telefonía móvil
+
+239
+00:13:39,400 --> 00:13:42,868
+es un dato distintivo
+de todas las economías.
+
+240
+00:13:42,968 --> 00:13:48,167
+Es decir que no es normal
+que haya 50 competidores.
+
+241
+00:13:48,267 --> 00:13:51,133
+Y esto tiene que ver con algunos
+aspectos económicos
+
+242
+00:13:51,234 --> 00:13:56,434
+vinculados a la inversión fija
+necesaria para poner en marcha
+
+243
+00:13:56,534 --> 00:13:58,968
+una red, es decir,
+la instalación de antenas
+
+244
+00:13:59,067 --> 00:14:01,767
+y todo lo que implica,
+alquilar los predios,
+
+245
+00:14:01,868 --> 00:14:03,234
+poner las antenas.
+
+246
+00:14:03,334 --> 00:14:06,234
+Es decir que por leyes económicas
+es un mercado que tiende
+
+247
+00:14:06,334 --> 00:14:08,200
+a tener pocos operadores,
+
+248
+00:14:08,267 --> 00:14:10,467
+de ahí la necesidad
+de regularlos fuertemente
+
+249
+00:14:10,601 --> 00:14:14,567
+y de imponer necesidades
+de avance tecnológico
+
+250
+00:14:14,634 --> 00:14:17,334
+y de inversión porque caso
+contrario,
+
+251
+00:14:17,434 --> 00:14:19,767
+y por parámetros que los
+economistas suelen llamar
+
+252
+00:14:19,868 --> 00:14:26,667
+“monopolio natural”
+o “oligopolio natural”,
+
+253
+00:14:26,734 --> 00:14:29,167
+es decir que naturalmente
+por las condiciones económicas
+
+254
+00:14:29,367 --> 00:14:30,767
+tienden a haber pocas compañías.
+
+255
+00:14:30,834 --> 00:14:33,100
+Lo cual obliga al estado
+a tener que regular
+
+256
+00:14:33,167 --> 00:14:36,300
+muy fuertemente porque caso
+contrario el servicio
+
+257
+00:14:36,367 --> 00:14:38,300
+puede deteriorarse,
+y así y todo,
+
+258
+00:14:38,400 --> 00:14:41,467
+obtener fuertes ganancias
+porque al no existir competencia
+
+259
+00:14:41,567 --> 00:14:45,467
+no aparece nadie que ofrezca
+un servicio mejor.
+
+260
+00:14:45,601 --> 00:14:50,100
+Y puede pasar,
+la competencia sería,
+
+261
+00:14:50,167 --> 00:14:52,501
+estableciendo un estándar
+bajo de servicio.
+
+262
+00:14:52,567 --> 00:14:57,334
+Y esto es un hecho mundial,
+
+263
+00:14:57,434 --> 00:14:59,734
+porque si ustedes observan,
+por ejemplo, EE.UU.,
+
+264
+00:14:59,801 --> 00:15:02,234
+donde hay una compañía más
+simplemente, cinco,
+
+265
+00:15:02,334 --> 00:15:05,267
+o Francia donde hay tres
+compañías, una menos,
+
+266
+00:15:05,367 --> 00:15:08,100
+no es que el problema
+este en la cantidad,
+
+267
+00:15:08,234 --> 00:15:11,534
+o podría ser un problema
+pero parece responder
+
+268
+00:15:11,667 --> 00:15:13,968
+a factores más generales.
+
+269
+00:15:14,067 --> 00:15:16,934
+De forma tal que hay que redoblar
+los esfuerzos de regulación.
+
+270
+00:15:17,033 --> 00:15:20,634
+Y esta licitación es un elemento
+más entre todos
+
+271
+00:15:20,734 --> 00:15:23,901
+lo que ha presentado
+el Ministerio de Planificación,
+
+272
+00:15:23,968 --> 00:15:26,868
+la Secretaria de Comunicaciones
+para regular el mercado,
+
+273
+00:15:26,968 --> 00:15:29,400
+un mercado muy dinámico,
+dependiente de la tecnología,
+
+274
+00:15:29,501 --> 00:15:31,067
+que se transforma rápidamente.
+
+275
+00:15:31,133 --> 00:15:32,901
+Ustedes vieron de un año
+al otro como apareció
+
+276
+00:15:33,000 --> 00:15:35,701
+un producto nuevo,
+los llamados smartphones,
+
+277
+00:15:35,801 --> 00:15:38,033
+los teléfonos inteligentes
+con internet,
+
+278
+00:15:38,167 --> 00:15:40,534
+y desplazaron a los teléfonos
+comunes,
+
+279
+00:15:40,634 --> 00:15:43,267
+y exigieron las redes,
+y esto no estaba previsto,
+
+280
+00:15:43,367 --> 00:15:45,100
+o no había forma de responder,
+
+281
+00:15:45,200 --> 00:15:50,834
+por lo tanto las compañías
+tienen que responder rápidamente.
+
+282
+00:15:51,167 --> 00:15:53,767
+Y esto es difícil que lo hagan
+naturalmente.
+
+283
+00:15:53,834 --> 00:15:56,534
+Esta es una curva donde
+simplemente presento
+
+284
+00:15:56,667 --> 00:15:59,501
+algunos datos pero pueden
+ver la evolución general,
+
+285
+00:15:59,601 --> 00:16:02,100
+es la curva que representa
+las inversiones
+
+286
+00:16:02,200 --> 00:16:05,200
+de los operadores de 2008 a 2013.
+
+287
+00:16:05,367 --> 00:16:10,901
+Es necesario seguir incrementando
+inversiones.
+
+288
+00:16:11,968 --> 00:16:14,868
+Esta llamada a licitación
+que se abre
+
+289
+00:16:14,968 --> 00:16:17,934
+conlleva requisitos
+muy fuertes de inversión
+
+290
+00:16:18,033 --> 00:16:19,767
+para los operadores,
+
+291
+00:16:19,868 --> 00:16:23,200
+o sea que más allá de ganar
+la licitación,
+
+292
+00:16:23,300 --> 00:16:26,367
+los ganadores van a tener
+que comprometerse
+
+293
+00:16:26,467 --> 00:16:30,033
+a mejorar la infraestructura
+y rápidamente empezar
+
+294
+00:16:30,133 --> 00:16:33,067
+la implementación
+de la nueva tecnología,
+
+295
+00:16:33,167 --> 00:16:36,267
+particularmente lo que atañe
+a 4G,
+
+296
+00:16:36,367 --> 00:16:41,467
+pero los detalles los van
+ahora a explicar
+
+297
+00:16:41,567 --> 00:16:44,667
+particularmente Norberto Berner.
+
+298
+00:16:48,601 --> 00:16:50,033
+Ahí está.
+
+299
+00:16:50,133 --> 00:16:57,434
+De forma tal que, sintetizando,
+esta licitación va a aportarle
+
+300
+00:16:57,601 --> 00:17:00,434
+a las compañías,
+es una licitación abierta,
+
+301
+00:17:00,534 --> 00:17:03,434
+vamos a hacer también
+convocatorias internacionales
+
+302
+00:17:03,534 --> 00:17:06,200
+para que participen todos
+aquellos interesados,
+
+303
+00:17:06,300 --> 00:17:08,200
+las empresas más importantes
+del mundo,
+
+304
+00:17:08,300 --> 00:17:10,467
+operen o no en la Argentina,
+
+305
+00:17:10,567 --> 00:17:13,100
+van a estar todos invitados,
+es una licitación abierta,
+
+306
+00:17:13,234 --> 00:17:16,300
+por supuesto que los operadores
+en Argentina
+
+307
+00:17:16,400 --> 00:17:19,400
+cuenta con respecto
+a un recién llegado
+
+308
+00:17:19,534 --> 00:17:22,767
+con una infraestructura
+disponible,
+
+309
+00:17:22,868 --> 00:17:25,000
+pero la licitación
+está abierta.
+
+310
+00:17:25,133 --> 00:17:28,968
+Va a ser una convocatoria
+muy amplia,
+
+311
+00:17:29,100 --> 00:17:32,300
+vamos a hacer recorridas
+entre diferentes operadores,
+
+312
+00:17:32,434 --> 00:17:34,767
+inversores, países, para convocar
+
+313
+00:17:34,868 --> 00:17:38,367
+a partir que quede abierta
+la licitación,
+
+314
+00:17:38,501 --> 00:17:41,501
+que ocurrirá probablemente
+en poco tiempo se va a dar
+
+315
+00:17:41,634 --> 00:17:45,200
+a conocer, y ahora las fechas
+las va a explicar,
+
+316
+00:17:45,300 --> 00:17:48,868
+el cronograma,
+el Secretario de Ministros.
+
+317
+00:17:48,968 --> 00:17:52,634
+Pero lo que quiero decir
+es que nuestra obsesión
+
+318
+00:17:52,734 --> 00:17:54,601
+en este mercado,
+que es un mercado tecnológico,
+
+319
+00:17:54,701 --> 00:17:56,467
+dinámico, que tanto ha crecido,
+
+320
+00:17:56,601 --> 00:17:59,033
+porque también fruto
+de las políticas de este gobierno,
+
+321
+00:17:59,133 --> 00:18:01,467
+de la inclusión social,
+del crecimiento,
+
+322
+00:18:01,567 --> 00:18:03,767
+de la mejora de la distribución
+y de los ingresos,
+
+323
+00:18:03,868 --> 00:18:07,434
+la gente tiene acceso
+a una tecnología
+
+324
+00:18:07,534 --> 00:18:09,534
+que en algunos países
+es privativa
+
+325
+00:18:09,634 --> 00:18:12,634
+de los sectores más pudientes.
+
+326
+00:18:12,734 --> 00:18:14,534
+Esto para nosotros
+es buena noticia,
+
+327
+00:18:14,634 --> 00:18:18,200
+pero sabemos también que tiene
+que venir acompañado
+
+328
+00:18:18,300 --> 00:18:21,100
+por empresas que estén
+a la altura de este crecimiento
+
+329
+00:18:21,200 --> 00:18:24,167
+de la demanda, tanto en volumen,
+como en densidad,
+
+330
+00:18:24,267 --> 00:18:25,968
+y en avance tecnológico.
+
+331
+00:18:26,067 --> 00:18:27,767
+Sabemos también que son
+las propias operadoras
+
+332
+00:18:27,868 --> 00:18:29,801
+las que venden los celulares,
+
+333
+00:18:29,868 --> 00:18:32,234
+de forma tal que el propio
+ritmo es conocido
+
+334
+00:18:32,334 --> 00:18:34,367
+por las telefónicas,
+
+335
+00:18:34,501 --> 00:18:36,934
+y son ellas las que tienen
+que realizar un enorme
+
+336
+00:18:37,033 --> 00:18:41,467
+esfuerzo de inversión
+para que el servicio
+
+337
+00:18:41,601 --> 00:18:44,300
+sea cada vez de mejor calidad.
+
+338
+00:18:44,400 --> 00:18:46,234
+Agregamos a eso que el Estado
+tiene un papel regulador
+
+339
+00:18:46,300 --> 00:18:48,300
+que está ejerciendo,
+
+340
+00:18:48,400 --> 00:18:52,400
+un papel que implica
+poner obligaciones.
+
+341
+00:18:52,501 --> 00:18:55,567
+Estos pliegos de licitación
+ponen obligaciones
+
+342
+00:18:55,701 --> 00:18:58,167
+en punto a la inversión
+que va a haber que realizar
+
+343
+00:18:58,267 --> 00:19:00,501
+para poder sacar fruto
+y sacarle el jugo
+
+344
+00:19:00,601 --> 00:19:05,367
+a este activo que tendrán
+aquellos que ganen la licitación
+
+345
+00:19:05,467 --> 00:19:07,300
+porque dispondrán del espectro,
+
+346
+00:19:07,434 --> 00:19:12,133
+pero el espectro hay que usarlo
+a través de formidables
+
+347
+00:19:12,200 --> 00:19:15,033
+planes de inversión
+que permitan a los argentinos
+
+348
+00:19:15,133 --> 00:19:17,534
+acceder a la mejor tecnología
+
+349
+00:19:17,634 --> 00:19:21,334
+pero también con los mejores
+estándares de calidad.
+
+350
+00:19:21,400 --> 00:19:22,567
+Muchísimas gracias.
+
+351
+00:19:27,267 --> 00:19:29,100
+Muy bien, y como lo anunciara
+el Ministro de Economía
+
+352
+00:19:29,167 --> 00:19:30,067
+y Finanzas Públicas,
+
+353
+00:19:30,167 --> 00:19:31,801
+vamos a escuchar a continuación
+las palabras
+
+354
+00:19:31,901 --> 00:19:35,534
+del Secretario de Comunicación,
+el doctor Norberto Berner.
+
+355
+00:19:37,434 --> 00:19:40,000
+Gracias a todos y a todas.
+
+356
+00:19:40,100 --> 00:19:41,601
+Señor Ministro de Economía,
+Axel.
+
+357
+00:19:41,701 --> 00:19:46,133
+Señor Ministro de Planificación,
+Julio, compañero.
+
+358
+00:19:46,200 --> 00:19:50,801
+Señor Diputado Nacional,
+está Mario Oporto.
+
+359
+00:19:50,901 --> 00:19:53,534
+Presidente de Arsat,
+Matías Bianchi.
+
+360
+00:19:53,634 --> 00:19:55,901
+Vicepresidente, Rus.
+
+361
+00:19:56,000 --> 00:19:59,667
+Interventor de la Comisión
+de Comunicaciones, Ceferino.
+
+362
+00:19:59,767 --> 00:20:02,701
+Si Interventor, Nicolás Karavaski.
+
+363
+00:20:02,767 --> 00:20:07,567
+No está hoy Osvaldo porque
+está en el exterior,
+
+364
+00:20:07,634 --> 00:20:11,067
+pero bueno, está aquí gente
+del sindicato de FOETRA,
+
+365
+00:20:11,167 --> 00:20:13,467
+que siempre permanentemente
+nos acompañan
+
+366
+00:20:13,534 --> 00:20:16,901
+en todas las políticas
+de inclusión,
+
+367
+00:20:16,968 --> 00:20:18,667
+y las políticas activas
+que llevamos adelante.
+
+368
+00:20:18,734 --> 00:20:21,033
+Muchísimas gracias.
+
+369
+00:20:21,167 --> 00:20:24,701
+También están los empresarios
+del sector,
+
+370
+00:20:24,767 --> 00:20:26,734
+a quienes les agradecemos
+que se haya acercado,
+
+371
+00:20:26,801 --> 00:20:28,701
+todos, grandes, chicos.
+
+372
+00:20:28,801 --> 00:20:32,367
+La verdad que está todos
+aquí presentes.
+
+373
+00:20:32,434 --> 00:20:34,901
+A los trabajadores
+del Ministerio,
+
+374
+00:20:35,434 --> 00:20:36,801
+de Secretaria de Comunicación,
+a los de la CNC
+
+375
+00:20:36,868 --> 00:20:39,667
+que han trabajado mucho
+en este proyecto.
+
+376
+00:20:39,868 --> 00:20:41,934
+A los periodistas. A todos.
+
+377
+00:20:42,000 --> 00:20:44,267
+Muchísimas gracias por venir.
+
+378
+00:20:44,534 --> 00:20:48,567
+Bueno, como adelantaba
+Axel estamos en un día
+
+379
+00:20:48,667 --> 00:20:51,234
+que para nosotros
+es tremendamente importante.
+
+380
+00:20:51,300 --> 00:20:55,234
+Estamos muy contentos de poder
+realizar este anuncio
+
+381
+00:20:55,300 --> 00:20:57,701
+en el que venimos trabajando
+desde hace muchísimo tiempo.
+
+382
+00:20:57,767 --> 00:21:00,901
+Se ha realizado
+con muchísimo detalle,
+
+383
+00:21:01,000 --> 00:21:03,901
+con mucha dedicación,
+de manera muy profesional.
+
+384
+00:21:03,968 --> 00:21:07,400
+Hemos tomado información,
+formación,
+
+385
+00:21:07,501 --> 00:21:09,901
+tanto de la Argentina
+como del Mundo.
+
+386
+00:21:10,000 --> 00:21:12,734
+Y además hemos realizado
+no solo estudios
+
+387
+00:21:12,834 --> 00:21:15,200
+y análisis, sino que hemos
+ido tomando medidas
+
+388
+00:21:15,300 --> 00:21:17,300
+a lo largo de estos 10 años
+que nos permiten hoy
+
+389
+00:21:17,400 --> 00:21:22,234
+estar frente a esta posibilidad
+de garantizar un salto
+
+390
+00:21:22,334 --> 00:21:25,901
+cualitativo en las comunicaciones
+en la Argentina.
+
+391
+00:21:25,968 --> 00:21:27,601
+Como adelantara el Ministro,
+
+392
+00:21:27,701 --> 00:21:30,033
+para mejorar la calidad
+de las comunicaciones móviles
+
+393
+00:21:30,133 --> 00:21:36,033
+se necesitan: exigencias
+regulatorias en todos sus niveles.
+
+394
+00:21:36,100 --> 00:21:40,667
+Inversiones que se dan,
+después vamos a hondar en esto,
+
+395
+00:21:40,767 --> 00:21:42,767
+en distintas áreas y aspectos.
+
+396
+00:21:42,834 --> 00:21:46,767
+Y espectro, sobre todo para
+las comunicaciones inalámbricas
+
+397
+00:21:46,834 --> 00:21:49,234
+que es de lo que estamos
+hablando hoy.
+
+398
+00:21:49,334 --> 00:21:52,234
+¿Qué es el espectro
+radioeléctrico?
+
+399
+00:21:52,334 --> 00:21:55,167
+De algo que se viene hablando
+y conversando
+
+400
+00:21:55,267 --> 00:21:58,100
+en medios especializados
+y no tanto.
+
+401
+00:21:58,200 --> 00:22:03,100
+Es un tema que gratamente
+se ha instalado en la Argentina.
+
+402
+00:22:03,200 --> 00:22:07,167
+Para que se entienda:
+
+403
+00:22:07,267 --> 00:22:10,501
+es el medio porque se transmiten
+las ondas electromagnéticas.
+
+404
+00:22:10,567 --> 00:22:14,601
+Las comunicaciones móviles,
+no solo la de celulares,
+
+405
+00:22:14,667 --> 00:22:16,267
+también la radio, la televisión,
+
+406
+00:22:16,367 --> 00:22:19,834
+todo lo que se comunica
+sin alambres, sin cables,
+
+407
+00:22:19,934 --> 00:22:23,934
+se realiza a través
+del espectro radioeléctrico.
+
+408
+00:22:24,200 --> 00:22:27,200
+El Estado administra
+y regula este recurso
+
+409
+00:22:27,300 --> 00:22:31,534
+y no lo hace como prácticamente
+la totalidad del mundo
+
+410
+00:22:31,601 --> 00:22:33,400
+funciona así, no es que
+en este caso estemos
+
+411
+00:22:33,467 --> 00:22:35,167
+antes una situación excepcional.
+
+412
+00:22:35,267 --> 00:22:39,267
+Y estamos en esta situación
+gracias a la decisión política
+
+413
+00:22:39,367 --> 00:22:41,534
+del Presidente Néstor Kirchner.
+
+414
+00:22:41,634 --> 00:22:43,367
+Como ustedes recordaran,
+lo hemos comentado aquí
+
+415
+00:22:43,467 --> 00:22:44,601
+en otra oportunidad,
+
+416
+00:22:44,701 --> 00:22:46,267
+la administración
+del espectro radioeléctrico
+
+417
+00:22:46,400 --> 00:22:47,868
+se había privatizado
+en la Argentina,
+
+418
+00:22:47,934 --> 00:22:50,868
+estaba en manos de una empresa,
+Thales.
+
+419
+00:22:51,067 --> 00:22:56,501
+Y después de la decisión
+política y una decisión
+
+420
+00:22:56,634 --> 00:22:59,434
+que obviamente tuvo sus costos,
+
+421
+00:22:59,534 --> 00:23:02,033
+permitió la recuperación
+de la administración
+
+422
+00:23:02,133 --> 00:23:04,200
+del espectro que hoy
+nos permite estar acá,
+
+423
+00:23:04,300 --> 00:23:07,033
+pero muchos antes nos permitió
+garantizar la regulación
+
+424
+00:23:07,133 --> 00:23:10,701
+y garantizar el control
+sobre este activo
+
+425
+00:23:10,801 --> 00:23:15,033
+que no es infinito,
+esto es muy importante.
+
+426
+00:23:15,133 --> 00:23:16,567
+Este es un recurso natural,
+
+427
+00:23:16,667 --> 00:23:18,000
+está en la naturaleza
+el espectro,
+
+428
+00:23:18,133 --> 00:23:21,968
+pero no es infinito,
+no es como el Sol.
+
+429
+00:23:22,067 --> 00:23:26,167
+Es algo que se puede utilizar
+de determinada forma,
+
+430
+00:23:26,267 --> 00:23:28,334
+y hay una determinada cantidad
+para cada tipo
+
+431
+00:23:28,400 --> 00:23:30,501
+de servicio frecuencia.
+
+432
+00:23:30,601 --> 00:23:32,601
+Por lo tanto la administración
+y la regulación
+
+433
+00:23:32,667 --> 00:23:34,067
+es algo fundamental.
+
+434
+00:23:34,167 --> 00:23:35,834
+Hay un organismo internacional
+
+435
+00:23:35,934 --> 00:23:38,634
+que es la Unión Internacional
+de Telecomunicaciones,
+
+436
+00:23:38,701 --> 00:23:41,067
+de que la Argentina forma
+parte, orgullosos,
+
+437
+00:23:41,133 --> 00:23:42,701
+hace muchísimo años,
+
+438
+00:23:42,767 --> 00:23:45,167
+que es la encargada
+de establecer los estándares
+
+439
+00:23:45,267 --> 00:23:49,200
+para el uso de las distintas
+bandas y frecuencias.
+
+440
+00:23:49,267 --> 00:23:51,100
+No es que uno se levanta
+a la mañana,
+
+441
+00:23:51,167 --> 00:23:53,400
+elije una banda, una frecuencia,
+
+442
+00:23:53,501 --> 00:23:55,100
+y la puede usar
+para cualquier cosa.
+
+443
+00:23:55,167 --> 00:23:57,734
+Porque esto, además,
+como es una red de comunicación
+
+444
+00:23:57,801 --> 00:24:03,000
+internacional porque implica
+coordinación con todos
+
+445
+00:24:03,067 --> 00:24:04,434
+los países limítrofes,
+
+446
+00:24:04,534 --> 00:24:06,167
+y ahí tenemos el problema
+del roaming,
+
+447
+00:24:06,267 --> 00:24:08,901
+requiere un nivel
+de estandarización importante.
+
+448
+00:24:08,968 --> 00:24:12,367
+Por eso no es que uno
+lo haga alegremente,
+
+449
+00:24:12,434 --> 00:24:15,667
+y el nivel y la posibilidad
+alternativas tecnológicas
+
+450
+00:24:15,734 --> 00:24:17,534
+tampoco es tan enorme.
+
+451
+00:24:17,601 --> 00:24:21,834
+Uno puede buscar
+distintas alternativas,
+
+452
+00:24:21,934 --> 00:24:24,634
+pero siempre dentro
+de un marco de ingeniería
+
+453
+00:24:24,734 --> 00:24:26,834
+que es acotado.
+
+454
+00:24:26,968 --> 00:24:33,367
+Como estamos, como les decía,
+
+455
+00:24:33,934 --> 00:24:38,567
+esto viene acompañado
+de exigencias en primer lugar.
+
+456
+00:24:38,667 --> 00:24:41,968
+¿Cuáles son las exigencias
+regulatorias...?
+
+457
+00:24:42,033 --> 00:24:45,100
+Gracias Julio, aquí estamos.
+
+458
+00:24:45,167 --> 00:24:47,334
+¿Cómo estamos, aproximadamente
+hoy en la Argentina,
+
+459
+00:24:47,400 --> 00:24:50,067
+si bien los que estudian
+la cuestión saben que
+
+460
+00:24:50,167 --> 00:24:53,634
+hay muchísimas más exigencias,
+pero en términos generales,
+
+461
+00:24:53,734 --> 00:24:55,801
+está vigente el reglamento
+de calidad
+
+462
+00:24:55,901 --> 00:24:57,868
+de los servicios
+de las telecomunicaciones?
+
+463
+00:24:57,968 --> 00:25:01,067
+Que lo dispusimos desde
+el Gobierno el año pasado,
+
+464
+00:25:01,133 --> 00:25:05,133
+en Julio, se ha avanzado,
+estamos en agenda,
+
+465
+00:25:05,234 --> 00:25:06,601
+se ha creado el manual
+de auditoría,
+
+466
+00:25:06,667 --> 00:25:09,234
+y con las empresas estamos
+avanzando fuertemente
+
+467
+00:25:09,334 --> 00:25:12,167
+haciendo cumplir este reglamento
+que impacta en todos
+
+468
+00:25:12,234 --> 00:25:13,801
+los servicios, no solamente
+en las grandes,
+
+469
+00:25:13,901 --> 00:25:16,167
+también en las pequeñas
+y en las medianas,
+
+470
+00:25:16,267 --> 00:25:19,767
+trabajando segmentadamente
+y tratando de resolver
+
+471
+00:25:19,868 --> 00:25:23,534
+todos los problemas que implica
+la regulación
+
+472
+00:25:23,601 --> 00:25:25,033
+de calidad de todos
+los servicios.
+
+473
+00:25:25,100 --> 00:25:26,234
+Esto está vigente.
+
+474
+00:25:26,300 --> 00:25:28,534
+También está vigente
+la tasación por segundo
+
+475
+00:25:28,634 --> 00:25:30,200
+de las llamadas móviles,
+
+476
+00:25:30,300 --> 00:25:33,601
+que surge de la campaña
+Usa Tu Voz
+
+477
+00:25:33,734 --> 00:25:36,567
+que realizamos el año pasado
+en donde estuvimos recorriendo
+
+478
+00:25:36,701 --> 00:25:40,234
+el país, escuchándonos,
+y discutiendo las distintas
+
+479
+00:25:40,300 --> 00:25:42,567
+alternativas regulatorias
+y necesidades.
+
+480
+00:25:42,667 --> 00:25:44,133
+Algunas hemos podido avanzar,
+
+481
+00:25:44,234 --> 00:25:46,334
+como la tasación por segundo
+de las llamadas.
+
+482
+00:25:46,434 --> 00:25:49,234
+Hemos simplificado el proceso
+de portabilidad numérica.
+
+483
+00:25:49,334 --> 00:25:52,133
+Hemos creado la Comisión
+Argentina de Políticas
+
+484
+00:25:52,234 --> 00:25:55,501
+de Internet, que si bien
+no tiene relación directa
+
+485
+00:25:55,567 --> 00:25:57,000
+con la infraestructura,
+
+486
+00:25:57,100 --> 00:25:59,300
+si se relaciona con
+la gobernación de internet,
+
+487
+00:25:59,400 --> 00:26:04,934
+y si genera la posibilidad
+de coordinar todo
+
+488
+00:26:05,033 --> 00:26:07,200
+lo que tiene que ver
+con la gobernanza de internet
+
+489
+00:26:07,300 --> 00:26:10,400
+que es lo que se ha discutido
+en Brasil, en San Pablo.
+
+490
+00:26:10,467 --> 00:26:14,868
+Asimismo, y esto es muy importante
+respecto a lo que decía
+
+491
+00:26:15,000 --> 00:26:20,167
+el Ministro Kicillof respeto
+de la instalación de antenas.
+
+492
+00:26:20,300 --> 00:26:22,667
+Hemos creado el Sistema Nacional
+de Monitoreo
+
+493
+00:26:22,767 --> 00:26:25,100
+de Radiaciones No Ionizantes.
+
+494
+00:26:25,200 --> 00:26:27,701
+Esto es muy importante
+que lo destaquemos
+
+495
+00:26:27,801 --> 00:26:30,200
+porque tiene relación directa
+con las inversiones.
+
+496
+00:26:30,300 --> 00:26:33,501
+Acá les pido,
+me voy a detener un minuto.
+
+497
+00:26:34,267 --> 00:26:37,367
+Como decía el Ministro
+es indispensable la inversión.
+
+498
+00:26:37,467 --> 00:26:40,033
+¿En qué consiste la inversión
+de una empresa
+
+499
+00:26:40,133 --> 00:26:41,300
+de telefonía móvil?
+
+500
+00:26:41,400 --> 00:26:43,100
+Consiste en fibra óptica,
+
+501
+00:26:43,200 --> 00:26:45,133
+consiste en equipamientos,
+en portadoras,
+
+502
+00:26:45,234 --> 00:26:47,000
+en equipamiento que prácticamente
+no se ve,
+
+503
+00:26:47,100 --> 00:26:49,968
+pero fundamentalmente lo que uno
+tiene que contar
+
+504
+00:26:50,067 --> 00:26:52,300
+son radiobases enteras.
+
+505
+00:26:52,467 --> 00:26:55,067
+Radiobases enteras que van
+desde esas enormes estructuras
+
+506
+00:26:55,167 --> 00:26:58,000
+pintadas de naranja y blanco
+
+507
+00:26:58,100 --> 00:27:00,601
+para evitar las rutas aéreas,
+
+508
+00:27:00,701 --> 00:27:04,000
+hasta las celdas más pequeñas,
+que por ejemplo hemos visto
+
+509
+00:27:04,067 --> 00:27:06,167
+en Mar del Plata.
+
+510
+00:27:06,367 --> 00:27:07,934
+Y radiobases que tienen que ser
+cada vez más pequeñas
+
+511
+00:27:08,000 --> 00:27:09,467
+y más ubicuas.
+
+512
+00:27:09,534 --> 00:27:13,133
+Necesitamos imperiosamente,
+sino todo esto va a fracasar,
+
+513
+00:27:13,200 --> 00:27:16,868
+que a lo largo y ancho del país,
+en todos los municipios
+
+514
+00:27:16,968 --> 00:27:20,601
+existan cada vez más antenas
+y más radiobases.
+
+515
+00:27:20,701 --> 00:27:22,133
+Estas antenas, por supuesto,
+
+516
+00:27:22,200 --> 00:27:24,334
+pero no solamente las antenas,
+los teléfonos también,
+
+517
+00:27:24,400 --> 00:27:25,834
+emiten radiaciones.
+
+518
+00:27:25,901 --> 00:27:28,167
+Esas radiaciones se controlan
+en la Argentina,
+
+519
+00:27:28,234 --> 00:27:31,534
+y se controlan con niveles
+muy exigentes.
+
+520
+00:27:31,667 --> 00:27:34,033
+De hecho tenemos los estudios
+que ha realizado
+
+521
+00:27:34,133 --> 00:27:35,567
+la Comisión Nacional
+de Comunicaciones
+
+522
+00:27:35,634 --> 00:27:37,801
+y otros estudios que han realizado
+universidades nacionales,
+
+523
+00:27:37,901 --> 00:27:42,801
+colegios de ingenieros, terceros,
+distintas organizaciones.
+
+524
+00:27:42,868 --> 00:27:44,934
+Siempre, indefectiblemente,
+
+525
+00:27:45,033 --> 00:27:48,400
+la mediciones han dado bien,
+muy bien,
+
+526
+00:27:48,501 --> 00:27:50,334
+incluso en relación
+con otros servicios
+
+527
+00:27:50,400 --> 00:27:54,467
+de radiaciones que tienen
+otra exposición.
+
+528
+00:27:54,534 --> 00:27:57,067
+Y además, mientras más antenas
+más pequeñas,
+
+529
+00:27:57,167 --> 00:28:00,300
+la potencia que se necesita
+es menor.
+
+530
+00:28:00,400 --> 00:28:03,434
+Por lo tanto nosotros hemos
+creado y estamos llevando
+
+531
+00:28:03,501 --> 00:28:05,267
+adelante todas las acciones
+de control,
+
+532
+00:28:05,367 --> 00:28:08,267
+pero necesitamos imperiosamente
+que las empresas
+
+533
+00:28:08,367 --> 00:28:09,767
+instalen más radiobases,
+
+534
+00:28:09,834 --> 00:28:11,534
+y que todos los argentinos
+y argentinas comprendamos
+
+535
+00:28:11,634 --> 00:28:12,868
+que esto es bueno,
+
+536
+00:28:12,968 --> 00:28:14,834
+y que la única forma
+de garantizar seguridad
+
+537
+00:28:14,968 --> 00:28:16,901
+es que podamos hablar
+a la Comisaria
+
+538
+00:28:17,000 --> 00:28:18,467
+y podamos usar el 911.
+
+539
+00:28:18,534 --> 00:28:20,701
+La única manera de garantizar
+el desarrollo económico
+
+540
+00:28:20,767 --> 00:28:23,567
+es que nos podamos comunicar
+entre todos los argentinos,
+
+541
+00:28:23,701 --> 00:28:26,801
+que las empresas coordinen
+mejor entre sí,
+
+542
+00:28:26,868 --> 00:28:30,334
+para garantizar salud es necesario
+que los hospitales
+
+543
+00:28:30,434 --> 00:28:32,133
+puedan hablar los médicos.
+
+544
+00:28:32,234 --> 00:28:35,834
+Es increíble que uno
+lo tenga que recordar.
+
+545
+00:28:35,901 --> 00:28:38,300
+Pero es indispensable
+la comunicación.
+
+546
+00:28:38,400 --> 00:28:41,467
+Y este salto tecnológico
+no va a requerir menos antenas,
+
+547
+00:28:41,567 --> 00:28:42,767
+va a requerir más.
+
+548
+00:28:42,834 --> 00:28:44,133
+Y en esto hay que ser muy claros.
+
+549
+00:28:44,234 --> 00:28:45,300
+Nosotros estamos haciendo
+un esfuerzo,
+
+550
+00:28:45,400 --> 00:28:46,501
+y lo vamos a redoblar
+
+551
+00:28:46,601 --> 00:28:49,701
+para colaborar en garantizar
+que se instalen más antenas.
+
+552
+00:28:49,801 --> 00:28:53,167
+Pero sepámoslo,
+permitir o habilitar
+
+553
+00:28:53,234 --> 00:28:54,100
+la instalación de una antena
+
+554
+00:28:54,200 --> 00:28:57,367
+no es hacerle un favor a una
+empresa de telecomunicaciones.
+
+555
+00:28:57,467 --> 00:28:58,701
+Al contrario.
+
+556
+00:28:58,801 --> 00:29:01,300
+Si ustedes calculan los lugares
+en donde se han podido
+
+557
+00:29:01,400 --> 00:29:04,100
+hacer más inversiones, es decir,
+han puesto más radiobases,
+
+558
+00:29:04,167 --> 00:29:07,267
+han ganado la misma plata
+anterior a los mismos ingresos
+
+559
+00:29:07,334 --> 00:29:09,367
+que en los lugares donde no
+se han instalado antenas.
+
+560
+00:29:09,667 --> 00:29:11,367
+Por lo tanto, y perdón
+que me meta
+
+561
+00:29:11,467 --> 00:29:13,801
+en una materia que no me compete,
+
+562
+00:29:13,901 --> 00:29:15,901
+la rentabilidad cuando uno
+la mide en un lugar
+
+563
+00:29:15,968 --> 00:29:18,567
+donde no hay radiobases es mayor
+
+564
+00:29:18,701 --> 00:29:20,534
+que la rentabilidad en donde
+han existido radiobases.
+
+565
+00:29:20,601 --> 00:29:22,467
+Por lo tanto en esto tenemos
+que ser muy claros.
+
+566
+00:29:22,567 --> 00:29:25,400
+responsables, estamos tomando
+todas las medidas
+
+567
+00:29:25,501 --> 00:29:27,701
+para garantizar la salud
+de la población.
+
+568
+00:29:27,801 --> 00:29:30,734
+Pero la mejor forma de garantizar
+el desarrollo humano
+
+569
+00:29:30,834 --> 00:29:33,334
+es que se puedan instalar como
+los mejores lugares del mundo
+
+570
+00:29:33,434 --> 00:29:35,033
+más cantidad de radiobases,
+
+571
+00:29:35,133 --> 00:29:37,501
+más pequeñas con menor
+impacto visual.
+
+572
+00:29:39,901 --> 00:29:42,167
+Sigo con las medidas
+que hemos tomado,
+
+573
+00:29:42,267 --> 00:29:45,133
+por supuesto, el financiamiento
+para cooperativas y pymes
+
+574
+00:29:45,200 --> 00:29:47,501
+de servicios
+de telecomunicaciones,
+
+575
+00:29:47,601 --> 00:29:49,567
+porque esto hay que integrarlo,
+
+576
+00:29:49,634 --> 00:29:51,300
+fundamentalmente integrado
+al plan Argentina Conectada.
+
+577
+00:29:51,434 --> 00:29:55,000
+Y algo que ha dado un resultado
+satisfactorio,
+
+578
+00:29:55,067 --> 00:29:57,400
+que es la regulación
+para contingencia
+
+579
+00:29:57,501 --> 00:29:59,434
+en catástrofes y emergencias.
+
+580
+00:29:59,534 --> 00:30:01,667
+Voy a insistir con este punto.
+
+581
+00:30:01,767 --> 00:30:05,100
+A mí me ha tocado asumir,
+te acordas, Julio,
+
+582
+00:30:05,200 --> 00:30:08,100
+el 3 de abril del año pasado,
+
+583
+00:30:08,200 --> 00:30:10,801
+un día después
+de la inundación de La Plata.
+
+584
+00:30:10,901 --> 00:30:15,367
+Y recuerdo que el Ministro
+hizo un llamado muy fuerte
+
+585
+00:30:15,434 --> 00:30:19,000
+a las empresas.
+Yo los veo a los empresarios...
+
+586
+00:30:19,067 --> 00:30:20,667
+Sí, les voy a volver
+a estirar las orejas
+
+587
+00:30:20,734 --> 00:30:22,367
+por lo del 3 de abril.
+
+588
+00:30:23,300 --> 00:30:25,801
+Hicimos todos los esfuerzos
+para que estuvieran presentes,
+
+589
+00:30:25,868 --> 00:30:28,567
+y nos encontramos con un escenario
+en el que claramente
+
+590
+00:30:28,634 --> 00:30:31,767
+no estábamos preparados
+para semejante contingencia.
+
+591
+00:30:31,868 --> 00:30:33,901
+Y a partir de ahí
+tomamos decisiones regulatorias
+
+592
+00:30:33,968 --> 00:30:35,167
+y decisiones de control,
+
+593
+00:30:35,234 --> 00:30:36,701
+no solamente desde la Secretaria
+de Comunicaciones,
+
+594
+00:30:36,801 --> 00:30:39,167
+sino desde la Comisión
+Nacional de Comunicaciones,
+
+595
+00:30:39,267 --> 00:30:42,567
+haciendo un seguimiento
+muy fuerte de estudio
+
+596
+00:30:42,634 --> 00:30:44,567
+de sitios críticos,
+inspeccionando,
+
+597
+00:30:44,667 --> 00:30:45,801
+siguiendo los planes.
+
+598
+00:30:45,901 --> 00:30:52,200
+Y tenemos la extraña satisfacción
+de que hemos sufrido
+
+599
+00:30:52,300 --> 00:30:54,033
+otros hechos lamentables,
+
+600
+00:30:54,133 --> 00:30:55,501
+quizá no de la envergadura
+de La Plata,
+
+601
+00:30:55,601 --> 00:30:58,834
+pero en todos los casos
+se ha logrado sostener
+
+602
+00:30:58,934 --> 00:31:01,300
+el servicio de comunicaciones.
+
+603
+00:31:01,400 --> 00:31:03,367
+Mal, como funciona siempre.
+
+604
+00:31:03,467 --> 00:31:06,434
+Pero se ha sostenido a pesar
+de que hemos tenido
+
+605
+00:31:06,534 --> 00:31:09,100
+situaciones como en Rosario
+con la situación del edificio,
+
+606
+00:31:09,200 --> 00:31:11,000
+como San Pedro, como en Lanús,
+
+607
+00:31:11,100 --> 00:31:13,834
+como en otras situaciones
+difíciles respecto
+
+608
+00:31:13,934 --> 00:31:19,000
+de soportar el sistema
+energético.
+
+609
+00:31:19,100 --> 00:31:22,767
+Realmente ha funcionado
+medianamente bien.
+
+610
+00:31:22,868 --> 00:31:26,601
+Por lo tanto esto es un dato
+relevante.
+
+611
+00:31:27,801 --> 00:31:29,234
+El espectro radioeléctrico,
+
+612
+00:31:29,334 --> 00:31:32,167
+y acá viene el dato
+que nos toca empezar a explicar,
+
+613
+00:31:32,267 --> 00:31:33,734
+de cómo estamos en la Argentina,
+
+614
+00:31:33,834 --> 00:31:35,434
+como todos los estudios
+o reflejan,
+
+615
+00:31:35,534 --> 00:31:39,267
+otra digresión.
+
+616
+00:31:39,334 --> 00:31:42,434
+Hay dos momentos durante
+el espectro radioeléctrico:
+
+617
+00:31:42,601 --> 00:31:45,534
+la atribución y la asignación.
+
+618
+00:31:46,133 --> 00:31:48,767
+Acá nos confundimos,
+yo permanentemente me confundo,
+
+619
+00:31:48,834 --> 00:31:50,300
+pero para hoy estudie.
+
+620
+00:31:50,367 --> 00:31:51,968
+Atribución y asignación.
+
+621
+00:31:52,067 --> 00:31:55,133
+Atribuir es una tarea
+que se completa
+
+622
+00:31:55,200 --> 00:31:57,767
+con orden presidencial
+y con regulación
+
+623
+00:31:57,834 --> 00:32:00,634
+de la autoridad regulatoria,
+
+624
+00:32:00,701 --> 00:32:02,300
+por decirlo la Secretaria
+de Comunicaciones,
+
+625
+00:32:02,400 --> 00:32:05,901
+que es poner a disposición
+determinadas bandas y frecuencias
+
+626
+00:32:06,000 --> 00:32:08,634
+para un determinado servicio,
+
+627
+00:32:08,701 --> 00:32:11,400
+que es lo que completamos
+desde el Estado Nacional.
+
+628
+00:32:11,467 --> 00:32:17,434
+Y la asignación es el otorgamiento
+del uso de esta determinada banda,
+
+629
+00:32:17,501 --> 00:32:20,200
+de ese determinado espectro,
+a alguien, a un operador,
+
+630
+00:32:20,300 --> 00:32:22,367
+que es el que lo tiene
+que utilizar.
+
+631
+00:32:22,467 --> 00:32:27,801
+En este cuadro vamos a ver
+respecto al espectro atribuido
+
+632
+00:32:27,868 --> 00:32:33,934
+a servicios de comunicaciones
+móviles, 3G y 4G.
+
+633
+00:32:34,100 --> 00:32:38,267
+Hasta hoy tenemos 170 megahertz
+en la Argentina,
+
+634
+00:32:38,334 --> 00:32:41,701
+y a partir de este proceso
+que va a ser
+
+635
+00:32:41,801 --> 00:32:44,334
+lo más rápido que podamos
+administrativamente,
+
+636
+00:32:44,400 --> 00:32:46,767
+pero que ya están disparadas
+todas las acciones,
+
+637
+00:32:46,834 --> 00:32:53,200
+vamos a tener una atribución
+de este espectro de 380 megas,
+
+638
+00:32:53,267 --> 00:32:56,367
+por lo tanto vamos a más
+que duplicar
+
+639
+00:32:56,467 --> 00:32:58,901
+la asignación de espectro.
+
+640
+00:32:59,000 --> 00:33:01,167
+Y esto nos va a ubicar
+en este lugar de espectro
+
+641
+00:33:01,234 --> 00:33:02,868
+en América Latina.
+
+642
+00:33:02,934 --> 00:33:04,868
+Hoy estamos allá.
+
+643
+00:33:05,801 --> 00:33:08,968
+Y vamos a pasar a estar
+inmediatamente después
+
+644
+00:33:09,033 --> 00:33:11,434
+de Brasil y Colombia.
+
+645
+00:33:11,501 --> 00:33:15,167
+Por lo tanto aquí se muestra
+concretamente
+
+646
+00:33:15,267 --> 00:33:18,067
+cual va a ser el impacto
+que puede tener,
+
+647
+00:33:18,167 --> 00:33:22,167
+o que va a tener esta medida
+que estamos tomando ahora.
+
+648
+00:33:22,267 --> 00:33:27,434
+¿En qué va a consistir
+el concurso 2014?
+
+649
+00:33:27,501 --> 00:33:30,934
+Le ponemos fecha y año
+porque así normalmente
+
+650
+00:33:31,000 --> 00:33:36,300
+hacemos la secuencia
+de las distintas licitaciones
+
+651
+00:33:36,400 --> 00:33:38,634
+y procesos de concurso.
+
+652
+00:33:38,701 --> 00:33:42,200
+Se van a licitar bandas
+para 4G.
+
+653
+00:33:42,300 --> 00:33:44,434
+La banda de 1.700 y 2.100.
+
+654
+00:33:44,501 --> 00:33:47,000
+Y la banda de 700 megas,
+
+655
+00:33:47,067 --> 00:33:50,567
+que es lo último que se está
+licitando en el mundo.
+
+656
+00:33:50,667 --> 00:33:53,167
+Va a ser una licitación
+abierta.
+
+657
+00:33:53,234 --> 00:33:56,033
+Cualquiera va a poder participar,
+
+658
+00:33:56,100 --> 00:34:00,400
+que pueda demostrar que está
+en condiciones muy veloces
+
+659
+00:34:00,501 --> 00:34:03,767
+de cumplir con las exigencias
+y las obligaciones,
+
+660
+00:34:03,868 --> 00:34:05,334
+tanto desde el punto
+de vista económico,
+
+661
+00:34:05,434 --> 00:34:07,234
+como desde el punto
+de vista jurídico,
+
+662
+00:34:07,334 --> 00:34:09,567
+y fundamentalmente desde
+el punto de vista
+
+663
+00:34:09,667 --> 00:34:11,200
+de la infraestructura.
+
+664
+00:34:11,334 --> 00:34:16,334
+La diferencia que podemos
+apreciar hasta ahora
+
+665
+00:34:16,434 --> 00:34:19,000
+es que se va a licitar
+por área nacional,
+
+666
+00:34:19,100 --> 00:34:22,767
+a diferencia de la licitación
+de 2G y 3G.
+
+667
+00:34:22,834 --> 00:34:24,267
+¿Qué significa eso?
+
+668
+00:34:24,367 --> 00:34:27,400
+En términos que nos va
+a impactar a los argentinos,
+
+669
+00:34:27,501 --> 00:34:31,801
+en que va a incentivar
+el modelo de competitividad,
+
+670
+00:34:31,901 --> 00:34:33,400
+de competencia.
+
+671
+00:34:33,467 --> 00:34:36,400
+Cuando se licito por áreas
+cada uno de los operadores
+
+672
+00:34:36,467 --> 00:34:38,467
+empezó en un lugar del país
+
+673
+00:34:38,534 --> 00:34:41,100
+y se fueron extendiendo
+hacia los otros.
+
+674
+00:34:41,200 --> 00:34:45,901
+Por lo tanto existió una suerte
+de tiempo en donde
+
+675
+00:34:46,000 --> 00:34:49,734
+uno tenia preeminencia
+o incumbencia mayor.
+
+676
+00:34:49,801 --> 00:34:51,434
+Ahora que vamos a licitar
+por área nacional
+
+677
+00:34:51,534 --> 00:34:54,434
+todos van a tener la misma
+obligación de desplegar
+
+678
+00:34:54,534 --> 00:34:57,567
+en todos lados y de competir
+en todos lados al mismo tiempo.
+
+679
+00:34:57,667 --> 00:35:01,000
+Por lo tanto no se va a dar
+esa situación,
+
+680
+00:35:01,100 --> 00:35:02,968
+ese deslizamiento en el tiempo,
+
+681
+00:35:03,033 --> 00:35:04,701
+y por lo tanto van a tener
+que empezar a competir
+
+682
+00:35:04,801 --> 00:35:07,767
+en 4G desde el día 1,
+
+683
+00:35:07,868 --> 00:35:10,968
+porque van a tener que estar
+todas en todos lados.
+
+684
+00:35:11,534 --> 00:35:14,667
+Asimismo vamos a concursar
+las bandas de 3G
+
+685
+00:35:14,734 --> 00:35:16,767
+de 1900y 850 remanentes,
+
+686
+00:35:16,834 --> 00:35:19,167
+como adelantara
+el Ministro Kicillof.
+
+687
+00:35:19,234 --> 00:35:23,834
+En el marco y consistentemente
+con el proyecto, el fundamento,
+
+688
+00:35:23,901 --> 00:35:26,701
+el objetivo del Libre.ar
+
+689
+00:35:26,801 --> 00:35:29,400
+esta licitación sí va a ser
+por área,
+
+690
+00:35:29,467 --> 00:35:31,934
+porque tenemos que coordinar,
+como decía el Ministro,
+
+691
+00:35:32,033 --> 00:35:35,000
+el objetivo es muy rápidamente
+mejorar la calidad
+
+692
+00:35:35,100 --> 00:35:37,901
+y poner a disposición este
+espectro para que muy rápidamente
+
+693
+00:35:38,000 --> 00:35:43,367
+se pueda mejorar, por supuesto,
+cumpliendo con toda la normativa
+
+694
+00:35:43,467 --> 00:35:47,267
+y todas las obligaciones
+vigentes en este sentido,
+
+695
+00:35:47,367 --> 00:35:49,968
+por eso sí se va a licitar
+por área.
+
+696
+00:35:50,067 --> 00:35:55,801
+Y para tener algún modelo
+de comparación respecto
+
+697
+00:35:55,901 --> 00:36:01,234
+de los dos momentos en donde
+se ha trabajado
+
+698
+00:36:01,334 --> 00:36:04,801
+con espectro radioeléctrico,
+la licitación es anterior,
+
+699
+00:36:04,901 --> 00:36:09,501
+que fueron en el 87, 93 y 94,
+y en 1998,
+
+700
+00:36:09,601 --> 00:36:12,601
+se hicieron con otros criterio.
+
+701
+00:36:12,667 --> 00:36:15,234
+Por supuesto nosotros tenemos
+darle continuidad
+
+702
+00:36:15,300 --> 00:36:16,934
+a muchas de estas cosas,
+
+703
+00:36:17,000 --> 00:36:20,133
+pero en muchas podemos innovar
+y lo vamos a hacer.
+
+704
+00:36:20,200 --> 00:36:23,868
+Y acá voy a hacer
+una digresión ideológica.
+
+705
+00:36:23,934 --> 00:36:27,267
+Uno cuando lee puede
+aparentemente hacer una critica
+
+706
+00:36:27,334 --> 00:36:31,667
+al modelo neoliberal,
+y quizá lo sea,
+
+707
+00:36:31,734 --> 00:36:34,067
+pero no está en nosotros
+que esa sea la crítica,
+
+708
+00:36:34,133 --> 00:36:36,901
+sino que hay que considerar
+que en ese momento
+
+709
+00:36:36,968 --> 00:36:39,067
+no existía ni siquiera por asomo
+ese servicio
+
+710
+00:36:39,133 --> 00:36:40,133
+de las comunicaciones móviles.
+
+711
+00:36:40,200 --> 00:36:45,801
+Ustedes si notan que en el 2003
+recién empieza a explotar
+
+712
+00:36:45,868 --> 00:36:48,033
+en general el mercado
+de las comunicaciones móviles,
+
+713
+00:36:48,100 --> 00:36:50,234
+y en el 2007-2009,
+
+714
+00:36:50,300 --> 00:36:52,501
+con la aparición
+de los smartphones,
+
+715
+00:36:52,567 --> 00:36:54,734
+el tráfico explota,
+
+716
+00:36:54,834 --> 00:36:58,367
+es cierto que durante
+esos años tener la capacidad
+
+717
+00:36:58,434 --> 00:37:01,467
+de visión de qué era lo que
+iba a pasar en la Argentina
+
+718
+00:37:01,534 --> 00:37:07,000
+hace que uno no pueda ser
+tan severo con la crítica
+
+719
+00:37:07,067 --> 00:37:08,300
+de lo que se hizo en ese momento.
+
+720
+00:37:08,367 --> 00:37:12,133
+Pero estamos en el 2014 con toda
+esa experiencia acumulada,
+
+721
+00:37:12,200 --> 00:37:15,734
+no podemos volver a caer
+en esa situación.
+
+722
+00:37:15,834 --> 00:37:19,801
+En ese momento se licitaron,
+en total, 130 megas,
+
+723
+00:37:19,868 --> 00:37:22,534
+megas en esa banda,
+1900 y 850.
+
+724
+00:37:22,601 --> 00:37:25,934
+La única exigencia termológica
+era el acceso digital a la red.
+
+725
+00:37:26,033 --> 00:37:28,801
+No se establecieron plazos
+ni requisitos para la ejecución
+
+726
+00:37:28,901 --> 00:37:31,267
+del despliegue de infraestructura.
+
+727
+00:37:31,367 --> 00:37:34,467
+Y la asignación de frecuencias
+fue por tiempo indeterminado.
+
+728
+00:37:34,534 --> 00:37:38,901
+Y como decíamos, se licitó
+por tres áreas geográficas,
+
+729
+00:37:38,968 --> 00:37:42,400
+cada uno tenía la prioridad
+y la obligación primordial
+
+730
+00:37:42,467 --> 00:37:44,901
+de hacerse cargo de esas áreas.
+
+731
+00:37:44,968 --> 00:37:49,334
+En esta oportunidad vamos
+a establecer obligaciones
+
+732
+00:37:49,400 --> 00:37:52,400
+mucho más claras, consistentes,
+
+733
+00:37:52,501 --> 00:37:54,467
+y que tienen que ver
+con la experiencia
+
+734
+00:37:54,534 --> 00:37:56,300
+acumulada y con el reclamo
+y la necesidad
+
+735
+00:37:56,400 --> 00:37:59,267
+del pueblo argentino.
+
+736
+00:37:59,334 --> 00:38:02,534
+Van a tener en 4G la obligación
+de desplegar una tecnología
+
+737
+00:38:02,601 --> 00:38:05,901
+4G o superior, garantizando
+siempre la última tecnología
+
+738
+00:38:05,968 --> 00:38:09,167
+y respetando los estándares
+de calidad exigidos
+
+739
+00:38:09,234 --> 00:38:11,434
+que no son ni más ni menos
+que los de la resolución
+
+740
+00:38:11,501 --> 00:38:13,801
+del 5 de junio del año pasado.
+
+741
+00:38:13,868 --> 00:38:15,734
+Asimismo vamos a asignar
+las frecuencias
+
+742
+00:38:15,834 --> 00:38:17,734
+con límite temporal como
+se está haciendo
+
+743
+00:38:17,868 --> 00:38:20,834
+en todas partes del mundo,
+fundamentalmente en la región.
+
+744
+00:38:20,934 --> 00:38:24,601
+La obligación de despliegue
+de 4G va a ser
+
+745
+00:38:24,667 --> 00:38:28,133
+en un tiempo total de 5 años,
+
+746
+00:38:28,200 --> 00:38:31,267
+el criterio va a ser de población,
+
+747
+00:38:31,334 --> 00:38:33,234
+como estamos utilizando con TDA.
+
+748
+00:38:33,300 --> 00:38:36,133
+Y la obligación,
+como es inalámbrica,
+
+749
+00:38:36,267 --> 00:38:39,367
+va a estar en el orden del 98%
+de la población a cubrir
+
+750
+00:38:39,467 --> 00:38:41,501
+con este nuevo servicio.
+
+751
+00:38:41,567 --> 00:38:44,501
+Por supuesto, inmediatamente
+que esté disponible
+
+752
+00:38:44,601 --> 00:38:49,501
+el espectro para su uso,
+el primer plazo es obligatorio
+
+753
+00:38:49,567 --> 00:38:51,467
+pero estamos convencidos,
+
+754
+00:38:51,567 --> 00:38:54,567
+sobre todo porque han dado
+muestras en todos los foros
+
+755
+00:38:54,634 --> 00:38:57,834
+y ante toda oportunidad
+que están más que dispuestos.
+
+756
+00:38:57,934 --> 00:39:00,267
+Hemos conversado con todos
+los proveedores del servicio,
+
+757
+00:39:00,334 --> 00:39:03,467
+no solamente con las telefónicas
+sino con Huawei, con Ericsson,
+
+758
+00:39:03,534 --> 00:39:05,901
+con Alcatel, con Cisco, con XTE,
+
+759
+00:39:06,000 --> 00:39:08,901
+con las empresas nacionales,
+con BGH,
+
+760
+00:39:09,067 --> 00:39:12,100
+con las distintas empresas
+que están en condiciones
+
+761
+00:39:12,167 --> 00:39:14,701
+de aportar a la infraestructura
+
+762
+00:39:14,801 --> 00:39:18,467
+y están todas en condiciones
+de proveer el equipamiento
+
+763
+00:39:18,567 --> 00:39:20,701
+y además muchas han hecho
+un esfuerzo muy grande,
+
+764
+00:39:20,834 --> 00:39:23,734
+recuerdo Huawei que estuviste,
+Julio, en las oficinas,
+
+765
+00:39:23,801 --> 00:39:29,200
+no es casualidad que Huawei
+se tome la decisión
+
+766
+00:39:29,300 --> 00:39:31,868
+de instalarse en la Argentina
+porque claramente
+
+767
+00:39:31,934 --> 00:39:36,000
+hay una potencialidad
+de este mercado.
+
+768
+00:39:36,100 --> 00:39:37,734
+Y están todos los factores
+dados para que
+
+769
+00:39:37,801 --> 00:39:40,501
+muy rápidamente se realice
+este despliegue,
+
+770
+00:39:40,567 --> 00:39:44,667
+incluso antes de las obligaciones
+legales que vamos a imponer.
+
+771
+00:39:44,767 --> 00:39:47,934
+Asimismo va a estar la obligación
+de compartir la infraestructura
+
+772
+00:39:48,067 --> 00:39:51,200
+fija, una infraestructura pasiva,
+
+773
+00:39:51,334 --> 00:39:53,734
+para acelerar los tiempos
+y garantizar
+
+774
+00:39:53,868 --> 00:39:57,834
+que se pueda realizar cobertura,
+sobre todo en ruta,
+
+775
+00:39:57,934 --> 00:39:59,167
+más rápidamente.
+
+776
+00:39:59,267 --> 00:40:00,901
+Y también va a estar permitido,
+como lo está hoy,
+
+777
+00:40:01,000 --> 00:40:04,267
+pero lo vamos a clarificar,
+la posibilidad de compartir
+
+778
+00:40:04,367 --> 00:40:06,067
+la infraestructura activa,
+
+779
+00:40:06,133 --> 00:40:08,868
+aunque eso tiene una dificultad
+tecnológica más importante.
+
+780
+00:40:08,968 --> 00:40:13,934
+Y también, y esto es muy
+importante que tomemos
+
+781
+00:40:14,033 --> 00:40:17,801
+en consideración, que van
+a tener que garantizar
+
+782
+00:40:17,901 --> 00:40:19,634
+con claridad,
+con precios racionables,
+
+783
+00:40:19,734 --> 00:40:24,934
+y en función del objetivo
+de ampliar la competencia
+
+784
+00:40:25,033 --> 00:40:26,567
+y las opciones a los usuarios
+finales,
+
+785
+00:40:26,701 --> 00:40:29,567
+la posibilidad de interconexión
+para cooperativas y pymes,
+
+786
+00:40:29,701 --> 00:40:33,467
+como operadores móviles
+virtuales.
+
+787
+00:40:33,601 --> 00:40:36,267
+Y que se desarrollara
+esta tarea más allá
+
+788
+00:40:36,367 --> 00:40:38,667
+de la regulación,
+el acompañamiento muy fuerte
+
+789
+00:40:38,801 --> 00:40:42,667
+de CNC y Arsat, que están
+presentes de ambas instituciones,
+
+790
+00:40:42,767 --> 00:40:48,000
+para poder darle una respuesta
+a todos los que han crecido
+
+791
+00:40:48,100 --> 00:40:50,200
+y se están preparando,
+y están en condiciones también
+
+792
+00:40:50,334 --> 00:40:55,801
+que no sean solo las grandes
+que puedan brindar el servicio.
+
+793
+00:40:55,901 --> 00:40:59,567
+Aunque, en esto hay que ser
+muy claros y muy consistentes,
+
+794
+00:40:59,667 --> 00:41:01,200
+como decía el Ministro
+de Economía,
+
+795
+00:41:01,334 --> 00:41:05,167
+es muy difícil porque no existen
+experiencias en el mundo
+
+796
+00:41:05,267 --> 00:41:07,167
+de modificar esa torta
+en términos generales.
+
+797
+00:41:07,267 --> 00:41:11,133
+Pero sí permitir acceder
+y amplificar,
+
+798
+00:41:11,234 --> 00:41:13,367
+y permitirle sobre todo
+el crecimiento
+
+799
+00:41:13,467 --> 00:41:16,467
+y la posibilidad de brindar
+este servicio
+
+800
+00:41:16,567 --> 00:41:18,167
+a otras empresas.
+
+801
+00:41:18,267 --> 00:41:21,767
+Sin duda esto va a mejorar
+las economías regionales,
+
+802
+00:41:21,868 --> 00:41:25,801
+va a potenciar la posibilidad
+de brindar servicios,
+
+803
+00:41:25,868 --> 00:41:27,734
+y va a generar mayores
+alternativas
+
+804
+00:41:27,868 --> 00:41:30,167
+y acelerar seguramente
+la competencia.
+
+805
+00:41:30,267 --> 00:41:32,400
+Pero quiero que quede claro
+este concepto porque después
+
+806
+00:41:32,501 --> 00:41:38,501
+nos suelen tomar palabras
+que no dijimos
+
+807
+00:41:38,601 --> 00:41:39,934
+o sacarnos de contexto,
+
+808
+00:41:40,000 --> 00:41:42,934
+y a partir de ahora va a haber
+500 empresas más...
+
+809
+00:41:43,000 --> 00:41:46,767
+No creemos que se dé
+esa situación,
+
+810
+00:41:46,868 --> 00:41:51,100
+sencillamente por lo que sucede
+en el mundo en esta materia.
+
+811
+00:41:51,200 --> 00:41:54,234
+Y sin dudas también tendrán
+la obligación clara
+
+812
+00:41:54,300 --> 00:41:57,200
+de garantizar las comunicaciones
+para seguridad nacional
+
+813
+00:41:57,300 --> 00:42:00,601
+y en caso de crisis o emergencia.
+
+814
+00:42:00,701 --> 00:42:04,200
+Hasta aquí las cuestiones
+técnicas más profundas,
+
+815
+00:42:04,300 --> 00:42:09,067
+y para poder contarles a todos
+en qué se puede ver reflejado,
+
+816
+00:42:09,200 --> 00:42:12,767
+en que se va a ver reflejado
+este cambio sustancial
+
+817
+00:42:12,868 --> 00:42:14,467
+en la vida de todos nosotros.
+
+818
+00:42:14,601 --> 00:42:18,300
+Hemos tomado algunos ejemplos,
+adelanto,
+
+819
+00:42:18,400 --> 00:42:20,701
+pido disculpa a todas
+las competencias
+
+820
+00:42:20,801 --> 00:42:23,267
+y a las marcas que hemos nombrado
+pero es la forma más clara
+
+821
+00:42:23,334 --> 00:42:26,400
+que tenemos.
+
+822
+00:42:27,968 --> 00:42:33,868
+En la Argentina lo que no
+existe por ahora es el 4G,
+
+823
+00:42:33,968 --> 00:42:37,267
+y hemos tomado, advierto,
+los mejores casos,
+
+824
+00:42:37,367 --> 00:42:41,167
+para hacer una comparación
+más dura contra
+
+825
+00:42:41,267 --> 00:42:44,300
+la tecnología nueva
+de lo que está disponible hoy,
+
+826
+00:42:44,400 --> 00:42:49,300
+que es cable modem, ADSL,
+3G más, HC Plus,
+
+827
+00:42:49,400 --> 00:42:53,234
+y el viejo 2G Edge que es lo que
+le aparece a cada uno
+
+828
+00:42:53,334 --> 00:42:56,801
+en la pantallita del celular
+cuando ese es
+
+829
+00:42:56,901 --> 00:42:58,434
+el servicio que se toma.
+
+830
+00:42:58,567 --> 00:43:03,901
+Los mails, hemos utilizado,
+insisto, un caso concreto,
+
+831
+00:43:04,000 --> 00:43:04,868
+pero para que se entienda...
+
+832
+00:43:04,968 --> 00:43:08,734
+Los mails en cable modem y en ADSL
+la bajada es instantánea.
+
+833
+00:43:08,834 --> 00:43:12,467
+Con 3G donde funciona bien
+tarda alrededor de 2 segundos,
+
+834
+00:43:12,601 --> 00:43:13,767
+un mail normal.
+
+835
+00:43:13,868 --> 00:43:16,501
+Y 40 segundos en 2G por lo tanto
+es inaplicable,
+
+836
+00:43:16,601 --> 00:43:18,901
+es inutilizable el 2G para esto.
+
+837
+00:43:19,000 --> 00:43:21,734
+El 4G va a ser instantáneo,
+o sea, vamos a estar a la altura
+
+838
+00:43:21,868 --> 00:43:24,801
+de los sistemas físicos
+de conectividad.
+
+839
+00:43:24,934 --> 00:43:30,033
+MP3, obviamente, bajar canciones
+legales en sitios que lo permiten,
+
+840
+00:43:30,133 --> 00:43:32,100
+con todos los requisitos
+de la ley:
+
+841
+00:43:32,200 --> 00:43:36,467
+a través del cable modem
+el tiempo es un segundo,
+
+842
+00:43:36,567 --> 00:43:39,000
+1,1 en ADSL.
+
+843
+00:43:39,067 --> 00:43:42,934
+En 4G tiempo real va a ser 1,8.
+
+844
+00:43:43,033 --> 00:43:45,367
+¿Qué significa 4G?
+
+845
+00:43:45,467 --> 00:43:48,133
+Y aprovecho para comentarlo
+ahora porque ustedes
+
+846
+00:43:48,200 --> 00:43:49,901
+van a ver que hay 75 megabits,
+
+847
+00:43:49,968 --> 00:43:52,534
+entonces uno hace un cálculo
+rápido y diría
+
+848
+00:43:52,601 --> 00:43:56,100
+que tendría que ir tres veces
+más rápido que el cable modem.
+
+849
+00:43:56,200 --> 00:43:57,634
+¿Cuál es la diferencia?
+
+850
+00:43:57,701 --> 00:44:00,334
+Estos 75 megabits no están
+dedicados,
+
+851
+00:44:00,434 --> 00:44:01,667
+no van todos a la misma persona,
+
+852
+00:44:01,767 --> 00:44:02,601
+y además esto va a ser
+en movimiento, o sea,
+
+853
+00:44:02,667 --> 00:44:07,000
+en cualquier ruta nacional
+a la velocidades máximas
+
+854
+00:44:07,067 --> 00:44:09,133
+establecidas por la normativa
+uno va a poder
+
+855
+00:44:09,200 --> 00:44:12,868
+bajar una canción
+en esa velocidad,
+
+856
+00:44:13,000 --> 00:44:16,000
+va a poder ver un video
+de hasta 5 minutos
+
+857
+00:44:16,067 --> 00:44:18,801
+en estos tiempos.
+
+858
+00:44:18,934 --> 00:44:21,100
+4 segundos nos toma
+el cable modem.
+
+859
+00:44:21,200 --> 00:44:22,968
+4,6 nos toma en ADSL.
+
+860
+00:44:23,067 --> 00:44:27,400
+Y 7,4 segundos en 4G.
+
+861
+00:44:27,501 --> 00:44:30,133
+En 3G tardamos 96 segundos,
+
+862
+00:44:30,234 --> 00:44:33,367
+es prácticamente dejar
+el teléfono en la mesa
+
+863
+00:44:33,434 --> 00:44:34,801
+y volver al rato.
+
+864
+00:44:34,901 --> 00:44:36,400
+En 2G no se puede.
+
+865
+00:44:36,501 --> 00:44:42,300
+EL sistema de video que permite
+bajar un capitulo completo
+
+866
+00:44:42,400 --> 00:44:46,501
+de una serie de televisión,
+Cocineros Argentinos,
+
+867
+00:44:46,567 --> 00:44:50,033
+o de Game of Thrones,
+o The Big Bang Theory
+
+868
+00:44:50,133 --> 00:44:54,934
+que son los tres que veo yo
+los tiempos actuales son:
+
+869
+00:44:55,000 --> 00:44:57,534
+66 segundos de cable modem.
+
+870
+00:44:58,000 --> 00:45:00,534
+76 segundos para ADSL.
+
+871
+00:45:00,634 --> 00:45:03,734
+Y vamos a estar en 123 segundos
+donde cobertura
+
+872
+00:45:03,801 --> 00:45:05,467
+y buena capacidad de 4G.
+
+873
+00:45:05,567 --> 00:45:08,834
+No se puede hacer con
+la tecnología inalámbrica hoy.
+
+874
+00:45:08,934 --> 00:45:11,501
+Y streaming online
+en tiempo real,
+
+875
+00:45:11,601 --> 00:45:16,701
+que estamos hablando
+de todos los nuevos contenidos,
+
+876
+00:45:16,767 --> 00:45:19,133
+estamos hablando de VACUA,
+estamos hablando de CDA,
+
+877
+00:45:19,200 --> 00:45:22,033
+estamos hablando del enorme
+esfuerzo que implican
+
+878
+00:45:22,100 --> 00:45:24,534
+las nuevas voces que traen
+la Ley de Medios
+
+879
+00:45:24,601 --> 00:45:25,968
+de Comunicación Audiovisual,
+
+880
+00:45:26,067 --> 00:45:30,267
+va a poder utilizarse
+el streaming en movimiento
+
+881
+00:45:30,367 --> 00:45:31,734
+en estas condiciones.
+
+882
+00:45:31,801 --> 00:45:33,567
+EL streaming no tiene plazo
+porque es cuestión
+
+883
+00:45:33,634 --> 00:45:35,067
+de bajarlo y verlo,
+
+884
+00:45:35,167 --> 00:45:36,968
+y hoy la tecnología
+inalámbrica no lo permite,
+
+885
+00:45:37,033 --> 00:45:39,033
+solo lo permiten las tecnologías
+alambricas.
+
+886
+00:45:39,100 --> 00:45:43,133
+Y con 4G vamos a poder tener
+en Argentina estos contenidos
+
+887
+00:45:43,200 --> 00:45:46,501
+en nuestras manos,
+y realmente sumarnos
+
+888
+00:45:46,567 --> 00:45:50,801
+a los más avanzado en tecnología
+de las comunicaciones
+
+889
+00:45:50,901 --> 00:45:56,567
+con los enormes impactos
+que tienen inclusión social,
+
+890
+00:45:56,634 --> 00:45:59,767
+en desarrollo humano,
+en democratización,
+
+891
+00:45:59,868 --> 00:46:02,601
+en fin, en justicia social.
+
+892
+00:46:02,701 --> 00:46:05,167
+Muchísimas gracias
+a todos y a todas.
+
+893
+00:46:14,200 --> 00:46:16,534
+Muy bien llegó el momento
+entonces ahora de escuchar
+
+894
+00:46:16,601 --> 00:46:18,234
+las palabras del señor
+Ministro de Planificación
+
+895
+00:46:18,300 --> 00:46:20,033
+Federal, Inversión Pública
+y Servicios,
+
+896
+00:46:20,133 --> 00:46:22,000
+el Arquitecto Julio De Vido.
+
+897
+00:46:22,200 --> 00:46:24,634
+Bueno, buenos días a todos.
+
+898
+00:46:24,767 --> 00:46:29,801
+Quiero agradecer la presencia
+aquí de los distintos
+
+899
+00:46:29,868 --> 00:46:32,167
+representantes de la actividad.
+
+900
+00:46:32,234 --> 00:46:35,501
+En primer lugar al representante
+FOETRA
+
+901
+00:46:35,567 --> 00:46:37,901
+y del Instituto de Investigaciones
+y Desarrollo
+
+902
+00:46:38,000 --> 00:46:40,467
+de las Telecomunicaciones,
+Guillermo,
+
+903
+00:46:40,534 --> 00:46:42,200
+gracias por acompañarnos.
+
+904
+00:46:42,267 --> 00:46:45,868
+Sabemos que Osvaldo no está
+en este momento aquí,
+
+905
+00:46:45,968 --> 00:46:48,267
+así que bienvenido.
+
+906
+00:46:48,367 --> 00:46:52,067
+Igualmente al compañero Oporto,
+al Diputado Mario Oporto,
+
+907
+00:46:52,167 --> 00:46:55,634
+que es el presidente
+de la Comisión de Comunicaciones
+
+908
+00:46:55,734 --> 00:46:57,501
+de Informática de la Cámara
+de Diputados,
+
+909
+00:46:57,601 --> 00:46:59,734
+gracias por acompañarnos también.
+
+910
+00:46:59,834 --> 00:47:03,400
+A todos los compañeros
+del Ministerio de Planificación,
+
+911
+00:47:03,467 --> 00:47:05,734
+de la Secretaria de Comunicaciones,
+
+912
+00:47:05,834 --> 00:47:09,400
+de la Comisión Nacional
+de Comunicaciones, y de ARSAT.
+
+913
+00:47:09,501 --> 00:47:11,934
+Y al resto de las autoridades
+presentes,
+
+914
+00:47:12,000 --> 00:47:13,968
+a los periodistas que nos
+acompañan en un anuncio
+
+915
+00:47:14,033 --> 00:47:22,534
+tan importante y que es posible
+en función de estos 10 años
+
+916
+00:47:22,601 --> 00:47:26,234
+de trabajo que llevaron
+adelante el Presidente Kirchner,
+
+917
+00:47:26,334 --> 00:47:29,033
+en primer lugar,
+y la Presidenta luego.
+
+918
+00:47:29,133 --> 00:47:32,834
+Y las medidas transcendentes
+que tomaron en el ámbito
+
+919
+00:47:32,901 --> 00:47:37,334
+de las comunicaciones,
+de las telecomunicaciones,
+
+920
+00:47:37,400 --> 00:47:42,901
+para que nosotros hoy podamos
+estar aquí anunciando
+
+921
+00:47:43,000 --> 00:47:47,000
+este llamado a licitación
+del espectro que va a poner
+
+922
+00:47:47,067 --> 00:47:51,567
+en valor, desde TDA,
+a partir del streaming
+
+923
+00:47:51,634 --> 00:47:56,033
+que nos mostraba recién Norberto,
+
+924
+00:47:56,100 --> 00:48:00,400
+hasta un simple mail
+que nos mande un amigo,
+
+925
+00:48:00,501 --> 00:48:04,100
+o sea, poner en valor de tiempo,
+de tiempo real,
+
+926
+00:48:04,200 --> 00:48:10,167
+que es la forma en como
+el mundo se expresa hoy.
+
+927
+00:48:10,267 --> 00:48:14,267
+Ya en octubre del 2003,
+
+928
+00:48:14,367 --> 00:48:16,934
+no está en la filmina
+porque se olvidaron de ponerlo,
+
+929
+00:48:17,000 --> 00:48:20,467
+el Presidente Kirchner
+recupera inicialmente
+
+930
+00:48:20,534 --> 00:48:22,234
+el Correo Argentino.
+
+931
+00:48:22,300 --> 00:48:26,701
+Luego en el año 2004,
+ya lo dijeron anteriormente
+
+932
+00:48:26,801 --> 00:48:29,334
+quienes me antecedieron
+en el uso de la palabra,
+
+933
+00:48:29,467 --> 00:48:32,634
+una verdadera vergüenza
+para la Argentina
+
+934
+00:48:32,734 --> 00:48:37,200
+que era haber concedido
+el espacio radioeléctrico.
+
+935
+00:48:37,300 --> 00:48:39,901
+Si bien el espacio radioeléctrico,
+o el éter,
+
+936
+00:48:39,968 --> 00:48:42,834
+como se denominaba habitualmente,
+
+937
+00:48:42,934 --> 00:48:45,968
+yo siempre digo que
+la comunicación
+
+938
+00:48:46,067 --> 00:48:49,901
+a nivel radial, que fue la primera
+comunicación masiva que hubo,
+
+939
+00:48:49,968 --> 00:48:52,901
+empezó por el éter y después
+se fue perdiendo
+
+940
+00:48:52,968 --> 00:48:56,767
+en el uso del espacio hasta que,
+fundamentalmente en la década
+
+941
+00:48:56,868 --> 00:48:59,133
+del 90 y fines del 80
+nos hicieron creer
+
+942
+00:48:59,200 --> 00:49:02,601
+que la realidad podía venir
+empaquetada a través
+
+943
+00:49:02,701 --> 00:49:05,133
+de un cable, en donde,
+el dueño del cable
+
+944
+00:49:05,234 --> 00:49:07,868
+nos iba a imponer que
+es lo que nosotros podíamos
+
+945
+00:49:07,934 --> 00:49:11,300
+y debíamos ver, que todavía
+sucede pero evidentemente
+
+946
+00:49:11,400 --> 00:49:13,601
+el avance de la aplicación
+de la Ley de Medios
+
+947
+00:49:13,667 --> 00:49:20,234
+vamos a ir ganando los espacios
+y los tiempos
+
+948
+00:49:20,300 --> 00:49:23,400
+para que la gente pueda
+expresarse con absoluta libertad,
+
+949
+00:49:23,501 --> 00:49:26,868
+y fundamentalmente también
+recibir los contenidos
+
+950
+00:49:26,934 --> 00:49:31,067
+de forma libre y gratuita
+los 43 millones de habitantes.
+
+951
+00:49:31,267 --> 00:49:35,400
+Recordábamos en alguna
+oportunidad que solamente
+
+952
+00:49:35,501 --> 00:49:40,634
+en fines del siglo pasado
+Argentina, Gabón,
+
+953
+00:49:40,701 --> 00:49:45,567
+y Burkina Faso eran los países que
+tenían privatizado el espectro.
+
+954
+00:49:45,634 --> 00:49:49,934
+Esto no hace ningún aspecto
+de descalificación
+
+955
+00:49:50,000 --> 00:49:52,734
+a la Gabón y Burkina Faso,
+sino que evidentemente
+
+956
+00:49:52,834 --> 00:49:57,534
+son situaciones diferentes
+y que evidentemente
+
+957
+00:49:57,601 --> 00:50:01,834
+marcaban el retraso
+relativo de la Argentina.
+
+958
+00:50:01,901 --> 00:50:04,300
+En abril del 2006 se crea Arsat,
+
+959
+00:50:04,400 --> 00:50:07,834
+a través de las ley 26.092.
+
+960
+00:50:07,901 --> 00:50:10,133
+También lo vamos a ver
+más adelante,
+
+961
+00:50:10,234 --> 00:50:14,267
+sin la red de fibra óptica
+que estamos construyendo hoy,
+
+962
+00:50:14,467 --> 00:50:16,534
+sin la última milla
+que estamos construyendo hoy,
+
+963
+00:50:16,634 --> 00:50:22,300
+el uso del éter que nos plantea
+esta licitación
+
+964
+00:50:22,434 --> 00:50:25,334
+se vería restringida
+exclusivamente
+
+965
+00:50:25,434 --> 00:50:28,367
+como era el Sistema Eléctrico
+Argentino oportunamente,
+
+966
+00:50:28,467 --> 00:50:31,968
+es decir, a parte de la provincia
+de Buenos Aires,
+
+967
+00:50:32,067 --> 00:50:33,934
+sur de Córdoba y su de Santa Fe.
+
+968
+00:50:34,000 --> 00:50:36,200
+El resto del país no importaba,
+
+969
+00:50:36,300 --> 00:50:39,834
+como para los medios nacionales
+en general eso no es un desvalor,
+
+970
+00:50:39,934 --> 00:50:42,434
+no iba a figurar en ningún lado,
+
+971
+00:50:42,534 --> 00:50:45,734
+pero para nosotros si es
+un valor en términos
+
+972
+00:50:45,801 --> 00:50:49,100
+éticos, políticos, ideológicos.
+
+973
+00:50:49,167 --> 00:50:52,801
+Por lo tanto la creación
+de Arsat es muy importante.
+
+974
+00:50:52,901 --> 00:50:57,133
+Además Arsat nos permitió
+originalmente ocupar
+
+975
+00:50:57,234 --> 00:50:58,901
+las posiciones orbitales,
+
+976
+00:50:59,000 --> 00:51:02,267
+pero con satélites
+de comunicación
+
+977
+00:51:02,367 --> 00:51:04,100
+construidos en la Argentina,
+
+978
+00:51:04,167 --> 00:51:07,434
+y no con satélites alquilados
+en el exterior.
+
+979
+00:51:07,534 --> 00:51:11,334
+En el mes de agosto
+estaremos lanzando
+
+980
+00:51:11,434 --> 00:51:13,934
+en la Guyana Francesa
+el primer satélite
+
+981
+00:51:14,033 --> 00:51:15,634
+de comunicaciones,
+no de Argentina,
+
+982
+00:51:15,734 --> 00:51:18,467
+sino de un país sudamericano.
+
+983
+00:51:18,534 --> 00:51:21,334
+Ahí Argentina es primera,
+lejos, en relación
+
+984
+00:51:21,434 --> 00:51:25,000
+a la posición de tecnología,
+al desarrollo de la tecnología,
+
+985
+00:51:25,100 --> 00:51:28,033
+y por supuesto va a ser
+el primero en América Latina
+
+986
+00:51:28,133 --> 00:51:30,501
+que tenga un satélite
+de comunicaciones en orbita
+
+987
+00:51:30,567 --> 00:51:32,467
+y en funcionamiento.
+
+988
+00:51:32,601 --> 00:51:35,000
+En agosto del 2009
+se crea la Televisión
+
+989
+00:51:35,100 --> 00:51:38,734
+Digital Terrestre Pública,
+Libre y Gratuita,
+
+990
+00:51:38,801 --> 00:51:42,601
+como decíamos, para recuperar
+la imagen, el éter,
+
+991
+00:51:42,701 --> 00:51:45,601
+que habíamos perdido
+en la aparición
+
+992
+00:51:45,701 --> 00:51:48,968
+de los cables, que era
+un invento claramente
+
+993
+00:51:49,067 --> 00:51:52,300
+destinado a paquetizar
+la información,
+
+994
+00:51:52,367 --> 00:51:54,868
+a paquetizar los contenidos,
+y por supuesto,
+
+995
+00:51:54,934 --> 00:51:58,701
+agrupar al mercado en lotes
+pero imponiendo las condiciones
+
+996
+00:51:58,767 --> 00:52:01,267
+desde la oferta y no
+desde la demanda,
+
+997
+00:52:01,367 --> 00:52:04,601
+que es lo que ahora vamos
+a lograr.
+
+998
+00:52:04,701 --> 00:52:07,033
+Adoptando un común acuerdo
+entre nuestra Presidenta
+
+999
+00:52:07,133 --> 00:52:09,334
+y el Presidenta de Lula Da Silva,
+
+1000
+00:52:09,434 --> 00:52:13,133
+la norma japonesa,
+ahora también brasileña,
+
+1001
+00:52:13,200 --> 00:52:14,734
+argentina, venezolana,
+
+1002
+00:52:14,801 --> 00:52:19,200
+se ha expandido a lo largo
+y a lo ancho.
+
+1003
+00:52:19,267 --> 00:52:20,801
+Creo que hay un solo
+país de América Latina,
+
+1004
+00:52:20,868 --> 00:52:22,901
+no recuerdo ahora cual,
+que no tiene
+
+1005
+00:52:22,968 --> 00:52:25,567
+la televisión con esta norma.
+
+1006
+00:52:25,734 --> 00:52:27,934
+Inclusive algunos países
+habían elegido la europea
+
+1007
+00:52:28,000 --> 00:52:32,834
+y se cambiaron a la norma esta,
+brasilera-argentina,
+
+1008
+00:52:32,901 --> 00:52:36,634
+que adoptamos tanto Brasil
+como nosotros,
+
+1009
+00:52:36,701 --> 00:52:38,734
+la Presidenta Dilma con Cristina,
+
+1010
+00:52:38,801 --> 00:52:41,334
+porque nos permitía
+la incorporación
+
+1011
+00:52:41,400 --> 00:52:44,100
+de tecnología de origen nacional.
+
+1012
+00:52:44,167 --> 00:52:47,901
+De hecho hemos exportado
+el sistema completo a Venezuela,
+
+1013
+00:52:48,000 --> 00:52:52,067
+por supuesto lo preveían
+para Argentina y Brasil,
+
+1014
+00:52:52,133 --> 00:52:54,334
+con transferencia de tecnología,
+
+1015
+00:52:54,400 --> 00:52:57,634
+cerca de 200 millones de dólares
+de exportación
+
+1016
+00:52:57,701 --> 00:52:59,601
+y de tecnología argentina,
+
+1017
+00:52:59,701 --> 00:53:02,000
+con fuerte participación
+del sector metalúrgico,
+
+1018
+00:53:02,067 --> 00:53:04,133
+por ejemplo, en el caso de ADIMRA.
+
+1019
+00:53:04,200 --> 00:53:08,567
+En septiembre del 2010 se crea
+el plan Argentina Conectada,
+
+1020
+00:53:08,634 --> 00:53:11,567
+que como decíamos antes,
+lleva la fibra óptica
+
+1021
+00:53:11,634 --> 00:53:14,767
+y conectividad cubriendo
+el territorio nacional,
+
+1022
+00:53:14,868 --> 00:53:17,133
+más allá de los grandes
+centros de consumo.
+
+1023
+00:53:17,200 --> 00:53:21,834
+Por eso recién Norberto podía
+hablar del 98% del territorio.
+
+1024
+00:53:21,968 --> 00:53:23,834
+En junio del año pasado
+se implementa
+
+1025
+00:53:23,934 --> 00:53:25,968
+el nuevo reglamento
+de telecomunicaciones,
+
+1026
+00:53:26,033 --> 00:53:29,200
+ya está en pleno proceso
+de esta instalación
+
+1027
+00:53:29,267 --> 00:53:31,767
+y de aplicación,
+y se encuentra terminado
+
+1028
+00:53:31,834 --> 00:53:34,534
+el primer satélite Arsat 1,
+
+1029
+00:53:34,601 --> 00:53:37,667
+y próximo a lazarse el 2.
+
+1030
+00:53:37,767 --> 00:53:40,667
+Argentina es el único país
+de Sudamérica, repito,
+
+1031
+00:53:40,734 --> 00:53:43,367
+en construir un satélite
+de telecomunicaciones
+
+1032
+00:53:43,434 --> 00:53:46,200
+que brindará el servicio
+de telefonía, datos,
+
+1033
+00:53:46,267 --> 00:53:47,901
+internet y televisión,
+
+1034
+00:53:48,000 --> 00:53:51,567
+e ingresa al selecto grupo
+de países que desarrollan
+
+1035
+00:53:51,634 --> 00:53:54,934
+satélites de eje estacionario
+como EE.UU.,
+
+1036
+00:53:55,000 --> 00:53:58,067
+Alemania, Rusia, China,
+Francia e Italia.
+
+1037
+00:53:58,167 --> 00:54:01,501
+Antes estábamos agrupados,
+lamentablemente,
+
+1038
+00:54:01,601 --> 00:54:03,968
+con Gabón y Burkina Faso.
+
+1039
+00:54:04,100 --> 00:54:08,701
+Se construyeron 83 estaciones
+de Televisión Digital
+
+1040
+00:54:08,801 --> 00:54:13,434
+que toman cobertura
+al 85% de la población.
+
+1041
+00:54:13,534 --> 00:54:18,434
+Se entregaron 1.400.000
+decodificadores para TDA,
+
+1042
+00:54:18,501 --> 00:54:20,868
+85.000 vamos a entregar
+en el curso de este año.
+
+1043
+00:54:20,934 --> 00:54:25,934
+Se entregaron 1.400.000
+decodificadores para TDA,
+
+1044
+00:54:26,033 --> 00:54:29,167
+resultado de las obras
+que fueron indicadas
+
+1045
+00:54:29,234 --> 00:54:31,100
+en la planificación
+estratégica
+
+1046
+00:54:31,200 --> 00:54:34,033
+del plan Argentina Conectada,
+que está acá,
+
+1047
+00:54:34,133 --> 00:54:39,133
+anunciado en el 2011,
+puede verse en obras concretas.
+
+1048
+00:54:39,267 --> 00:54:42,033
+En el eje de infraestructura
+y conectividad se tendieron
+
+1049
+00:54:42,133 --> 00:54:45,834
+30.000 Km de red de fibra óptica
+en troncales, provinciales,
+
+1050
+00:54:46,000 --> 00:54:49,968
+incluyendo 80Km el cruce
+del Estrecho de Magallanes,
+
+1051
+00:54:50,067 --> 00:54:53,133
+que además de vincularlo
+con la fibra óptica,
+
+1052
+00:54:53,200 --> 00:54:55,968
+lo habíamos vinculado
+en el año 2010
+
+1053
+00:54:56,033 --> 00:54:59,501
+con el gasoducto,
+duplicando el actual.
+
+1054
+00:54:59,567 --> 00:55:02,634
+Y también, y ahora
+lo triplicaremos
+
+1055
+00:55:02,734 --> 00:55:08,534
+con el cruce a fin de año
+de la línea de 220 KV/A,
+
+1056
+00:55:08,634 --> 00:55:11,334
+que va a vincular a la provincia
+de Tierra del Fuego
+
+1057
+00:55:11,434 --> 00:55:14,100
+al Sistema Nacional
+Interconectado.
+
+1058
+00:55:14,234 --> 00:55:17,534
+Pero en 2003 había 13
+provincias interconectadas.
+
+1059
+00:55:17,701 --> 00:55:21,033
+En este momento 22,
+
+1060
+00:55:21,133 --> 00:55:23,200
+y la 23 que es Tierra del Fuego
+
+1061
+00:55:23,267 --> 00:55:27,501
+se incorporaría, si todo
+sale como tenemos previsto,
+
+1062
+00:55:27,601 --> 00:55:31,234
+en el curso del año 2015.
+
+1063
+00:55:31,300 --> 00:55:34,701
+En el mismo eje se construyó
+el Centro de Datos de Arsat
+
+1064
+00:55:34,801 --> 00:55:36,834
+en Benavidez, que es
+el Centro de Datos
+
+1065
+00:55:37,467 --> 00:55:38,534
+más grande de Sudamérica.
+
+1066
+00:55:38,601 --> 00:55:40,501
+En el eje de inclusión
+digital se instalaron
+
+1067
+00:55:40,567 --> 00:55:43,200
+171 núcleos de acceso
+al conocimiento,
+
+1068
+00:55:43,267 --> 00:55:47,334
+y 91 puntos de acceso
+digital en todo el país.
+
+1069
+00:55:47,434 --> 00:55:50,767
+Sino hubiéramos hecho todo esto,
+evidentemente,
+
+1070
+00:55:50,868 --> 00:55:53,868
+iba a darse la circunstancia
+que planteaba Norberto,
+
+1071
+00:55:53,968 --> 00:55:56,601
+en aquellas localidades
+que por distintos motivos,
+
+1072
+00:55:56,701 --> 00:56:00,100
+malentendido de las propias
+autoridades municipales,
+
+1073
+00:56:00,200 --> 00:56:03,033
+que creen que generar
+la posibilidad de más antenas
+
+1074
+00:56:03,100 --> 00:56:05,400
+es generarle más rentabilidad
+a las compañías,
+
+1075
+00:56:05,501 --> 00:56:06,334
+y se equivocan.
+
+1076
+00:56:06,400 --> 00:56:08,033
+Las compañías cuanto menos
+invierten,
+
+1077
+00:56:08,133 --> 00:56:10,200
+prestan peor servicio
+y ganan más plata.
+
+1078
+00:56:10,267 --> 00:56:13,367
+Con lo cual es una laguna,
+no aporta esto.
+
+1079
+00:56:13,467 --> 00:56:15,267
+Hay que sentarse
+y creo que el planteo
+
+1080
+00:56:15,367 --> 00:56:18,834
+y además el control
+que hace la Secretaria
+
+1081
+00:56:18,934 --> 00:56:21,467
+de Comunicaciones a través
+del organismo pertinente
+
+1082
+00:56:21,567 --> 00:56:23,234
+de la Comisión esta
+que investiga
+
+1083
+00:56:23,300 --> 00:56:25,067
+y analiza el tema de radiaciones,
+
+1084
+00:56:25,133 --> 00:56:27,934
+hay que trabajar con seriedad,
+
+1085
+00:56:28,000 --> 00:56:32,167
+y no con falsos preconceptos
+pseudoambientalistas,
+
+1086
+00:56:32,267 --> 00:56:35,667
+que en definitiva benefician
+a la oferta
+
+1087
+00:56:35,734 --> 00:56:39,300
+que se presta mal,
+y perjudican a la demanda.
+
+1088
+00:56:39,367 --> 00:56:41,200
+¿Quién es la demanda?
+Somos todos nosotros.
+
+1089
+00:56:41,300 --> 00:56:46,033
+La política de telecomunicaciones
+del Estado Nacional
+
+1090
+00:56:46,100 --> 00:56:50,067
+lleva ejecutada 17.550
+millones de pesos
+
+1091
+00:56:50,133 --> 00:56:51,734
+desde el año 2003.
+
+1092
+00:56:51,834 --> 00:56:54,400
+Creo 27.000 puestos de trabajo
+directos
+
+1093
+00:56:54,501 --> 00:56:56,100
+y 20.000 indirectos.
+
+1094
+00:56:56,200 --> 00:56:59,167
+Está claro que el compañero
+de enfrente no está puesto
+
+1095
+00:56:59,234 --> 00:57:01,467
+acá nada más, nos acompaña
+porque esta política
+
+1096
+00:57:01,567 --> 00:57:05,634
+sirvió y acompañó
+a la creación de más
+
+1097
+00:57:05,734 --> 00:57:08,267
+y mejores empleos en la actividad.
+
+1098
+00:57:08,367 --> 00:57:11,868
+Y una decidida participación
+de ARSAT,
+
+1099
+00:57:11,968 --> 00:57:14,601
+y la CONAE, que es el Consejo
+Nacional de Aire Espacial,
+
+1100
+00:57:14,667 --> 00:57:16,300
+que ahora depende del Ministerio
+de Planificación,
+
+1101
+00:57:16,400 --> 00:57:19,133
+y también el INVAP,
+que pasaron de emplear
+
+1102
+00:57:19,234 --> 00:57:21,901
+700 a 3.000 profesionales.
+
+1103
+00:57:21,968 --> 00:57:25,634
+428% más.
+
+1104
+00:57:25,734 --> 00:57:28,000
+Igual que la Comisión Nacional
+de Energía Atómica
+
+1105
+00:57:28,067 --> 00:57:33,033
+que está casi en un 500%
+más de personal técnico
+
+1106
+00:57:33,167 --> 00:57:34,501
+y profesional.
+
+1107
+00:57:34,567 --> 00:57:36,501
+Comparado que todo
+el sector de telecomunicaciones
+
+1108
+00:57:36,567 --> 00:57:38,434
+en Argentina,
+incluyendo el privado,
+
+1109
+00:57:38,501 --> 00:57:41,267
+invirtió 35.000 millones
+de pesos en el 2003,
+
+1110
+00:57:41,334 --> 00:57:45,133
+ocupando 107.000 puesto
+de trabajo directo.
+
+1111
+00:57:45,267 --> 00:57:47,634
+Desde esas cifras
+de Comunicaciones
+
+1112
+00:57:47,701 --> 00:57:50,467
+del Ministerio Nacional
+presentó el 50%
+
+1113
+00:57:50,534 --> 00:57:51,934
+en lo que refiere a inversión,
+
+1114
+00:57:52,000 --> 00:57:55,000
+y 25% en lo referido
+a los puestos de trabajo.
+
+1115
+00:57:55,100 --> 00:57:57,534
+Lo que deja en claro
+la importancia y la potencialidad
+
+1116
+00:57:57,601 --> 00:57:59,968
+de la presencia del Estado
+en el sector.
+
+1117
+00:58:00,133 --> 00:58:02,667
+En un claro acompañamiento
+estratégico federal
+
+1118
+00:58:02,734 --> 00:58:06,734
+se crearon 10 empresas
+provinciales de telecomunicación,
+
+1119
+00:58:06,834 --> 00:58:09,200
+que es lo que nos permite
+la capilaridad
+
+1120
+00:58:09,267 --> 00:58:12,434
+hasta la casa de cada uno
+de los argentinos.
+
+1121
+00:58:12,501 --> 00:58:14,834
+Formosa, Chaco, La Rioja,
+Misiones, Santiago,
+
+1122
+00:58:14,901 --> 00:58:18,901
+Catamarca, Neuquén, Rio Negro,
+La Pampa y Tierra del Fuego.
+
+1123
+00:58:19,033 --> 00:58:20,901
+En el marco de este convenio
+que se firmó
+
+1124
+00:58:21,000 --> 00:58:22,767
+con el Estado Nacional,
+no para alquilar la empresa,
+
+1125
+00:58:22,834 --> 00:58:26,434
+sino crear la empresa
+como herramienta
+
+1126
+00:58:26,501 --> 00:58:29,701
+para llevar adelante
+la construcción de la red.
+
+1127
+00:58:29,801 --> 00:58:31,801
+Lo que nos da la magnitud
+de la importancia
+
+1128
+00:58:31,868 --> 00:58:34,133
+del Plan Nacional
+de Telecomunicaciones.
+
+1129
+00:58:34,234 --> 00:58:36,067
+Siendo estas horas
+y estas decisiones,
+
+1130
+00:58:36,200 --> 00:58:39,200
+la movida trascendental
+que acaban de anunciar
+
+1131
+00:58:39,300 --> 00:58:42,767
+tanto el Ministro
+como el Secretario
+
+1132
+00:58:42,868 --> 00:58:45,334
+en el marco del eje
+estratégico de la utilización
+
+1133
+00:58:45,400 --> 00:58:47,100
+del uso del espectro
+radioeléctrico,
+
+1134
+00:58:47,200 --> 00:58:49,601
+la presente medida consiste,
+
+1135
+00:58:49,667 --> 00:58:51,868
+como lo explicaran anteriormente,
+no lo voy a repetir,
+
+1136
+00:58:51,968 --> 00:58:56,167
+la atribución de nuevas bandas
+de espacio radioeléctrico
+
+1137
+00:58:56,234 --> 00:58:58,300
+que permitirán el desarrollo
+de la Argentina
+
+1138
+00:58:58,467 --> 00:59:01,434
+en el servicio de la telefonía
+móvil para las denominadas
+
+1139
+00:59:01,501 --> 00:59:05,067
+redes 4G y el remanente
+de las 3G.
+
+1140
+00:59:05,167 --> 00:59:09,067
+Argentina pasó de 350.000
+a 8 millones de conexiones
+
+1141
+00:59:09,200 --> 00:59:12,434
+a internet, y de 4 millones,
+como decía Axel,
+
+1142
+00:59:12,534 --> 00:59:16,467
+a 45 millones de líneas
+de celulares activas.
+
+1143
+00:59:16,567 --> 00:59:18,901
+En marco de esta exponencial
+posible con las obras
+
+1144
+00:59:18,968 --> 00:59:23,100
+conectadas en anuncio de hoy
+es una estrategia eficaz
+
+1145
+00:59:23,200 --> 00:59:27,100
+que permitirá a los operadores,
+incluyendo a ARSAT,
+
+1146
+00:59:27,200 --> 00:59:29,767
+a través de la ya creada,
+
+1147
+00:59:29,868 --> 00:59:33,601
+a utilizar la infraestructura
+tecnológica en donde
+
+1148
+00:59:33,701 --> 00:59:36,167
+los servicios se optimizaran
+entre los distintos
+
+1149
+00:59:36,267 --> 00:59:37,901
+operadores existentes.
+
+1150
+00:59:38,000 --> 00:59:40,033
+ARSAT y operadoras locales,
+
+1151
+00:59:40,133 --> 00:59:43,334
+a los que también invitamos
+a participar.
+
+1152
+00:59:43,434 --> 00:59:46,300
+Con el aporte de las empresas
+privadas en la utilización
+
+1153
+00:59:46,400 --> 00:59:47,968
+del espectro radioeléctrico,
+
+1154
+00:59:48,033 --> 00:59:51,901
+posibilitamos la finalización
+de todos los objetivos
+
+1155
+00:59:52,000 --> 00:59:55,234
+planificados en Argentina
+Conectada.
+
+1156
+00:59:55,334 --> 00:59:58,133
+Esta nueva medida es una más
+de los objetivos
+
+1157
+00:59:58,234 --> 01:00:00,868
+del Plan Nacional
+de Telecomunicaciones.
+
+1158
+01:00:00,968 --> 01:00:03,934
+Pero muy importante
+porque va a universalizar
+
+1159
+01:00:04,033 --> 01:00:09,868
+y darle realmente toda la fuerza
+a los 45 millones de celulares
+
+1160
+01:00:09,968 --> 01:00:12,467
+que tenemos cada uno de nosotros
+en nuestro bolsillo
+
+1161
+01:00:12,601 --> 01:00:13,834
+o en nuestra casa.
+
+1162
+01:00:13,901 --> 01:00:15,467
+Al igual que todas las medidas,
+
+1163
+01:00:15,567 --> 01:00:19,501
+tiene en cuenta la decidida
+participación de las Pymes
+
+1164
+01:00:19,567 --> 01:00:21,934
+y las cooperativas,
+las empresas provinciales
+
+1165
+01:00:22,000 --> 01:00:25,234
+y las empresas grandes
+de telecomunicaciones,
+
+1166
+01:00:25,334 --> 01:00:28,734
+y las nuevas empresas,
+que como bien explicaba Norberto,
+
+1167
+01:00:28,801 --> 01:00:31,067
+quieran sumarse.
+
+1168
+01:00:31,200 --> 01:00:36,300
+En este sentido ARSAT
+va a ser el gran garante
+
+1169
+01:00:36,367 --> 01:00:39,901
+de la participación
+de las empresas provinciales,
+
+1170
+01:00:40,000 --> 01:00:44,467
+de la participación de todo
+el sector Pymes nacional
+
+1171
+01:00:44,567 --> 01:00:48,901
+porque para eso se creó más allá
+de la urgencia
+
+1172
+01:00:49,000 --> 01:00:51,968
+del primer paso cuando
+se la crea para ocupar
+
+1173
+01:00:52,033 --> 01:00:56,400
+la banda satelital que se quedó
+
+1174
+01:00:56,467 --> 01:00:59,200
+vacante porque la empresa
+NAHUELSAT se escapó
+
+1175
+01:00:59,267 --> 01:01:02,100
+de la Argentina
+cuando sus servicios
+
+1176
+01:01:02,167 --> 01:01:04,033
+dejaron de estar dolarizados.
+
+1177
+01:01:04,133 --> 01:01:09,133
+El sistema de telecomunicaciones
+era igual en el año 2003,
+
+1178
+01:01:09,234 --> 01:01:13,033
+como decíamos anteriormente
+al sistema eléctrico y al de gas,
+
+1179
+01:01:13,100 --> 01:01:16,234
+solamente ofrecía garantías
+de comunicación,
+
+1180
+01:01:16,300 --> 01:01:18,534
+sur de Santa Fe, sur de Córdoba
+
+1181
+01:01:18,634 --> 01:01:20,467
+y área metropolitana
+de Buenos Aires,
+
+1182
+01:01:20,567 --> 01:01:22,133
+norte de la provincia
+de Buenos Aires.
+
+1183
+01:01:22,234 --> 01:01:25,300
+El resto del país no importaba,
+
+1184
+01:01:25,367 --> 01:01:27,868
+igual había 1000 kilómetros
+de autopista, ahora hay 3000.
+
+1185
+01:01:27,968 --> 01:01:32,601
+También hay 5000 kilómetros más
+de línea de extra alta tensión,
+
+1186
+01:01:32,701 --> 01:01:36,267
+hay una intervención en el 80%
+de la red caminera,
+
+1187
+01:01:36,367 --> 01:01:38,534
+es decir, hay un proceso,
+
+1188
+01:01:38,634 --> 01:01:41,534
+no solamente de inclusión
+de la gente
+
+1189
+01:01:41,634 --> 01:01:43,634
+sino del mapa donde la gente vive
+
+1190
+01:01:43,734 --> 01:01:46,467
+para que no haya procesos luego
+de desinclusión
+
+1191
+01:01:46,567 --> 01:01:48,467
+a través del desarraigo.
+
+1192
+01:01:48,567 --> 01:01:52,200
+Esta medida es un paso más
+como nuevamente
+
+1193
+01:01:52,267 --> 01:01:57,634
+ha sido la reivindicación soberana
+
+1194
+01:01:57,701 --> 01:02:00,200
+de su espacio radioeléctrico
+en el marco
+
+1195
+01:02:00,300 --> 01:02:02,133
+del Plan Nacional
+de Telecomunicaciones.
+
+1196
+01:02:02,234 --> 01:02:04,901
+No obstante se inserta
+del plan de recuperación
+
+1197
+01:02:04,968 --> 01:02:07,801
+de toda la infraestructura
+y fundamentalmente
+
+1198
+01:02:07,868 --> 01:02:09,767
+de la creación de infraestructura
+donde no la había
+
+1199
+01:02:09,834 --> 01:02:11,567
+para la incorporación
+de territorio.
+
+1200
+01:02:11,634 --> 01:02:12,701
+Eso es soberanía,
+
+1201
+01:02:12,767 --> 01:02:16,000
+que todo el territorio tenga
+la misma posibilidad.
+
+1202
+01:02:16,100 --> 01:02:19,501
+Al igual que el plan energético
+que ayer cumplió 10 años,
+
+1203
+01:02:19,601 --> 01:02:23,634
+o antes de ayer, es absolutamente
+inclusivo y federal.
+
+1204
+01:02:23,734 --> 01:02:25,300
+Muchísimas gracias.
+
+1205
+01:02:29,868 --> 01:02:34,934
+Muy bien, luego de la palabra
+del Ministro de Economía,
+
+1206
+01:02:35,033 --> 01:02:36,267
+del Ministro de Planificación,
+
+1207
+01:02:36,367 --> 01:02:37,634
+y del Secretario
+de Comunicaciones,
+
+1208
+01:02:37,734 --> 01:02:41,067
+vamos a dar paso a las consultas
+de los señores periodistas,
+
+1209
+01:02:41,167 --> 01:02:43,667
+como siempre apelando
+a la posibilidad
+
+1210
+01:02:43,801 --> 01:02:44,868
+de que cada uno se identifique,
+
+1211
+01:02:44,968 --> 01:02:46,167
+con nombre y medio
+al que pertenece,
+
+1212
+01:02:46,267 --> 01:02:49,000
+y por supuesto que tengan
+el espacio para realizar
+
+1213
+01:02:49,067 --> 01:02:50,234
+las consultas que crean
+convenientes.
+
+1214
+01:02:50,367 --> 01:02:53,534
+¿Con quién comenzamos?
+A ver, adelante.
+
+1215
+01:02:53,667 --> 01:02:56,968
+Alejandro Alfie,
+del Diario Clarín.
+
+1216
+01:02:57,100 --> 01:03:00,934
+Quería consultar respecto
+a la anterior licitación
+
+1217
+01:03:01,000 --> 01:03:04,067
+que se hizo que se declaró
+desierta
+
+1218
+01:03:04,133 --> 01:03:07,834
+y se asignaron frecuencia
+de espectros a Libre.ar,
+
+1219
+01:03:07,934 --> 01:03:10,534
+en realidad ARSAT para usar
+el Libre.ar,
+
+1220
+01:03:10,634 --> 01:03:13,567
+el Secretario Berner hablaba
+de la importancia
+
+1221
+01:03:13,667 --> 01:03:15,601
+de la asignación del espectro,
+
+1222
+01:03:15,701 --> 01:03:17,767
+y quería saber cuáles
+son las acciones
+
+1223
+01:03:17,868 --> 01:03:20,634
+que hizo ARSAT en Libre.ar,
+
+1224
+01:03:20,767 --> 01:03:22,334
+a partir de esa asignación
+de espectro
+
+1225
+01:03:22,434 --> 01:03:25,567
+de la última licitación
+que hizo este gobierno.
+
+1226
+01:03:25,968 --> 01:03:29,334
+La licitación fue declarada
+desierta en este mismo lugar
+
+1227
+01:03:29,400 --> 01:03:35,000
+porque TELECOM no podía
+presentarse
+
+1228
+01:03:35,100 --> 01:03:38,033
+porque estaba integrada
+en ese momento monopólicamente
+
+1229
+01:03:38,133 --> 01:03:41,200
+con la empresa TELEFONICA,
+
+1230
+01:03:41,334 --> 01:03:44,901
+está claro que este gobierno
+tiene una postura muy firme
+
+1231
+01:03:44,968 --> 01:03:46,534
+respecto a los monopolios,
+
+1232
+01:03:46,634 --> 01:03:49,801
+y quedaba NEXTEL,
+
+1233
+01:03:49,934 --> 01:03:54,133
+tenía una oferta que era
+defectuosa en el sentido
+
+1234
+01:03:54,234 --> 01:03:57,300
+de que tenía graves problemas
+financieros,
+
+1235
+01:03:57,434 --> 01:04:01,100
+es decir los que hoy planteaba
+Norberto Berner en el sentido
+
+1236
+01:04:01,234 --> 01:04:06,367
+de poder cumplimentar rápidamente
+los objetivos que traza el pliego,
+
+1237
+01:04:06,467 --> 01:04:08,167
+no lo iba a poder cumplir.
+
+1238
+01:04:08,267 --> 01:04:12,000
+Y en relación a CLARO,
+era la única oferta
+
+1239
+01:04:12,133 --> 01:04:15,567
+que quedaba en pie con lo cual
+la licitación
+
+1240
+01:04:15,667 --> 01:04:17,133
+había perdido absoluta
+transparencia
+
+1241
+01:04:17,200 --> 01:04:20,667
+y por eso se dejó liberada.
+
+1242
+01:04:20,834 --> 01:04:25,634
+En ese momento la situación
+planteada hizo que nosotros,
+
+1243
+01:04:25,734 --> 01:04:28,934
+por supuesto usáramos vía
+de la Secretaria
+
+1244
+01:04:29,033 --> 01:04:32,367
+de Comunicaciones la figura
+de la empresa ARSAT
+
+1245
+01:04:32,501 --> 01:04:35,767
+y se creó la posibilidad
+de que el Estado Argentino
+
+1246
+01:04:35,868 --> 01:04:40,934
+avanzara en el uso
+de las frecuencias.
+
+1247
+01:04:41,000 --> 01:04:44,133
+Esto se refería exclusivamente
+a las frecuencias
+
+1248
+01:04:44,200 --> 01:04:47,501
+que eran excedentes de las
+que ocupaba la Empresa TELEFONICA,
+
+1249
+01:04:47,567 --> 01:04:49,634
+no estaba incorporado el 4G.
+
+1250
+01:04:49,734 --> 01:04:55,767
+En este caso hemos decidido,
+y en función del análisis global
+
+1251
+01:04:55,868 --> 01:04:57,701
+de lo que sucede en el mundo
+en general
+
+1252
+01:04:57,834 --> 01:05:00,567
+y de la necesidad
+y la importancia
+
+1253
+01:05:00,901 --> 01:05:02,634
+de que vengan inversiones
+a la Argentina,
+
+1254
+01:05:02,701 --> 01:05:04,334
+que ustedes reclaman
+permanentemente
+
+1255
+01:05:04,400 --> 01:05:06,801
+de los columnistas económicos
+del diario,
+
+1256
+01:05:06,868 --> 01:05:10,000
+la importancia de poder hacer
+una apertura total
+
+1257
+01:05:10,100 --> 01:05:11,601
+de todas la frecuencias,
+
+1258
+01:05:11,734 --> 01:05:14,367
+hacer invertir a los privados
+y por supuesto,
+
+1259
+01:05:14,467 --> 01:05:16,934
+luego a partir de todo
+lo que hemos construido
+
+1260
+01:05:17,000 --> 01:05:20,200
+desde el momento que dejamos
+desierta la licitación
+
+1261
+01:05:20,300 --> 01:05:25,334
+hasta ahora, liderar en conjunto
+con esas diez empresas
+
+1262
+01:05:25,467 --> 01:05:28,267
+provinciales más las cooperativas
+y todas las Pymes
+
+1263
+01:05:28,367 --> 01:05:30,601
+de comunicación del interior
+van a tener un rol
+
+1264
+01:05:30,701 --> 01:05:35,667
+singularmente importante
+en el uso efectivo
+
+1265
+01:05:35,767 --> 01:05:37,534
+en el territorio
+de las frecuencias
+
+1266
+01:05:37,667 --> 01:05:40,434
+que van a ser posibles
+de utilizar a partir
+
+1267
+01:05:40,534 --> 01:05:44,133
+de las inversiones que hagan
+las grandes empresas convocadas
+
+1268
+01:05:44,234 --> 01:05:47,734
+a partir de esta licitación
+nacional e internacional.
+
+1269
+01:05:50,234 --> 01:05:52,167
+Tal como dijo el Ministro
+en la licitación pasada
+
+1270
+01:05:52,267 --> 01:05:55,033
+el problema fue de los privados,
+que no estaban en condiciones,
+
+1271
+01:05:55,167 --> 01:05:58,067
+porque no cumplían
+con los elementales principios
+
+1272
+01:05:58,167 --> 01:05:59,868
+de independencia de las empresas,
+
+1273
+01:05:59,968 --> 01:06:02,434
+sino que se había transformado
+en un monopolio una,
+
+1274
+01:06:02,534 --> 01:06:06,567
+y una escasa capacidad inversora
+
+1275
+01:06:06,701 --> 01:06:11,400
+y no podía cumplir entonces
+otra de las empresas
+
+1276
+01:06:11,501 --> 01:06:14,000
+de manera tal que quedo desierto
+prácticamente.
+
+1277
+01:06:14,133 --> 01:06:17,834
+Hoy encontramos que esa
+irregularidad que existía
+
+1278
+01:06:17,934 --> 01:06:21,000
+entre TELEFONICA y TELECOM
+están en vía de solución
+
+1279
+01:06:21,167 --> 01:06:23,667
+según las propias informaciones
+de las empresas,
+
+1280
+01:06:23,767 --> 01:06:27,100
+va a tener que completarse
+esa solución a la hora
+
+1281
+01:06:27,167 --> 01:06:29,901
+de la adjudicación porque sino
+no se va a poder adjudicar,
+
+1282
+01:06:30,000 --> 01:06:33,834
+al mismo tiempo queda abierta
+a otras compañías que se presenten
+
+1283
+01:06:33,934 --> 01:06:37,234
+y por ultimo tal como estuvo
+planteado desde el primer día,
+
+1284
+01:06:37,334 --> 01:06:41,334
+Libre.ar no iba sino trabajar
+como operador virtual
+
+1285
+01:06:41,467 --> 01:06:43,467
+sobre instalaciones
+de otras compañías,
+
+1286
+01:06:43,567 --> 01:06:45,734
+era muy ineficiente
+que la empresa estatal
+
+1287
+01:06:45,801 --> 01:06:50,467
+montara una red física de cero,
+iba a tardar demasiado,
+
+1288
+01:06:50,567 --> 01:06:54,434
+en forma tal que el mismo esquema
+para Libre.ar sigue vigente,
+
+1289
+01:06:54,567 --> 01:06:56,167
+capitaneada por ARSAT,
+
+1290
+01:06:56,267 --> 01:06:59,934
+pero básicamente porque
+es la forma de que las empresas
+
+1291
+01:07:00,067 --> 01:07:03,601
+más pequeñas tengan posibilidades
+de competir
+
+1292
+01:07:03,701 --> 01:07:07,868
+utilizando infraestructura
+
+1293
+01:07:07,968 --> 01:07:11,400
+de las empresas telefónicas
+más grandes.
+
+1294
+01:07:11,534 --> 01:07:12,834
+Por supuesto que ha había
+un compromiso
+
+1295
+01:07:12,934 --> 01:07:15,601
+de las empresas telefónicas
+más grandes de brindar
+
+1296
+01:07:15,701 --> 01:07:17,300
+esta oportunidad
+a las más pequeñas
+
+1297
+01:07:17,467 --> 01:07:21,667
+pero hoy eso queda plasmado
+Y regulado por este propio pleo,
+
+1298
+01:07:22,200 --> 01:07:26,100
+de forma tal que lo que habíamos
+diseñado y habíamos acordado,
+
+1299
+01:07:26,167 --> 01:07:28,167
+hoy es una condición central,
+
+1300
+01:07:28,234 --> 01:07:30,868
+desde el punto de vista
+del nuevo llamado a licitación.
+
+1301
+01:07:30,968 --> 01:07:35,367
+Así que, no es que Libre.ar
+queda postergada ni nada parecido,
+
+1302
+01:07:35,434 --> 01:07:37,167
+sino que es exactamente
+el mismo esquema
+
+1303
+01:07:37,267 --> 01:07:40,868
+nada más que ahora certificado
+por el nuevo llamado a licitación
+
+1304
+01:07:40,968 --> 01:07:42,701
+que obliga a las compañías
+a prestar
+
+1305
+01:07:42,801 --> 01:07:44,734
+en condiciones competitivas,
+tarifarias
+
+1306
+01:07:44,834 --> 01:07:49,200
+y con total libertad el acceso
+a la compañía estatal
+
+1307
+01:07:49,300 --> 01:07:52,667
+que va a nuclear a las demás
+telefónicas más pequeñas.
+
+1308
+01:07:52,901 --> 01:07:56,667
+Y si me permiten, completo
+la respuesta respecto
+
+1309
+01:07:56,767 --> 01:07:58,667
+a lo que fue lo que hizo ARSAT.
+
+1310
+01:07:58,801 --> 01:08:01,868
+Participo más que activamente
+en todo este proceso,
+
+1311
+01:08:01,968 --> 01:08:04,300
+que no llega como les dije
+al principio,
+
+1312
+01:08:04,400 --> 01:08:06,234
+no nace de un repollo,
+
+1313
+01:08:06,334 --> 01:08:09,367
+ARSAT con todos sus equipos
+técnicos acompañados
+
+1314
+01:08:09,434 --> 01:08:13,968
+por supuesto, el sindicato,
+por FOETRA,
+
+1315
+01:08:14,067 --> 01:08:16,200
+más allá de los organismos
+implicados naturalmente
+
+1316
+01:08:16,300 --> 01:08:17,934
+como la Comisión Nacional
+de Comunicaciones,
+
+1317
+01:08:18,000 --> 01:08:22,868
+la Secretaria y el Ministerio
+han sido quienes han elaborado
+
+1318
+01:08:22,934 --> 01:08:25,501
+y trabajado y por supuesto
+todo lo que es el despliegue
+
+1319
+01:08:25,567 --> 01:08:29,868
+de Libre.ar a partir
+del operador móvil virtual,
+
+1320
+01:08:29,968 --> 01:08:32,200
+ARSAT ha participado
+desde el día uno.
+
+1321
+01:08:32,300 --> 01:08:37,534
+Y una sencilla aclaración,
+respecto del activo
+
+1322
+01:08:37,634 --> 01:08:39,300
+y sobre todo
+por la responsabilidad
+
+1323
+01:08:39,400 --> 01:08:40,734
+de las autoridades de ARSAT.
+
+1324
+01:08:40,868 --> 01:08:45,200
+ARSAT nunca llego a tener
+asignada la frecuencia,
+
+1325
+01:08:45,300 --> 01:08:47,367
+eso quedo en cabeza
+de la Secretaria,
+
+1326
+01:08:47,467 --> 01:08:48,968
+por lo tanto no estamos
+revirtiendo
+
+1327
+01:08:49,067 --> 01:08:51,501
+ninguna acción jurídica.
+
+1328
+01:08:51,601 --> 01:08:58,267
+Eso, una sencilla aclaración
+para evitarle algún inconveniente.
+
+1329
+01:08:59,400 --> 01:09:01,934
+Muy bien, vamos a pasar
+a otra consulta.
+
+1330
+01:09:02,033 --> 01:09:04,501
+Perfecto a otra consulta entonces.
+
+1331
+01:09:04,667 --> 01:09:07,000
+Fernando Cracovia
+del diario Página 12.
+
+1332
+01:09:07,100 --> 01:09:08,601
+Dos consultas breves.
+
+1333
+01:09:08,734 --> 01:09:12,100
+Una es cuanto piensan recaudar
+con esta licitación.
+
+1334
+01:09:12,367 --> 01:09:16,534
+Y la segunda es en 2012
+se firmó un decreto el 2426
+
+1335
+01:09:16,601 --> 01:09:20,367
+que modificó el reglamento
+de administración
+
+1336
+01:09:20,501 --> 01:09:22,934
+del espectro radioeléctrico,
+el artículo 8 del reglamento,
+
+1337
+01:09:23,067 --> 01:09:26,367
+y la modificación tenía que ver
+con permitirle
+
+1338
+01:09:26,467 --> 01:09:30,567
+a compañías controladas
+por el Estado
+
+1339
+01:09:30,667 --> 01:09:35,701
+o totalmente estatales asignarle
+espectro de manera directa.
+
+1340
+01:09:35,801 --> 01:09:39,567
+¿Esta posibilidad que se abrió
+con la modificación
+
+1341
+01:09:39,667 --> 01:09:42,667
+del reglamento de interconexión
+en el decreto 2012
+
+1342
+01:09:42,767 --> 01:09:45,567
+quedo definitivamente descartada?
+
+1343
+01:09:49,501 --> 01:09:53,968
+No cambió en la Argentina
+el decreto 764
+
+1344
+01:09:54,067 --> 01:09:56,834
+es el que establece
+los mecanismos de interconexión.
+
+1345
+01:09:56,901 --> 01:09:59,167
+Pero el decreto 2426 del 2012,
+
+1346
+01:09:59,234 --> 01:10:02,033
+modificaba el artículo 8
+del reglamento de control
+
+1347
+01:10:02,100 --> 01:10:05,367
+del espectro que esta
+como anexo del 764.
+
+1348
+01:10:05,467 --> 01:10:11,100
+Vamos a establecer el mecanismo
+de concurso y licitación,
+
+1349
+01:10:11,200 --> 01:10:14,534
+insistimos, más allá
+de las posibilidades legales,
+
+1350
+01:10:14,634 --> 01:10:17,100
+por decisión política
+que es generar un plan integral,
+
+1351
+01:10:17,200 --> 01:10:20,734
+consistente, coherente
+y que abarque también
+
+1352
+01:10:20,834 --> 01:10:23,133
+el espectro 4G,
+y como les dije antes,
+
+1353
+01:10:23,234 --> 01:10:26,300
+hay una limitación técnica
+de ingeniería,
+
+1354
+01:10:26,400 --> 01:10:28,200
+esto lo van a poder
+explicar mejor,
+
+1355
+01:10:28,300 --> 01:10:30,701
+no existe el espectro infinito,
+
+1356
+01:10:30,767 --> 01:10:33,968
+no se puede empezar a separar
+en pequeñas bandas.
+
+1357
+01:10:34,100 --> 01:10:38,000
+4G, por ejemplo necesita
+muchísimo ancho de banda
+
+1358
+01:10:38,100 --> 01:10:42,067
+dedicado en una misma función,
+
+1359
+01:10:42,534 --> 01:10:45,901
+en un mismo canal para poder
+brindar este servicio.
+
+1360
+01:10:46,000 --> 01:10:48,033
+Uno puede, si quiere,
+partir en pedacitos
+
+1361
+01:10:48,100 --> 01:10:49,367
+más chiquititos la frecuencia
+
+1362
+01:10:49,467 --> 01:10:51,868
+y distribuirla mucho mejor
+pero nunca va a alcanzar
+
+1363
+01:10:51,968 --> 01:10:56,100
+un servicio como el que estamos
+teniendo la expectativa.
+
+1364
+01:10:56,200 --> 01:10:58,501
+Por lo tanto no vamos
+a utilizar este método
+
+1365
+01:10:58,601 --> 01:10:59,767
+que estamos planteando.
+
+1366
+01:10:59,868 --> 01:11:01,200
+O sea, no se le va asignar
+espectro de manera directa
+
+1367
+01:11:01,300 --> 01:11:03,267
+a una compañía estatal,
+como por ejemplo ARSAT.
+
+1368
+01:11:03,400 --> 01:11:07,567
+ARSAT va a trabajar a través,
+tal cual lo establece el pliego,
+
+1369
+01:11:07,701 --> 01:11:09,968
+a través del espectro
+que se adjudique
+
+1370
+01:11:10,067 --> 01:11:11,734
+a quienes van a hacer
+la inversión.
+
+1371
+01:11:11,801 --> 01:11:14,934
+Esa va a ser la mejor manera
+de que ese espectro
+
+1372
+01:11:15,033 --> 01:11:17,834
+esté al servicio de la gente
+como explique yo antes.
+
+1373
+01:11:17,934 --> 01:11:22,534
+Perdón, y que la inversión
+la hagan quienes tienen
+
+1374
+01:11:22,601 --> 01:11:25,934
+la obligación primaria
+que son quienes reciben
+
+1375
+01:11:26,000 --> 01:11:28,400
+el dinero de todos los argentinos
+permanentemente por el uso
+
+1376
+01:11:28,501 --> 01:11:31,200
+que son las licenciatarias
+de telecomunicaciones.
+
+1377
+01:11:31,300 --> 01:11:33,601
+Por lo tanto ellas son
+las obligadas en primer término
+
+1378
+01:11:33,701 --> 01:11:35,934
+de efectuar las inversiones.
+
+1379
+01:11:36,167 --> 01:11:39,634
+La otra pregunta es cuanto piensan
+recaudar con esta licitación.
+
+1380
+01:11:39,767 --> 01:11:46,567
+No tenemos para compartir hoy,
+
+1381
+01:11:46,667 --> 01:11:48,634
+hasta que no esté finalizado
+el proceso formal
+
+1382
+01:11:48,734 --> 01:11:52,567
+de preparación de los pliegos
+y de condiciones,
+
+1383
+01:11:52,667 --> 01:11:55,400
+que obviamente hay un trabajo
+previo básicamente
+
+1384
+01:11:55,534 --> 01:11:57,968
+porque la estructura central
+es muy similar
+
+1385
+01:11:58,067 --> 01:12:00,601
+a la licitación anterior,
+que si fracasó,
+
+1386
+01:12:00,701 --> 01:12:03,033
+porque las empresas no eran
+empresas separadas
+
+1387
+01:12:03,133 --> 01:12:05,767
+o no tenían los balances
+que tenían que tener.
+
+1388
+01:12:05,868 --> 01:12:11,601
+De forma tal que tampoco
+en ese sentido estamos
+
+1389
+01:12:11,701 --> 01:12:13,667
+planteando más
+que las particularidades
+
+1390
+01:12:13,767 --> 01:12:15,601
+que dijo Norberto,
+
+1391
+01:12:15,734 --> 01:12:17,968
+pero una vez que tengamos
+finalizado el esquema
+
+1392
+01:12:18,067 --> 01:12:23,667
+y esté publicado
+y entonces tengamos más capacidad
+
+1393
+01:12:23,801 --> 01:12:26,734
+de saber exactamente
+como está estructurado,
+
+1394
+01:12:26,801 --> 01:12:29,534
+ahí vamos a acercar
+alguna estimación.
+
+1395
+01:12:29,601 --> 01:12:33,801
+Hay ya dando vueltas estimaciones
+privadas multimillonarias
+
+1396
+01:12:33,868 --> 01:12:37,133
+pero no me gustaría atarme
+a esos números
+
+1397
+01:12:37,234 --> 01:12:39,467
+porque la verdad es que
+no conocen tampoco,
+
+1398
+01:12:39,534 --> 01:12:41,534
+y hoy leí en los diarios,
+que había versiones
+
+1399
+01:12:41,601 --> 01:12:43,033
+y versiones y versiones.
+
+1400
+01:12:43,133 --> 01:12:45,801
+Cuando tengamos precisado
+y toda la información sea pública
+
+1401
+01:12:45,901 --> 01:12:50,267
+ahí vamos a poder alcanzar
+una estimación precisa.
+
+1402
+01:12:51,033 --> 01:12:53,200
+Muy bien, vamos a pasar
+a otra consulta.
+
+1403
+01:12:53,267 --> 01:12:55,234
+Los Ministros y el Secretario
+están a disposición
+
+1404
+01:12:55,334 --> 01:12:57,234
+para aclarar las dudas. A ver.
+
+1405
+01:12:57,334 --> 01:13:01,801
+Santiago Dorrego de Todo Noticias
+¿Cómo le va? Estoy acá.
+
+1406
+01:13:01,868 --> 01:13:04,767
+La primera es muy cortita,
+tiene que ver con las fechas,
+
+1407
+01:13:04,868 --> 01:13:07,267
+si tienen una idea de fecha,
+de cuando van a estar los pliegos.
+
+1408
+01:13:07,334 --> 01:13:09,501
+Y la segunda es un poco
+más compleja,
+
+1409
+01:13:09,567 --> 01:13:13,834
+si el Ministro Kicillof
+hablaba del control del Estado
+
+1410
+01:13:13,934 --> 01:13:16,767
+en estos “tripolios”,
+no sé cómo llamarlos,
+
+1411
+01:13:16,834 --> 01:13:17,968
+en esta concentración de poder,
+
+1412
+01:13:18,033 --> 01:13:21,334
+que en realidad tienen todas
+las telefónicas en el mundo.
+
+1413
+01:13:21,434 --> 01:13:23,801
+Como van a instaurar eso,
+
+1414
+01:13:23,868 --> 01:13:27,634
+porque hasta ahora las distintas
+acciones que tomaron, por ejemplo,
+
+1415
+01:13:27,701 --> 01:13:30,501
+en la facturación por minuto,
+a portabilidad,
+
+1416
+01:13:30,601 --> 01:13:36,267
+bueno ahora llega la licencia
+del 4G, no sirvieron para que,
+
+1417
+01:13:36,367 --> 01:13:38,300
+para romper el lobby que hace
+
+1418
+01:13:38,367 --> 01:13:40,634
+que todas nos cobren
+lo mismo básicamente,
+
+1419
+01:13:40,734 --> 01:13:43,200
+que el consumidor termina
+pagando siempre lo mismo,
+
+1420
+01:13:43,267 --> 01:13:45,167
+todos los planes
+de las tres telefónicas
+
+1421
+01:13:45,267 --> 01:13:48,000
+cuestan lo mismo en el final.
+
+1422
+01:13:49,167 --> 01:13:52,267
+Bien, voy a dar, después tal vez
+me lo complementa
+
+1423
+01:13:52,367 --> 01:13:54,734
+el Secretario de Comunicaciones
+técnicamente.
+
+1424
+01:13:54,801 --> 01:13:57,934
+Yo doy primero una respuesta
+económica.
+
+1425
+01:13:58,033 --> 01:14:00,267
+Si uno observa la curva,
+yo después la distribuyo,
+
+1426
+01:14:00,334 --> 01:14:03,200
+de inversiones tomadas
+de balances de las compañías
+
+1427
+01:14:03,300 --> 01:14:06,100
+ha habido un impulso muy grande
+en los últimos años
+
+1428
+01:14:06,167 --> 01:14:09,167
+que es concomitante
+con la aparición
+
+1429
+01:14:09,267 --> 01:14:12,801
+de la tecnología nueva,
+3G y smartphone
+
+1430
+01:14:12,868 --> 01:14:17,934
+que puso más presión sobre el uso
+de las instalaciones existentes.
+
+1431
+01:14:18,000 --> 01:14:20,567
+De forma tal que, en la medida
+en que las empresas
+
+1432
+01:14:20,667 --> 01:14:23,200
+y he escuchado de experiencias
+internacionales
+
+1433
+01:14:23,300 --> 01:14:27,267
+donde se las limita,
+mira qué extraña solución,
+
+1434
+01:14:27,367 --> 01:14:30,200
+en la venta de smartphones
+a las empresas telefónicas
+
+1435
+01:14:30,267 --> 01:14:32,467
+para que no carguen
+sobre el servicio,
+
+1436
+01:14:32,534 --> 01:14:35,200
+como diciendo sino vas a poder
+prestar un buen servicio
+
+1437
+01:14:35,267 --> 01:14:37,567
+no vendas el teléfono
+porque caso contrario
+
+1438
+01:14:37,667 --> 01:14:42,234
+puede generarse un desacople
+entre la velocidad
+
+1439
+01:14:42,300 --> 01:14:45,767
+y magnitud de las inversiones
+y la mejora tecnológica,
+
+1440
+01:14:45,868 --> 01:14:48,033
+y la presión de demanda
+que ponen sobre las redes.
+
+1441
+01:14:48,133 --> 01:14:50,000
+Efectivamente esto se vive
+en el país,
+
+1442
+01:14:50,067 --> 01:14:52,968
+porque esa es la realidad,
+y en otros lugares del mundo.
+
+1443
+01:14:53,067 --> 01:14:55,300
+Quiere decir que a medida
+que ese salto enorme
+
+1444
+01:14:55,400 --> 01:14:58,968
+a tecnologías mayores
+que manejan datos por el aire,
+
+1445
+01:14:59,067 --> 01:15:01,901
+cambie todos los teléfonos
+que usábamos antes
+
+1446
+01:15:01,968 --> 01:15:04,000
+por los teléfonos nuevos
+con pantallita e internet,
+
+1447
+01:15:04,067 --> 01:15:07,501
+es posible que si las inversiones
+no van suficientemente rápido
+
+1448
+01:15:07,567 --> 01:15:09,868
+los servicios se deterioren.
+
+1449
+01:15:09,968 --> 01:15:12,634
+Es por eso que con el cambio
+tecnológico,
+
+1450
+01:15:12,701 --> 01:15:15,033
+y si ahora viniera otra tecnología
+que ni imaginamos
+
+1451
+01:15:15,133 --> 01:15:17,334
+pero le pone también más carga
+a las redes
+
+1452
+01:15:17,400 --> 01:15:19,334
+vamos que tener que hacer
+otro salto
+
+1453
+01:15:19,400 --> 01:15:21,701
+y obligar a las empresas
+que tal vez no estaba
+
+1454
+01:15:21,767 --> 01:15:24,367
+en el pliego anterior,
+porque como comentaba Norberto,
+
+1455
+01:15:24,467 --> 01:15:26,334
+aun con todo lo deficiente
+que fue en los 90
+
+1456
+01:15:26,434 --> 01:15:28,133
+y lo que decía el propio Ministro,
+
+1457
+01:15:28,200 --> 01:15:31,100
+le entregamos el aire Argentino
+a una empresa privada,
+
+1458
+01:15:31,200 --> 01:15:35,634
+así que estábamos realmente
+en el horno de microondas
+
+1459
+01:15:35,734 --> 01:15:39,400
+en ese momento.
+
+1460
+01:15:39,467 --> 01:15:41,367
+Y con esa situación
+se ha avanzado mucho,
+
+1461
+01:15:41,434 --> 01:15:43,667
+pero es cierto que es deficiente
+el volumen de inversiones
+
+1462
+01:15:43,767 --> 01:15:45,300
+a pesar de haber aumentado mucho,
+
+1463
+01:15:45,400 --> 01:15:47,400
+de haber llegado a acuerdos
+con las compañías
+
+1464
+01:15:47,467 --> 01:15:49,033
+y haber incrementado la regulación,
+
+1465
+01:15:49,133 --> 01:15:50,968
+pero a medida que aparezcan
+más smartphones
+
+1466
+01:15:51,033 --> 01:15:52,234
+o nuevas tecnologías,
+
+1467
+01:15:52,334 --> 01:15:54,067
+más rápido va tener que ir
+en la inversión
+
+1468
+01:15:54,167 --> 01:15:56,100
+sobre la capacidad
+de los balances.
+
+1469
+01:15:56,167 --> 01:16:00,834
+Es por eso que esta licitación
+representa un paso económico,
+
+1470
+01:16:00,901 --> 01:16:04,901
+de calidad de servicio
+pero también regulatorio,
+
+1471
+01:16:04,968 --> 01:16:08,367
+porque la propia licitación impone
+requisitos de inversión para 4G,
+
+1472
+01:16:08,434 --> 01:16:13,667
+porque precisamente si montamos
+la red 4G sobre lo que hay,
+
+1473
+01:16:13,734 --> 01:16:14,834
+no hay banda,
+
+1474
+01:16:14,934 --> 01:16:16,868
+pero tampoco habría aire
+disponible
+
+1475
+01:16:16,934 --> 01:16:18,434
+para transmitir todos esos datos.
+
+1476
+01:16:18,501 --> 01:16:21,334
+Más allá que esta la otra
+dificultad que planteaba Norberto,
+
+1477
+01:16:21,400 --> 01:16:24,400
+está el espectro que le da
+más posibilidad,
+
+1478
+01:16:24,501 --> 01:16:27,634
+están las antenas
+que tienen que instalar,
+
+1479
+01:16:27,701 --> 01:16:29,167
+yo lo digo de la forma
+más sencilla
+
+1480
+01:16:29,234 --> 01:16:30,634
+porque es como lo entiendo,
+
+1481
+01:16:30,734 --> 01:16:33,434
+o sea cuanto más antenas
+menos uso de aire,
+
+1482
+01:16:33,501 --> 01:16:39,067
+o menos habitantes o personas
+o teléfonos por cada antena,
+
+1483
+01:16:39,167 --> 01:16:41,534
+que eso será expresivo
+de la calidad del servicio
+
+1484
+01:16:41,601 --> 01:16:44,634
+pero eso implica
+alquilar cielo rasos,
+
+1485
+01:16:44,734 --> 01:16:49,100
+o instalar antenas en lugares
+donde está complicado,
+
+1486
+01:16:49,200 --> 01:16:50,801
+es decir, que es todo un proceso.
+
+1487
+01:16:50,901 --> 01:16:53,434
+Nosotros lo que estamos pidiendo
+es mayor densidad de la red,
+
+1488
+01:16:53,534 --> 01:16:55,634
+mejor tecnología en la red
+
+1489
+01:16:55,734 --> 01:16:58,234
+y eso es un salto tecnológico que
+está ocurriendo en todo el mundo.
+
+1490
+01:16:58,334 --> 01:17:00,801
+La verdad que voy a hablar
+brevemente
+
+1491
+01:17:00,868 --> 01:17:01,834
+en mi experiencia personal,
+
+1492
+01:17:01,901 --> 01:17:05,834
+viaje últimamente a algunos países
+y sorprendentemente
+
+1493
+01:17:05,901 --> 01:17:08,400
+la calidad del servicio
+era también muy mala,
+
+1494
+01:17:08,501 --> 01:17:10,434
+muy deficiente.
+
+1495
+01:17:10,501 --> 01:17:12,901
+Hay algunos países que no,
+otros que sí.
+
+1496
+01:17:13,000 --> 01:17:15,100
+Hemos estudiado mucha
+experiencia internacional,
+
+1497
+01:17:15,200 --> 01:17:17,267
+pero más allá de lo que hace
+en el mundo,
+
+1498
+01:17:17,367 --> 01:17:19,667
+el modelo argentino
+es el crecimiento
+
+1499
+01:17:19,734 --> 01:17:20,834
+con inclusión social.
+
+1500
+01:17:20,901 --> 01:17:23,000
+Así que vamos a trabajar
+para que las empresas
+
+1501
+01:17:23,100 --> 01:17:25,601
+inviertan todo lo que tengan
+que invertir
+
+1502
+01:17:25,734 --> 01:17:27,234
+para que el servicio
+sea de calidad.
+
+1503
+01:17:27,334 --> 01:17:29,467
+Y el que no pueda hacerlo
+va a tener que dejar su lugar.
+
+1504
+01:17:29,567 --> 01:17:32,701
+Es por eso que este,
+estoy terminando,
+
+1505
+01:17:32,767 --> 01:17:37,467
+entonces en ese sentido
+hay que avanzar muchísimo
+
+1506
+01:17:37,567 --> 01:17:41,100
+y esta licitación
+va a dar otro espectro,
+
+1507
+01:17:41,167 --> 01:17:43,334
+más espectro del existente
+lo cual va a permitir
+
+1508
+01:17:43,434 --> 01:17:46,300
+según las propias empresas
+mejorar rápidamente la calidad
+
+1509
+01:17:46,400 --> 01:17:51,033
+y también va a obligar a más
+y mayores inversiones
+
+1510
+01:17:51,133 --> 01:17:53,400
+para que esto ocurra.
+
+1511
+01:17:54,033 --> 01:17:56,734
+Completo la respuesta
+
+1512
+01:17:56,834 --> 01:18:01,267
+Sin dudas estamos avanzando
+muchísimo,
+
+1513
+01:18:01,334 --> 01:18:04,033
+veo que has dicho
+lo de la tasación por minuto,
+
+1514
+01:18:04,100 --> 01:18:06,734
+que no se tasa más por minuto,
+como si fuera tal cosa,
+
+1515
+01:18:06,834 --> 01:18:11,934
+y realmente fue un reclamo
+que existía en la Argentina
+
+1516
+01:18:12,000 --> 01:18:16,200
+hace muchísimo tiempo,
+y todos los caminos conducen
+
+1517
+01:18:16,300 --> 01:18:18,434
+a garantizar más transparencia
+y más información.
+
+1518
+01:18:18,501 --> 01:18:23,033
+No existen las soluciones mágicas,
+mucho menos en un ecosistema,
+
+1519
+01:18:23,167 --> 01:18:25,868
+en una industria o en un mercado
+como lo queramos llamar,
+
+1520
+01:18:25,934 --> 01:18:27,300
+con este nivel de dinámica.
+
+1521
+01:18:27,367 --> 01:18:31,200
+Sin duda, y esto lo venimos
+trabajando fuertemente,
+
+1522
+01:18:31,267 --> 01:18:34,367
+tenemos que mejorar
+la transparencia en la información
+
+1523
+01:18:34,434 --> 01:18:37,400
+que brindan las empresas
+de telecomunicaciones.
+
+1524
+01:18:37,501 --> 01:18:41,801
+Lo que vos decís es difícil
+de reconocer como cierto o no
+
+1525
+01:18:41,901 --> 01:18:44,634
+porque no sabemos si todos cobran
+lo mismo, ni cuánto cobran.
+
+1526
+01:18:44,701 --> 01:18:46,801
+Coincido plenamente
+con esa dificultad,
+
+1527
+01:18:46,868 --> 01:18:51,167
+y vamos a avanzar muy rápidamente
+en mejorar
+
+1528
+01:18:51,267 --> 01:18:53,501
+cuál es el nivel de detalle
+en la información
+
+1529
+01:18:53,601 --> 01:18:55,100
+que nos tienen que brindar
+las empresas.
+
+1530
+01:18:55,200 --> 01:18:57,567
+Lo venimos trabajando
+muy fuertemente.
+
+1531
+01:18:57,667 --> 01:19:00,734
+Esta es una de las cosas
+que surgieron del trabajo
+
+1532
+01:19:00,834 --> 01:19:02,200
+de Usa Tu Voz del año pasado.
+
+1533
+01:19:02,300 --> 01:19:04,267
+La necesidad de trabajar
+coordinadamente
+
+1534
+01:19:04,367 --> 01:19:06,868
+con la Secretaria de Comercio
+y ahí con Augusto
+
+1535
+01:19:06,968 --> 01:19:12,701
+venimos trabajando hace varios
+meses en distintas alternativas.
+
+1536
+01:19:12,801 --> 01:19:15,701
+En control con la Subsecretaria
+de Defensa del Consumidor,
+
+1537
+01:19:15,767 --> 01:19:19,968
+o sea hechos concretos,
+permanentes, sanciones y control,
+
+1538
+01:19:20,067 --> 01:19:22,367
+y seguimiento de la mayor cantidad
+de casos posibles,
+
+1539
+01:19:22,467 --> 01:19:25,534
+y también modificaciones
+regulatorias que hagan falta.
+
+1540
+01:19:25,634 --> 01:19:27,767
+Así que vamos a seguir avanzando
+en ese camino
+
+1541
+01:19:27,868 --> 01:19:29,601
+todo lo que haga falta.
+
+1542
+01:19:30,234 --> 01:19:31,200
+Muy bien, muchísimas gracias,
+
+1543
+01:19:31,267 --> 01:19:32,934
+damos por cumplida de esta manera
+la conferencia de prensa.
+
+1544
+01:19:33,033 --> 01:19:36,534
+A todos, gracias por estar aquí.
+

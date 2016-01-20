@@ -1,0 +1,707 @@
+1
+00:00:05,680 --> 00:00:08,120
+Entender cómo funcionan las cosas
+nos libera,
+
+2
+00:00:08,200 --> 00:00:11,840
+nos permite cambiar nuestra relación
+con el mundo y con las cosas,
+
+3
+00:00:11,920 --> 00:00:13,680
+nos da ventajas
+
+4
+00:00:13,760 --> 00:00:18,400
+sobre la forma en que pensamos
+nuestra relación con los objetos
+
+5
+00:00:18,480 --> 00:00:20,760
+y nos empieza a dar la idea
+
+6
+00:00:20,840 --> 00:00:24,040
+de que, eventualmente, podríamos
+cambiar ese funcionamiento.
+
+7
+00:00:24,120 --> 00:00:26,080
+Y lo que podemos hacer
+
+8
+00:00:26,160 --> 00:00:28,760
+–cuando nos proponemos entender
+cómo funcionan las cosas–
+
+9
+00:00:28,840 --> 00:00:32,600
+es pensar
+en un modo constante de laboratorio,
+
+10
+00:00:32,680 --> 00:00:35,320
+lo que hacemos constantemente
+es experimentar.
+
+11
+00:00:35,400 --> 00:00:38,680
+Entonces, tomamos algo
+que nos produce curiosidad
+
+12
+00:00:38,760 --> 00:00:41,520
+y, sin más, lo desarmamos
+y vemos qué pasa.
+
+13
+00:00:41,920 --> 00:00:44,720
+<i>Muchas veces, podemos aprovechar</i>
+<i>las cosas que están rotas.</i>
+
+14
+00:00:44,800 --> 00:00:48,720
+<i>Lo importante es empezar a--</i>
+
+15
+00:00:48,800 --> 00:00:50,840
+<i>es dejar de ver</i>
+<i>de forma superficial los objetos,</i>
+
+16
+00:00:50,920 --> 00:00:52,200
+<i>empezar a verlos por partes.</i>
+
+17
+00:00:52,280 --> 00:00:54,640
+<i>Entonces, un lavarropas</i>
+<i>deja de ser un lavarropas</i>
+
+18
+00:00:54,720 --> 00:00:58,080
+y pasa a ser un motor,
+un tubo que gira
+
+19
+00:00:58,160 --> 00:01:00,160
+y un montón de lucecitas y demás.
+
+20
+00:01:00,240 --> 00:01:01,720
+Así con todo.
+
+21
+00:01:01,800 --> 00:01:05,480
+Nos permite, también,
+pensar que, si tomáramos esa piezas,
+
+22
+00:01:05,560 --> 00:01:07,160
+podríamos hacer algo nuevo con eso
+
+23
+00:01:07,240 --> 00:01:09,400
+o mejorar el objeto original
+que teníamos.
+
+24
+00:01:10,320 --> 00:01:11,800
+<i>La ética hacker tiene que ver</i>
+
+25
+00:01:11,880 --> 00:01:14,480
+con la forma
+en que los hackers hacen las cosas.
+
+26
+00:01:14,560 --> 00:01:19,360
+Y, en realidad,
+remite a cuestiones muy básicas.
+
+27
+00:01:19,440 --> 00:01:22,320
+Tiene que ver con hacer las cosas
+de forma abierta
+
+28
+00:01:22,400 --> 00:01:25,600
+teniendo en cuenta a nuestros pares,
+a la comunidad,
+
+29
+00:01:25,680 --> 00:01:31,400
+y tiene que ver
+con perderle el miedo a probar.
+
+30
+00:01:31,840 --> 00:01:34,480
+La mejor manera de resumir
+lo que hacen los hackers
+
+31
+00:01:34,560 --> 00:01:37,440
+es tratar de que un mismo problema
+no se tenga que resolver dos veces.
+
+32
+00:01:37,520 --> 00:01:41,800
+Esto es, si en un momento
+me encuentro con algo que resolver
+
+33
+00:01:41,880 --> 00:01:45,240
+y encuentro la mejor manera
+o la manera que me funcionó a mí,
+
+34
+00:01:45,320 --> 00:01:48,400
+que la próxima persona en el mundo
+que se encuentre con ese problema
+
+35
+00:01:48,480 --> 00:01:52,600
+<i>pueda usar mi solución</i>
+<i>y preocuparse por otra cosa.</i>
+
+36
+00:01:52,680 --> 00:01:54,440
+<i>Entonces, de esa manera,</i>
+<i>avanzamos todos juntos</i>
+
+37
+00:01:54,520 --> 00:01:56,000
+<i>como comunidad.</i>
+
+38
+00:01:56,080 --> 00:02:00,000
+<i>El hacker no puede hacer las cosas</i>
+<i>de otra forma que de primera mano,</i>
+
+39
+00:02:00,080 --> 00:02:02,880
+<i>entonces, si quiere descubrir algo,</i>
+<i>va y lo hace,</i>
+
+40
+00:02:02,960 --> 00:02:04,760
+<i>no le alcanza con leerlo.</i>
+
+41
+00:02:04,840 --> 00:02:08,880
+<i>Entonces, los chicos, en realidad,</i>
+<i>son los hackers por definición.</i>
+
+42
+00:02:09,600 --> 00:02:12,440
+Hace poco conocí a una chica hacker
+que se llamaba Juana,
+
+43
+00:02:12,520 --> 00:02:14,000
+que tenía seis años,
+
+44
+00:02:14,080 --> 00:02:15,360
+y le interesaba--
+
+45
+00:02:15,440 --> 00:02:18,600
+Estábamos trabajando
+con basura electrónica
+
+46
+00:02:18,680 --> 00:02:20,280
+y quería hacer algo nuevo con eso.
+
+47
+00:02:20,360 --> 00:02:23,320
+Entonces, lo primero que hicimos
+fue agarrar un destornillador
+
+48
+00:02:23,400 --> 00:02:26,240
+y aprender a ver
+cómo podíamos encontrar
+
+49
+00:02:26,320 --> 00:02:27,360
+qué había adentro.
+
+50
+00:02:27,440 --> 00:02:30,720
+Empezamos a encontrar lucecitas
+y partes de viejas computadoras
+
+51
+00:02:30,800 --> 00:02:32,520
+y ella dijo
+que quería hacer un monstruo.
+
+52
+00:02:32,600 --> 00:02:35,640
+Entonces, tenía unos dibujos
+de los monstruos que ella hacía
+
+53
+00:02:35,720 --> 00:02:38,440
+y quería que tuviera luces
+en los ojos.
+
+54
+00:02:38,520 --> 00:02:41,480
+Agarramos un mouse
+y le sacamos la parte de arriba,
+
+55
+00:02:41,560 --> 00:02:44,360
+agarramos una parte metálica
+de una computadora
+
+56
+00:02:44,440 --> 00:02:46,360
+y tomamos un vibrador de un celular,
+
+57
+00:02:46,440 --> 00:02:49,000
+y ella armó un robot
+que se movía sobre la mesa
+
+58
+00:02:49,080 --> 00:02:52,560
+y que se le prendían los ojos
+con luces.
+
+59
+00:02:52,640 --> 00:02:56,640
+Y no hubo que enseñarle nada,
+era, simplemente, acompañarla.
+
+60
+00:02:56,720 --> 00:03:00,320
+Entonces, para ser hackers,
+o niños hackers,
+
+61
+00:03:00,400 --> 00:03:02,960
+lo único que necesitamos
+es a alguien que nos empuje un poco
+
+62
+00:03:03,040 --> 00:03:05,960
+para que nos animemos a explorar.
+
+63
+00:03:06,040 --> 00:03:08,960
+Pero, si uno tiene esa intención,
+la gente aparece,
+
+64
+00:03:09,040 --> 00:03:10,240
+alguien siempre está dispuesto
+
+65
+00:03:10,320 --> 00:03:12,040
+a mostrarnos
+cómo desarmar las cosas.
+
+66
+00:03:14,080 --> 00:03:16,920
+<i>La importancia del juego</i>
+<i>está en el rol en el que nos pone</i>
+
+67
+00:03:17,000 --> 00:03:19,200
+y tiene el asunto de divertirnos.
+
+68
+00:03:19,280 --> 00:03:20,760
+Y, por lo general,
+
+69
+00:03:20,840 --> 00:03:23,680
+las cosas que más aprendemos
+o que nos quedan mejor grabadas
+
+70
+00:03:23,760 --> 00:03:26,360
+son aquellas
+que aprendimos jugando
+
+71
+00:03:26,440 --> 00:03:29,360
+o en una situación
+que nos llamaba mucho la atención
+
+72
+00:03:29,440 --> 00:03:31,680
+y nos producía mucha curiosidad.
+
+73
+00:03:31,960 --> 00:03:34,680
+Entonces, la ciencia
+puede verse como un juego,
+
+74
+00:03:34,760 --> 00:03:36,360
+es el juego de la curiosidad,
+
+75
+00:03:36,440 --> 00:03:40,000
+donde tratamos
+de ir buscando pistas
+
+76
+00:03:40,080 --> 00:03:42,960
+como lo haría un detective
+
+77
+00:03:43,040 --> 00:03:46,120
+y tratamos de ir recuperando
+aquellos recursos
+
+78
+00:03:46,200 --> 00:03:47,720
+que necesitamos para resolver algo.
+
+79
+00:03:47,800 --> 00:03:50,520
+El juego es el mejor ejemplo--
+
+80
+00:03:50,600 --> 00:03:52,440
+la mejor forma de aprender.
+
+81
+00:03:53,280 --> 00:03:56,880
+El primer paso es descubrir
+qué es lo que nos llama la atención,
+
+82
+00:03:56,960 --> 00:03:58,520
+hacernos alguna pregunta,
+
+83
+00:03:58,600 --> 00:04:00,760
+y, después, ver qué tenemos
+que hacer a partir de eso.
+
+84
+00:04:00,840 --> 00:04:02,960
+Muchas veces,
+puede empezar con una búsqueda.
+
+85
+00:04:03,040 --> 00:04:05,480
+Agarramos la computadora
+y buscamos:
+
+86
+00:04:05,560 --> 00:04:07,360
+"¿Por qué el cielo es azul?",
+por ejemplo.
+
+87
+00:04:07,440 --> 00:04:11,200
+A veces, tiene que ver con entender
+cómo funciona algún aparato.
+
+88
+00:04:11,280 --> 00:04:14,880
+Y, a veces, la mejor manera
+de entenderlo es desarmándolo
+
+89
+00:04:14,960 --> 00:04:17,280
+y viendo qué pasa.
+Entonces, desarmamos un reloj,
+
+90
+00:04:17,360 --> 00:04:19,000
+vemos cómo se mueven
+los engranajes
+
+91
+00:04:19,080 --> 00:04:21,000
+y decimos: "Voy a parar este acá";
+
+92
+00:04:21,080 --> 00:04:22,760
+y vemos
+que se deja de mover una aguja.
+
+93
+00:04:22,840 --> 00:04:25,400
+Y, de pronto, aprendimos un montón
+acerca del aparato.
+
+94
+00:04:25,480 --> 00:04:28,200
+La mejor manera
+es perderle el miedo,
+
+95
+00:04:28,280 --> 00:04:30,920
+es animarse a hacerse una pregunta
+
+96
+00:04:31,000 --> 00:04:32,920
+y que no haya
+ningún problema con eso,
+
+97
+00:04:33,000 --> 00:04:35,760
+y es tratar de ver, inmediatamente,
+qué es lo que podemos hacer.
+
+98
+00:04:35,840 --> 00:04:37,400
+<i>Puede ser, justamente,</i>
+<i>una búsqueda,</i>
+
+99
+00:04:37,480 --> 00:04:39,000
+<i>como puede ser</i>
+<i>agarrar un destornillador</i>
+
+100
+00:04:39,080 --> 00:04:40,560
+<i>y ver qué hay adentro.</i>
+
+101
+00:04:40,640 --> 00:04:42,080
+<i>O, muchas veces, decimos:</i>
+
+102
+00:04:42,160 --> 00:04:44,360
+<i>"Necesito muchas más cosas.</i>
+
+103
+00:04:44,440 --> 00:04:48,280
+<i>Quiero hacer cosas con lucecitas,</i>
+<i>pero no estudié electrónica".</i>
+
+104
+00:04:48,360 --> 00:04:51,520
+<i>Lo primero que podemos hacer</i>
+<i>es empezar con una búsqueda,</i>
+
+105
+00:04:51,600 --> 00:04:52,760
+<i>conocer el problema.</i>
+
+106
+00:04:52,840 --> 00:04:54,200
+<i>Y podemos ir a Wikipedia</i>
+
+107
+00:04:54,280 --> 00:04:56,440
+<i>y leer acerca de eso</i>
+<i>que queremos conocer.</i>
+
+108
+00:04:56,520 --> 00:04:59,280
+<i>Después, por ejemplo,</i>
+<i>si se trata de resolver algo,</i>
+
+109
+00:04:59,360 --> 00:05:01,040
+<i>podemos buscar tutoriales.</i>
+
+110
+00:05:01,120 --> 00:05:05,400
+En YouTube podemos encontrar
+un montón de explicaciones
+
+111
+00:05:05,480 --> 00:05:07,800
+de cómo desarmar,
+por ejemplo, el celular,
+
+112
+00:05:07,880 --> 00:05:11,120
+que se le rompió la pantalla,
+un grabador o un televisor.
+
+113
+00:05:11,200 --> 00:05:12,720
+Y podemos, a partir de eso,
+
+114
+00:05:12,800 --> 00:05:14,680
+ver cómo otras personas
+hacen las cosas.
+
+115
+00:05:14,760 --> 00:05:16,880
+Es muy importante,
+también, producir.
+
+116
+00:05:16,960 --> 00:05:20,560
+Si nosotros, por ejemplo, tenemos
+una netbook que tiene una webcam
+
+117
+00:05:20,640 --> 00:05:23,640
+y sabemos cómo se desarma algo,
+cómo se resuelve un problema,
+
+118
+00:05:23,720 --> 00:05:25,720
+podemos grabar
+nuestros propios tutoriales.
+
+119
+00:05:25,800 --> 00:05:29,160
+Y lo que pasa cuando uno cuenta
+cómo hace las cosas
+
+120
+00:05:29,240 --> 00:05:32,000
+es que nos da ganas
+de hacer más cosas y de contar más
+
+121
+00:05:32,080 --> 00:05:33,800
+y aprendemos,
+
+122
+00:05:33,880 --> 00:05:35,600
+se da una relación de ida y vuelta.
+
+123
+00:05:35,680 --> 00:05:39,800
+Entonces, yo subo una explicación
+de cómo hacer algo con papel
+
+124
+00:05:39,880 --> 00:05:41,520
+y otro sube otra explicación.
+
+125
+00:05:41,600 --> 00:05:44,120
+Y los dos vamos aprendiendo
+
+126
+00:05:44,200 --> 00:05:45,880
+de las experiencias
+de otras personas.
+
+127
+00:05:47,040 --> 00:05:49,480
+<i>Creo que cualquiera puede hacer</i>
+<i>un taller de inventos en su casa.</i>
+
+128
+00:05:49,560 --> 00:05:51,680
+Por ejemplo,
+si nos juntamos con nuestros amigos
+
+129
+00:05:51,760 --> 00:05:53,400
+y se rompió algo
+
+130
+00:05:53,480 --> 00:05:55,480
+o queremos aprender
+a hacer algo nuevo,
+
+131
+00:05:55,560 --> 00:05:57,160
+tenemos que darnos un espacio,
+
+132
+00:05:57,240 --> 00:05:59,280
+saber que nos va a tomar
+muchas horas,
+
+133
+00:05:59,360 --> 00:06:01,000
+pensar en dónde
+vamos a buscar las cosas,
+
+134
+00:06:01,080 --> 00:06:02,280
+podemos usar la netbook
+
+135
+00:06:02,360 --> 00:06:05,440
+para buscar en internet
+cómo se conecta una lucecita
+
+136
+00:06:05,520 --> 00:06:07,200
+o lo que queramos hacer.
+
+137
+00:06:07,640 --> 00:06:11,040
+Se trata de experimentar
+y de darse el lugar para que--
+
+138
+00:06:11,120 --> 00:06:13,080
+La falla
+es lo que más nos va a acercar.
+
+139
+00:06:13,160 --> 00:06:14,720
+Cuando uno quema una lucecita,
+
+140
+00:06:14,800 --> 00:06:17,600
+es que aprende
+cómo se conectan las lucecitas.
+
+141
+00:06:17,680 --> 00:06:20,520
+<i>Y vamos a tener</i>
+<i>que romper muchas cosas</i>
+
+142
+00:06:20,600 --> 00:06:25,200
+<i>para poder aprender más rápidamente</i>
+<i>cómo se hacen las cosas bien.</i>
+
+143
+00:06:25,280 --> 00:06:27,280
+<i>Nos gusta pensar</i>
+<i>los talleres de inventos</i>
+
+144
+00:06:27,360 --> 00:06:28,960
+<i>también como una fábrica de fallas,</i>
+
+145
+00:06:29,040 --> 00:06:31,640
+<i>donde uno aprende</i>
+<i>cómo no se hacen las cosas</i>
+
+146
+00:06:31,720 --> 00:06:34,760
+<i>e, inmediatamente,</i>
+<i>aprende cómo las puede hacer.</i>
+
+147
+00:06:34,840 --> 00:06:37,000
+La idea es ver
+todo lo que podemos hacer,
+
+148
+00:06:37,080 --> 00:06:39,120
+pero de lo que no nos damos cuenta.
+
+149
+00:06:39,200 --> 00:06:42,800
+Muchas veces, pensamos que las cosas
+se resuelven comprando,
+
+150
+00:06:42,880 --> 00:06:44,560
+pero hay muchas cosas
+que podemos resolver
+
+151
+00:06:44,640 --> 00:06:46,320
+haciéndolas nosotros mismos.
+

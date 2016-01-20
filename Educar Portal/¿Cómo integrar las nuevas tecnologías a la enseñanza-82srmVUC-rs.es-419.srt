@@ -1,0 +1,692 @@
+1
+00:00:00,320 --> 00:00:05,000
+[Música de presentación]
+
+2
+00:00:05,080 --> 00:00:06,200
+(Voz de mujer)
+<i>La tecnología</i>
+
+3
+00:00:06,280 --> 00:00:09,720
+<i>no solamente son herramientas</i>
+<i>materiales y físicas</i>
+
+4
+00:00:09,800 --> 00:00:11,600
+y que nos permiten
+acceder a más datos,
+
+5
+00:00:11,680 --> 00:00:14,000
+sino que también lo que quisiéramos
+
+6
+00:00:14,080 --> 00:00:15,120
+y la posibilidad que ofrecen
+
+7
+00:00:15,200 --> 00:00:17,120
+es la de cambiar un poco
+la cultura de trabajo
+
+8
+00:00:17,200 --> 00:00:19,720
+y la cultura
+de la enseñanza y el aprendizaje.
+
+9
+00:00:19,800 --> 00:00:22,160
+<i>La actividad, como ahora vamos a ver</i>
+
+10
+00:00:22,240 --> 00:00:23,880
+–antes de que se pongan
+a leer la actividad,
+
+11
+00:00:23,960 --> 00:00:25,200
+quiero que elijan el tema–,
+
+12
+00:00:25,280 --> 00:00:26,360
+la actividad va a--
+
+13
+00:00:26,440 --> 00:00:27,480
+Lo que ustedes tienen que hacer
+
+14
+00:00:27,560 --> 00:00:29,560
+va a consistir en diseñar
+una secuencia didáctica,
+
+15
+00:00:29,640 --> 00:00:31,720
+es decir,
+una secuencia de actividades.
+
+16
+00:00:33,320 --> 00:00:39,320
+[Música suave]
+
+17
+00:00:41,040 --> 00:00:43,240
+(Voz de mujer)
+<i>Lo que yo voy a hacer ahora,</i>
+
+18
+00:00:43,320 --> 00:00:46,760
+que es lo que estamos haciendo,
+en general, en Educ.ar,
+
+19
+00:00:46,840 --> 00:00:49,520
+es proponer
+un posible marco teórico.
+
+20
+00:00:49,600 --> 00:00:52,320
+Hay muchas personas en el mundo
+
+21
+00:00:52,400 --> 00:00:54,440
+dedicadas a pensar,
+en este momento,
+
+22
+00:00:54,520 --> 00:00:56,880
+cómo hacer para integrar
+las nuevas tecnologías
+
+23
+00:00:56,960 --> 00:00:58,000
+a la enseñanza,
+
+24
+00:00:58,080 --> 00:01:00,760
+pero nosotros nos vamos a basar
+en un marco conceptual
+
+25
+00:01:00,840 --> 00:01:04,040
+que se lo conoce
+por sus siglas, TPACK,
+
+26
+00:01:04,560 --> 00:01:06,400
+que quiere decir esto:
+"conocimiento tecnológico
+
+27
+00:01:06,480 --> 00:01:08,680
+más el pedagógico
+más el disciplinar".
+
+28
+00:01:08,760 --> 00:01:10,240
+En realidad, lo traducimos así
+
+29
+00:01:10,320 --> 00:01:13,880
+porque es algo que tiene que ver
+con el conocimiento, una cosa así.
+
+30
+00:01:13,960 --> 00:01:17,160
+El docente o la persona que enseña
+
+31
+00:01:17,240 --> 00:01:18,520
+que no tenga profesión docente
+
+32
+00:01:18,600 --> 00:01:20,920
+–puede ser alguien
+que se dedica a la educación
+
+33
+00:01:21,000 --> 00:01:22,920
+en el sistema informal–,
+
+34
+00:01:23,000 --> 00:01:26,520
+siempre tiene un conocimiento
+
+35
+00:01:26,600 --> 00:01:30,000
+que se podría desglosar
+en un conocimiento disciplinar,
+
+36
+00:01:30,080 --> 00:01:31,800
+que es en el que se formó.
+
+37
+00:01:31,880 --> 00:01:35,920
+Está la especialista
+en Relaciones Internacionales,
+
+38
+00:01:36,000 --> 00:01:38,600
+<i>una abogada,</i>
+<i>profesores de Educación Física,</i>
+
+39
+00:01:38,680 --> 00:01:39,800
+<i>psicólogas.</i>
+
+40
+00:01:39,880 --> 00:01:41,720
+<i>Cada uno tiene</i>
+<i>su conocimiento disciplinar</i>
+
+41
+00:01:41,800 --> 00:01:46,960
+que le permite pensar el mundo
+con un marco conceptual,
+
+42
+00:01:47,040 --> 00:01:48,200
+con un determinado enfoque
+
+43
+00:01:48,280 --> 00:01:52,080
+y con una línea, si quieren,
+ideológica, epistemológica.
+
+44
+00:01:52,840 --> 00:01:54,600
+Y también tenemos
+conocimiento tecnológico,
+
+45
+00:01:54,680 --> 00:01:56,560
+que, como vimos, es bastante.
+
+46
+00:01:56,640 --> 00:01:59,520
+Algunos acá dijeron
+"Yo no sé nada" o "Yo sé muy poco".
+
+47
+00:01:59,600 --> 00:02:03,080
+Ya vimos, acá, que todos
+tenemos conocimiento tecnológico:
+
+48
+00:02:03,160 --> 00:02:07,040
+usar el celular, mandar un mail,
+escribir en un Word
+
+49
+00:02:07,120 --> 00:02:08,320
+y, de ahí, no sé,
+
+50
+00:02:08,400 --> 00:02:10,440
+ver cómo hacemos para eludir
+
+51
+00:02:10,520 --> 00:02:12,720
+la invasión a la privacidad
+en Facebook.
+
+52
+00:02:12,800 --> 00:02:16,360
+Es decir, hay distintas cuestiones
+que sabemos o que conocemos.
+
+53
+00:02:16,920 --> 00:02:19,120
+Quizás una tendencia,
+
+54
+00:02:19,200 --> 00:02:21,120
+una tentación es--
+
+55
+00:02:21,800 --> 00:02:26,800
+Yo encontré este DVD,
+que está muy lindo,
+
+56
+00:02:26,880 --> 00:02:28,360
+pero ¿qué hago con este DVD?
+
+57
+00:02:28,440 --> 00:02:33,240
+O trajeron las netbooks al aula:
+
+58
+00:02:33,320 --> 00:02:34,360
+¿Qué hago con la netbook?
+
+59
+00:02:34,440 --> 00:02:36,080
+Eso es querer organizar todo
+
+60
+00:02:36,160 --> 00:02:39,400
+en función de un objeto
+o de un elemento concreto.
+
+61
+00:02:39,480 --> 00:02:42,160
+Y no es que no haya que hacerlo,
+
+62
+00:02:42,240 --> 00:02:45,320
+pero no es ese el camino
+por el que se empieza
+
+63
+00:02:45,400 --> 00:02:47,760
+porque ese objeto, en realidad,
+es una herramienta,
+
+64
+00:02:47,840 --> 00:02:50,200
+como la palabra lo dice,
+que tiene que servir para algo.
+
+65
+00:02:50,280 --> 00:02:52,960
+Entonces, primero, tenemos
+que empezar por preguntarnos
+
+66
+00:02:53,040 --> 00:02:55,800
+qué queremos enseñar,
+cómo lo queremos enseñar,
+
+67
+00:02:55,880 --> 00:02:58,120
+cuáles son nuestros objetivos
+para esos chicos.
+
+68
+00:02:58,200 --> 00:02:59,680
+Y, sobre todo, enmarcados--
+
+69
+00:02:59,760 --> 00:03:01,920
+¿Ven que eso está representado así,
+
+70
+00:03:02,000 --> 00:03:04,240
+con unos diagramas de Venn
+
+71
+00:03:04,320 --> 00:03:06,400
+que está rodeado
+por un círculo punteado?
+
+72
+00:03:06,480 --> 00:03:08,040
+Ese es el contexto.
+
+73
+00:03:08,120 --> 00:03:10,760
+Nosotros no enseñamos
+
+74
+00:03:11,040 --> 00:03:13,520
+en la nada
+o en una situación ideal,
+
+75
+00:03:13,600 --> 00:03:16,400
+sino que nuestra práctica
+de enseñanza
+
+76
+00:03:16,480 --> 00:03:18,520
+está inmersa en una realidad,
+
+77
+00:03:18,600 --> 00:03:20,040
+que es la realidad
+de nuestros alumnos
+
+78
+00:03:20,120 --> 00:03:21,440
+y es nuestra realidad.
+
+79
+00:03:21,520 --> 00:03:23,640
+Es decir,
+¿cuáles son las posibilidades
+
+80
+00:03:23,720 --> 00:03:24,760
+concretas que yo tengo,
+
+81
+00:03:24,840 --> 00:03:26,600
+el tiempo que tengo
+para dedicarle a esto?
+
+82
+00:03:26,680 --> 00:03:28,200
+Eso es algo para tener en cuenta.
+
+83
+00:03:28,280 --> 00:03:31,400
+¿Qué saben los chicos?
+¿Qué les interesa?
+
+84
+00:03:31,480 --> 00:03:34,240
+¿Cuáles son-- No sé.
+
+85
+00:03:34,320 --> 00:03:39,680
+¿Qué pasa en esta zona geográfica
+o en esta comunidad
+
+86
+00:03:39,760 --> 00:03:41,640
+con el tema de desafiar la autoridad
+
+87
+00:03:41,720 --> 00:03:43,920
+y querer bloquear la computadora
+del profesor?
+
+88
+00:03:44,000 --> 00:03:47,200
+¿No es cierto?
+¿Es la escuela nocturna
+
+89
+00:03:47,280 --> 00:03:50,360
+o es la escuela privada
+del turno de la mañana?
+
+90
+00:03:50,440 --> 00:03:53,720
+Hay un montón de elementos
+que forman parte,
+
+91
+00:03:53,800 --> 00:03:56,360
+que rodean al aula,
+
+92
+00:03:56,440 --> 00:03:58,280
+a la clase concreta,
+
+93
+00:03:58,360 --> 00:04:00,080
+y que es muy importante
+tenerlos en cuenta
+
+94
+00:04:00,160 --> 00:04:01,960
+porque
+toda esta integración pedagógica
+
+95
+00:04:02,040 --> 00:04:04,480
+se va a dar inmersa en ese contexto.
+
+96
+00:04:04,960 --> 00:04:06,640
+El docente
+tiene que dejar de sentirse así:
+
+97
+00:04:06,720 --> 00:04:10,640
+"Yo soy un sujeto pasivo
+al que me dan las máquinas,
+
+98
+00:04:10,720 --> 00:04:14,840
+me dicen lo que tengo que hacer,
+me bajan los diseños curriculares,
+
+99
+00:04:14,920 --> 00:04:18,840
+me supervisa el supervisor
+o el director".
+
+100
+00:04:19,160 --> 00:04:20,800
+Sí, todo eso ocurre, es cierto,
+
+101
+00:04:20,880 --> 00:04:22,800
+pero, también,
+el docente se convierte
+
+102
+00:04:22,880 --> 00:04:27,120
+en un sujeto sumamente activo
+con capacidad de decisión.
+
+103
+00:04:27,240 --> 00:04:28,480
+Quizás, la decisión es chiquita,
+
+104
+00:04:28,560 --> 00:04:31,240
+es decir "Elegí este recurso",
+"Voy a dar este tema",
+
+105
+00:04:31,320 --> 00:04:33,040
+"Voy a dar--
+
+106
+00:04:33,120 --> 00:04:36,000
+"Voy a charlar con los chicos
+sobre el Día de la Memoria
+
+107
+00:04:36,080 --> 00:04:38,480
+porque, para mí, es importante".
+
+108
+00:04:38,560 --> 00:04:40,880
+Bueno, es una decisión que él tomó.
+
+109
+00:04:41,240 --> 00:04:42,320
+Desde este modelo,
+
+110
+00:04:42,400 --> 00:04:46,000
+se pone una especie de premisa.
+
+111
+00:04:46,440 --> 00:04:49,480
+Para empezar
+a tomar decisiones tecnológicas,
+
+112
+00:04:49,560 --> 00:04:52,400
+hay que pensar cuáles son
+las necesidades pedagógicas.
+
+113
+00:04:52,480 --> 00:04:56,480
+<i>Lo que yo quiero es facilitar,</i>
+<i>vamos a suponer, la creatividad.</i>
+
+114
+00:04:56,560 --> 00:05:00,320
+Entonces, elijo hacer un video.
+
+115
+00:05:00,400 --> 00:05:03,520
+Entonces, voy a utilizar la webcam
+de la computadora.
+
+116
+00:05:03,600 --> 00:05:05,520
+Hasta ahí vengo, ¿no? Elegí.
+
+117
+00:05:05,600 --> 00:05:07,240
+Ahora, ¿cómo la uso?
+
+118
+00:05:07,320 --> 00:05:10,480
+"Vos te parás allá,
+a tu compañero lo filmás.
+
+119
+00:05:10,560 --> 00:05:12,000
+Que diga tal cosa".
+
+120
+00:05:12,080 --> 00:05:13,120
+No.
+
+121
+00:05:13,200 --> 00:05:16,160
+Entonces, no estoy estimulando
+la creatividad. ¿No es así?
+
+122
+00:05:16,240 --> 00:05:17,560
+<i>Lo que haríamos sería:</i>
+
+123
+00:05:17,640 --> 00:05:19,240
+<i>a esa actividad o esa propuesta</i>
+
+124
+00:05:19,320 --> 00:05:23,080
+<i>que ya estamos anotando,</i>
+<i>pensando o diseñando</i>
+
+125
+00:05:23,160 --> 00:05:25,120
+<i>le hacemos una especie de repaso.</i>
+
+126
+00:05:25,200 --> 00:05:26,800
+<i>"A ver, ¿qué pasó?".</i>
+
+127
+00:05:27,720 --> 00:05:30,280
+<i>¿Los tipos de actividades propuestas</i>
+<i>y la dinámica de trabajo</i>
+
+128
+00:05:30,360 --> 00:05:32,840
+fueron realmente innovadores,
+transformadores?
+
+129
+00:05:32,920 --> 00:05:35,400
+¿Estoy cambiando mis propuestas
+de todos los días?
+
+130
+00:05:35,480 --> 00:05:38,800
+¿Resulta motivador para los alumnos
+y también para mí
+
+131
+00:05:38,880 --> 00:05:40,480
+porque me salgo de--
+
+132
+00:05:41,120 --> 00:05:44,520
+¿Hubo modificaciones positivas,
+enriquecedoras
+
+133
+00:05:44,600 --> 00:05:46,360
+en los roles de alumnos y docentes?
+
+134
+00:05:46,440 --> 00:05:47,600
+Y, si estamos pensando
+
+135
+00:05:47,680 --> 00:05:50,200
+en una enseñanza
+mucho más horizontal,
+
+136
+00:05:50,280 --> 00:05:51,640
+efectivamente, sí.
+
+137
+00:05:52,360 --> 00:05:54,200
+<i>Esto es algo que los docentes</i>
+
+138
+00:05:54,280 --> 00:05:55,440
+–con la práctica y, a veces,
+
+139
+00:05:55,520 --> 00:05:58,800
+con la cosa de ser docente taxi
+y correr de un lado a otro–
+
+140
+00:05:58,880 --> 00:06:01,960
+siempre tendemos a dejar de lado
+los criterios de evaluación.
+
+141
+00:06:02,040 --> 00:06:05,840
+Y, sin embargo, es como un hábito
+que es muy importante recuperar
+
+142
+00:06:05,920 --> 00:06:08,360
+porque tener los criterios
+de evaluación desde el principio.
+
+143
+00:06:08,440 --> 00:06:10,960
+Es decir, qué es lo que quiero
+que aprendan y qué voy a evaluar,
+
+144
+00:06:11,040 --> 00:06:12,080
+qué voy a poder medir,
+
+145
+00:06:12,160 --> 00:06:14,600
+siempre se convierte
+en una muy buena guía del trabajo
+
+146
+00:06:14,680 --> 00:06:16,960
+y es muy bueno comunicárselos
+a los alumnos,
+
+147
+00:06:17,040 --> 00:06:20,880
+y que ellos sepan
+hacia dónde van.
+
+148
+00:06:20,960 --> 00:06:26,960
+[Música movida]
+
+149
+00:06:39,600 --> 00:06:41,720
+(Voz de mujer)
+Les agradezco a todos
+por la paciencia,
+
+150
+00:06:41,800 --> 00:06:43,200
+por las ganas que pusieron.
+
+151
+00:06:43,280 --> 00:06:44,600
+Chau, chicas.
+
+152
+00:06:47,000 --> 00:06:52,320
+[Música de cierre]
+

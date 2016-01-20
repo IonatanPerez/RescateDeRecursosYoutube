@@ -1,0 +1,5672 @@
+1
+00:00:00,000 --> 00:00:03,667
+El Jefe de Gabinete de Ministros
+Contador Jorge Capitanich,
+
+2
+00:00:03,734 --> 00:00:05,767
+el señor Secretario de Legal
+y Técnica,
+
+3
+00:00:05,834 --> 00:00:12,167
+el señor Ministro de Economía
+Doctor Axel Kicillof,
+
+4
+00:00:12,434 --> 00:00:14,200
+el Señor Ministro de Planificación
+Federal e Inversión Pública
+
+5
+00:00:14,267 --> 00:00:16,701
+y Servicios,
+arquitecto Julio De Vido
+
+6
+00:00:16,767 --> 00:00:18,367
+y el señor Secretario
+de Telecomunicaciones
+
+7
+00:00:18,467 --> 00:00:20,667
+Doctor Norberto Berner.
+
+8
+00:00:21,501 --> 00:00:23,667
+Se encuentran presentes también
+el Gobernador de la provincia
+
+9
+00:00:23,767 --> 00:00:26,701
+de Formosa, funcionarios
+y autoridades nacionales
+
+10
+00:00:26,767 --> 00:00:30,400
+y provinciales, legisladores,
+intendentes municipales,
+
+11
+00:00:30,467 --> 00:00:33,801
+representantes gremiales,
+señoras y señores.
+
+12
+00:00:34,400 --> 00:00:36,934
+Escuchamos a continuación
+las palabras del señor Ministro
+
+13
+00:00:37,033 --> 00:00:39,133
+de Planificación Federal
+Inversión Pública y Servicios
+
+14
+00:00:39,200 --> 00:00:41,634
+Arquitecto Julio De Vido.
+
+15
+00:00:41,801 --> 00:00:46,033
+Bueno, muy buenos días
+a todos y a todas.
+
+16
+00:00:46,434 --> 00:00:52,534
+Un día muy especial
+para todos nosotros,
+
+17
+00:00:52,701 --> 00:00:57,734
+estamos además a continuación
+vamos a seguir trabajando
+
+18
+00:00:57,801 --> 00:01:01,501
+con los compañeros intendentes,
+
+19
+00:01:01,601 --> 00:01:04,701
+estamos trabajando hoy
+con la primer sección electoral
+
+20
+00:01:04,801 --> 00:01:08,734
+y también compañeros
+de otras secciones,
+
+21
+00:01:08,868 --> 00:01:12,400
+no solamente en la situación
+climática que se planteó
+
+22
+00:01:12,501 --> 00:01:15,033
+en la noche y en la tarde de ayer
+
+23
+00:01:15,133 --> 00:01:18,467
+sino también en distintas obras
+relacionadas con el Plan Más Cerca
+
+24
+00:01:18,567 --> 00:01:21,834
+y por supuesto están
+todos invitados y están presentes
+
+25
+00:01:21,901 --> 00:01:24,033
+en esta importante reunión.
+
+26
+00:01:24,100 --> 00:01:26,133
+También al Gobernador Insfrán,
+
+27
+00:01:26,200 --> 00:01:31,100
+a todos los representantes
+tanto del Gobierno nacional
+
+28
+00:01:31,167 --> 00:01:33,601
+como legisladores nacionales
+que nos acompañan,
+
+29
+00:01:33,667 --> 00:01:35,701
+representantes
+de los trabajadores,
+
+30
+00:01:35,801 --> 00:01:40,701
+es un gusto para mí,
+para el Ministro de Economía
+
+31
+00:01:40,767 --> 00:01:43,133
+que por otro lado
+es el dueño de casa,
+
+32
+00:01:43,234 --> 00:01:47,868
+al Jefe de Gabinete
+y al Doctor Berner
+
+33
+00:01:47,934 --> 00:01:51,734
+poder estar hoy junto con ustedes
+para anunciar
+
+34
+00:01:51,801 --> 00:01:57,100
+un importante proyecto
+de ley que en pocos minutos más,
+
+35
+00:01:57,300 --> 00:02:01,667
+en una hora más, estará firmando
+la Presidenta de la Nación
+
+36
+00:02:01,734 --> 00:02:05,334
+y enviando al Congreso Nacional,
+
+37
+00:02:05,434 --> 00:02:07,667
+al Senado de la Nación
+para ser más preciso.
+
+38
+00:02:07,868 --> 00:02:12,767
+La ley que nos ocupa se llama
+Ley de la Argentina Digital,
+
+39
+00:02:12,901 --> 00:02:16,534
+y en función de los hechos
+y actos que ha venido
+
+40
+00:02:16,634 --> 00:02:19,100
+llevado adelante
+el Gobierno nacional,
+
+41
+00:02:19,200 --> 00:02:21,701
+todos los que están acá,
+Intendentes, el Gobernador,
+
+42
+00:02:21,801 --> 00:02:25,234
+saben perfectamente el esfuerzo
+enorme que ha hecho
+
+43
+00:02:25,334 --> 00:02:27,801
+el Gobierno nacional para llevar
+hasta el último rincón
+
+44
+00:02:27,868 --> 00:02:31,067
+de la Argentina la fibra óptica,
+
+45
+00:02:31,167 --> 00:02:33,000
+hasta el último rincón
+de la Argentina
+
+46
+00:02:33,067 --> 00:02:35,501
+la última milla de fibra óptica.
+
+47
+00:02:35,767 --> 00:02:40,067
+Haber podido conformar en cada
+una de nuestras provincias
+
+48
+00:02:40,133 --> 00:02:43,000
+y municipios las empresas locales,
+
+49
+00:02:43,100 --> 00:02:46,300
+provinciales para poder
+instrumentar esto,
+
+50
+00:02:46,400 --> 00:02:49,901
+y hay provincias como
+en el caso de Formosa, el Chaco,
+
+51
+00:02:49,968 --> 00:02:53,701
+el caso de Santiago del Estero
+que en poco tiempo más
+
+52
+00:02:53,801 --> 00:02:57,400
+podrán estar brindando
+la tecnología 4G.
+
+53
+00:02:57,534 --> 00:03:01,767
+Como decíamos el nombre
+de la Ley Argentina Digital,
+
+54
+00:03:01,834 --> 00:03:06,434
+el objeto de la ley que plantea
+su artículo 1,
+
+55
+00:03:06,501 --> 00:03:12,834
+después Norberto va a hablar
+en profundidad y con amplitud
+
+56
+00:03:12,901 --> 00:03:15,801
+sobre el resto de la ley y,
+por supuesto, sobre el artículo 1
+
+57
+00:03:15,901 --> 00:03:21,033
+que plantea su objeto
+y el artículo 2 su finalidad,
+
+58
+00:03:21,133 --> 00:03:25,434
+que nos dice que se declara
+de interés público el desarrollo
+
+59
+00:03:25,534 --> 00:03:28,834
+y la regulación de las tecnologías
+de la información,
+
+60
+00:03:28,934 --> 00:03:34,300
+las comunicaciones
+y sus recursos asociados
+
+61
+00:03:34,400 --> 00:03:35,801
+estableciendo y garantizando
+
+62
+00:03:35,868 --> 00:03:38,167
+la completa neutralidad
+de las redes.
+
+63
+00:03:38,267 --> 00:03:52,434
+Vamos a tener redes
+que le faciliten a la gente
+
+64
+00:03:52,534 --> 00:03:55,667
+acceder al mayor universo
+de información
+
+65
+00:03:55,801 --> 00:03:59,667
+y de comunicaciones posibles
+dentro de lo que técnicamente
+
+66
+00:03:59,767 --> 00:04:03,200
+los argentinos estamos
+en condiciones de ofrecer.
+
+67
+00:04:03,300 --> 00:04:07,067
+La fibra óptica,
+el satélite ARSAT-1,
+
+68
+00:04:07,133 --> 00:04:10,334
+esta acá el amigo Matías Bianchi
+que está permanentemente
+
+69
+00:04:10,434 --> 00:04:14,067
+mandándonos información sobre
+la evolución del mismo.
+
+70
+00:04:14,133 --> 00:04:18,701
+Y su finalidad es posibilitar
+el acceso de la totalidad
+
+71
+00:04:18,767 --> 00:04:21,801
+de los habitantes
+de la República Argentina
+
+72
+00:04:21,901 --> 00:04:24,868
+a los servicios de la información
+y las comunicaciones
+
+73
+00:04:24,934 --> 00:04:29,167
+en condiciones sociales
+y geográficas equitativas
+
+74
+00:04:29,234 --> 00:04:31,801
+con los más altos parámetros
+de calidad.
+
+75
+00:04:31,868 --> 00:04:35,167
+Léase Televisión Digital Abierta,
+léase fibra óptica,
+
+76
+00:04:35,267 --> 00:04:39,234
+léase satélite que va a pisar
+todos y cada uno
+
+77
+00:04:39,334 --> 00:04:43,400
+de las regiones del país
+para llevar, como decíamos antes,
+
+78
+00:04:43,467 --> 00:04:50,234
+en forma neutral y, por supuesto,
+amplia, universal y generosa.
+
+79
+00:04:50,300 --> 00:04:53,400
+Esta norma es de orden público
+y excluye,
+
+80
+00:04:53,467 --> 00:04:56,434
+atiendan bien para evitar luego
+cualquier tipo
+
+81
+00:04:56,501 --> 00:05:00,634
+de operación mediática o política
+si quiere hacer,
+
+82
+00:05:00,734 --> 00:05:06,434
+es orden público y excluye
+de su objeto cualquier tipo
+
+83
+00:05:06,501 --> 00:05:08,467
+de regulación de los contenidos,
+
+84
+00:05:08,534 --> 00:05:11,901
+cualquiera fuere su medio
+de trasmisión.
+
+85
+00:05:12,000 --> 00:05:17,501
+Da más plena y absoluta libertad
+para producir, generar e inyectar
+
+86
+00:05:17,567 --> 00:05:21,300
+a la red los contenidos
+de los distintos actores,
+
+87
+00:05:21,367 --> 00:05:25,701
+productores, medios, en fin,
+todos los argentinos
+
+88
+00:05:25,801 --> 00:05:29,701
+que quieran prestar
+y quieran generar o crear
+
+89
+00:05:29,767 --> 00:05:33,567
+en el ámbito de la tecnología
+de la información
+
+90
+00:05:33,667 --> 00:05:36,534
+y de la comunicación.
+
+91
+00:05:36,634 --> 00:05:40,767
+La finalidad, las disposiciones
+de esta Ley tienen como finalidad
+
+92
+00:05:40,834 --> 00:05:46,701
+garantizar el derecho humano
+a las telecomunicaciones.
+
+93
+00:05:47,033 --> 00:05:55,767
+Reconocer a las tecnologías
+de la información
+
+94
+00:05:55,834 --> 00:06:01,901
+y las comunicaciones que
+la Ley luego lo abrevia como TIC,
+
+95
+00:06:02,000 --> 00:06:04,033
+Tecnología de Información
+y de las Comunicaciones,
+
+96
+00:06:04,100 --> 00:06:08,834
+como un factor preponderante
+en la independencia tecnológica
+
+97
+00:06:08,934 --> 00:06:11,167
+y productiva de la Nación.
+
+98
+00:06:11,267 --> 00:06:14,767
+Promover el rol del Estado
+como planificador,
+
+99
+00:06:14,868 --> 00:06:19,767
+incentivando la función social
+que dichas tecnologías poseen,
+
+100
+00:06:19,868 --> 00:06:23,667
+como así también la competencia
+y la generación de empleo
+
+101
+00:06:23,767 --> 00:06:28,901
+mediante el establecimiento
+de pautas claras y trasparentes
+
+102
+00:06:29,033 --> 00:06:33,100
+que favorezcan el desarrollo
+sustentable del sector,
+
+103
+00:06:33,167 --> 00:06:35,200
+o sea, de las redes,
+de los medios físicos
+
+104
+00:06:35,300 --> 00:06:38,267
+para que todos los argentinos
+puedan no solamente comunicarse
+
+105
+00:06:38,367 --> 00:06:41,033
+sino emitir lo que piensan,
+lo que sienten, lo que generan,
+
+106
+00:06:41,133 --> 00:06:44,968
+lo que crean, procurando
+la accesibilidad
+
+107
+00:06:45,033 --> 00:06:47,734
+y la asequibilidad
+de la tecnología de la información
+
+108
+00:06:47,834 --> 00:06:51,067
+y las comunicaciones
+por el pueblo.
+
+109
+00:06:51,133 --> 00:06:55,067
+Establecer con claridad
+la distribución entre los mercados
+
+110
+00:06:55,167 --> 00:06:59,434
+de generación de contenidos
+y el de transporte de los mismos,
+
+111
+00:06:59,534 --> 00:07:02,234
+o sea, las redes, las TIC.
+
+112
+00:07:02,334 --> 00:07:06,901
+De manera que la influencia en uno
+de esos mercados no mejore
+
+113
+00:07:07,000 --> 00:07:13,901
+ni genere prácticas que impliquen
+distorsiones en el otro.
+
+114
+00:07:13,968 --> 00:07:17,834
+Luego el Secretario Berner
+va a avanzar sobre la Ley,
+
+115
+00:07:17,934 --> 00:07:21,667
+los detalles y quienes
+son los protagonistas,
+
+116
+00:07:21,734 --> 00:07:23,834
+quienes son los usuarios,
+quienes son los que generan
+
+117
+00:07:23,934 --> 00:07:29,300
+contenidos y quiénes son los
+que prestan el servicio de redes,
+
+118
+00:07:29,400 --> 00:07:33,801
+que como decíamos inicialmente
+van a ser absolutamente neutrales,
+
+119
+00:07:33,901 --> 00:07:39,601
+el más absoluto y profundo sentido
+que la palabra neutral tiene.
+
+120
+00:07:39,901 --> 00:07:43,067
+El proyecto este que anunciamos
+hoy reivindica
+
+121
+00:07:43,167 --> 00:07:46,534
+y consolida institucionalmente
+lo que hemos venido
+
+122
+00:07:46,634 --> 00:07:48,367
+llevando adelante,
+lo que inicio Néstor Kirchner
+
+123
+00:07:48,467 --> 00:07:51,567
+y continúo Cristina Fernández
+de Kirchner,
+
+124
+00:07:51,667 --> 00:07:55,300
+el plan de telecomunicaciones,
+que al igual que el eléctrico
+
+125
+00:07:55,400 --> 00:08:00,434
+arrancó en el año 2003,
+cuyos logros han sido notables,
+
+126
+00:08:00,567 --> 00:08:04,434
+en accesibilidad, federalismo
+de la infraestructura,
+
+127
+00:08:04,501 --> 00:08:06,334
+participación de la industria
+nacional
+
+128
+00:08:06,400 --> 00:08:08,934
+y la operativa tecnológica,
+lo que faltaba el alma
+
+129
+00:08:09,000 --> 00:08:12,734
+de todo esto que sin ninguna
+a duda viene a ser esta Ley
+
+130
+00:08:12,834 --> 00:08:18,534
+de la Argentina Digital.
+
+131
+00:08:18,767 --> 00:08:21,634
+Era necesario que el derecho
+humano en las comunicaciones
+
+132
+00:08:21,701 --> 00:08:24,234
+fuera garantizado por ley,
+
+133
+00:08:24,300 --> 00:08:27,501
+declarando el servicio de interés
+público para que la regulación
+
+134
+00:08:27,567 --> 00:08:30,534
+de las tecnologías
+de la información
+
+135
+00:08:30,601 --> 00:08:34,734
+y las comunicaciones TIC
+sean factor preponderante
+
+136
+00:08:34,868 --> 00:08:38,667
+en la independencia tecnológica
+y productiva de la Nación,
+
+137
+00:08:38,767 --> 00:08:42,467
+estableciendo pautas claras
+y transparentes que favorezcan
+
+138
+00:08:42,534 --> 00:08:44,934
+el desarrollo sustentable
+del sector
+
+139
+00:08:45,000 --> 00:08:48,067
+en todas sus manifestaciones.
+
+140
+00:08:48,200 --> 00:08:50,367
+El proyecto,
+como decíamos anteriormente.
+
+141
+00:08:50,501 --> 00:08:53,534
+se llama Argentina Digital,
+luego lo va a explicar
+
+142
+00:08:53,601 --> 00:08:56,901
+con absoluto detalle
+el Doctor Berner.
+
+143
+00:08:56,968 --> 00:08:59,968
+Así como el proyecto de adecuación
+de la Ley de Hidrocarburos
+
+144
+00:09:00,100 --> 00:09:03,000
+este proyecto representara,
+que se trata hoy
+
+145
+00:09:03,100 --> 00:09:06,100
+en Diputados justamente,
+esto habla de la riqueza
+
+146
+00:09:06,200 --> 00:09:09,534
+institucional de este país donde
+se discuten los temas de fondo,
+
+147
+00:09:09,634 --> 00:09:12,434
+donde el ejecutivo propone
+debate permanentemente
+
+148
+00:09:12,567 --> 00:09:15,167
+para los hidrocarburos,
+para las comunicaciones.
+
+149
+00:09:15,534 --> 00:09:18,567
+Leyes estas...
+
+150
+00:09:20,934 --> 00:09:23,501
+Una era del año 67, 68,
+
+151
+00:09:23,601 --> 00:09:27,000
+y la que está vigente
+de comunicaciones del año 72,
+
+152
+00:09:27,067 --> 00:09:32,868
+recuerdo yo siendo empleado
+de ENTEL y delegado de mi sección
+
+153
+00:09:32,934 --> 00:09:35,400
+la lucha que dimos en contra
+de aquella Ley
+
+154
+00:09:35,467 --> 00:09:39,100
+porque favorecía claramente
+los intereses de la SIEMENS
+
+155
+00:09:39,200 --> 00:09:42,601
+y la ESTÁNDAR, que en ese
+momento eran monopolio
+
+156
+00:09:42,701 --> 00:09:45,634
+en la producción de insumos
+y de equipos.
+
+157
+00:09:45,701 --> 00:09:51,133
+Y por supuesto luego fue
+quedando en el tiempo
+
+158
+00:09:51,234 --> 00:09:54,200
+y que fue dando absolutamente
+anacrónica,
+
+159
+00:09:54,334 --> 00:09:57,434
+y está anacrónica y hay que dar
+una nueva respuesta
+
+160
+00:09:57,534 --> 00:10:00,901
+pero no porque se nos ocurre
+un esquema de militancia
+
+161
+00:10:01,000 --> 00:10:05,901
+ideológica o de suponer
+que las cosas pueden ser
+
+162
+00:10:06,000 --> 00:10:09,501
+de tal o cual manera sino porque
+necesitamos darle esqueleto,
+
+163
+00:10:09,567 --> 00:10:13,267
+estructura, fuerza, alma,
+espíritu a todo hizo Néstor
+
+164
+00:10:13,367 --> 00:10:16,234
+y lo que está llevando adelante
+Cristina en materia fáctica
+
+165
+00:10:16,334 --> 00:10:18,334
+en términos de comunicaciones.
+
+166
+00:10:19,133 --> 00:10:23,601
+La fabricación y el reciente
+lanzamiento del ARSAT-1
+
+167
+00:10:23,667 --> 00:10:28,734
+es un cabal muestra del éxito
+de las políticas ejecutadas.
+
+168
+00:10:28,834 --> 00:10:32,167
+Este proyecto propiciara
+nuevos saltos tecnológicos,
+
+169
+00:10:32,267 --> 00:10:35,501
+impulsara más soberanía
+y desarrollo industrial
+
+170
+00:10:35,567 --> 00:10:39,234
+competitivo convalidando
+las políticas ejecutadas
+
+171
+00:10:39,334 --> 00:10:42,701
+en el año 2003 donde el rol
+planificador del Estado
+
+172
+00:10:42,801 --> 00:10:47,334
+ha sido y seguirá siendo clave
+para incentivar la función social,
+
+173
+00:10:47,434 --> 00:10:52,400
+la competitividad y potencialidad
+como generadora de empleo
+
+174
+00:10:52,501 --> 00:10:54,934
+que poseen las nuevas tecnologías.
+
+175
+00:10:55,133 --> 00:10:58,267
+Nos toco desde el año 2003
+al igual que en otras áreas
+
+176
+00:10:58,334 --> 00:11:04,367
+de infraestructura reconstruir
+un sistema que estaba desmembrado
+
+177
+00:11:04,467 --> 00:11:07,200
+por las políticas neoliberales.
+
+178
+00:11:07,267 --> 00:11:10,334
+Debimos adoptar decisiones
+imprescindibles para el desarrollo
+
+179
+00:11:10,400 --> 00:11:14,067
+del sector que hoy nos permiten
+anunciar este proyecto de Ley.
+
+180
+00:11:14,167 --> 00:11:17,133
+En noviembre del 2003
+el Estado nacional
+
+181
+00:11:17,200 --> 00:11:20,100
+debió hacerse cargo
+del Correo Argentino
+
+182
+00:11:20,200 --> 00:11:22,934
+que estaba a punto de quebrar
+poniendo en riesgo
+
+183
+00:11:23,000 --> 00:11:26,234
+el servicio postal
+y 13.000 puestos de trabajo,
+
+184
+00:11:26,334 --> 00:11:29,267
+la empresa cuando asumimos
+tomaba como inversión
+
+185
+00:11:29,400 --> 00:11:33,067
+las indemnizaciones que pagaban
+para despedir a los trabajadores,
+
+186
+00:11:33,167 --> 00:11:35,300
+eran tomadas como inversión
+del contrato,
+
+187
+00:11:35,367 --> 00:11:40,033
+esta fue la decisión que tomó
+el Presidente Kirchner
+
+188
+00:11:40,100 --> 00:11:42,634
+al ver tanta inequidad
+y fundamentalmente
+
+189
+00:11:42,701 --> 00:11:45,901
+tanto espíritu contrario
+a nuestra forma de ver
+
+190
+00:11:45,968 --> 00:11:50,734
+y de observar,
+y de pensar la realidad.
+
+191
+00:11:50,834 --> 00:11:53,534
+En el año 2004 se anula
+la concesión del espacio
+
+192
+00:11:53,634 --> 00:11:56,334
+radioeléctrico a la empresa
+francesa Thales Spectrum,
+
+193
+00:11:56,434 --> 00:11:59,634
+por cierto la Ley,
+después lo va a explicar Norberto,
+
+194
+00:11:59,734 --> 00:12:05,501
+plantea claramente la condición
+de rescindirle del Estado
+
+195
+00:12:05,601 --> 00:12:08,400
+en cuanto a su propiedad,
+su regulación
+
+196
+00:12:08,467 --> 00:12:12,667
+y su puesta en valor
+del espacio radioeléctrico.
+
+197
+00:12:12,801 --> 00:12:15,801
+Por entonces había solamente
+tres países en el mundo
+
+198
+00:12:15,901 --> 00:12:18,834
+con el espacio privatizado:
+la Argentina,
+
+199
+00:12:19,300 --> 00:12:22,100
+Gabón y Burkina Faso,
+
+200
+00:12:22,234 --> 00:12:26,467
+Néstor recupera el espacio
+radioeléctrico,
+
+201
+00:12:26,534 --> 00:12:30,634
+rescinde el contrato y, bueno, el
+contrato todavía está siendo
+
+202
+00:12:30,801 --> 00:12:33,734
+objeto de escándalo de tribunal
+en tribunal.
+
+203
+00:12:33,801 --> 00:12:37,467
+En agosto de 2004, y marzo de 2007
+se anularon las concesiones
+
+204
+00:12:37,567 --> 00:12:42,234
+de las posiciones orbitales
+81 y 71,8
+
+205
+00:12:42,334 --> 00:12:46,033
+a la empresa NAHUELSAT que estaba
+a punto de perderse
+
+206
+00:12:46,100 --> 00:12:49,267
+porque no había
+ni un plano siquiera,
+
+207
+00:12:49,367 --> 00:12:52,868
+ni una idea del satélite
+que debía ocuparlas
+
+208
+00:12:52,968 --> 00:12:56,801
+y tampoco un plan estratégico para
+mantener las posiciones orbitales.
+
+209
+00:12:56,901 --> 00:12:59,534
+Miren, NAHUELSAT nos vino aquí,
+
+210
+00:12:59,634 --> 00:13:03,868
+textualmente a entregar
+las llaves de la empresa
+
+211
+00:13:03,968 --> 00:13:06,200
+porque se quería ir
+de la Argentina
+
+212
+00:13:06,300 --> 00:13:09,334
+porque estaba desbordada
+por una situación
+
+213
+00:13:09,434 --> 00:13:12,901
+que ellos no entendían,
+que era la desdolarización
+
+214
+00:13:12,968 --> 00:13:15,200
+de la economía en ese momento y,
+fundamentalmente,
+
+215
+00:13:15,334 --> 00:13:17,934
+de las tarifas del sector
+publico,
+
+216
+00:13:18,067 --> 00:13:21,067
+o de los servicios públicos,
+porque de público no tenía nada
+
+217
+00:13:21,167 --> 00:13:23,601
+porque era todo absolutamente
+privado.
+
+218
+00:13:23,767 --> 00:13:29,300
+Nos hicimos cargo de NAHUELSAT
+creando en abril del 2006,
+
+219
+00:13:29,400 --> 00:13:32,167
+por decisión del Presidente
+Kirchner, ARSAT,
+
+220
+00:13:32,267 --> 00:13:37,601
+que es la empresa que hoy
+opera, diseña y, por supuesto,
+
+221
+00:13:37,667 --> 00:13:40,167
+puso en órbita el satélite,
+
+222
+00:13:40,267 --> 00:13:42,434
+porque el satélite
+lo impulsó un vector francés,
+
+223
+00:13:42,534 --> 00:13:44,734
+pero la maniobra de puesta
+en órbita fue hecha
+
+224
+00:13:44,834 --> 00:13:48,534
+por los técnicos de ARSAT
+
+225
+00:13:48,634 --> 00:13:52,300
+A través de la Ley 26.092, que
+trató el Congreso de la Nación,
+
+226
+00:13:52,367 --> 00:13:54,801
+para ejecutar la política
+de telecomunicaciones
+
+227
+00:13:54,868 --> 00:13:57,501
+y ocupar las posiciones
+orbitales con satélites
+
+228
+00:13:57,601 --> 00:14:02,968
+construidos en la Argentina
+y no alquilados en el exterior.
+
+229
+00:14:03,033 --> 00:14:07,467
+Estamos en pleno proceso
+de pruebas ya del satélite
+
+230
+00:14:07,567 --> 00:14:09,534
+geoestacionario en pocos
+días más.
+
+231
+00:14:09,634 --> 00:14:13,167
+En agosto del 2009 se crea
+la Televisión Digital Terrestre,
+
+232
+00:14:13,234 --> 00:14:19,067
+Publica, Libre y Gratuita,
+adoptando entre la Presidenta
+
+233
+00:14:19,167 --> 00:14:21,767
+y el entonces presidente
+del Brasil Lula Da Silva,
+
+234
+00:14:21,834 --> 00:14:25,567
+la norma japonesa, brasileña,
+ahora argentina,
+
+235
+00:14:25,634 --> 00:14:28,767
+que hemos exportados más
+de casi 300 millones de dólares
+
+236
+00:14:28,834 --> 00:14:31,234
+en equipos fabricados
+en la Argentina,
+
+237
+00:14:31,334 --> 00:14:33,634
+para esta tecnología
+la República Bolivariana
+
+238
+00:14:33,701 --> 00:14:39,934
+de Venezuela más allá de cubrir
+casi el 85% del espacio nacional.
+
+239
+00:14:40,033 --> 00:14:44,367
+En septiembre del 2010 se creó
+el plan Argentina Conectada
+
+240
+00:14:44,434 --> 00:14:50,834
+para llevar la fibra óptica
+y la conectividad
+
+241
+00:14:50,901 --> 00:14:54,133
+a todas las provincias,
+las líderes, las ejemplo
+
+242
+00:14:54,200 --> 00:14:58,801
+son las tres que nombre
+inicialmente,
+
+243
+00:14:58,934 --> 00:15:00,801
+también La Pampa ha hecho
+un gran trabajo,
+
+244
+00:15:00,901 --> 00:15:04,834
+pero Formosa, Chaco, Santiago,
+La Pampa, La Rioja por cierto
+
+245
+00:15:04,934 --> 00:15:10,000
+han hecho un gran trabajo
+en esta cuestión.
+
+246
+00:15:10,167 --> 00:15:12,968
+En septiembre llegando ya
+a la entrega de un millón
+
+247
+00:15:13,067 --> 00:15:17,267
+y medio de codificadores, o sea,
+prácticamente 6 millones
+
+248
+00:15:17,367 --> 00:15:20,801
+de argentinos que ven
+habitualmente la televisión
+
+249
+00:15:20,868 --> 00:15:26,968
+Digital Abierta, y ya hay,
+digamos, sitios de acceso
+
+250
+00:15:27,067 --> 00:15:29,934
+donde cuando hay problemas
+técnicos la gente puede decir:
+
+251
+00:15:30,033 --> 00:15:34,734
+“no puedo ver”, cada vez
+son más aquellos argentinos
+
+252
+00:15:34,801 --> 00:15:39,834
+que interactúan, ya sea
+reclamando o dando opiniones
+
+253
+00:15:39,901 --> 00:15:42,567
+sobre el servicio, o sobre
+la calidad de los canales
+
+254
+00:15:42,667 --> 00:15:44,033
+o de la necesidad de crear
+un canal sobre el cual
+
+255
+00:15:44,133 --> 00:15:47,100
+o tal tema en materia digital,
+eso lo vamos viendo,
+
+256
+00:15:47,200 --> 00:15:49,234
+no solamente la cantidad
+de decodificadores
+
+257
+00:15:49,300 --> 00:15:51,634
+sino la mayor interactividad.
+
+258
+00:15:51,701 --> 00:15:54,534
+En septiembre del 2010 se crea
+el plan Argentina Conectada
+
+259
+00:15:54,634 --> 00:15:56,601
+para llevar la fibra óptica
+y conectividad a todas
+
+260
+00:15:56,667 --> 00:15:59,167
+las provincias como política
+clave para la inclusión
+
+261
+00:15:59,234 --> 00:16:01,067
+y el desarrollo.
+
+262
+00:16:01,167 --> 00:16:03,467
+Es el sistema,
+ayer hablábamos con Axel,
+
+263
+00:16:03,567 --> 00:16:07,567
+es el sistema más moderno,
+superior al cable,
+
+264
+00:16:07,634 --> 00:16:09,834
+superior al físico de cobre
+del teléfono,
+
+265
+00:16:09,934 --> 00:16:13,734
+es el sistema más moderno,
+lo último que hay en el mundo
+
+266
+00:16:13,834 --> 00:16:19,234
+para iluminar el tema de redes,
+la comunicación.
+
+267
+00:16:19,400 --> 00:16:24,100
+Está claro que las redes son
+de ARSAT, o sea,
+
+268
+00:16:24,200 --> 00:16:27,701
+el Estado tiene una posición
+estratégica, no dominante,
+
+269
+00:16:27,767 --> 00:16:32,567
+con un solo objetivo,
+que se plantea también está Ley,
+
+270
+00:16:32,667 --> 00:16:35,334
+que es la universalización
+del acceso,
+
+271
+00:16:35,434 --> 00:16:40,100
+no solamente de los argentinos,
+sino del mapa también, o sea,
+
+272
+00:16:40,200 --> 00:16:44,067
+importante que va a acceder
+la gente y que en cada rincón
+
+273
+00:16:44,167 --> 00:16:47,000
+de la Argentina pueda estar
+la fibra óptica o el satélite,
+
+274
+00:16:47,100 --> 00:16:49,767
+en el caso de lugares
+excesivamente aislados,
+
+275
+00:16:49,834 --> 00:16:53,400
+para llevar adelante la idea
+esta de la universalidad
+
+276
+00:16:53,534 --> 00:16:56,767
+que tanto promulgo Néstor
+y por supuesto que pelea
+
+277
+00:16:56,868 --> 00:17:00,367
+todos los días Cristina
+para la pluralidad,
+
+278
+00:17:00,467 --> 00:17:04,100
+la universalidad del acceso
+a la tecnología
+
+279
+00:17:04,200 --> 00:17:06,934
+y a las comunicaciones
+como plantea esta Ley
+
+280
+00:17:07,033 --> 00:17:09,367
+que entendemos va a dar una base
+de sustentación
+
+281
+00:17:09,467 --> 00:17:11,334
+absoluta a este tema.
+
+282
+00:17:11,434 --> 00:17:16,133
+En marzo del 2012 se crea
+el programa Igualdad Cultural
+
+283
+00:17:16,267 --> 00:17:18,567
+para promover todas
+las expresiones de la cultura
+
+284
+00:17:18,667 --> 00:17:21,400
+en las distintas provincias,
+refaccionando y creando
+
+285
+00:17:21,501 --> 00:17:25,234
+nuevos teatros
+e interconectándolos entre si.
+
+286
+00:17:25,334 --> 00:17:27,534
+También tiene que ver con esto.
+
+287
+00:17:27,601 --> 00:17:30,300
+En julio del 2013, el nuevo
+reglamento de calidad
+
+288
+00:17:30,400 --> 00:17:31,934
+de los servicios
+de telecomunicaciones,
+
+289
+00:17:32,033 --> 00:17:35,801
+fuertemente trabajado
+por Norberto y su equipo,
+
+290
+00:17:35,934 --> 00:17:38,934
+otorgando mayores derechos
+a los usuarios.
+
+291
+00:17:39,033 --> 00:17:44,501
+En agosto del 2014 se produce
+el exitoso lanzamiento del VEx-1B
+
+292
+00:17:44,601 --> 00:17:48,033
+que es el prototipo previo
+al Tronador II
+
+293
+00:17:48,133 --> 00:17:50,901
+que ya nos va a permitir
+poder poner nuestros satélites
+
+294
+00:17:51,000 --> 00:17:54,133
+de reconocimiento,
+no todavía geoestacionarios,
+
+295
+00:17:54,200 --> 00:17:56,868
+pero si de reconocimiento,
+en órbita.
+
+296
+00:17:56,968 --> 00:17:59,734
+El jueves 16 de octubre
+de este año será histórico
+
+297
+00:17:59,834 --> 00:18:03,934
+porque como menciona al inicio
+tuvo lugar el lanzamiento
+
+298
+00:18:04,000 --> 00:18:07,767
+del ARSAT-1, como dije yo
+inicialmente.
+
+299
+00:18:07,834 --> 00:18:10,868
+El ARSAT-1 representa un salto
+tecnológico histórico
+
+300
+00:18:10,968 --> 00:18:13,501
+porque si bien hay otros tipos
+de satélites que se fabrican
+
+301
+00:18:13,601 --> 00:18:16,400
+en la región y también
+en la Argentina,
+
+302
+00:18:16,501 --> 00:18:18,634
+como los de observación
+de la Tierra,
+
+303
+00:18:18,767 --> 00:18:21,167
+que se ubican a 600 kilómetros
+de distancia,
+
+304
+00:18:21,267 --> 00:18:24,033
+el conocimiento y la tecnología
+involucrados en un satélite
+
+305
+00:18:24,133 --> 00:18:28,200
+como el ARSAT-1 que se ubica
+a 36.000 kilómetros,
+
+306
+00:18:28,267 --> 00:18:31,934
+son superadores, y permiten
+ingresar a la Argentina
+
+307
+00:18:32,000 --> 00:18:35,968
+al selecto grupo que desarrolla
+estos satélites.
+
+308
+00:18:36,133 --> 00:18:38,067
+Quiero destacar...
+
+309
+00:18:44,367 --> 00:18:46,400
+Que el plan de satélites
+de telecomunicaciones
+
+310
+00:18:46,467 --> 00:18:49,200
+lanzado en el año 2006
+contempla tres satélites:
+
+311
+00:18:49,300 --> 00:18:53,234
+el ARSAT-1, el ARSAT-2,
+que tiene un avance del 70%,
+
+312
+00:18:53,334 --> 00:18:56,567
+y el proyecto ARSAT-3
+que está próximo a empezar
+
+313
+00:18:56,634 --> 00:18:58,601
+a trabajarse y a estudiarse.
+
+314
+00:18:59,100 --> 00:19:00,901
+Una vez migrada la totalidad
+de datos,
+
+315
+00:19:00,968 --> 00:19:03,467
+el ARSAT-1 reemplazará
+el satélite alquilado
+
+316
+00:19:03,567 --> 00:19:05,467
+que actualmente presta servicios
+al país,
+
+317
+00:19:05,601 --> 00:19:10,601
+otra muestra de soberanía
+indiscutible.
+
+318
+00:19:11,033 --> 00:19:13,167
+Se encuentran en licitación
+las nuevas bandas
+
+319
+00:19:13,334 --> 00:19:16,667
+de espacio radioeléctrico,
+que el día viernes, entiendo,
+
+320
+00:19:16,734 --> 00:19:19,968
+en Tecnópolis se va a ser
+la muestra
+
+321
+00:19:20,033 --> 00:19:22,801
+de las ofertas económicas,
+que permitirá el desarrollo
+
+322
+00:19:22,901 --> 00:19:25,968
+de las telecomunicaciones
+para las redes de 4G,
+
+323
+00:19:26,033 --> 00:19:28,267
+y ampliar las existentes 3G.
+
+324
+00:19:28,367 --> 00:19:31,834
+Todo el trabaja que ha hecho
+el Estado en la interconexión
+
+325
+00:19:31,934 --> 00:19:36,067
+con fibra óptica va a coayudar
+y colaborar en la inversión
+
+326
+00:19:36,133 --> 00:19:37,934
+que tienen que hacer
+las telefónicas
+
+327
+00:19:38,033 --> 00:19:41,467
+para que el 4G sea una realidad
+a lo ancho y a lo largo
+
+328
+00:19:41,567 --> 00:19:44,200
+de la Argentina, como lo va a ser
+prontamente en Formosa,
+
+329
+00:19:44,300 --> 00:19:47,334
+Santiago del Estero y el Chaco.
+
+330
+00:19:47,400 --> 00:19:50,000
+Quiero hacer una breve reseña
+ahora de las principales
+
+331
+00:19:50,067 --> 00:19:53,534
+obras terminadas que son
+las plataformas de infraestructura
+
+332
+00:19:53,601 --> 00:19:56,534
+que impulsa este proyecto de Ley
+de alguna manera.
+
+333
+00:19:56,634 --> 00:19:59,968
+30.000 kilómetros de fibra óptica
+construidos,
+
+334
+00:20:00,033 --> 00:20:03,534
+los cuales 25.800 fueron
+de red troncal federal
+
+335
+00:20:03,601 --> 00:20:06,901
+y 4.200 de redes provinciales,
+
+336
+00:20:06,968 --> 00:20:09,167
+incluyendo los 80 kilómetros
+del cruce
+
+337
+00:20:09,267 --> 00:20:11,133
+del Estrecho de Magallanes.
+
+338
+00:20:11,200 --> 00:20:15,467
+La provincia de Tierra del Fuego,
+como ustedes saben, es una isla
+
+339
+00:20:15,534 --> 00:20:23,167
+recibida a servicio de el TIC,
+de información y comunicaciones,
+
+340
+00:20:23,267 --> 00:20:28,167
+vía microonda. La microonda
+se inauguró, y lo recuerdo bien
+
+341
+00:20:28,267 --> 00:20:32,000
+porque como lo decía
+anteriormente, en el año 72,
+
+342
+00:20:32,067 --> 00:20:39,300
+o sea, prácticamente era un medio
+de comunicación agilísimo
+
+343
+00:20:39,367 --> 00:20:41,667
+para aquella época,
+permitía el telediscado,
+
+344
+00:20:41,734 --> 00:20:43,601
+pero ahora hay que transmitir
+video,
+
+345
+00:20:43,701 --> 00:20:44,901
+hay que transmitir voz,
+hay que transmitir comunicación,
+
+346
+00:20:44,968 --> 00:20:47,167
+hay que transmitir informática.
+
+347
+00:20:47,267 --> 00:20:51,167
+Bueno, los pelos de fibra óptica
+que cruzan a Tierra del Fuego
+
+348
+00:20:51,267 --> 00:20:53,868
+la ponen en igual de condiciones
+con el resto del país.
+
+349
+00:20:53,934 --> 00:20:56,334
+Ahora vamos a ir por
+la interconexión eléctrica también
+
+350
+00:20:56,434 --> 00:20:59,767
+porque es la única provincia
+que falta interconectar.
+
+351
+00:20:59,868 --> 00:21:02,567
+Hay 1.461 localidades
+de la Argentina,
+
+352
+00:21:02,667 --> 00:21:06,200
+más o menos el mismo numero
+que llega el Mas Cerca
+
+353
+00:21:06,300 --> 00:21:08,801
+a donde llega la fibra óptica,
+
+354
+00:21:08,934 --> 00:21:11,434
+y ahora estamos trabajando
+fuertemente para la última milla,
+
+355
+00:21:11,534 --> 00:21:14,534
+porque esto es central para
+entrar en la casa de todos
+
+356
+00:21:14,601 --> 00:21:17,133
+y cada uno de los argentinos,
+y llevar los datos
+
+357
+00:21:17,200 --> 00:21:20,300
+y las comunicaciones
+que los argentinos necesitan.
+
+358
+00:21:20,434 --> 00:21:23,334
+El Centro de Datos de ARSAT
+en Benavidez es el más grande
+
+359
+00:21:23,434 --> 00:21:28,667
+de Sudamérica, esto lo decimos
+no para repetir las obras,
+
+360
+00:21:28,767 --> 00:21:31,200
+sino es la necesidad
+de una legislación que le de
+
+361
+00:21:31,267 --> 00:21:35,467
+marco, que le dé impulso,
+que le garantice
+
+362
+00:21:35,534 --> 00:21:37,601
+como derecho humano a todos
+los argentinos el acceso
+
+363
+00:21:37,667 --> 00:21:41,234
+claro e irrestricto
+a estas obras que las hicimos
+
+364
+00:21:41,334 --> 00:21:44,501
+todos los argentinos
+con presupuesto nacional.
+
+365
+00:21:46,834 --> 00:21:50,968
+173 núcleos de acceso
+al conocimiento,
+
+366
+00:21:51,033 --> 00:21:53,367
+120 puntos de acceso digital,
+
+367
+00:21:53,467 --> 00:21:58,033
+2.428 estaciones satelitales
+de conectividad a internet
+
+368
+00:21:58,133 --> 00:22:02,267
+para establecimientos
+educativos, rurales y de frontera.
+
+369
+00:22:02,334 --> 00:22:06,701
+4 millones y medio de netbooks,
+ayer estaban reconociéndolo.
+
+370
+00:22:06,801 --> 00:22:08,968
+83 estaciones de TV Digital.
+
+371
+00:22:09,067 --> 00:22:12,234
+1.415.000 decodificadores
+de TV Digital.
+
+372
+00:22:12,334 --> 00:22:17,367
+El 100% de las escuelas rurales
+con televisión digital.
+
+373
+00:22:17,501 --> 00:22:23,901
+El satélite viene a bancar eso,
+viene a profundizarlo,
+
+374
+00:22:24,033 --> 00:22:25,634
+a garantizarle calidad técnica,
+
+375
+00:22:25,701 --> 00:22:27,968
+y la Ley, el derecho,
+la permanencia,
+
+376
+00:22:28,067 --> 00:22:31,100
+la institucionalidad de lo que
+se hizo y de lo que se invirtió.
+
+377
+00:22:31,167 --> 00:22:34,934
+22 estaciones de TV Digital
+y 400.000 decodificadores
+
+378
+00:22:35,033 --> 00:22:37,868
+exportados a Venezuela.
+
+379
+00:22:37,968 --> 00:22:44,200
+El Estado nacional invirtió
+21.440 millones de pesos
+
+380
+00:22:44,300 --> 00:22:47,267
+desde el año 2003 en el plan
+de telecomunicaciones
+
+381
+00:22:47,367 --> 00:22:51,434
+representando el 50%
+de la inversión total del sector.
+
+382
+00:22:51,501 --> 00:22:53,767
+Miren la importancia
+de esta Ley,
+
+383
+00:22:53,868 --> 00:22:58,968
+miren la claridad de la Presidenta
+para darle solidez institucional,
+
+384
+00:22:59,067 --> 00:23:01,901
+legal y jurídica a todo
+lo que se ha construido.
+
+385
+00:23:02,000 --> 00:23:06,234
+Se formaron 47.000 trabajadores
+y 3.000 especialistas.
+
+386
+00:23:06,334 --> 00:23:08,934
+En el caso de ARSAT, CONAE
+e INVAP, pasaron de emplear
+
+387
+00:23:09,033 --> 00:23:14,634
+700 a 3.000 profesionales,
+un 428% más.
+
+388
+00:23:14,734 --> 00:23:17,267
+Se crearon 10 empresas
+provinciales:
+
+389
+00:23:17,400 --> 00:23:20,067
+Formosa, Chaco, La Rioja,
+Misiones, Santiago del Estero,
+
+390
+00:23:20,167 --> 00:23:22,834
+Catamarca, Neuquén,
+Rio Negro, La Pampa
+
+391
+00:23:22,934 --> 00:23:26,968
+y Tierra del Fuego entendieron
+el sentido y la política
+
+392
+00:23:27,067 --> 00:23:29,000
+formulada por la Presidenta.
+
+393
+00:23:29,067 --> 00:23:32,701
+Hubo un gran esfuerzo conjunto
+con Fecotel, Fecosur, Catip,
+
+394
+00:23:32,801 --> 00:23:35,000
+que nuclean pymes,
+son todas cooperativas
+
+395
+00:23:35,067 --> 00:23:38,234
+y empresas del sector,
+y también con la Asociación
+
+396
+00:23:38,334 --> 00:23:42,000
+Industrial de Metalúrgicos,
+que demuestran también al igual
+
+397
+00:23:42,067 --> 00:23:44,400
+que este proyecto de Ley
+que las obras se hicieron
+
+398
+00:23:44,467 --> 00:23:48,067
+de una fenomenal vocación
+nacional imprescindible
+
+399
+00:23:48,133 --> 00:23:50,834
+para los logros alcanzados
+para el desarrollo industrial
+
+400
+00:23:50,934 --> 00:23:53,000
+y para el crecimiento
+y consolidación
+
+401
+00:23:53,067 --> 00:23:56,667
+del proceso industrial,
+del proyecto industrial
+
+402
+00:23:56,734 --> 00:23:59,267
+iniciado por Néstor
+y continuado por Cristina.
+
+403
+00:23:59,334 --> 00:24:01,601
+La decisión política
+de planificar el desarrollo
+
+404
+00:24:01,667 --> 00:24:04,100
+de las telecomunicaciones
+del Estado nacional
+
+405
+00:24:04,200 --> 00:24:07,834
+fue imprescindible para que
+los habitantes de la Argentina
+
+406
+00:24:07,901 --> 00:24:12,868
+accedieran y accedan de forma
+universal a las mismas.
+
+407
+00:24:12,968 --> 00:24:15,667
+El crecimiento record
+de la demanda de los servicios
+
+408
+00:24:15,767 --> 00:24:18,701
+no deja lugar a dudas,
+los accesos residenciales
+
+409
+00:24:18,767 --> 00:24:22,501
+e internet aumentaron
+de 1.200.000 a 13 millones,
+
+410
+00:24:22,567 --> 00:24:25,467
+un 983% en 10 años.
+
+411
+00:24:25,534 --> 00:24:28,534
+La cantidad de líneas
+de celulares asciende
+
+412
+00:24:28,634 --> 00:24:34,334
+actualmente a 45 millones que
+representa casi un 1.000% más.
+
+413
+00:24:34,434 --> 00:24:37,167
+El acceso a la conectividad
+es esencial,
+
+414
+00:24:37,300 --> 00:24:42,200
+no puede concebirse inclusión
+plena sin acceso pleno
+
+415
+00:24:42,334 --> 00:24:45,868
+a la información
+y a las telecomunicaciones,
+
+416
+00:24:45,968 --> 00:24:48,000
+por ello la necesidad
+de esta Ley,
+
+417
+00:24:48,100 --> 00:24:51,100
+por ellos la necesidad
+de la neutralidad de las redes
+
+418
+00:24:51,167 --> 00:24:53,434
+para que nadie sea dueño
+de las mismas,
+
+419
+00:24:53,501 --> 00:24:57,467
+para que todos estén al servicio
+del objetivo mayor
+
+420
+00:24:57,567 --> 00:25:00,634
+que es universalizar
+y llevar a la mayor cantidad
+
+421
+00:25:00,734 --> 00:25:04,200
+de espacio territorial argentino
+y de las personas,
+
+422
+00:25:04,300 --> 00:25:07,200
+del pueblo argentino,
+los contenidos, la comunicación
+
+423
+00:25:07,300 --> 00:25:11,634
+y la información, es por ello
+que la Presidenta
+
+424
+00:25:11,734 --> 00:25:15,434
+y el Presidente Kirchner
+incursionaron en el sector
+
+425
+00:25:15,501 --> 00:25:18,400
+con un plan histórico que logró
+llevar el servicio
+
+426
+00:25:18,467 --> 00:25:22,434
+a todas las regiones y a todos
+los argentinos por igual.
+
+427
+00:25:22,534 --> 00:25:26,234
+El anuncio de hoy viene
+a consolidar toda la política
+
+428
+00:25:26,300 --> 00:25:29,200
+de telecomunicaciones llevada
+a cabo en el año 2013.
+
+429
+00:25:29,267 --> 00:25:32,334
+Seguimos trabajando
+responsablemente
+
+430
+00:25:32,400 --> 00:25:34,601
+bajo la directiva cotidiana
+de la Presidenta,
+
+431
+00:25:34,701 --> 00:25:38,300
+creando la institucionalidad
+necesaria para promover
+
+432
+00:25:38,367 --> 00:25:41,534
+la igualdad de oportunidades
+con acciones positivas
+
+433
+00:25:41,601 --> 00:25:43,801
+y de accesibilidad universal,
+
+434
+00:25:43,901 --> 00:25:47,067
+porque de eso se trata
+el enfoque de derechos
+
+435
+00:25:47,133 --> 00:25:49,701
+que impulsa día tras día
+desde el Estado
+
+436
+00:25:49,801 --> 00:25:52,934
+nuestro proyecto político.
+Muchísimas gracias.
+
+437
+00:26:05,667 --> 00:26:08,300
+Habla a continuación el señor
+Secretario de Telecomunicaciones
+
+438
+00:26:08,400 --> 00:26:10,734
+Doctor Norberto Berner.
+
+439
+00:26:10,834 --> 00:26:14,534
+Que tal, buenos días
+a todos, a todas.
+
+440
+00:26:14,667 --> 00:26:18,734
+Compañeros,
+compañero Ministro de Economía,
+
+441
+00:26:18,801 --> 00:26:22,167
+compañero Ministro
+de Planificación Julio De Vido,
+
+442
+00:26:22,267 --> 00:26:25,501
+compañero Jefe de Gabinete.
+
+443
+00:26:26,434 --> 00:26:30,400
+A todos, hoy veo muchas caras
+conocidas con las que venimos
+
+444
+00:26:30,501 --> 00:26:34,534
+trabajando desde hace mucho
+tiempo, legisladores,
+
+445
+00:26:34,601 --> 00:26:37,434
+intendentes,
+parte del equipo de trabajo
+
+446
+00:26:37,534 --> 00:26:40,167
+de la Comisión Nacional
+de Comunicaciones, de ARSAT,
+
+447
+00:26:40,267 --> 00:26:42,334
+por supuesto del Ministerio
+de Planificación.
+
+448
+00:26:42,400 --> 00:26:44,300
+el coordinador de Argentina
+Conectada,
+
+449
+00:26:44,400 --> 00:26:47,734
+miembros de federaciones,
+de cámaras,
+
+450
+00:26:47,834 --> 00:26:50,901
+de empresas operadoras, en fin,
+
+451
+00:26:51,000 --> 00:26:57,868
+todos los que somos parte
+de esta enorme tarea
+
+452
+00:26:57,968 --> 00:27:00,100
+que es comunicar
+a los argentinos,
+
+453
+00:27:00,200 --> 00:27:01,267
+y como bien decía
+el Ministro De Vido
+
+454
+00:27:01,334 --> 00:27:05,133
+hoy estamos muy contentos,
+es un día muy importante
+
+455
+00:27:05,200 --> 00:27:07,901
+para todos nosotros,
+para todos los argentinos
+
+456
+00:27:08,000 --> 00:27:10,901
+porque estamos presentando
+este proyecto de Ley
+
+457
+00:27:10,968 --> 00:27:13,234
+de Argentina Digital.
+
+458
+00:27:13,300 --> 00:27:17,167
+Se va a estar enviando,
+como decía el Ministro De Vido,
+
+459
+00:27:17,267 --> 00:27:19,167
+este proyecto de Ley
+en el día de hoy seguramente
+
+460
+00:27:19,234 --> 00:27:22,133
+con la firma de la Presidenta
+de la Nación.
+
+461
+00:27:22,234 --> 00:27:27,100
+Y la verdad que después
+de lo que ha explicado el Ministro
+
+462
+00:27:27,200 --> 00:27:33,033
+es difícil agregar, pero bueno,
+contar un poco más los artículos
+
+463
+00:27:33,167 --> 00:27:36,968
+1 y 2 de la Ley,
+son muy elocuentes,
+
+464
+00:27:37,067 --> 00:27:40,467
+mi idea es explicitar un poco
+más el marco
+
+465
+00:27:40,567 --> 00:27:43,000
+que estamos proponiendo
+al Congreso de la Nación
+
+466
+00:27:43,100 --> 00:27:45,167
+para que sea el Congreso
+de la Nación el que finalmente
+
+467
+00:27:45,267 --> 00:27:49,334
+de el debate y establezca
+y defina estas pautas claras
+
+468
+00:27:49,400 --> 00:27:51,734
+y tan importantes para
+todos los argentinos.
+
+469
+00:27:51,834 --> 00:27:54,901
+En primer lugar, como decíamos,
+
+470
+00:27:55,000 --> 00:27:57,534
+la Ley  madre que se está
+modificando
+
+471
+00:27:57,634 --> 00:28:02,567
+es una ley del año 1972, que más
+allá del contexto político,
+
+472
+00:28:02,634 --> 00:28:08,200
+yo no había nacido, pero
+tampoco había nacido internet,
+
+473
+00:28:08,267 --> 00:28:10,200
+tampoco habían nacido
+los teléfonos celulares,
+
+474
+00:28:10,267 --> 00:28:13,000
+había telefonía básica simplemente
+
+475
+00:28:13,067 --> 00:28:15,834
+y todo lo que hoy conocemos
+como comunicación,
+
+476
+00:28:15,901 --> 00:28:17,534
+es tecnología de información
+de las comunicaciones,
+
+477
+00:28:17,634 --> 00:28:22,033
+eran apenas un sueño seguramente
+perdido por ahí
+
+478
+00:28:22,133 --> 00:28:23,934
+o de alguna película
+de ciencia ficción.
+
+479
+00:28:24,000 --> 00:28:27,367
+La verdad que lo que ha avanzado,
+no los últimos 40 años,
+
+480
+00:28:27,434 --> 00:28:29,400
+que es el tiempo que tiene
+esta Ley,
+
+481
+00:28:29,501 --> 00:28:31,067
+lo que ha avanzado la tecnología
+de información
+
+482
+00:28:31,133 --> 00:28:32,901
+de las comunicaciones
+en los últimos 4 o 5 años
+
+483
+00:28:32,968 --> 00:28:35,334
+es absolutamente enorme
+y abrumador,
+
+484
+00:28:35,400 --> 00:28:40,067
+y por eso es indispensable,
+ya no es una cuestión facultativa,
+
+485
+00:28:40,167 --> 00:28:43,767
+no es una buena idea,
+no es algo que estaría bien hacer,
+
+486
+00:28:43,868 --> 00:28:47,601
+es indispensable, es esencial
+que en la República Argentina
+
+487
+00:28:47,667 --> 00:28:51,367
+tengamos una regulación
+y una normativa acorde
+
+488
+00:28:51,467 --> 00:28:54,300
+a esta nueva tecnología.
+
+489
+00:28:54,400 --> 00:28:58,968
+Fundamental en este proyecto
+de Ley garantizar
+
+490
+00:28:59,067 --> 00:29:04,734
+la neutralidad de las redes,
+esto para trata de explicarlo
+
+491
+00:29:04,801 --> 00:29:09,400
+en términos cotidianos,
+cada vez que uno de nosotros
+
+492
+00:29:09,501 --> 00:29:13,834
+accede a internet a través
+del operador que haya contratado,
+
+493
+00:29:13,901 --> 00:29:17,667
+la empresa que esté pagándole
+mensualmente el acceso a internet,
+
+494
+00:29:17,734 --> 00:29:23,868
+esa empresa no pueda modificar
+los parámetros de acceso,
+
+495
+00:29:23,968 --> 00:29:27,434
+esto es que si yo quiero
+entrar a la pagina A,
+
+496
+00:29:27,534 --> 00:29:31,934
+entre a la misma velocidad,
+con las mismas características
+
+497
+00:29:32,000 --> 00:29:37,467
+y con la misma calidad
+que a la pagina B o C, o D.
+
+498
+00:29:37,534 --> 00:29:40,100
+Esto es garantizar
+la libertad de expresión
+
+499
+00:29:40,167 --> 00:29:42,767
+que los operadores
+de telecomunicaciones
+
+500
+00:29:42,868 --> 00:29:47,067
+no puedan alterar y distorsionar,
+e impedirnos o degradarnos
+
+501
+00:29:47,167 --> 00:29:50,667
+la calidad del servicios para una
+u otra página de internet,
+
+502
+00:29:50,801 --> 00:29:53,834
+estamos garantizando
+la libertad de expresión.
+
+503
+00:29:53,968 --> 00:29:57,934
+Como también decía el Ministro,
+claramente establecemos
+
+504
+00:29:58,033 --> 00:30:01,767
+y lo dejamos excluido,
+no solamente en el artículo 1
+
+505
+00:30:01,868 --> 00:30:04,167
+sino a lo largo de todo
+el texto legal
+
+506
+00:30:04,267 --> 00:30:08,934
+que no se regula de ningún modo
+el contenido,
+
+507
+00:30:09,033 --> 00:30:14,367
+cada uno a través de la red
+puede hacer y decir lo que quiera,
+
+508
+00:30:14,467 --> 00:30:18,033
+y está muy bien,
+y eso suma al debate,
+
+509
+00:30:18,133 --> 00:30:21,501
+es una forma de debate que tenemos
+que sostener entre todos.
+
+510
+00:30:21,601 --> 00:30:25,133
+Algunas de las características
+importantes que se van
+
+511
+00:30:25,234 --> 00:30:28,100
+a encontrar con esta Ley,
+y que tiene que ver
+
+512
+00:30:28,200 --> 00:30:31,033
+desde el punto de vista
+del usuario,
+
+513
+00:30:31,133 --> 00:30:33,267
+para nosotros es muy importante,
+por supuesto,
+
+514
+00:30:33,334 --> 00:30:35,734
+garantizar las inversiones,
+por supuesto generar
+
+515
+00:30:35,834 --> 00:30:39,167
+más competencia, esta es una Ley
+que viene a traer más competencia
+
+516
+00:30:39,267 --> 00:30:41,701
+en el sector, que viene a traer
+nuevos actores,
+
+517
+00:30:41,767 --> 00:30:44,300
+que viene a potenciar
+a los actores pequeños,
+
+518
+00:30:44,400 --> 00:30:48,234
+pero nos preocupa muchísimo desde
+el punto de vista del usuario
+
+519
+00:30:48,300 --> 00:30:50,901
+porque todos nosotros somos
+usuarios de telecomunicaciones.
+
+520
+00:30:51,000 --> 00:30:56,133
+La idea es llegar, primero,
+con una velocidad
+
+521
+00:30:56,200 --> 00:31:00,801
+de transmisión de datos
+que no lleve a la fibra óptica,
+
+522
+00:31:00,901 --> 00:31:03,701
+nos lleve a una velocidad
+absolutamente rápida,
+
+523
+00:31:03,801 --> 00:31:05,767
+por eso la Ley establece
+que cada 2 años
+
+524
+00:31:05,834 --> 00:31:08,100
+se tienen que revisar
+las velocidades de llegada
+
+525
+00:31:08,200 --> 00:31:14,801
+a los usuarios, y también
+establece esta posibilidad,
+
+526
+00:31:14,901 --> 00:31:17,634
+para que lo entendamos,
+si uno es usuario va a contratar
+
+527
+00:31:17,734 --> 00:31:23,701
+a cualquier empresa que tenga
+licencia de servicio TIC,
+
+528
+00:31:23,767 --> 00:31:26,567
+cualquier empresa licenciataria,
+tenga o no tenga redes
+
+529
+00:31:26,667 --> 00:31:28,801
+va a poder ser contratada
+por cada uno de nosotros,
+
+530
+00:31:28,901 --> 00:31:31,701
+y ese servicio va a llegar
+a través de una red
+
+531
+00:31:31,767 --> 00:31:34,434
+que puede ser la misma o no
+de la que contratamos,
+
+532
+00:31:34,501 --> 00:31:35,934
+por lo tanto,
+¿a dónde vamos a llegar?
+
+533
+00:31:36,033 --> 00:31:38,367
+A que no tengamos 4 o 5
+agujeros en la pared
+
+534
+00:31:38,434 --> 00:31:40,367
+y tengamos multiplicidad
+de empresas a las que contar,
+
+535
+00:31:40,467 --> 00:31:44,601
+y si queremos cambiar
+de empresa tenemos que rompernos
+
+536
+00:31:44,701 --> 00:31:48,200
+la pared de vuelta para volver
+a instalarla,
+
+537
+00:31:48,300 --> 00:31:50,667
+sino que con un solo acceso,
+con un solo cable,
+
+538
+00:31:50,767 --> 00:31:53,300
+nosotros tengamos acceso
+a múltiples servicios
+
+539
+00:31:53,367 --> 00:31:55,734
+y tengamos acceso a múltiples
+empresas
+
+540
+00:31:55,801 --> 00:31:57,534
+que brinden esos servicios.
+
+541
+00:31:57,601 --> 00:32:02,567
+Para eso es fundamental,
+y esto es un rasgo esencial
+
+542
+00:32:02,667 --> 00:32:07,267
+de esta Ley, estamos declarando
+el carácter de servicio publico
+
+543
+00:32:07,334 --> 00:32:11,033
+esencial y estratégico de las
+tecnologías de la información
+
+544
+00:32:11,133 --> 00:32:15,767
+y las comunicaciones
+en competencia al uso y acceso
+
+545
+00:32:15,834 --> 00:32:19,767
+de las redes de telecomunicaciones
+para y entre los licenciatarios
+
+546
+00:32:19,834 --> 00:32:21,234
+de servicios TIC.
+
+547
+00:32:21,334 --> 00:32:26,734
+Estamos declarando que acceder
+al uso y acceso de las redes
+
+548
+00:32:26,801 --> 00:32:27,901
+para cada uno
+de los licenciatarios,
+
+549
+00:32:27,968 --> 00:32:30,100
+para los más pequeños,
+para los más grandes,
+
+550
+00:32:30,200 --> 00:32:32,567
+es un servicio público
+en la Argentina,
+
+551
+00:32:32,667 --> 00:32:35,133
+un viejo reclamo...
+
+552
+00:32:44,100 --> 00:32:47,868
+que va a permitir fundamentalmente
+y a través de esa declaración,
+
+553
+00:32:47,968 --> 00:32:51,901
+va a permitir desagregar
+las redes.
+
+554
+00:32:51,968 --> 00:32:55,000
+¿Qué significa desagregar
+las redes? Desmonopolizar.
+
+555
+00:32:55,100 --> 00:32:59,467
+Esta Ley se propone
+desmonopolizar el sector
+
+556
+00:32:59,567 --> 00:33:01,200
+de las comunicaciones.
+
+557
+00:33:01,267 --> 00:33:07,734
+Cuando nosotros, esto voy a tratar
+de explicarlo claramente,
+
+558
+00:33:07,801 --> 00:33:10,000
+una red de comunicaciones
+tiene muchas partes:
+
+559
+00:33:10,067 --> 00:33:11,667
+tiene la ley troncal
+de a fibra óptica,
+
+560
+00:33:11,767 --> 00:33:13,901
+que es lo que construye ARSAT,
+
+561
+00:33:13,968 --> 00:33:15,801
+tiene distintas formas
+de ir distribuyendo
+
+562
+00:33:15,901 --> 00:33:17,801
+hasta que llega a lo que
+se llama última milla,
+
+563
+00:33:17,901 --> 00:33:21,701
+es muy anglosajón,
+es el término que se utiliza,
+
+564
+00:33:21,834 --> 00:33:23,934
+entre la última caja
+de distribución
+
+565
+00:33:24,000 --> 00:33:25,901
+hasta la casa de cada uno
+de nosotros,
+
+566
+00:33:25,968 --> 00:33:30,467
+ese pedazo de red se denomina
+ultima milla.
+
+567
+00:33:30,567 --> 00:33:33,701
+Hoy en la Argentina
+esa última milla pertenece
+
+568
+00:33:33,801 --> 00:33:38,234
+y es operada, y se puede
+brindar servicios solamente
+
+569
+00:33:38,334 --> 00:33:40,734
+a través de una sola empresa.
+
+570
+00:33:40,801 --> 00:33:43,601
+A partir de ahora esa última
+milla se va a desagregar,
+
+571
+00:33:43,701 --> 00:33:46,834
+es decir que cualquier empresa
+de licenciatario va a poder,
+
+572
+00:33:46,934 --> 00:33:49,734
+a precio regulado por el Estado,
+
+573
+00:33:49,868 --> 00:33:54,968
+interconectarse con esa red
+para poder brindarse.
+
+574
+00:33:55,033 --> 00:33:59,367
+A uno le llega la red
+de una empresa A...
+
+575
+00:34:01,267 --> 00:34:03,067
+Y va a poder llegar a través
+de esta misma red,
+
+576
+00:34:03,200 --> 00:34:05,834
+por lo tanto vamos a resolver
+un viejo problema
+
+577
+00:34:05,934 --> 00:34:08,934
+y un viejo reclamo del sector
+de las comunicaciones
+
+578
+00:34:09,033 --> 00:34:11,634
+que estaba esbozado
+en alguna normativa
+
+579
+00:34:11,767 --> 00:34:14,534
+y que era una exigencia
+que cualquiera puede usar
+
+580
+00:34:14,601 --> 00:34:18,267
+la red porque sino nos pasa
+que tenemos que tener
+
+581
+00:34:18,334 --> 00:34:22,667
+5, 6 o 10 redes para cada
+una de las empresas,
+
+582
+00:34:22,767 --> 00:34:27,300
+y se vuelve absolutamente
+imposible para una cooperativa,
+
+583
+00:34:27,400 --> 00:34:29,501
+para una pymes,
+para un licenciatario de servicios
+
+584
+00:34:29,601 --> 00:34:33,400
+de comunicación audiovisual
+construir una red completa
+
+585
+00:34:33,501 --> 00:34:35,000
+para poder dar un servicio.
+
+586
+00:34:35,100 --> 00:34:39,300
+Así que esto es esencial,
+esto nos pone a la altura
+
+587
+00:34:39,400 --> 00:34:42,133
+de todos los países,
+de los países de Europa,
+
+588
+00:34:42,234 --> 00:34:45,434
+de los grandes desarrollos
+que se han dado en materia
+
+589
+00:34:45,501 --> 00:34:48,567
+de comunicaciones, se han
+dado a través de este mecanismo
+
+590
+00:34:48,667 --> 00:34:54,834
+que garantiza el precio
+necesario para seguir
+
+591
+00:34:54,934 --> 00:34:56,434
+construyendo redes
+en la Argentina,
+
+592
+00:34:56,501 --> 00:34:59,601
+pero permite a todos acceder
+a esas redes y, por lo tanto,
+
+593
+00:34:59,701 --> 00:35:01,367
+¿qué tenemos los usuarios,
+que al fin de cuentas
+
+594
+00:35:01,434 --> 00:35:04,334
+somos los más beneficiados
+con este mecanismo?
+
+595
+00:35:04,434 --> 00:35:06,901
+Múltiples posibilidades
+de elección
+
+596
+00:35:06,968 --> 00:35:09,901
+a precios cada vez más justos,
+cada vez más razonables,
+
+597
+00:35:10,033 --> 00:35:15,334
+y eso es en definitiva lo que
+estamos buscando con esta Ley.
+
+598
+00:35:15,434 --> 00:35:21,601
+Finalmente, tiene otros
+beneficios, si bien es corta,
+
+599
+00:35:21,667 --> 00:35:24,100
+es una trabajo que nos hemos
+tomado, la verdad que van
+
+600
+00:35:24,167 --> 00:35:26,367
+a encontrar una Ley
+que por la profundidad
+
+601
+00:35:26,434 --> 00:35:28,000
+y la complejidad del tema
+que toca realmente,
+
+602
+00:35:28,067 --> 00:35:30,234
+tiene creo 25 carillas,
+
+603
+00:35:30,300 --> 00:35:37,434
+es un proyecto de Ley muy simple,
+muy claro, muy consistente
+
+604
+00:35:37,501 --> 00:35:39,534
+en sí mismo, van a encontrar
+mucha consistencia
+
+605
+00:35:39,634 --> 00:35:42,100
+en este proyecto,
+pero va a generar y va a permitir
+
+606
+00:35:42,167 --> 00:35:45,300
+al Estado garantizar muchas
+cosas que nos venían reclamando,
+
+607
+00:35:45,367 --> 00:35:49,601
+por ejemplo: se va a eliminar,
+obviamente cumpliendo
+
+608
+00:35:49,701 --> 00:35:52,167
+con la aprobación de la Ley
+y con los planes técnicos
+
+609
+00:35:52,234 --> 00:35:56,234
+necesarios, la larga distancia
+en los servicios de telefonía.
+
+610
+00:36:05,734 --> 00:36:09,267
+A partir del dictado de esta Ley
+se considera una sola zona
+
+611
+00:36:09,334 --> 00:36:12,234
+a la República Argentina y,
+por lo tanto,
+
+612
+00:36:12,300 --> 00:36:15,167
+los planes fundamentales
+va a tener que progresivamente
+
+613
+00:36:15,267 --> 00:36:18,901
+eliminar la larga distancia
+y hablar desde Buenos Aires
+
+614
+00:36:19,000 --> 00:36:21,367
+hasta Jujuy,
+o entre Jujuy y Córdoba,
+
+615
+00:36:21,501 --> 00:36:24,000
+y entre La Plata y Buenos Aires,
+
+616
+00:36:24,100 --> 00:36:26,367
+o entre Pilar y La Plata,
+
+617
+00:36:26,467 --> 00:36:29,300
+va a tener el mismo precio
+para todos,
+
+618
+00:36:29,400 --> 00:36:31,701
+porque ya a esta altura
+a 40 años de la Ley
+
+619
+00:36:31,801 --> 00:36:34,434
+de Telecomunicaciones
+no se justifica
+
+620
+00:36:34,534 --> 00:36:36,701
+el servicio de larga distancia,
+
+621
+00:36:36,834 --> 00:36:38,868
+estábamos apretados
+por cuestiones normativas,
+
+622
+00:36:38,968 --> 00:36:42,467
+esta Ley nos va a permitir
+resolver ese problema,
+
+623
+00:36:42,567 --> 00:36:49,267
+y a su vez va a incorporar
+la enorme cantidad de servicios
+
+624
+00:36:49,367 --> 00:36:52,734
+que hoy están dando vueltas
+por ahí y que son también
+
+625
+00:36:52,834 --> 00:36:58,567
+una situación de laguna
+jurídica, de laguna axiológica
+
+626
+00:36:58,667 --> 00:37:03,133
+porque la Ley no lo contempla,
+pero es una laguna moral,
+
+627
+00:37:03,200 --> 00:37:05,434
+a todos nos gustaría
+que esté regulado,
+
+628
+00:37:05,534 --> 00:37:07,767
+nos reclama la Secretaria
+de Comunicaciones
+
+629
+00:37:07,834 --> 00:37:09,000
+al Ministerio de Planificación,
+
+630
+00:37:09,067 --> 00:37:10,601
+y por qué no está regulado
+la voz sobre IP,
+
+631
+00:37:10,701 --> 00:37:14,801
+y por qué no hacen algo
+con todos los servicios TIC.
+
+632
+00:37:14,901 --> 00:37:16,701
+Y porque no teníamos la norma,
+
+633
+00:37:16,834 --> 00:37:18,701
+no teníamos a la estructura
+legal para hacerlo.
+
+634
+00:37:18,834 --> 00:37:21,100
+Estábamos de acuerdo
+de que efectivamente,
+
+635
+00:37:21,167 --> 00:37:23,634
+moralmente, éticamente,
+políticamente había
+
+636
+00:37:23,701 --> 00:37:26,033
+que hacer algo con eso,
+pero para eso necesitamos
+
+637
+00:37:26,167 --> 00:37:30,434
+una norma legal que lo exprese,
+y esta Ley viene a resolver
+
+638
+00:37:30,501 --> 00:37:34,467
+una enorme cantidad de vacios
+legales que teníamos
+
+639
+00:37:34,534 --> 00:37:36,901
+porque nosotros queríamos
+regular,
+
+640
+00:37:37,000 --> 00:37:39,167
+queríamos resolver los problemas,
+y nos encontramos,
+
+641
+00:37:39,267 --> 00:37:42,367
+como a lo largo de la campaña
+Usa Tu Voz,
+
+642
+00:37:42,434 --> 00:37:44,601
+cuando recorrimos el país
+durante el año 2013,
+
+643
+00:37:44,701 --> 00:37:50,434
+son alrededor de 1.400 fojas
+que juntamos de opiniones
+
+644
+00:37:50,534 --> 00:37:54,467
+y observaciones en el marco
+de la necesidad de regulación
+
+645
+00:37:54,534 --> 00:37:57,801
+que tenían las comunicaciones,
+
+646
+00:37:57,901 --> 00:38:00,634
+porque esto no nace
+de un día para el otro,
+
+647
+00:38:00,734 --> 00:38:03,033
+siempre nos dicen que tardamos
+mucho, y en la misma nota
+
+648
+00:38:03,133 --> 00:38:05,501
+que nos dicen que tardamos mucho
+nos dicen que estamos apurados.
+
+649
+00:38:05,634 --> 00:38:08,000
+Esto ha llevado un tiempo
+de maduración,
+
+650
+00:38:08,133 --> 00:38:11,234
+no es una ley que nace
+de un día para el otro,
+
+651
+00:38:11,300 --> 00:38:14,601
+está bueno comentarlo,
+porque primero está sostenido
+
+652
+00:38:14,734 --> 00:38:16,968
+en políticas públicas claras,
+concretas, palpables,
+
+653
+00:38:17,067 --> 00:38:19,901
+que son las que explicitó
+como mucha claridad
+
+654
+00:38:20,000 --> 00:38:23,267
+el Ministro De Vido,
+pero también en una tarea
+
+655
+00:38:23,367 --> 00:38:26,267
+constante y permanente de trabajo:
+
+656
+00:38:26,334 --> 00:38:29,667
+hemos hecho enormes consultas
+publicas, campañas públicas,
+
+657
+00:38:29,767 --> 00:38:32,801
+no hemos reunido con cantidad
+de foros,
+
+658
+00:38:32,868 --> 00:38:36,133
+hemos abierto páginas,
+hemos establecido consultas
+
+659
+00:38:36,234 --> 00:38:38,300
+y hemos hecho propuestas
+regulatorias,
+
+660
+00:38:38,434 --> 00:38:41,434
+como el reglamente de calidad
+que finalmente salió
+
+661
+00:38:41,534 --> 00:38:44,067
+y la propuesta del reglamento
+de usuarios
+
+662
+00:38:44,167 --> 00:38:45,801
+que muchos me preguntan:
+
+663
+00:38:45,901 --> 00:38:46,501
+¿Y qué pasó con ese
+reglamento de usuario?
+
+664
+00:38:46,601 --> 00:38:49,801
+Acá está, ese trabajo,
+esa propuesta, ese proyecto
+
+665
+00:38:49,901 --> 00:38:53,667
+que habíamos discutido
+con todo la sociedad,
+
+666
+00:38:53,767 --> 00:38:58,567
+hoy está fundamentalmente
+plasmada en este proyecto
+
+667
+00:38:58,667 --> 00:39:07,501
+de Ley que sin duda va a ser
+una puerta al futuro,
+
+668
+00:39:07,634 --> 00:39:10,200
+nos va a terminar de poner
+a la Argentina
+
+669
+00:39:10,300 --> 00:39:11,367
+en el lugar que le corresponde,
+
+670
+00:39:11,434 --> 00:39:13,100
+porque en los hechos
+lo estamos haciendo
+
+671
+00:39:13,200 --> 00:39:17,534
+porque estamos licitando
+la tecnología 4G el día viernes,
+
+672
+00:39:17,634 --> 00:39:20,934
+porque tenemos más de 30.000
+kilómetros de fibra óptica
+
+673
+00:39:21,033 --> 00:39:25,934
+conectada, tenemos 62 millones
+de celulares vendidos
+
+674
+00:39:26,033 --> 00:39:27,334
+hasta el mes de febrero,
+
+675
+00:39:27,434 --> 00:39:29,434
+tenemos un crecimiento
+de internet enorme,
+
+676
+00:39:29,534 --> 00:39:32,133
+tenemos un nivel de universalidad
+muy importante,
+
+677
+00:39:32,234 --> 00:39:33,734
+nos falta calidad,
+
+678
+00:39:33,801 --> 00:39:38,267
+tenemos un satélite, insisto,
+parece que es lugar común
+
+679
+00:39:38,367 --> 00:39:42,601
+pero creo que van a pasar
+décadas para que nos demos cuenta
+
+680
+00:39:42,701 --> 00:39:45,601
+de lo que se han hecho solo
+en estos últimos meses
+
+681
+00:39:45,734 --> 00:39:48,367
+en materia de comunicaciones
+
+682
+00:39:48,467 --> 00:39:50,734
+y en materia de la vida
+de la Argentina:
+
+683
+00:39:50,834 --> 00:39:54,601
+el Código Civil también
+es un hito histórico
+
+684
+00:39:54,701 --> 00:39:56,200
+y se ha dado en estos
+últimos meses.
+
+685
+00:39:56,300 --> 00:40:02,767
+Esta Ley, como les decía,
+es no solo una buena herramienta,
+
+686
+00:40:02,868 --> 00:40:05,868
+no solo una buena idea,
+sino que es una necesidad
+
+687
+00:40:05,968 --> 00:40:09,334
+de todos los argentinos
+para garantizar la conectividad,
+
+688
+00:40:09,467 --> 00:40:11,467
+garantizar las nuevas tecnologías,
+
+689
+00:40:11,567 --> 00:40:14,267
+garantizar el acceso
+a todos y todas
+
+690
+00:40:14,367 --> 00:40:18,400
+de un servicio de calidad
+para el futuro de todos nosotros.
+
+691
+00:40:18,467 --> 00:40:20,868
+Muchísimas gracias a todos.
+
+692
+00:40:28,334 --> 00:40:30,901
+Dirige la palabra a continuación
+
+693
+00:40:31,000 --> 00:40:33,834
+el señor Ministro de Economía
+Doctor Axel Kicillof.
+
+694
+00:40:34,000 --> 00:40:38,100
+Muy brevemente voy a aportar
+algunos elementos económicos
+
+695
+00:40:38,200 --> 00:40:40,834
+que distinguen un poco
+el funcionamiento del sector
+
+696
+00:40:40,934 --> 00:40:46,501
+y los objetivos de la Ley,
+y voy a recalcar algunos puntos
+
+697
+00:40:46,601 --> 00:40:49,367
+que hacen a cuales son
+las consecuencias de esta ley
+
+698
+00:40:49,501 --> 00:40:52,167
+sobre cada uno de nosotros
+como consumidores,
+
+699
+00:40:52,234 --> 00:40:54,734
+como usuarios de las tecnologías
+de la información
+
+700
+00:40:54,834 --> 00:40:57,634
+y las comunicaciones
+que todo el mundo con internet,
+
+701
+00:40:57,734 --> 00:41:02,467
+con la tele, con el teléfono fijo,
+con el teléfono celular,
+
+702
+00:41:02,534 --> 00:41:07,400
+es un usuario y casi estamos
+sometidos a una dependencia
+
+703
+00:41:07,467 --> 00:41:10,567
+de los servicios de la información
+y la tecnología
+
+704
+00:41:10,667 --> 00:41:14,267
+en la era moderna, por eso
+cuando decía Norberto
+
+705
+00:41:14,367 --> 00:41:18,834
+que no puede ser una ley
+del año 72 la que regule
+
+706
+00:41:18,934 --> 00:41:22,334
+los servicios de internet
+y los teléfonos celulares
+
+707
+00:41:22,434 --> 00:41:25,667
+cuando no existía ni internet
+ni los teléfonos celulares,
+
+708
+00:41:25,767 --> 00:41:28,400
+o sea que la creatividad
+y la previsibilidad humana
+
+709
+00:41:28,467 --> 00:41:31,767
+no pueden llegar al punto
+de que una ley de hace 40 años
+
+710
+00:41:31,868 --> 00:41:35,400
+regule cosas que hoy todos usamos,
+que son de nuestra vida cotidiana,
+
+711
+00:41:35,534 --> 00:41:38,400
+la de los chicos de 6 años
+que tienen su teléfono celular,
+
+712
+00:41:38,501 --> 00:41:40,300
+bueno, en el 72 no existía.
+
+713
+00:41:40,400 --> 00:41:43,133
+Así que fue una ley realmente
+hecha para otra cosa,
+
+714
+00:41:43,234 --> 00:41:45,234
+hay que ponerse a la altura
+de las circunstancias,
+
+715
+00:41:45,334 --> 00:41:47,601
+cuando vemos los datos,
+voy a ser muy breve,
+
+716
+00:41:47,701 --> 00:41:49,267
+pero datos económicos,
+
+717
+00:41:49,400 --> 00:41:52,501
+tomamos al sector de tecnología
+de la información
+
+718
+00:41:52,601 --> 00:41:57,734
+en la comunicaciones,
+desde 2003 hasta ahora,
+
+719
+00:41:57,834 --> 00:42:02,767
+y vemos lo que ha significado
+la evolución de las ventas
+
+720
+00:42:02,868 --> 00:42:06,767
+en estos servicios, vemos que
+era un sector relativamente
+
+721
+00:42:06,868 --> 00:42:10,067
+modesto y que hoy representa
+también un porcentaje importante
+
+722
+00:42:10,167 --> 00:42:13,701
+los gastos de la familia,
+y lo vivimos todos cada día
+
+723
+00:42:13,801 --> 00:42:17,000
+cuando por un lado hay que pagar
+el celular por otro lado el cable.
+
+724
+00:42:17,100 --> 00:42:19,467
+Nos quejamos muchas veces
+de la tarifa de la luz, del agua,
+
+725
+00:42:19,567 --> 00:42:24,300
+pero a todos se nos ha agregado
+en los gastos cotidianos
+
+726
+00:42:24,400 --> 00:42:27,033
+todo lo relativo a la tecnología
+de la información
+
+727
+00:42:27,133 --> 00:42:32,534
+y las comunicaciones, y el Estado
+ha tenido en base a políticas
+
+728
+00:42:32,601 --> 00:42:36,200
+fácticas como contaba recién
+De Vido,
+
+729
+00:42:36,300 --> 00:42:41,334
+ha tenido una intervención
+sustancial en que esos costos,
+
+730
+00:42:41,434 --> 00:42:43,501
+los costos de esos servicios
+no se disparen,
+
+731
+00:42:43,601 --> 00:42:45,234
+la calidad sea buena,
+pero lo hemos hecho
+
+732
+00:42:45,367 --> 00:42:49,000
+sin el instrumento básico que hoy
+después de haber andado tanto,
+
+733
+00:42:49,133 --> 00:42:51,634
+de haber puesto, y de nuevo,
+parece una metáfora,
+
+734
+00:42:51,734 --> 00:42:54,601
+pero haber llegado al punto
+de poner un satélite en orbita
+
+735
+00:42:54,701 --> 00:42:57,067
+para que esto sea posible,
+estamos en condiciones
+
+736
+00:42:57,167 --> 00:42:59,934
+de ordenarlo a través de un marco
+normativo completo
+
+737
+00:43:00,067 --> 00:43:03,133
+y que tiene en cuenta
+cuál es el estado del arte hoy
+
+738
+00:43:03,234 --> 00:43:06,534
+en el terreno de estas
+tecnologías.
+
+739
+00:43:06,634 --> 00:43:08,734
+Pero como se observa
+en el grafico,
+
+740
+00:43:08,834 --> 00:43:12,067
+ha sido un crecimiento exponencial
+de la facturación
+
+741
+00:43:12,167 --> 00:43:15,133
+de las empresas de estos sectores
+que significa,
+
+742
+00:43:15,234 --> 00:43:18,234
+porque esa facturación no es más
+que el gasto mirado del otro lado
+
+743
+00:43:18,334 --> 00:43:21,167
+de todos nosotros en lo que hace,
+como decía recién,
+
+744
+00:43:21,267 --> 00:43:23,367
+en internet, cable
+y teléfono móvil,
+
+745
+00:43:23,434 --> 00:43:25,033
+que era algo que no existía
+hace un tiempo,
+
+746
+00:43:25,100 --> 00:43:27,534
+y son facturas que hoy pagamos
+todos nosotros,
+
+747
+00:43:27,634 --> 00:43:30,434
+muchas veces en un esquema
+bastante caótico,
+
+748
+00:43:30,534 --> 00:43:33,968
+porque son proveedores distintos,
+con calidades distintas,
+
+749
+00:43:34,067 --> 00:43:37,033
+y que ha hecho nichos de mercado,
+y esto es lo central
+
+750
+00:43:37,133 --> 00:43:39,133
+desde el punto de vista
+de la estructura de mercado:
+
+751
+00:43:39,234 --> 00:43:43,501
+se han alojado, albergado empresas
+en sectores nuevos,
+
+752
+00:43:43,601 --> 00:43:48,234
+y han generado nuevos monopolios,
+nuevos oligopolios,
+
+753
+00:43:48,300 --> 00:43:50,400
+estructuras muy concentradas
+que como todos sabemos,
+
+754
+00:43:50,501 --> 00:43:53,934
+cuando la competencia no fluye,
+cuando no aparece la posibilidad
+
+755
+00:43:54,000 --> 00:43:57,767
+de entrar sobre todo cuando son
+gastos de inversión tan fuertes,
+
+756
+00:43:57,834 --> 00:43:59,300
+porque este es el problema
+central,
+
+757
+00:43:59,400 --> 00:44:01,133
+también lo mencionaba Norberto,
+
+758
+00:44:01,234 --> 00:44:03,067
+cuando alguien hace
+el tendido de la red,
+
+759
+00:44:03,133 --> 00:44:05,868
+el tendido troncal,
+prácticamente le es imposible
+
+760
+00:44:05,968 --> 00:44:09,267
+a un competidor entrar
+en el mismo circuito
+
+761
+00:44:09,367 --> 00:44:11,634
+porque debería de nuevo
+hacer todo el tendido,
+
+762
+00:44:11,734 --> 00:44:14,267
+perforar las veredas
+o hacerlo aéreo,
+
+763
+00:44:14,334 --> 00:44:17,300
+entonces nosotros nos volvemos
+víctimas de ese proveedor
+
+764
+00:44:17,400 --> 00:44:20,367
+de la zona que tal vez
+es el único, o tal vez hay dos,
+
+765
+00:44:20,434 --> 00:44:23,167
+y si es el único o hay dos
+probablemente se pongan
+
+766
+00:44:23,234 --> 00:44:26,033
+de acuerdo con las tarifas
+y en lugar de competir
+
+767
+00:44:26,133 --> 00:44:28,868
+por un mejor servicio,
+por una mejor velocidad
+
+768
+00:44:28,934 --> 00:44:30,467
+en internet,
+por una mejor calidad,
+
+769
+00:44:30,567 --> 00:44:33,434
+somos rehenes de los pocos
+proveedores que han encontrado
+
+770
+00:44:33,501 --> 00:44:34,801
+ese nicho de mercado.
+
+771
+00:44:34,868 --> 00:44:37,267
+Hacen falta instrumentos
+de regulación para que
+
+772
+00:44:37,367 --> 00:44:40,000
+todos los argentinos podamos
+acceder con calidad,
+
+773
+00:44:40,067 --> 00:44:43,634
+con buen precio y con competencia
+a servicios que hoy son
+
+774
+00:44:43,734 --> 00:44:46,167
+un derecho humano,
+como marca esta Ley,
+
+775
+00:44:46,267 --> 00:44:48,100
+porque sin el celular,
+sin el internet,
+
+776
+00:44:48,200 --> 00:44:51,334
+sin en el cable muchas veces,
+en algunos sectores,
+
+777
+00:44:51,434 --> 00:44:54,801
+estamos descolgados del mundo,
+de forma tal que se ha convertido
+
+778
+00:44:54,901 --> 00:44:57,667
+en un verdadero derecho humano,
+un derecho de acceso,
+
+779
+00:44:57,734 --> 00:45:02,133
+un derecho a la información,
+un derecho a la participación
+
+780
+00:45:02,200 --> 00:45:05,567
+política, cultural, es por eso
+que hace falta, es menester,
+
+781
+00:45:05,634 --> 00:45:10,267
+es una necesidad darle un nuevo
+marco jurídico a todo esto.
+
+782
+00:45:10,367 --> 00:45:14,200
+Cuando uno observa, y aquí
+tengo unos datos más cortos,
+
+783
+00:45:14,267 --> 00:45:18,634
+simplemente como y con que
+dinamismo prospera este sector,
+
+784
+00:45:18,767 --> 00:45:21,868
+acá tengo todo lo que serían
+tecnología de la información
+
+785
+00:45:21,934 --> 00:45:24,667
+en las comunicaciones,
+de abajo para arriba
+
+786
+00:45:24,767 --> 00:45:26,634
+en cada una de las barritas
+de azul más oscuro
+
+787
+00:45:26,734 --> 00:45:31,033
+a más claro tenemos datos
+de voz móvil, el celular,
+
+788
+00:45:31,100 --> 00:45:35,501
+datos móviles, cuando recibimos
+internet por el celular,
+
+789
+00:45:35,601 --> 00:45:38,567
+televisión, voz fija,
+
+790
+00:45:38,667 --> 00:45:41,300
+que es el teléfono
+que tenemos en casa,
+
+791
+00:45:41,400 --> 00:45:44,400
+banda ancha fija,
+cuando tenemos por un cable
+
+792
+00:45:44,467 --> 00:45:48,534
+que te llega internet,
+y tenemos datos fijos terminales.
+
+793
+00:45:48,601 --> 00:45:51,767
+Bueno, todos estos servicios
+lo que se observa básicamente
+
+794
+00:45:51,868 --> 00:45:56,200
+es que ha habido también un viaje
+que es un cambio tecnológico
+
+795
+00:45:56,267 --> 00:46:00,534
+opero también de mercado
+hacia todo lo que es los datos,
+
+796
+00:46:00,601 --> 00:46:05,200
+como han crecido los datos,
+como hoy a través de internet
+
+797
+00:46:05,300 --> 00:46:08,000
+podemos hablar por teléfono,
+ver películas,
+
+798
+00:46:08,100 --> 00:46:09,901
+entonces esto es muy dinámico,
+
+799
+00:46:10,000 --> 00:46:14,901
+pero cuando logramos ese dinamismo
+a nivel de empresas,
+
+800
+00:46:15,000 --> 00:46:17,601
+y acá simplemente sin mencionar
+los nombres,
+
+801
+00:46:17,701 --> 00:46:19,300
+después voy a distribuir
+las filminas,
+
+802
+00:46:19,400 --> 00:46:20,801
+pero cuando uno ve todos
+esos mercados,
+
+803
+00:46:20,901 --> 00:46:25,300
+esa enorme y sideral facturación,
+esas ventas crecientes,
+
+804
+00:46:25,367 --> 00:46:28,133
+lo que encuentra es que para
+teléfono móvil tenemos,
+
+805
+00:46:28,234 --> 00:46:30,601
+miren simplemente lo fuerte,
+tres compañías,
+
+806
+00:46:30,701 --> 00:46:34,133
+para telefonía fija
+tres compañías,
+
+807
+00:46:34,234 --> 00:46:36,667
+para banda ancha tres compañías,
+
+808
+00:46:36,767 --> 00:46:39,667
+y para cable dos compañías.
+
+809
+00:46:39,767 --> 00:46:45,200
+Evidentemente este volumen
+de negocio requiere una Ley
+
+810
+00:46:45,300 --> 00:46:48,400
+que permita la competencia,
+porque con la Ley
+
+811
+00:46:48,501 --> 00:46:51,400
+de hace 40 años y con lo que
+pasó con las privatizaciones
+
+812
+00:46:51,501 --> 00:46:55,734
+de los 90, nos quedamos con
+todos segmentos concentrados,
+
+813
+00:46:55,834 --> 00:46:58,901
+en términos de cantidad
+de empresas y, para colmo,
+
+814
+00:46:59,000 --> 00:47:01,400
+disjuntos, con lo cual no es
+que uno solamente está sometido
+
+815
+00:47:01,501 --> 00:47:04,534
+en dos o tres empresas
+para las tecnologías
+
+816
+00:47:04,634 --> 00:47:08,133
+de información y comunicaciones,
+sino que en cada segmento,
+
+817
+00:47:08,234 --> 00:47:11,000
+en el cable son dos,
+en el móvil son tres,
+
+818
+00:47:11,133 --> 00:47:14,601
+y entonces tiene que pagar
+muchas veces precios
+
+819
+00:47:14,701 --> 00:47:17,200
+que incluyen una rentabilidad
+extraordinaria
+
+820
+00:47:17,300 --> 00:47:19,901
+por la concentración,
+y no hay un solo servicio,
+
+821
+00:47:20,033 --> 00:47:22,267
+sino servicios que se van
+haciendo esenciales
+
+822
+00:47:22,400 --> 00:47:24,334
+y multiplicando, y son con
+diferentes empresas,
+
+823
+00:47:24,434 --> 00:47:27,501
+pero en cada una de ellas
+nos vacunan con las tarifas
+
+824
+00:47:27,601 --> 00:47:30,400
+y nos ponen a los argentinos
+a merced del único
+
+825
+00:47:30,501 --> 00:47:32,801
+que dispone de la tecnología
+o de la infraestructura,
+
+826
+00:47:32,868 --> 00:47:36,067
+o el que haya llegado primero
+o el que tenía mayor ventaja.
+
+827
+00:47:36,133 --> 00:47:40,801
+Otro tanto, cuando uno mira
+ya todo el sector,
+
+828
+00:47:40,868 --> 00:47:42,968
+porque eso era dividido
+por cada una,
+
+829
+00:47:43,033 --> 00:47:48,334
+pero son básicamente
+5 compañías las que se dividen
+
+830
+00:47:48,434 --> 00:47:51,901
+en el 88% de las ventas,
+y esto no puede ser,
+
+831
+00:47:52,000 --> 00:47:53,834
+y tampoco es así en todo
+el mundo.
+
+832
+00:47:53,934 --> 00:47:58,834
+Así que esto está añejo
+de tutto y hace falta
+
+833
+00:47:58,934 --> 00:48:02,100
+adecuarlo a la modernidad.
+
+834
+00:48:02,200 --> 00:48:06,234
+¿Qué es lo que propone esta Ley,
+siendo muy claro?
+
+835
+00:48:06,334 --> 00:48:12,000
+Por un lado están las redes,
+por un lado está el transporte,
+
+836
+00:48:12,100 --> 00:48:13,634
+por un lado está el vehículo,
+
+837
+00:48:13,734 --> 00:48:15,334
+lo pongo para que lo entienda
+todo el mundo:
+
+838
+00:48:15,434 --> 00:48:19,734
+el cable que te llega a la casa,
+eso es una cuestión,
+
+839
+00:48:19,834 --> 00:48:23,167
+y después separado de eso
+están los contenidos
+
+840
+00:48:23,267 --> 00:48:25,200
+que llegan por ese cable.
+
+841
+00:48:25,267 --> 00:48:28,067
+Lo que hace esta Ley es poner
+como servicio publico
+
+842
+00:48:28,167 --> 00:48:32,801
+esa infraestructura
+que permite que llegue a tu casa
+
+843
+00:48:32,901 --> 00:48:37,901
+la voz, los datos, la tele,
+que llegue a tu casa.
+
+844
+00:48:38,000 --> 00:48:39,501
+¿Qué pretendemos con esto?
+
+845
+00:48:39,567 --> 00:48:42,701
+Que regulando la velocidad
+y regulando la tarifa
+
+846
+00:48:42,801 --> 00:48:46,133
+se posibilite la inversión
+pero que a todos nosotros
+
+847
+00:48:46,234 --> 00:48:49,601
+nos llegue un solo cable,
+el mejor cable posible,
+
+848
+00:48:49,701 --> 00:48:55,000
+fibra óptica es el objetivo
+de esto, digital, no analógico,
+
+849
+00:48:55,100 --> 00:48:57,968
+a todo el mundo, que le llegue
+a todos los argentinos
+
+850
+00:48:58,067 --> 00:49:01,167
+a su casa, pero lo que pasa
+dentro de ese cable
+
+851
+00:49:01,234 --> 00:49:04,400
+que tiene tarifa regulada,
+que tiene tecnología regulada,
+
+852
+00:49:04,467 --> 00:49:09,100
+que apunta a la excelencia,
+lo que llega adentro de ese cable
+
+853
+00:49:09,200 --> 00:49:12,534
+es absolutamente libre,
+son los contenidos,
+
+854
+00:49:12,634 --> 00:49:15,734
+que haya plena competencia
+y plena diversidad
+
+855
+00:49:15,834 --> 00:49:19,100
+en los contenidos,
+esta Ley no regula contenidos.
+
+856
+00:49:19,200 --> 00:49:23,067
+¿Por qué? Porque el objeto
+de esta Ley es que el hecho
+
+857
+00:49:23,167 --> 00:49:24,767
+de monopolizar los contenidos
+
+858
+00:49:24,834 --> 00:49:28,767
+o monopolizar el tipo
+de segmento no impida
+
+859
+00:49:28,834 --> 00:49:31,667
+que todos accedamos
+a la mejor tecnología
+
+860
+00:49:31,767 --> 00:49:34,400
+y al mejor precio,
+y a la mejor velocidad
+
+861
+00:49:34,501 --> 00:49:36,701
+y con la mejor calidad.
+
+862
+00:49:36,767 --> 00:49:38,834
+Entonces, nosotros como Estado
+tenemos que asegurar
+
+863
+00:49:38,901 --> 00:49:40,634
+que todo el mundo tenga
+ese acceso,
+
+864
+00:49:40,701 --> 00:49:43,133
+que no por alguien ser dueño
+del contenido
+
+865
+00:49:43,234 --> 00:49:47,300
+o ser dueño de la red,
+haga una mala red
+
+866
+00:49:47,400 --> 00:49:50,467
+para vender su contenido
+y excluya a los demás
+
+867
+00:49:50,567 --> 00:49:54,200
+de la posibilidad de llegar
+a cada uno de los hogares,
+
+868
+00:49:54,267 --> 00:49:59,367
+o al revés, por ser dueño
+de la red limite los contenidos.
+
+869
+00:49:59,467 --> 00:50:02,634
+Entonces esto como es la mejor
+práctica internacional dice:
+
+870
+00:50:02,734 --> 00:50:07,067
+la red, el vehículo,
+el transporte tiene que tener
+
+871
+00:50:07,167 --> 00:50:10,234
+estándares de calidad,
+tiene que tener equidad,
+
+872
+00:50:10,300 --> 00:50:13,200
+tiene que tener precio,
+tiene que tener calidad,
+
+873
+00:50:13,300 --> 00:50:18,000
+es un derecho de todos
+los argentinos acceder a esa
+
+874
+00:50:18,100 --> 00:50:19,934
+que es la mejor tecnología.
+
+875
+00:50:20,000 --> 00:50:23,834
+Una vez determinado eso,
+lo que pase por la red es neutral,
+
+876
+00:50:23,934 --> 00:50:28,567
+que compitan, que propongan,
+que todos tengan derecho
+
+877
+00:50:28,667 --> 00:50:31,968
+a ofrecernos la mayor
+diversidad posible
+
+878
+00:50:32,033 --> 00:50:35,567
+en términos de contenido,
+en términos de calidad,
+
+879
+00:50:35,667 --> 00:50:37,801
+de diversidad de servicio,
+
+880
+00:50:37,901 --> 00:50:39,467
+que eso sea una elección
+de cada uno,
+
+881
+00:50:39,567 --> 00:50:43,100
+pero que no monopolicen
+la tecnología y las redes
+
+882
+00:50:43,200 --> 00:50:45,133
+para imponer determinados
+contenidos,
+
+883
+00:50:45,267 --> 00:50:48,267
+o que por tener la red
+no nos dejen afuera
+
+884
+00:50:48,367 --> 00:50:51,400
+de los contenidos a los que
+queremos acceder,
+
+885
+00:50:51,501 --> 00:50:55,467
+y ahí viene lo que dice Norberto,
+que para tener otro contenido
+
+886
+00:50:55,534 --> 00:50:57,334
+yo tengo que hacer otro
+agujero en la pared,
+
+887
+00:50:57,434 --> 00:51:00,367
+pagar otra tarifa mensual
+y estar cautivo
+
+888
+00:51:00,467 --> 00:51:04,267
+de una nueva empresa que lucra
+con el hecho de que no existe
+
+889
+00:51:04,367 --> 00:51:07,868
+la regulación que todos
+los argentinos necesitamos.
+
+890
+00:51:07,934 --> 00:51:11,701
+Es por eso que el objetivo
+de esta Ley es democratizar,
+
+891
+00:51:11,801 --> 00:51:14,300
+mejorar el servicio,
+mejorar la calidad,
+
+892
+00:51:14,400 --> 00:51:18,801
+ponernos a todos a tono
+de las mejores practicas
+
+893
+00:51:18,868 --> 00:51:21,000
+y la mejor tecnología
+internacional,
+
+894
+00:51:21,100 --> 00:51:24,067
+que no vengan a partir de hoy
+a mentir que esto es para
+
+895
+00:51:24,133 --> 00:51:26,934
+favorecer, para no favorecer,
+esto es absolutamente abierto,
+
+896
+00:51:27,033 --> 00:51:30,667
+absolutamente democrático,
+no se mete con los contenidos,
+
+897
+00:51:30,801 --> 00:51:35,834
+no censura, todo lo contrario,
+abre puertas, abre tecnologías,
+
+898
+00:51:35,934 --> 00:51:38,567
+abre acceso a todos
+los argentinos.
+
+899
+00:51:38,667 --> 00:51:40,234
+Muchas gracias.
+
+900
+00:51:48,634 --> 00:51:52,033
+Escuchamos a continuación
+al señor Jefe de Gabinete
+
+901
+00:51:52,133 --> 00:51:54,901
+de Ministros, Contador
+Jorge Capitanich.
+
+902
+00:51:54,968 --> 00:51:56,367
+Bueno, muy buenos días,
+
+903
+00:51:56,467 --> 00:51:59,801
+muchas gracias a todos y a todas
+por su presencia.
+
+904
+00:52:00,167 --> 00:52:04,267
+Acá junto a nuestro equipo,
+yo lo que quisiera transmitir
+
+905
+00:52:04,367 --> 00:52:08,534
+en primer lugar es que esto
+ha sido un trabajo en equipo,
+
+906
+00:52:08,634 --> 00:52:11,667
+multidisciplinario
+e interdisciplinario.
+
+907
+00:52:11,734 --> 00:52:15,801
+Un trabajo de equipo
+en donde Norberto, Julio, Axel
+
+908
+00:52:15,934 --> 00:52:21,033
+han podido propiciar
+la conjugación
+
+909
+00:52:21,100 --> 00:52:24,367
+de recursos humanos
+muy calificados para el diseño
+
+910
+00:52:24,467 --> 00:52:27,234
+de esta arquitectura legal,
+y también obviamente
+
+911
+00:52:27,334 --> 00:52:30,534
+la Secretaría Legal y Técnica
+para la revisión final
+
+912
+00:52:30,634 --> 00:52:34,667
+de este proyecto, bajo
+el liderazgo de nuestra Presidenta
+
+913
+00:52:34,734 --> 00:52:36,534
+Cristina Fernández de Kirchner.
+
+914
+00:52:36,634 --> 00:52:40,467
+Y quiero transmitir esto porque
+siempre uno observa operaciones
+
+915
+00:52:40,534 --> 00:52:42,667
+de prensa de distintos tipos
+para decir esta área
+
+916
+00:52:42,767 --> 00:52:44,634
+está peleada con tal,
+o este ministro con tal,
+
+917
+00:52:44,701 --> 00:52:46,868
+pero la verdad es que nosotros,
+bajo el liderazgo
+
+918
+00:52:46,934 --> 00:52:50,467
+de la Presidenta funcionamos
+como un equipo compacto, armónico,
+
+919
+00:52:50,567 --> 00:52:54,634
+que pretende cumplir los objetivos
+y las metas de gobierno
+
+920
+00:52:54,734 --> 00:52:58,033
+que la misma Presidenta nos fija.
+
+921
+00:52:58,133 --> 00:53:01,868
+Y nos parece muy bien hacer
+una muy breve síntesis
+
+922
+00:53:01,934 --> 00:53:05,334
+de lo que extensamente
+se ha dicho aquí.
+
+923
+00:53:05,434 --> 00:53:09,167
+En primer lugar, este proyecto
+de ley denominado
+
+924
+00:53:09,234 --> 00:53:14,400
+Argentina Digital,
+pretende modificar, reformar,
+
+925
+00:53:14,467 --> 00:53:20,167
+reemplazar y sustituir
+a la Ley 19.798,
+
+926
+00:53:20,234 --> 00:53:24,200
+con más de 40 años de vigencia.
+
+927
+00:53:24,267 --> 00:53:27,200
+Y esto se inscribe en un país
+como el nuestro,
+
+928
+00:53:27,300 --> 00:53:31,133
+la República Argentina, que es
+un país extenso geográficamente,
+
+929
+00:53:31,200 --> 00:53:34,100
+octavo en superficie en el mundo,
+
+930
+00:53:34,200 --> 00:53:37,000
+con casi 2,8 millones
+de kilómetros cuadrados,
+
+931
+00:53:37,100 --> 00:53:39,667
+40 millones de habitantes
+y con la característica
+
+932
+00:53:39,734 --> 00:53:44,567
+de tener una enorme distribución
+geográfico poblacional.
+
+933
+00:53:44,667 --> 00:53:47,767
+Por lo tanto nuestro país,
+extenso y disperso
+
+934
+00:53:47,834 --> 00:53:51,167
+desde el punto de vista
+poblacional,
+
+935
+00:53:51,267 --> 00:53:55,334
+debe inexorablemente tener
+en el Estado la capacidad
+
+936
+00:53:55,400 --> 00:54:01,200
+regulatoria para estimular
+la igualdad de oportunidades.
+
+937
+00:54:01,334 --> 00:54:05,434
+No hay ninguna posibilidad
+de acceso o accesibilidad
+
+938
+00:54:05,534 --> 00:54:08,267
+de carácter universal
+sin el Estado,
+
+939
+00:54:08,434 --> 00:54:11,767
+porque como ustedes saben
+las empresas que tienen
+
+940
+00:54:11,868 --> 00:54:15,434
+el incentivo inicial primario
+del lucro,
+
+941
+00:54:15,567 --> 00:54:18,834
+lo único que pretenden
+es maximizar sus utilidades.
+
+942
+00:54:18,968 --> 00:54:21,667
+Y si se pretende maximizar
+sus utilidades,
+
+943
+00:54:21,767 --> 00:54:26,834
+es mucho más redituable
+y rentable lograr una conexión
+
+944
+00:54:26,934 --> 00:54:30,501
+en materia tecnológica
+en el área metropolitana
+
+945
+00:54:30,601 --> 00:54:33,200
+de la Capital Federal,
+más altos ingresos,
+
+946
+00:54:33,300 --> 00:54:36,834
+mayor concentración
+geográfico poblacional.
+
+947
+00:54:36,901 --> 00:54:41,200
+No es lo mismo montar
+una plataforma digital
+
+948
+00:54:41,300 --> 00:54:43,734
+o todo lo que significa
+infraestructura digital
+
+949
+00:54:43,834 --> 00:54:48,534
+en distintos pueblos,
+atravesar llanuras, montañas,
+
+950
+00:54:48,667 --> 00:54:56,267
+que hacerlo en una manzana
+con 30 edificios con 20 pisos.
+
+951
+00:54:56,367 --> 00:54:59,434
+Obviamente los niveles
+de optimización de esa inversión
+
+952
+00:54:59,501 --> 00:55:01,968
+y su tasa de rentabilidad
+en virtud del ingreso
+
+953
+00:55:02,067 --> 00:55:03,834
+va a ser absolutamente diferente.
+
+954
+00:55:03,934 --> 00:55:07,133
+Y es allí donde el Estado
+tiene que intervenir
+
+955
+00:55:07,234 --> 00:55:09,701
+desde el punto de vista
+de garantizar la universalidad
+
+956
+00:55:09,801 --> 00:55:11,534
+y la accesibilidad.
+
+957
+00:55:11,601 --> 00:55:15,133
+Pero no solamente desde el punto
+de vista de la accesibilidad
+
+958
+00:55:15,234 --> 00:55:19,067
+de servicio, sino de la calidad
+homogénea del servicio.
+
+959
+00:55:19,167 --> 00:55:23,300
+Porque de lo contrario
+lo que ocurre es lo de siempre,
+
+960
+00:55:23,367 --> 00:55:27,200
+los lugares de mayor concentración
+relativa se llevan
+
+961
+00:55:27,300 --> 00:55:29,767
+la crema al negocio,
+la peor calidad del servicio
+
+962
+00:55:29,868 --> 00:55:33,467
+fuera y en consecuencia
+construimos un país
+
+963
+00:55:33,567 --> 00:55:34,934
+de primera y de segunda.
+
+964
+00:55:35,067 --> 00:55:37,667
+Y lo que nosotros pretendemos
+por la impronta de Néstor
+
+965
+00:55:37,767 --> 00:55:41,133
+y Cristina es construir un país
+para todos los argentinos,
+
+966
+00:55:41,234 --> 00:55:44,167
+con igualdad de oportunidades
+en cualquier lugar
+
+967
+00:55:44,267 --> 00:55:46,133
+en donde nos podamos encontrar.
+
+968
+00:55:46,234 --> 00:55:48,701
+Y eso obviamente
+es una política pública
+
+969
+00:55:48,834 --> 00:55:51,334
+que nosotros necesitamos remarcar.
+
+970
+00:55:51,400 --> 00:55:56,267
+El contexto de la Ley 19.798
+es absolutamente diferente
+
+971
+00:55:56,367 --> 00:55:58,601
+a este en materia de tecnología.
+
+972
+00:55:58,701 --> 00:56:03,033
+No había teléfonos celulares,
+mucho menos soñar con fibra óptica
+
+973
+00:56:03,133 --> 00:56:05,467
+ni obviamente el acceso
+a internet,
+
+974
+00:56:05,567 --> 00:56:07,067
+ni la velocidad
+de las transacciones
+
+975
+00:56:07,167 --> 00:56:08,601
+en materia de comunicación.
+
+976
+00:56:08,701 --> 00:56:12,968
+Y cuando uno observa el marco
+regulatorio existente en el país,
+
+977
+00:56:13,033 --> 00:56:17,434
+en el mundo, podría decir
+que existen tendencias múltiples,
+
+978
+00:56:17,534 --> 00:56:20,000
+de máxima desregulación
+en Estados Unidos,
+
+979
+00:56:20,100 --> 00:56:22,801
+de mayor regulación relativa
+en países asiáticos,
+
+980
+00:56:22,901 --> 00:56:24,634
+como por ejemplo Japón y Corea,
+
+981
+00:56:24,734 --> 00:56:26,868
+o eventualmente mecanismos
+de regulación mixta
+
+982
+00:56:26,968 --> 00:56:29,234
+como en los países europeos.
+
+983
+00:56:29,334 --> 00:56:33,367
+Pero en ese contexto lo que
+es necesario plantear
+
+984
+00:56:33,434 --> 00:56:37,701
+es no solamente por lo que
+significa la modernización
+
+985
+00:56:37,834 --> 00:56:39,300
+tecnológica existente,
+
+986
+00:56:39,400 --> 00:56:42,634
+por las características
+geográficas de nuestro país,
+
+987
+00:56:42,701 --> 00:56:44,400
+por la dispersión
+geográfico poblacional,
+
+988
+00:56:44,501 --> 00:56:48,534
+sino también por la política
+de Estado impulsada
+
+989
+00:56:48,634 --> 00:56:51,400
+durante esta gestión de gobierno.
+
+990
+00:56:51,467 --> 00:56:52,801
+Tanto el Presidente
+Néstor Kirchner
+
+991
+00:56:52,901 --> 00:56:55,534
+como nuestra Presidenta
+Cristina Fernández de Kirchner,
+
+992
+00:56:55,601 --> 00:56:59,834
+han impulsado una política
+en materia de comunicaciones
+
+993
+00:56:59,934 --> 00:57:02,200
+que se ha convertido
+en una política de Estado.
+
+994
+00:57:02,334 --> 00:57:05,667
+Esto implica una inversión
+sustantiva secuencial,
+
+995
+00:57:05,734 --> 00:57:10,801
+congruente, gradual y creciente
+en materia de telecomunicaciones.
+
+996
+00:57:10,868 --> 00:57:15,734
+En este contexto, es necesario
+remarcar desde el lanzamiento
+
+997
+00:57:15,801 --> 00:57:19,868
+de ARSAT recientemente,
+hasta la expansión extraordinaria
+
+998
+00:57:19,934 --> 00:57:23,067
+desde el punto de vista
+de la telefonía celular,
+
+999
+00:57:23,133 --> 00:57:25,734
+de la inversión en materia
+de fibra óptica
+
+1000
+00:57:25,834 --> 00:57:29,267
+y de todas las enumeraciones
+que explícita
+
+1001
+00:57:29,334 --> 00:57:32,834
+y coherentemente ha dicho
+Julio De Vido
+
+1002
+00:57:32,934 --> 00:57:36,634
+como ministro del área
+desde el año 2003 en adelante.
+
+1003
+00:57:36,734 --> 00:57:41,100
+En consecuencia, esta Ley
+Argentina Digital
+
+1004
+00:57:41,167 --> 00:57:46,033
+tiene un objetivo estratégico,
+que es precisamente construir
+
+1005
+00:57:46,133 --> 00:57:51,801
+una Argentina digital
+que permita la sustitución
+
+1006
+00:57:51,868 --> 00:57:55,067
+de la conectividad analógica.
+
+1007
+00:57:55,133 --> 00:57:58,434
+Y en ese contexto nosotros
+queremos reafirmar
+
+1008
+00:57:58,534 --> 00:58:01,067
+lo que esto significa,
+
+1009
+00:58:01,167 --> 00:58:04,734
+esto significa ni más ni menos
+que ampliación de derechos.
+
+1010
+00:58:04,801 --> 00:58:09,133
+Así como hubo ampliaciones
+de derechos en materia política,
+
+1011
+00:58:09,234 --> 00:58:12,067
+civil y social en esta última
+década
+
+1012
+00:58:12,133 --> 00:58:14,968
+y bajo la impronta del General
+Juan Domingo Perón,
+
+1013
+00:58:15,067 --> 00:58:18,467
+en la República Argentina
+es necesario entender claramente
+
+1014
+00:58:18,567 --> 00:58:22,367
+que esta iniciativa de carácter
+legislativo
+
+1015
+00:58:22,434 --> 00:58:25,334
+constituye una ampliación
+de derechos,
+
+1016
+00:58:25,434 --> 00:58:27,601
+entendiendo que el derecho
+a la comunicación
+
+1017
+00:58:27,667 --> 00:58:31,000
+es un derecho humano
+que garantiza universalidad
+
+1018
+00:58:31,067 --> 00:58:35,300
+y accesibilidad en condiciones
+equitativas y de calidad,
+
+1019
+00:58:35,367 --> 00:58:37,834
+lo cual es verdaderamente
+una definición
+
+1020
+00:58:37,901 --> 00:58:40,534
+n términos de ampliación
+de derechos.
+
+1021
+00:58:40,634 --> 00:58:46,701
+Y por eso nos parece
+muy importante la declaración
+
+1022
+00:58:46,801 --> 00:58:48,033
+de interés público
+que la misma norma prevé
+
+1023
+00:58:48,100 --> 00:58:49,434
+respecto al desarrollo
+y la regulación de las tecnologías
+
+1024
+00:58:49,501 --> 00:58:51,167
+de informática de la comunicación,
+
+1025
+00:58:51,267 --> 00:58:53,467
+con neutralidad de las redes,
+
+1026
+00:58:53,934 --> 00:58:58,501
+tal cual se ha enfatizado
+por todos nuestros expositores.
+
+1027
+00:58:58,601 --> 00:59:01,601
+También la posibilidad
+de que todos los habitantes
+
+1028
+00:59:01,701 --> 00:59:05,901
+de la República Argentina
+accedan a servicios de información
+
+1029
+00:59:05,968 --> 00:59:08,534
+y de comunicaciones
+en condiciones sociales
+
+1030
+00:59:08,634 --> 00:59:10,868
+y geográficas equitativas.
+
+1031
+00:59:10,968 --> 00:59:14,767
+También la caracterización
+de esta iniciativa legal
+
+1032
+00:59:14,834 --> 00:59:18,868
+como norma de orden público
+que excluye cualquier tipo
+
+1033
+00:59:18,968 --> 00:59:20,734
+de regulación de los contenidos,
+
+1034
+00:59:20,834 --> 00:59:23,501
+cualquiera fuere su medio
+de transmisión.
+
+1035
+00:59:23,567 --> 00:59:26,601
+También lo que he dicho
+anteriormente,
+
+1036
+00:59:26,701 --> 00:59:29,868
+la finalidad de que se trata
+de garantizar un derecho humano
+
+1037
+00:59:29,968 --> 00:59:33,234
+a la comunicación,
+el rol del Estado en función
+
+1038
+00:59:33,300 --> 00:59:36,100
+de las tecnologías a utilizar,
+
+1039
+00:59:36,167 --> 00:59:39,934
+la diferencia clara entre
+los mercados de generación
+
+1040
+00:59:40,033 --> 00:59:43,234
+de contenidos y el transporte
+de los mismos.
+
+1041
+00:59:43,334 --> 00:59:45,667
+Allí es muy importante remarcar
+lo siguiente:
+
+1042
+00:59:45,767 --> 00:59:47,701
+hay un stock de inversión
+desde el punto de vista
+
+1043
+00:59:47,834 --> 00:59:50,334
+de la plataforma digital,
+impulsado por el sector público
+
+1044
+00:59:50,400 --> 00:59:54,000
+y el sector privado,
+aquí se entiende claramente
+
+1045
+00:59:54,100 --> 00:59:56,868
+la separación de contenidos
+y lo que significa
+
+1046
+00:59:56,968 --> 00:59:58,934
+esta plataforma digital
+en materia de infraestructura,
+
+1047
+00:59:59,033 --> 01:00:02,100
+en materia de transporte,
+y obviamente esto significa
+
+1048
+01:00:02,200 --> 01:00:04,901
+el vehículo de la comunicación
+necesaria
+
+1049
+01:00:05,000 --> 01:00:08,200
+para llegar efectivamente
+al usuario.
+
+1050
+01:00:08,267 --> 01:00:11,634
+Y aquí me parece muy gravitante
+el hecho siguiente:
+
+1051
+01:00:11,734 --> 01:00:15,801
+ustedes saben que la fibra
+óptica tiene distintas etapas,
+
+1052
+01:00:15,868 --> 01:00:19,534
+desde lo que significa
+la colocación del caño tritubo,
+
+1053
+01:00:19,634 --> 01:00:21,801
+el soplado de la fibra óptica,
+
+1054
+01:00:21,868 --> 01:00:23,801
+la articulación de todos
+los equipos electrónicos y nodos
+
+1055
+01:00:23,868 --> 01:00:27,534
+hasta la última milla,
+todas estas instancias y etapas
+
+1056
+01:00:27,634 --> 01:00:30,100
+se han extendido,
+hay 12 provincias argentinas
+
+1057
+01:00:30,200 --> 01:00:33,501
+que tenemos la oportunidad
+de trabajar muy activamente
+
+1058
+01:00:33,601 --> 01:00:35,868
+gracias al Ministerio
+de Planificación,
+
+1059
+01:00:35,968 --> 01:00:38,534
+gracias a la política
+que impulsa nuestra Presidenta,
+
+1060
+01:00:38,634 --> 01:00:41,634
+pero nos parece muy importante
+lo que significa esta ley
+
+1061
+01:00:41,734 --> 01:00:43,467
+desde el punto de vista
+del marco regulatorio.
+
+1062
+01:00:43,567 --> 01:00:47,434
+También que esta ley implica
+una aplicación en todo
+
+1063
+01:00:47,501 --> 01:00:49,601
+el territorio de la jurisdicción
+federal
+
+1064
+01:00:49,667 --> 01:00:52,000
+y de la competencia
+contencioso administrativa.
+
+1065
+01:00:52,067 --> 01:00:53,567
+También lo estipula la Ley.
+
+1066
+01:00:53,634 --> 01:00:57,133
+Se establece un artículo
+respecto a la inviolabilidad
+
+1067
+01:00:57,234 --> 01:01:00,434
+de las comunicaciones.
+
+1068
+01:01:00,534 --> 01:01:02,934
+Se acuerdan que antes
+la prestación del servicio postal
+
+1069
+01:01:03,067 --> 01:01:06,601
+de correo era la inviolabilidad
+de la correspondencia,
+
+1070
+01:01:06,667 --> 01:01:09,734
+aquí también se instituye
+el concepto
+
+1071
+01:01:09,834 --> 01:01:13,534
+de la inviolabilidad
+del correo electrónico.
+
+1072
+01:01:13,601 --> 01:01:18,100
+Esperemos que esto también sea
+escuchado en el norte del mundo,
+
+1073
+01:01:18,167 --> 01:01:22,467
+porque últimamente
+hay algunas violaciones.
+
+1074
+01:01:24,234 --> 01:01:29,901
+También la prestación
+de los servicios de tecnología
+
+1075
+01:01:30,000 --> 01:01:33,100
+de informática y comunicaciones
+en régimen de competencia,
+
+1076
+01:01:33,167 --> 01:01:36,000
+previa obtención
+de la licencia habilitante.
+
+1077
+01:01:36,067 --> 01:01:40,067
+Hay una cuestión medular
+en materia de este texto legal
+
+1078
+01:01:40,167 --> 01:01:41,934
+que tiene que ver
+con el artículo 10,
+
+1079
+01:01:42,033 --> 01:01:45,167
+que señala claramente contenidos
+y transporte,
+
+1080
+01:01:45,267 --> 01:01:49,501
+a los efectos de establecer
+una regulación que permite,
+
+1081
+01:01:49,601 --> 01:01:51,968
+por un lado,
+contabilidad separada,
+
+1082
+01:01:52,033 --> 01:01:56,567
+unidades de negocio separadas
+para evitar subsidios cruzados
+
+1083
+01:01:56,667 --> 01:02:01,801
+y para no incurrir
+en prácticas competitivas,
+
+1084
+01:02:01,868 --> 01:02:06,133
+lo cual es un sistema
+que el marco regulatorio
+
+1085
+01:02:06,200 --> 01:02:08,834
+lo establece con mucha precisión.
+
+1086
+01:02:08,934 --> 01:02:11,667
+Además las condiciones
+de prestación están
+
+1087
+01:02:11,767 --> 01:02:13,367
+perfectamente establecidas
+en la ley,
+
+1088
+01:02:13,467 --> 01:02:16,033
+el servicio universal
+de las tecnologías
+
+1089
+01:02:16,100 --> 01:02:17,334
+de informática y comunicación,
+
+1090
+01:02:17,434 --> 01:02:21,200
+y la regulación de la velocidad
+mínima de transmisión.
+
+1091
+01:02:21,300 --> 01:02:23,801
+Eso es lo que permite
+efectivamente la regulación
+
+1092
+01:02:23,868 --> 01:02:25,901
+de la calidad del servicio
+independientemente
+
+1093
+01:02:26,033 --> 01:02:28,234
+de dónde esto esté.
+
+1094
+01:02:28,334 --> 01:02:36,067
+Por lo tanto quisiera expresar
+claramente que la síntesis sería:
+
+1095
+01:02:36,200 --> 01:02:38,467
+la construcción
+de Argentina Digital
+
+1096
+01:02:38,534 --> 01:02:40,334
+como un objetivo estratégico,
+
+1097
+01:02:40,434 --> 01:02:44,133
+el desarrollo de la adecuación
+del marco normativo
+
+1098
+01:02:44,200 --> 01:02:46,334
+a las nuevas tecnologías,
+
+1099
+01:02:46,434 --> 01:02:50,300
+la plataforma digital del sector
+público y el sector privado
+
+1100
+01:02:50,400 --> 01:02:53,100
+para garantizar universalidad
+desde el punto de vista social
+
+1101
+01:02:53,167 --> 01:02:55,801
+y geográfico, la separación
+del transporte y el contenido
+
+1102
+01:02:55,901 --> 01:02:58,968
+en el concepto más claro
+y profundo de neutralidad,
+
+1103
+01:02:59,067 --> 01:03:03,334
+la posibilidad obviamente
+de utilizar este tipo
+
+1104
+01:03:03,434 --> 01:03:07,100
+de herramientas para
+la transmisión de voz, de datos,
+
+1105
+01:03:07,200 --> 01:03:11,133
+de texto, de video, de imágenes,
+
+1106
+01:03:11,234 --> 01:03:15,801
+utilizando todas las herramientas,
+los equipos,
+
+1107
+01:03:15,934 --> 01:03:18,834
+los programas informáticos,
+las aplicaciones,
+
+1108
+01:03:18,968 --> 01:03:22,467
+redes y medios que permiten
+la compilación,
+
+1109
+01:03:22,601 --> 01:03:26,767
+el procesamiento
+y el almacenamiento
+
+1110
+01:03:26,868 --> 01:03:28,334
+de dicha información.
+
+1111
+01:03:28,434 --> 01:03:33,467
+Además aquí hay un concepto
+pleno de ejercicio de soberanía,
+
+1112
+01:03:33,567 --> 01:03:37,834
+en donde la protección
+del espectro radioeléctrico,
+
+1113
+01:03:37,934 --> 01:03:42,167
+el uso satelital y las redes
+están debidamente encuadrados
+
+1114
+01:03:42,267 --> 01:03:43,734
+en esta normativa.
+
+1115
+01:03:43,834 --> 01:03:47,067
+Se plantea la optimización
+del uso de la infraestructura
+
+1116
+01:03:47,133 --> 01:03:49,868
+de telecomunicaciones,
+lo había señalado Norberto,
+
+1117
+01:03:49,934 --> 01:03:51,968
+la dispersión de inversiones
+
+1118
+01:03:52,033 --> 01:03:55,234
+aquí el marco regulatorio
+correspondiente,
+
+1119
+01:03:55,334 --> 01:03:58,067
+desde el punto de vista del uso
+de la infraestructura
+
+1120
+01:03:58,133 --> 01:04:00,968
+y el transporte, permite
+la optimización de la red,
+
+1121
+01:04:01,067 --> 01:04:03,534
+con un sistema de regulación
+de calidad.
+
+1122
+01:04:03,634 --> 01:04:07,901
+Las redes de telecomunicaciones
+como servicio público
+
+1123
+01:04:07,968 --> 01:04:10,901
+en competencia, es verdaderamente
+un salto cualitativo
+
+1124
+01:04:11,000 --> 01:04:12,667
+desde el punto de vista
+legislativo.
+
+1125
+01:04:12,734 --> 01:04:15,000
+La obligación del uso compartido
+de las redes.
+
+1126
+01:04:15,100 --> 01:04:18,033
+La regulación de las tarifas
+de interconexión.
+
+1127
+01:04:18,100 --> 01:04:20,200
+La convergencia tecnológica,
+
+1128
+01:04:20,267 --> 01:04:24,767
+esto implica que la fibra
+transporta diversos servicios.
+
+1129
+01:04:24,834 --> 01:04:27,701
+La interconexión mutua
+entre licenciatarios,
+
+1130
+01:04:27,801 --> 01:04:29,234
+con sus derechos y obligaciones
+
+1131
+01:04:29,300 --> 01:04:31,767
+de suministrar
+acceso de información.
+
+1132
+01:04:31,834 --> 01:04:34,734
+La interoperabilidad de las redes
+
+1133
+01:04:34,834 --> 01:04:37,167
+en un diseño de arquitectura
+abierta.
+
+1134
+01:04:37,267 --> 01:04:40,000
+La licencia única que permite
+que licenciatarios
+
+1135
+01:04:40,067 --> 01:04:41,868
+ofrezcan todos los servicios.
+
+1136
+01:04:41,934 --> 01:04:44,400
+Y la velocidad mínima obligatoria
+de transmisión
+
+1137
+01:04:44,467 --> 01:04:46,334
+que dijimos anteriormente,
+
+1138
+01:04:46,434 --> 01:04:48,601
+en el marco del uso satelital
+y del espectro.
+
+1139
+01:04:48,667 --> 01:04:55,501
+Por lo tanto creo que la síntesis
+extrema de esta iniciativa es:
+
+1140
+01:04:55,567 --> 01:04:58,934
+construir Argentina Digital,
+eliminar larga distancia,
+
+1141
+01:04:59,000 --> 01:05:02,734
+proveer de múltiples servicios
+y múltiples empresas,
+
+1142
+01:05:02,801 --> 01:05:05,834
+y garantizar efectivamente
+universalidad
+
+1143
+01:05:05,901 --> 01:05:10,300
+con calidad equivalente,
+y ese es el concepto principal
+
+1144
+01:05:10,367 --> 01:05:12,601
+que se deriva de la aplicación
+de esta ley.
+
+1145
+01:05:12,701 --> 01:05:15,400
+Y el ejemplo más concreto
+es la transmisión
+
+1146
+01:05:15,501 --> 01:05:17,834
+de Futbol para Todos.
+
+1147
+01:05:17,901 --> 01:05:24,300
+No es lo mismo ver HD que ver
+una transmisión común,
+
+1148
+01:05:24,367 --> 01:05:28,667
+la calidad de la transmisión
+es distinta,
+
+1149
+01:05:28,734 --> 01:05:32,000
+la observación del juego
+es distinta,
+
+1150
+01:05:32,133 --> 01:05:36,033
+y esto es lo que se puede hacer
+con Televisión Digital Abierta
+
+1151
+01:05:36,133 --> 01:05:39,667
+y obviamente con esta plataforma
+en materia de inversión.
+
+1152
+01:05:39,767 --> 01:05:44,200
+Por lo tanto este concepto
+de universalidad de acceso
+
+1153
+01:05:44,267 --> 01:05:47,901
+con calidad equivalente
+es el principio liminar
+
+1154
+01:05:47,968 --> 01:05:51,167
+que auspicia esta iniciativa
+de carácter legislativo.
+
+1155
+01:05:51,300 --> 01:05:53,000
+Muchas gracias.
+
+1156
+01:05:58,234 --> 01:06:00,801
+Damos comienzo a continuación
+a la ronda de preguntas.
+
+1157
+01:06:00,868 --> 01:06:04,534
+Solicitamos a los señores
+periodistas identificarse
+
+1158
+01:06:04,601 --> 01:06:07,033
+con nombre y medio
+al que pertenecen.
+
+1159
+01:06:12,901 --> 01:06:13,868
+Sin preguntas entonces,
+
+1160
+01:06:13,934 --> 01:06:17,400
+damos por finalizada
+la presente conferencia de prensa.
+
+1161
+01:06:17,401 --> 01:06:19,646
+Agradecemos a todos
+por su presencia,
+
+1162
+01:06:19,713 --> 01:06:21,448
+que tengan todos muy buenos días.
+

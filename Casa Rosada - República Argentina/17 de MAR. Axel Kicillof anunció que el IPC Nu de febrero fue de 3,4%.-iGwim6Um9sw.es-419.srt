@@ -1,0 +1,3045 @@
+1
+00:00:00,720 --> 00:00:03,880
+Voy a hacer una exposición,
+simplemente.
+
+2
+00:00:03,960 --> 00:00:10,560
+Bueno, buenas tardes.
+
+3
+00:00:12,680 --> 00:00:15,800
+No, esto es un error.
+
+4
+00:00:18,520 --> 00:00:22,880
+Como decía recién,
+tal como decimos junto
+
+5
+00:00:22,960 --> 00:00:29,840
+con las autoridades del INDEC
+en el mes pasado,
+
+6
+00:00:29,960 --> 00:00:32,400
+venimos hoy a dar lectura
+en realidad
+
+7
+00:00:32,520 --> 00:00:40,600
+del comunicado de INDEC
+acerca del IPCNu
+
+8
+00:00:40,760 --> 00:00:45,120
+para el mes de febrero de 2014.
+
+9
+00:00:47,120 --> 00:00:51,200
+Antes de pasar a lectura
+de los resultados
+
+10
+00:00:51,320 --> 00:00:57,000
+de las mediciones del INDEC,
+quería hacer una breve referencia,
+
+11
+00:00:57,000 --> 00:01:02,560
+y esto es lo que motiva
+nuestra intención
+
+12
+00:01:02,680 --> 00:01:07,000
+de comunicarlo estando presentes,
+y no como se hace usualmente
+
+13
+00:01:07,120 --> 00:01:11,600
+a través de un comunicado que
+se cuelga en la página del INDEC,
+
+14
+00:01:11,800 --> 00:01:17,440
+que es que esta vendría ser
+la segunda comunicación
+
+15
+00:01:17,600 --> 00:01:20,480
+de las mediciones
+con el nuevo índice,
+
+16
+00:01:20,640 --> 00:01:27,160
+el IPCNu, Índice de Precios
+al Consumidor Nacional Urbano.
+
+17
+00:01:27,280 --> 00:01:31,160
+Sí bien la vez pasada,
+en particular Norberto Itzcovich
+
+18
+00:01:31,320 --> 00:01:35,480
+hizo una explicación extensa
+junto con Ana Edwin
+
+19
+00:01:35,600 --> 00:01:39,360
+de las características
+peculiares de este
+
+20
+00:01:39,480 --> 00:01:45,280
+nuevo índice de precios,
+quería recordarlas brevemente,
+
+21
+00:01:45,440 --> 00:01:47,960
+simplemente las dimensiones
+cuantitativas
+
+22
+00:01:48,080 --> 00:01:51,000
+que caracterizan a este índice,
+
+23
+00:01:51,000 --> 00:01:54,200
+por que haré después
+de forma lateral
+
+24
+00:01:54,360 --> 00:01:58,160
+algunas consideraciones
+sobre algunas publicaciones
+
+25
+00:01:58,320 --> 00:02:02,960
+no oficiales que ha habido
+de variación de precios
+
+26
+00:02:03,120 --> 00:02:05,320
+durante el mes de febrero.
+
+27
+00:02:05,520 --> 00:02:10,080
+Por eso quiero recordar
+un poco cuál fue el largo proceso
+
+28
+00:02:10,080 --> 00:02:15,120
+que a partir de la encuesta
+nacional de gasto de los hogares
+
+29
+00:02:15,120 --> 00:02:18,360
+llevo a la confección
+del nuevo IPC,
+
+30
+00:02:18,480 --> 00:02:24,320
+que tiene dos características,
+esta es la segunda publicación
+
+31
+00:02:24,480 --> 00:02:27,800
+de un índice que es producto
+de un trabajo muy prolongado
+
+32
+00:02:27,920 --> 00:02:33,080
+por que se pretendió
+técnicamente aportar una mejora
+
+33
+00:02:33,200 --> 00:02:36,840
+de calidad en cuanto
+a la medición,
+
+34
+00:02:36,960 --> 00:02:40,560
+no de la inflación,
+de la variación de los precios
+
+35
+00:02:40,640 --> 00:02:43,120
+correspondientes a una canasta
+determinada,
+
+36
+00:02:43,200 --> 00:02:45,720
+pero que esa canasta,
+esta es la pretensión,
+
+37
+00:02:45,840 --> 00:02:48,040
+en primer lugar,
+y esto es central,
+
+38
+00:02:48,200 --> 00:02:52,200
+refleje de forma más precisa
+la verdadera estructura
+
+39
+00:02:52,280 --> 00:02:55,000
+de consumo de los argentinos,
+¿esto que quiere decir?
+
+40
+00:02:55,000 --> 00:03:00,240
+Que estaba desactualizada
+la encuesta que explicaba
+
+41
+00:03:00,360 --> 00:03:03,680
+cuales son los hábitos normales
+de consumo
+
+42
+00:03:03,800 --> 00:03:05,240
+de los habitantes
+de nuestro país.
+
+43
+00:03:05,360 --> 00:03:08,560
+¿Esto qué quiere decir?
+Que cuando uno mide y determina
+
+44
+00:03:08,680 --> 00:03:13,360
+una canasta para ver como pega
+sobre esa canasta
+
+45
+00:03:13,440 --> 00:03:16,400
+la variación de los precios,
+lo que hay que hacer es buscar
+
+46
+00:03:16,480 --> 00:03:18,240
+una canasta representativa
+de los consumos
+
+47
+00:03:18,360 --> 00:03:24,160
+de determinada población.
+
+48
+00:03:24,240 --> 00:03:27,000
+Por supuesto que todos lo sabrán,
+lo pueden hacer al experimento,
+
+49
+00:03:27,120 --> 00:03:29,400
+y lo explico más llanamente
+por que la vez pasada
+
+50
+00:03:29,480 --> 00:03:32,040
+esto me comentaron que no quedó
+del todo claro,
+
+51
+00:03:32,040 --> 00:03:35,760
+pero evidentemente mi canasta
+de consumo, la mía personal,
+
+52
+00:03:35,920 --> 00:03:39,200
+es distinta a la de cualquiera
+que esta en esta sala.
+
+53
+00:03:39,560 --> 00:03:43,600
+Eso responde a los hábitos,
+a los niveles de ingresos,
+
+54
+00:03:43,680 --> 00:03:44,960
+al lugar geográfico
+a donde viven,
+
+55
+00:03:45,080 --> 00:03:48,000
+más todavía si tomamos
+el país en su conjunto.
+
+56
+00:03:48,160 --> 00:03:52,000
+Esa canasta cambia por
+la ubicación dentro del complejo
+
+57
+00:03:52,120 --> 00:03:57,080
+de ocupaciones, ingresos,
+localizaciones, que tiene el país,
+
+58
+00:03:57,080 --> 00:04:00,160
+pero también cambia
+históricamente,
+
+59
+00:04:00,160 --> 00:04:03,000
+como decíamos la vez pasada,
+se ha modificado el patrón
+
+60
+00:04:03,000 --> 00:04:05,640
+de consumo por cuestiones
+tecnológicas,
+
+61
+00:04:05,760 --> 00:04:08,320
+por cuestiones de precios
+relativos, doy un ejemplo,
+
+62
+00:04:08,400 --> 00:04:11,240
+en Argentina el combustible,
+como ustedes sabrán,
+
+63
+00:04:11,360 --> 00:04:13,960
+las naftas son más baratas
+que los restantes países
+
+64
+00:04:14,080 --> 00:04:16,800
+de la región, por lo tanto
+cuando uno mira que parte
+
+65
+00:04:16,920 --> 00:04:18,280
+del ingreso se destina
+a las naftas,
+
+66
+00:04:18,400 --> 00:04:21,400
+o cuanto se consume en nafta
+por cada habitante de Argentina,
+
+67
+00:04:21,520 --> 00:04:24,360
+probablemente es más alto
+que en otros países
+
+68
+00:04:24,480 --> 00:04:26,520
+de la región,
+por su precio relativo.
+
+69
+00:04:26,640 --> 00:04:29,040
+Entonces esto va cambiando,
+y después hay novedades
+
+70
+00:04:29,160 --> 00:04:34,720
+tecnológicas, hace 10 años
+el consumo de telefonía celular
+
+71
+00:04:34,880 --> 00:04:38,000
+o en algún otro bien tecnológico
+como es las computadoras,
+
+72
+00:04:38,160 --> 00:04:41,000
+bueno, no existía,
+entonces eso requiere revisar
+
+73
+00:04:41,120 --> 00:04:44,840
+con cierta frecuencia
+la estructura de gastos
+
+74
+00:04:45,000 --> 00:04:47,280
+de los habitantes del país,
+para eso se hace una encuesta
+
+75
+00:04:47,400 --> 00:04:49,640
+que es un trabajo,
+esta encuesta de gastos
+
+76
+00:04:49,760 --> 00:04:51,280
+que se hace a nivel nacional,
+
+77
+00:04:51,480 --> 00:04:55,920
+que es un trabajo técnicamente
+complejo y además muy arduo
+
+78
+00:04:56,040 --> 00:04:59,280
+de compilar, y se determina
+cual es el gasto promedio,
+
+79
+00:04:59,400 --> 00:05:02,280
+permite generar una canasta
+de consumo.
+
+80
+00:05:02,400 --> 00:05:04,840
+Esa canasta que tiene cantidades
+de consumos,
+
+81
+00:05:04,960 --> 00:05:09,200
+después es la que se mide
+para ver como se modifican
+
+82
+00:05:09,280 --> 00:05:11,080
+los precios dentro
+de esa canasta de consumo,
+
+83
+00:05:11,200 --> 00:05:13,680
+algunos de esos precios suben,
+otros precios bajan,
+
+84
+00:05:13,760 --> 00:05:16,240
+eso determina una canasta
+que se mide.
+
+85
+00:05:16,360 --> 00:05:18,760
+Pero hay otro problema,
+además los precios
+
+86
+00:05:18,880 --> 00:05:21,760
+tienen diversidad según
+la ubicación geográfica,
+
+87
+00:05:21,880 --> 00:05:24,800
+por eso se ha hecho de nuevo
+la determinación
+
+88
+00:05:24,920 --> 00:05:27,800
+de la canasta de consumo,
+lo que hace que la proporción
+
+89
+00:05:27,920 --> 00:05:30,280
+en la cual afectan dentro
+de los hogares
+
+90
+00:05:30,400 --> 00:05:32,560
+los diferentes rubros
+se hayan modificado,
+
+91
+00:05:32,680 --> 00:05:35,600
+con respecto al IPC anterior,
+y en segundo lugar,
+
+92
+00:05:35,760 --> 00:05:39,000
+y aquí es todavía más
+ambiciosa la tarea,
+
+93
+00:05:39,000 --> 00:05:44,160
+este índice de precios
+no pretende representar
+
+94
+00:05:44,280 --> 00:05:48,040
+el valor de la canasta,
+esta determinada,
+
+95
+00:05:48,040 --> 00:05:53,120
+o sea los precios de los bienes,
+para la Ciudad de Buenos Aires
+
+96
+00:05:53,240 --> 00:05:57,080
+o para la Ciudad de Buenos Aires
+y el conurbano,
+
+97
+00:05:57,160 --> 00:06:01,760
+sino que pretende representar
+la situación de las variaciones
+
+98
+00:06:01,880 --> 00:06:07,040
+de los precios de esta canasta
+a lo largo y a lo ancho del país.
+
+99
+00:06:07,040 --> 00:06:10,240
+Es por eso que este índice,
+en primer lugar,
+
+100
+00:06:10,360 --> 00:06:14,000
+no tiene una canasta,
+sino 6 canastas diferenciadas
+
+101
+00:06:14,120 --> 00:06:17,520
+por región según los tipos
+de consumo.
+
+102
+00:06:17,640 --> 00:06:20,160
+Los tipos de consumo
+y la diversidad de bienes,
+
+103
+00:06:20,240 --> 00:06:23,840
+por los hábitos alimentarios
+del norte del país
+
+104
+00:06:23,960 --> 00:06:26,320
+no son los mismos
+que del sur del país.
+
+105
+00:06:26,400 --> 00:06:30,040
+Bueno, estas características
+afectan la preparación
+
+106
+00:06:30,160 --> 00:06:32,160
+de la canasta.
+
+107
+00:06:32,240 --> 00:06:35,360
+Esas 6 canastas regionales
+incluyen,
+
+108
+00:06:35,480 --> 00:06:38,240
+y esto es importantísimo,
+520 variedades, es decir,
+
+109
+00:06:38,320 --> 00:06:42,640
+los precios que se miden
+son de 520 variedades distintas
+
+110
+00:06:42,760 --> 00:06:45,640
+en estas 6 regiones.
+
+111
+00:06:46,160 --> 00:06:47,760
+Entre esas 500 variedades,
+
+112
+00:06:47,880 --> 00:06:51,200
+hay 470 que son comunes
+a las 6 regiones.
+
+113
+00:06:51,280 --> 00:06:53,520
+Esto es importante también
+porque no es que para cada región
+
+114
+00:06:53,640 --> 00:06:55,800
+hay bienes distintos,
+sino que se ha buscado
+
+115
+00:06:55,920 --> 00:06:58,360
+una homogeneidad en esa canasta
+para poder representar
+
+116
+00:06:58,480 --> 00:07:03,800
+la situación teórica
+del país en promedio.
+
+117
+00:07:03,920 --> 00:07:07,040
+Por otro lado tenemos
+que tener en cuenta
+
+118
+00:07:07,040 --> 00:07:14,400
+que el trabajo para medir
+estos precios
+
+119
+00:07:14,520 --> 00:07:18,880
+abarca 290 encuestadores
+que trabajan todos los días.
+
+120
+00:07:19,000 --> 00:07:20,360
+¿Qué hacen todos los días?
+
+121
+00:07:20,480 --> 00:07:25,360
+Y bueno, recorren las 146
+localidades censales
+
+122
+00:07:25,440 --> 00:07:27,680
+de los 40 aglomerados
+urbanos del país,
+
+123
+00:07:27,800 --> 00:07:31,000
+están midiendo como
+se encuentran los precios
+
+124
+00:07:31,000 --> 00:07:34,440
+registrado, encuestando
+los precios de 520 variedades
+
+125
+00:07:34,560 --> 00:07:37,040
+en 146 localidades.
+
+126
+00:07:37,040 --> 00:07:41,560
+Lo cual si uno unifica
+y toma como se van midiendo
+
+127
+00:07:41,720 --> 00:07:44,000
+todos estos precios,
+todo este volumen de precios,
+
+128
+00:07:44,120 --> 00:07:51,040
+significa a lo largo del mes
+230.000 precios
+
+129
+00:07:51,040 --> 00:07:53,440
+que se captan para
+la elaboración del índice.
+
+130
+00:07:53,560 --> 00:07:56,040
+Es por eso también
+que el índice correspondiente
+
+131
+00:07:56,120 --> 00:07:59,240
+a febrero se publica
+a mediados de marzo,
+
+132
+00:07:59,360 --> 00:08:01,520
+como estamos haciendo hoy,
+el 15 cayó sábado,
+
+133
+00:08:01,640 --> 00:08:05,600
+por eso lo estamos haciendo
+hoy día lunes.
+
+134
+00:08:05,760 --> 00:08:10,480
+Y para captar esa muestra
+también se han identificado,
+
+135
+00:08:10,560 --> 00:08:13,320
+como bien lo explicaba
+los técnicos del INDEC,
+
+136
+00:08:13,440 --> 00:08:17,040
+13.000 locales que forman
+los precios,
+
+137
+00:08:17,160 --> 00:08:19,040
+donde se relevan los precios.
+
+138
+00:08:19,160 --> 00:08:22,880
+Así que los números que se ven
+sintetizados en este índice
+
+139
+00:08:23,040 --> 00:08:28,320
+son de esta envergadura,
+520 variedades, 146 localidades,
+
+140
+00:08:28,600 --> 00:08:32,640
+230.000 precios,
+13.000 locales.
+
+141
+00:08:32,800 --> 00:08:34,920
+Esto distribuido a lo largo
+y a lo ancho del país.
+
+142
+00:08:35,040 --> 00:08:38,440
+Habíamos dicho que es un índice
+nacional urbano,
+
+143
+00:08:38,600 --> 00:08:41,040
+es decir esto es algo
+que está contemplado
+
+144
+00:08:41,040 --> 00:08:44,440
+en el índice, se intenta medir
+el movimiento de estas canastas
+
+145
+00:08:44,600 --> 00:08:47,920
+en los centros urbanos
+de más de 5.000 habitantes.
+
+146
+00:08:48,040 --> 00:08:49,600
+No en las localidades
+más pequeñas,
+
+147
+00:08:49,720 --> 00:08:52,440
+eso hace que no sea totalmente
+compresivo en la realidad
+
+148
+00:08:52,560 --> 00:08:55,520
+del país, pero por supuesto,
+las cadenas de comercialización
+
+149
+00:08:55,600 --> 00:09:00,040
+en localidades más pequeñas
+no quedan representadas
+
+150
+00:09:00,160 --> 00:09:02,400
+en esta muestra.
+
+151
+00:09:02,480 --> 00:09:06,400
+Eso con respecto al IPC.
+Si me permiten...
+
+152
+00:09:07,160 --> 00:09:11,880
+Quería mostrar simplemente
+un gráfico,
+
+153
+00:09:12,000 --> 00:09:15,320
+no me voy a detener en esto,
+pero me tome el trabajo
+
+154
+00:09:15,400 --> 00:09:19,320
+antes de venir hoy de pedirle
+al equipo que relevara
+
+155
+00:09:19,440 --> 00:09:23,920
+cuales han sido las mediciones
+de las consultoras privadas
+
+156
+00:09:24,040 --> 00:09:29,400
+para el mes de febrero.
+
+157
+00:09:29,520 --> 00:09:31,640
+después voy a hacer
+nuevamente una referencia
+
+158
+00:09:31,760 --> 00:09:33,920
+por que hemos intentado
+conocer las metodologías,
+
+159
+00:09:34,000 --> 00:09:41,320
+por que al existir divergencia,
+no con el IPC que mide el INDEC,
+
+160
+00:09:41,440 --> 00:09:45,960
+sino entre ellas, ustedes verán,
+Consultora 1, 3,8.
+
+161
+00:09:46,040 --> 00:09:49,480
+Consultora 2, no pongo
+los nombres para no hacer
+
+162
+00:09:49,560 --> 00:09:51,840
+caso con los nombres,
+pero si ustedes buscan
+
+163
+00:09:51,960 --> 00:09:56,440
+cada número tiene un responsable.
+
+164
+00:09:56,560 --> 00:10:01,080
+Consultora 1, 3,8.
+Consultora 2, 3,2.
+
+165
+00:10:01,080 --> 00:10:05,080
+Consultora 3, 3,2.
+Consultora 4, 3,1.
+
+166
+00:10:05,080 --> 00:10:09,000
+Consultora 5, 3,0.
+Consultora 6, 4.
+
+167
+00:10:09,000 --> 00:10:14,640
+Consultora 7, 4,7.
+Consultora 8, 5,4.
+
+168
+00:10:14,720 --> 00:10:17,040
+Consultora 9, 5,3.
+
+169
+00:10:17,120 --> 00:10:20,920
+Es necesario, esto es febrero,
+la variación de los precios,
+
+170
+00:10:21,080 --> 00:10:24,960
+no de una canasta conformada
+como ocurre con el caso
+
+171
+00:10:25,080 --> 00:10:27,040
+del INDEC que explicábamos
+metodológicamente,
+
+172
+00:10:27,160 --> 00:10:32,120
+230.000 precios relevados,
+146 localidades, 13.000 locales,
+
+173
+00:10:32,120 --> 00:10:35,600
+estos son números que surgen,
+por lo menos desde nuestro
+
+174
+00:10:35,720 --> 00:10:44,080
+punto de vista,
+de una nebulosa.
+
+175
+00:10:44,080 --> 00:10:46,280
+Por que se desconoce
+absolutamente que miden
+
+176
+00:10:46,400 --> 00:10:48,480
+estas variaciones.
+
+177
+00:10:48,600 --> 00:10:50,440
+En general, lo hemos oído
+frecuentemente,
+
+178
+00:10:50,520 --> 00:10:52,280
+nosotros tratamos de aportarles
+precisión a los términos,
+
+179
+00:10:52,840 --> 00:10:57,240
+pero pongamos Consultora 8,
+lo que dice es que la inflación
+
+180
+00:10:57,360 --> 00:11:01,600
+de febrero fue 5,4,
+entonces el salario perdió
+
+181
+00:11:01,720 --> 00:11:05,320
+y los precios, y las tarifas,
+y plata.
+
+182
+00:11:05,480 --> 00:11:09,640
+Todas estas disquisiciones,
+que me parece que si juntamos
+
+183
+00:11:09,720 --> 00:11:13,800
+estas 9 consultoras
+y las lleváramos a un público
+
+184
+00:11:13,880 --> 00:11:16,800
+como este, exigente, en cuanto
+a las preguntas que tienen,
+
+185
+00:11:16,920 --> 00:11:20,080
+a explicar como construyen
+ese número,
+
+186
+00:11:20,240 --> 00:11:22,760
+si es que pueden explicarlo,
+tendríamos una dificultad
+
+187
+00:11:22,880 --> 00:11:27,600
+por que como se observa acá
+va de prácticamente 3 a 8
+
+188
+00:11:27,760 --> 00:11:29,800
+el valor de las consultoras
+privadas,
+
+189
+00:11:29,920 --> 00:11:33,120
+haciendo un pequeño esfuerzo
+de recopilación para ver
+
+190
+00:11:33,280 --> 00:11:35,080
+si existiere una metodología,
+
+191
+00:11:35,080 --> 00:11:37,000
+por que le voy a decir
+que divergen estos números
+
+192
+00:11:37,000 --> 00:11:39,040
+de los que nosotros hemos
+medido,
+
+193
+00:11:39,160 --> 00:11:40,600
+no puede ser de otra manera,
+
+194
+00:11:40,720 --> 00:11:44,840
+por que como divergen
+olímpicamente entre ellos,
+
+195
+00:11:44,960 --> 00:11:46,960
+no habría forma de coincidir.
+
+196
+00:11:47,080 --> 00:11:51,360
+Lo que es preocupante es que
+alguien asesore a otro
+
+197
+00:11:51,480 --> 00:11:53,320
+y le diga que tome una decisión
+en base a esto,
+
+198
+00:11:53,440 --> 00:11:57,480
+que no tiene bases claras,
+ni tampoco una uniformidad.
+
+199
+00:11:57,600 --> 00:12:00,240
+Estos nuevos números,
+y hay más por que salen
+
+200
+00:12:00,360 --> 00:12:02,720
+todos los días,
+hoy han recorrido la radio,
+
+201
+00:12:02,880 --> 00:12:05,600
+yo estuve escuchando, diciendo,
+no, para mí fue...
+
+202
+00:12:05,760 --> 00:12:07,920
+No hay nunca una repregunta.
+
+203
+00:12:08,080 --> 00:12:12,040
+¿Cómo lo medís? ¿Adónde fuiste?
+¿Es en la esquina de tu casa?
+
+204
+00:12:12,160 --> 00:12:14,200
+No hay nunca una repregunta.
+
+205
+00:12:14,320 --> 00:12:16,720
+Grave desde el punto de vista,
+para mí, periodístico.
+
+206
+00:12:16,840 --> 00:12:18,280
+Nunca escuché una repregunta.
+
+207
+00:12:18,400 --> 00:12:22,760
+Y usted señor que nos dice,
+así, la inflación de este mes,
+
+208
+00:12:22,880 --> 00:12:25,800
+ya el término está mal,
+por que dentro de estas
+
+209
+00:12:26,000 --> 00:12:27,520
+canastas, si ellos dicen
+este precio subió tanto,
+
+210
+00:12:27,640 --> 00:12:29,680
+este otro subió tanto,
+entonces no es que la inflación,
+
+211
+00:12:29,800 --> 00:12:33,000
+que todos los precios juntos
+se movieron ni 6, ni 3,
+
+212
+00:12:33,120 --> 00:12:36,080
+algunos subieron, otros bajaron,
+otros están estables,
+
+213
+00:12:36,240 --> 00:12:38,640
+pero bueno, la inflación
+fue de 6, dicen,
+
+214
+00:12:38,760 --> 00:12:40,440
+y nadie les pregunta:
+¿Y por qué?
+
+215
+00:12:40,560 --> 00:12:42,240
+¿Dónde la midió? ¿La de quién?
+
+216
+00:12:42,360 --> 00:12:47,080
+¿Qué canasta? ¿Qué comercios?
+¿Qué zona geográfica?
+
+217
+00:12:47,080 --> 00:12:48,920
+Por que muchos le están
+hablando al país,
+
+218
+00:12:49,080 --> 00:12:52,640
+el programa de mucha audiencia,
+por que yo los he escuchado,
+
+219
+00:12:52,760 --> 00:12:56,040
+como mucha irresponsabilidad
+decir esto.
+
+220
+00:12:56,040 --> 00:12:58,080
+Y además sin imponernos
+a confrontar,
+
+221
+00:12:58,080 --> 00:13:00,880
+me gustaría al menos
+que confortaran entre ellos,
+
+222
+00:13:01,000 --> 00:13:04,040
+no por ver quien la pone
+más alta,
+
+223
+00:13:04,040 --> 00:13:08,120
+sino por ver como la hacen,
+como construyen estos valores.
+
+224
+00:13:08,280 --> 00:13:10,040
+Por que es importante saberlo.
+
+225
+00:13:10,040 --> 00:13:12,280
+Y también el periodismo
+tendría que estar intrigado
+
+226
+00:13:12,400 --> 00:13:15,920
+en esclarecer si es que
+después de que se ha anunciado
+
+227
+00:13:16,040 --> 00:13:19,200
+algunos de estos números,
+algún columnista dice:
+
+228
+00:13:19,320 --> 00:13:21,880
+“Fue entre tanto y tanto”,
+¿pero como se informó?
+
+229
+00:13:21,960 --> 00:13:24,440
+¿Tiene información
+que no comparte?
+
+230
+00:13:24,560 --> 00:13:26,640
+¿Por qué escucha al que dice
+6 por una oreja,
+
+231
+00:13:26,760 --> 00:13:29,880
+el que dice 3 por la otra,
+y sigue lo más campante
+
+232
+00:13:30,000 --> 00:13:31,480
+eligiendo algún número
+que le guste?
+
+233
+00:13:31,640 --> 00:13:35,640
+Por eso hoy la situación
+está bastante dispar.
+
+234
+00:13:35,760 --> 00:13:40,040
+Hicimos un pequeño,
+pequeñísimo esfuerzo
+
+235
+00:13:40,160 --> 00:13:41,960
+también de ver cuál era
+la variación.
+
+236
+00:13:42,080 --> 00:13:44,640
+Tomo consultoras privadas
+sin ánimos de señalar
+
+237
+00:13:44,760 --> 00:13:48,520
+a uno u otro, simplemente
+marcando el grupo total,
+
+238
+00:13:48,640 --> 00:13:51,040
+el universo hasta donde
+podemos ver.
+
+239
+00:13:51,040 --> 00:13:53,200
+Entonces, la Consultora 1,
+esta que daba en el gráfico
+
+240
+00:13:53,320 --> 00:13:58,800
+anterior 3,8 había dicho
+en enero que su valor
+
+241
+00:13:58,880 --> 00:14:01,680
+para la variación
+de los precios era 4,8,
+
+242
+00:14:01,800 --> 00:14:05,280
+o sea, entre enero y febrero
+para la Consultora 1
+
+243
+00:14:05,400 --> 00:14:10,040
+hubo una reducción
+o una desaceleración
+
+244
+00:14:10,040 --> 00:14:12,000
+de los precios de un punto
+lo que representa
+
+245
+00:14:12,160 --> 00:14:17,800
+un porcentaje muy significativo
+de caída en la aceleración,
+
+246
+00:14:17,920 --> 00:14:19,720
+no en los precios
+sino en la aceleración.
+
+247
+00:14:19,840 --> 00:14:21,440
+O sea que bajo en febrero.
+
+248
+00:14:21,600 --> 00:14:24,920
+Para la Consultora 2 fue
+prácticamente de un punto
+
+249
+00:14:25,080 --> 00:14:29,000
+también la caída.
+Para la 3, la que decía 3,2
+
+250
+00:14:29,000 --> 00:14:34,080
+en el gráfico anterior, el mes
+anterior había sido de 4,4.
+
+251
+00:14:34,080 --> 00:14:35,840
+Eso también sería interesante
+que les preguntaran.
+
+252
+00:14:35,960 --> 00:14:38,960
+Pero usted, que nos dice hoy,
+
+253
+00:14:39,080 --> 00:14:42,200
+y está tan convencido
+que el número es este,
+
+254
+00:14:42,360 --> 00:14:45,800
+¿cómo lo construye y por qué
+el mes pasado le dio esto?
+
+255
+00:14:45,920 --> 00:14:49,280
+¿Qué cambió? ¿Qué bajó?
+¿Qué paro de subir?
+
+256
+00:14:49,400 --> 00:14:52,400
+Todas estas que bajaron,
+sobretodo la Consultora 4,
+
+257
+00:14:52,520 --> 00:14:57,640
+que había anunciado 6
+y ahora dijo que es 3,1.
+
+258
+00:14:57,760 --> 00:15:00,080
+¿Cuál fue el factor
+determinante?
+
+259
+00:15:00,080 --> 00:15:03,480
+En que lo que ellos llaman
+inflación fuera la mitad
+
+260
+00:15:03,600 --> 00:15:06,920
+en febrero que en enero.
+
+261
+00:15:07,040 --> 00:15:11,080
+Entonces, hay otras que
+hicieron lo contrario,
+
+262
+00:15:11,080 --> 00:15:15,440
+y dijeron que en febrero
+hubo una aceleración
+
+263
+00:15:15,560 --> 00:15:18,200
+con respecto de enero,
+es el caso de la Consultora,
+
+264
+00:15:18,320 --> 00:15:20,640
+son más las que dijeron
+que es menor.
+
+265
+00:15:20,760 --> 00:15:26,080
+Pero dijeron que es mayor
+la Consultora 6, 7, 8,
+
+266
+00:15:26,160 --> 00:15:29,000
+que hizo prácticamente
+lo inverso a la 4,
+
+267
+00:15:29,120 --> 00:15:33,640
+pasó en vez de 6 a 3,
+de 3 a 6.
+
+268
+00:15:34,000 --> 00:15:37,520
+¿Cuál rubro de los rubros,
+alimentos y bebidas,
+
+269
+00:15:37,640 --> 00:15:41,080
+indumentaria, vivienda,
+equipamiento?
+
+270
+00:15:41,160 --> 00:15:44,080
+¿Y por qué esto lo transfieren
+directamente a todo el país
+
+271
+00:15:44,080 --> 00:15:47,360
+y a todos los bienes?
+Por que no puede ser así.
+
+272
+00:15:47,440 --> 00:15:50,480
+Esto le tiene que quedar claro
+a todo el mundo
+
+273
+00:15:50,600 --> 00:15:54,000
+porque si quieren discutir
+lo que hace el Estado,
+
+274
+00:15:54,080 --> 00:15:56,960
+que por lo menos le impriman
+algo de rigor, no tiren números.
+
+275
+00:15:57,040 --> 00:16:00,040
+Hoy otro decía, si es entre
+tanto y tanto, es creíble,
+
+276
+00:16:00,120 --> 00:16:01,680
+si es entre tanto y tanto,
+no.
+
+277
+00:16:01,760 --> 00:16:03,640
+No se lo aplicaba a
+la consultora privada
+
+278
+00:16:03,720 --> 00:16:06,960
+que acababa de entrevistar,
+estaba fuera de ese rango.
+
+279
+00:16:07,040 --> 00:16:11,040
+O sea que ese rasero
+habría que aplicarlo
+
+280
+00:16:11,120 --> 00:16:14,320
+más en general. Nos preguntamos
+sobre la metodología.
+
+281
+00:16:14,440 --> 00:16:18,280
+Así que, repito, el cuadro
+de las consultoras privadas.
+
+282
+00:16:18,360 --> 00:16:22,800
+Y lo menciono por que sé
+que la prensa no le da
+
+283
+00:16:22,920 --> 00:16:25,760
+eco lateral, dice, bueno,
+una consultora dijo...
+
+284
+00:16:25,880 --> 00:16:29,640
+Es tapa del diario. Tapa.
+
+285
+00:16:29,720 --> 00:16:31,520
+Y alguien se puede guiar
+por esa tapa.
+
+286
+00:16:31,640 --> 00:16:34,840
+Entonces hay que tener
+un poco más de, me parece,
+
+287
+00:16:34,920 --> 00:16:37,440
+delicadeza en términos
+de la información.
+
+288
+00:16:37,760 --> 00:16:42,160
+Acá estoy mostrando
+la variedad de valores
+
+289
+00:16:42,240 --> 00:16:44,080
+de 9 consultoras privadas,
+
+290
+00:16:44,160 --> 00:16:50,320
+y acá la variedad de dinámicas
+de precio que están reflejando.
+
+291
+00:16:51,360 --> 00:16:54,040
+Esto es un poco,
+simplemente un cuadro,
+
+292
+00:16:54,120 --> 00:16:56,000
+una diapositiva de cómo
+está la situación.
+
+293
+00:16:56,080 --> 00:17:01,640
+Algunos elementos sobre
+la metodología de las consultoras.
+
+294
+00:17:01,760 --> 00:17:04,880
+La ignoro. Y el periodismo
+que ha tenido mucha información
+
+295
+00:17:05,000 --> 00:17:09,000
+sobre como mide el INDEC
+su IPCNu, ha preguntado.
+
+296
+00:17:09,000 --> 00:17:13,120
+Pero yo tengo Consultora 1,
+la misma que tenía ahí,
+
+297
+00:17:13,240 --> 00:17:15,840
+sigue la evolución de precios
+telefónicamente
+
+298
+00:17:15,960 --> 00:17:19,640
+en supermercados en una
+canasta de 70 bienes
+
+299
+00:17:19,760 --> 00:17:23,800
+con solo 12 alimentos
+en la CABA.
+
+300
+00:17:23,920 --> 00:17:27,040
+Pero no es que dice, atención,
+esto no es lo que pasó
+
+301
+00:17:27,040 --> 00:17:30,560
+con los precios, esto es
+lo que pasó con 70 bienes,
+
+302
+00:17:30,720 --> 00:17:34,000
+de los cuales 12 son alimentos,
+en la CABA,
+
+303
+00:17:34,120 --> 00:17:36,160
+llamando por teléfono
+desde una oficina.
+
+304
+00:17:36,320 --> 00:17:38,000
+No tengo nada para decir,
+lo pueden hacer,
+
+305
+00:17:38,000 --> 00:17:39,800
+esto es su derecho.
+
+306
+00:17:39,920 --> 00:17:44,160
+El problema se genera
+cuando esto es elevado
+
+307
+00:17:44,280 --> 00:17:47,800
+a una verdad, y una situación
+que tendría que afectarnos
+
+308
+00:17:47,880 --> 00:17:50,520
+a todos, y en esto hay
+una responsabilidad
+
+309
+00:17:50,640 --> 00:17:53,040
+del periodismo, me parece,
+que tendría que tener
+
+310
+00:17:53,160 --> 00:17:58,560
+un poco más de capacidad,
+de informar más sobre esto.
+
+311
+00:17:58,680 --> 00:18:01,960
+Nosotros hemos relevado
+que son de otra consultora,
+
+312
+00:18:02,080 --> 00:18:04,240
+una encuesta telefónica
+en 100 comercios de CABA,
+
+313
+00:18:04,360 --> 00:18:06,680
+90 productos.
+
+314
+00:18:06,880 --> 00:18:11,160
+Y después vuelvo a algunos
+datos.
+
+315
+00:18:12,160 --> 00:18:16,080
+Una que solamente releva
+alimentos y bebidas
+
+316
+00:18:16,080 --> 00:18:20,000
+en el microcentro porteño.
+
+317
+00:18:20,400 --> 00:18:25,760
+Otra en 2 supermercados
+de Buenos Aires.
+
+318
+00:18:26,080 --> 00:18:29,400
+Y otra dijo que tiene
+a esta tarea asignada
+
+319
+00:18:29,480 --> 00:18:32,240
+a lo que llaman IPC,
+índice de Precios al Consumidor,
+
+320
+00:18:32,360 --> 00:18:38,160
+igual que esta tarea,
+7 personas al IPC.
+
+321
+00:18:39,000 --> 00:18:41,560
+Está bien, no tengo nada
+para decir, simplemente
+
+322
+00:18:41,720 --> 00:18:45,760
+señalar un poco cuál es
+la envergadura metodológica,
+
+323
+00:18:45,840 --> 00:18:48,040
+y estas consultoras.
+
+324
+00:18:48,120 --> 00:18:51,400
+Y tampoco es para defender
+lo que estamos haciendo,
+
+325
+00:18:51,480 --> 00:18:54,000
+se defiende solo o lo podemos
+hacer a través
+
+326
+00:18:54,080 --> 00:18:55,960
+de lo que estamos aportando.
+
+327
+00:18:56,080 --> 00:18:59,040
+Lo que digo es que resulta
+muy difícil,
+
+328
+00:18:59,040 --> 00:19:01,280
+y he escuchado esto a la mañana,
+por eso lo quise traer,
+
+329
+00:19:01,360 --> 00:19:03,040
+comparaciones con los índices
+privados,
+
+330
+00:19:03,040 --> 00:19:04,720
+entonces le pregunte
+a un colaborador,
+
+331
+00:19:04,840 --> 00:19:06,000
+¿cuáles son los índices
+privados?
+
+332
+00:19:06,000 --> 00:19:07,880
+¿Me buscas cuáles son todos
+los índices privados?
+
+333
+00:19:08,000 --> 00:19:10,000
+No traje de nuevo los números,
+pero estos son todos
+
+334
+00:19:10,080 --> 00:19:11,920
+los índices privados.
+
+335
+00:19:12,000 --> 00:19:13,480
+Les pido por favor que
+informen esto también,
+
+336
+00:19:13,640 --> 00:19:16,720
+no solo el que más le gusta
+al periodista de turno,
+
+337
+00:19:16,880 --> 00:19:20,080
+que informen esta dispersión,
+que informen la dinámica,
+
+338
+00:19:20,240 --> 00:19:24,440
+de 3 a 6, 6 y 3, o sea,
+esa es la situación.
+
+339
+00:19:24,560 --> 00:19:28,480
+Saco aparte esta cuestión.
+
+340
+00:19:28,600 --> 00:19:32,640
+Y antes de abocarme
+a la lectura del comunicado.
+
+341
+00:19:33,000 --> 00:19:34,280
+De nuevo, para que no
+comuniquen mal,
+
+342
+00:19:34,400 --> 00:19:38,080
+lo digo con mucha calma,
+con mucha tranquilidad,
+
+343
+00:19:38,200 --> 00:19:41,160
+estoy haciendo un relevamiento
+objetivo de lo que está
+
+344
+00:19:41,280 --> 00:19:43,440
+ocurriendo y lo que dicen
+acerca de la metodología,
+
+345
+00:19:43,560 --> 00:19:46,000
+por eso resalte nuevamente
+los aspectos metodológicos
+
+346
+00:19:46,120 --> 00:19:49,080
+del IPCNu.
+
+347
+00:19:51,080 --> 00:19:56,200
+Y hay un punto adicional
+que quería mencionar,
+
+348
+00:19:56,360 --> 00:19:59,200
+por que es importante, tiene
+que ver con la cuestión precios,
+
+349
+00:19:59,360 --> 00:20:01,400
+con lo ocurrido en enero
+y en febrero,
+
+350
+00:20:01,520 --> 00:20:04,640
+por que cuando presentamos,
+yo voy a hacer simplemente
+
+351
+00:20:04,760 --> 00:20:07,800
+algunas observaciones,
+seguiremos hablando sobre esto,
+
+352
+00:20:07,920 --> 00:20:10,120
+pero simplemente hoy como
+quiero comunicar el índice,
+
+353
+00:20:10,240 --> 00:20:12,360
+ese es simplemente el anuncio.
+
+354
+00:20:12,480 --> 00:20:19,360
+Nosotros comentamos que por
+la variación cambiaria
+
+355
+00:20:19,480 --> 00:20:27,640
+que ocurrió en enero,
+hubo algunos sectores productivos
+
+356
+00:20:27,720 --> 00:20:31,720
+y algunas porciones
+de la cadena de comercio
+
+357
+00:20:31,800 --> 00:20:40,440
+que decidió pasar el valor
+del dólar a sus precios,
+
+358
+00:20:40,680 --> 00:20:43,680
+mecánicamente, tomó esa decisión.
+
+359
+00:20:43,800 --> 00:20:47,880
+Es una decisión que desde
+el punto de vista económico,
+
+360
+00:20:47,960 --> 00:20:51,720
+o sea, de la rentabilidad
+empresaria, de los costos,
+
+361
+00:20:51,840 --> 00:20:58,120
+de las tazas de acumulación,
+no tiene ningún sentido,
+
+362
+00:20:58,240 --> 00:21:00,600
+ningún sentido económico.
+
+363
+00:21:00,720 --> 00:21:02,000
+Simplemente trasladaron
+los precios.
+
+364
+00:21:02,080 --> 00:21:07,160
+Ni aún el sector que sea
+más importador de la economía
+
+365
+00:21:07,280 --> 00:21:09,440
+puede decir que esa es
+la variación
+
+366
+00:21:09,560 --> 00:21:10,880
+que tiene que aplicar.
+
+367
+00:21:11,000 --> 00:21:14,480
+Lo explico por que supongamos
+que el dólar aumenta
+
+368
+00:21:14,600 --> 00:21:17,320
+en pesos a un 20%,
+entonces el producto cuando
+
+369
+00:21:17,440 --> 00:21:20,000
+el importador va al Banco Central
+y compra los dólares
+
+370
+00:21:20,120 --> 00:21:21,680
+le sale un 20% más el precio.
+
+371
+00:21:21,760 --> 00:21:24,240
+Pero después hay muchos costos
+en pesos vinculados
+
+372
+00:21:24,360 --> 00:21:26,560
+a la logística,
+a la comercialización.
+
+373
+00:21:26,680 --> 00:21:31,040
+O sea que no hay ningún
+producto para el que haya
+
+374
+00:21:31,040 --> 00:21:33,920
+una justificación económica
+de trasladar la variación
+
+375
+00:21:34,000 --> 00:21:36,600
+del tipo de cambio
+al precio del producto.
+
+376
+00:21:36,720 --> 00:21:38,040
+Pero sabemos que ocurrió.
+
+377
+00:21:38,160 --> 00:21:41,040
+Por eso empezamos a reunirnos
+con algunos sectores,
+
+378
+00:21:41,160 --> 00:21:44,000
+muchos de ellos, la mayoría
+me atrevo a decir,
+
+379
+00:21:44,000 --> 00:21:47,240
+a lo largo de los meses
+de enero y febrero,
+
+380
+00:21:47,360 --> 00:21:51,000
+entraron en razón, por que
+les decíamos que si ellos
+
+381
+00:21:51,120 --> 00:21:54,240
+hacían esto lo que iba a pasar
+era que se iba a resentir
+
+382
+00:21:54,320 --> 00:21:56,360
+la demanda por que la gente
+no va a comprar cualquier
+
+383
+00:21:56,480 --> 00:21:59,720
+cosa a cualquier precio,
+
+384
+00:21:59,840 --> 00:22:03,040
+por que los salarios no se
+movieron a esa velocidad.
+
+385
+00:22:03,160 --> 00:22:07,000
+Pero eso es injustificable.
+
+386
+00:22:07,000 --> 00:22:09,800
+Entonces como hubo algunos
+corrimientos de precios
+
+387
+00:22:09,880 --> 00:22:13,000
+que fueron injustificados,
+y que fueron excesivos,
+
+388
+00:22:13,000 --> 00:22:15,080
+y cuando digo excesivos,
+la verdad que un comerciante
+
+389
+00:22:15,200 --> 00:22:17,040
+está en derecho de poner
+el precio que quiera
+
+390
+00:22:17,040 --> 00:22:19,600
+en la batea, lo que pasa
+es que eso es un fenómeno
+
+391
+00:22:19,680 --> 00:22:22,000
+artificial que además,
+como mencionaba el otro día,
+
+392
+00:22:22,080 --> 00:22:24,680
+tuve la oportunidad de hablar
+con un periodista
+
+393
+00:22:24,760 --> 00:22:27,160
+que me decía que tuvo que ir
+a comprar un articulo
+
+394
+00:22:27,240 --> 00:22:32,440
+de librería para la hija,
+creo que era un adhesivo,
+
+395
+00:22:32,720 --> 00:22:36,040
+no quiero decir la marca,
+y fue al local de una cuadra
+
+396
+00:22:36,160 --> 00:22:37,640
+de su casa,
+salía 2 pesos y medio,
+
+397
+00:22:37,720 --> 00:22:39,880
+a la otra cuadra,
+8 pesos y medio.
+
+398
+00:22:39,960 --> 00:22:42,920
+Mismo proveedor,
+fíjense la variación.
+
+399
+00:22:43,040 --> 00:22:44,960
+Eso es una decisión
+del comerciante,
+
+400
+00:22:45,040 --> 00:22:46,240
+no es una decisión del gobierno.
+
+401
+00:22:46,360 --> 00:22:50,040
+Yo no pongo ese producto, ni
+desde el Ministerio de Economía,
+
+402
+00:22:50,160 --> 00:22:54,360
+ni ningún ministerio capacidad
+ni de comunicarle ni decirle.
+
+403
+00:22:54,440 --> 00:23:00,320
+Y ocurrió eso. Trasladaron
+la variación del tipo de cambio,
+
+404
+00:23:00,440 --> 00:23:04,160
+a veces trasladaron
+las expectativas
+
+405
+00:23:04,200 --> 00:23:05,800
+sobre lo que iba a ocurrir,
+
+406
+00:23:05,880 --> 00:23:07,760
+a veces el tipo de cambio
+ilegal,
+
+407
+00:23:07,840 --> 00:23:09,720
+y a veces ese rubro
+por las dudas.
+
+408
+00:23:09,840 --> 00:23:11,400
+Y pusieron los precios.
+
+409
+00:23:11,520 --> 00:23:13,320
+Después se encontraron
+con lo obvio,
+
+410
+00:23:13,600 --> 00:23:16,480
+por un lado el gobierno
+que actuó rápidamente
+
+411
+00:23:16,560 --> 00:23:19,480
+en defensa de ellos mismos
+me animaría a decir.
+
+412
+00:23:19,560 --> 00:23:22,280
+La verdad que cobrar cualquier
+cosa no es buen negocio,
+
+413
+00:23:22,400 --> 00:23:25,080
+por que se van a resentir
+las ventas,
+
+414
+00:23:25,160 --> 00:23:29,440
+no se puede poner cualquier
+precio.
+
+415
+00:23:29,520 --> 00:23:32,440
+Entonces actuó el gobierno
+pero también actuó la gente
+
+416
+00:23:32,560 --> 00:23:34,280
+a través del programa
+Precios Cuidados sin duda
+
+417
+00:23:34,360 --> 00:23:38,400
+que venia desde antes
+de diciembre trabajándose,
+
+418
+00:23:38,480 --> 00:23:41,400
+el programa Precios Cuidados,
+que llamo, puso referencias,
+
+419
+00:23:41,480 --> 00:23:44,000
+creo conciencia sobre
+esta cuestión,
+
+420
+00:23:44,080 --> 00:23:46,480
+también desde el gobierno
+lo hemos hecho.
+
+421
+00:23:46,560 --> 00:23:50,000
+Y la gente con su participación
+ha impedido
+
+422
+00:23:50,120 --> 00:23:51,840
+este tipo de comportamientos.
+
+423
+00:23:51,960 --> 00:23:53,400
+Y no es una cuestión de estar
+a favor o en contra
+
+424
+00:23:53,480 --> 00:23:55,040
+de los empresarios, por que
+ha habido empresarios
+
+425
+00:23:55,160 --> 00:23:58,560
+muy responsables que hicieron
+las cuentas, vieron sus costos.
+
+426
+00:23:58,680 --> 00:24:04,720
+Incluso hubo bienes ni
+un tornillo importado
+
+427
+00:24:04,800 --> 00:24:06,840
+que subieron los precios.
+
+428
+00:24:06,920 --> 00:24:09,720
+O que tenían todo en stock
+y subieron los precios.
+
+429
+00:24:09,800 --> 00:24:11,560
+Este rubro por las dudas.
+
+430
+00:24:11,640 --> 00:24:13,680
+Entonces eso generó
+muchas distorsiones
+
+431
+00:24:13,800 --> 00:24:16,920
+en los precios de los meses
+enero y febrero.
+
+432
+00:24:17,040 --> 00:24:18,840
+Y este es el dato más importante
+que quiero dar,
+
+433
+00:24:18,960 --> 00:24:21,520
+por que nosotros estamos
+midiendo de diferentes maneras
+
+434
+00:24:21,640 --> 00:24:24,120
+pero ya se está escuchando
+también en la opinión pública,
+
+435
+00:24:24,280 --> 00:24:27,360
+también en alguna prensa
+que lo quiere comunicar,
+
+436
+00:24:27,440 --> 00:24:31,040
+que en la segunda quincena
+de febrero se empezó
+
+437
+00:24:31,120 --> 00:24:34,600
+a producir una desaceleración
+de los precios.
+
+438
+00:24:35,120 --> 00:24:36,640
+Esto se empezó a notar,
+por supuesto,
+
+439
+00:24:36,760 --> 00:24:39,200
+yo no puedo dar perspectivas,
+no puedo,
+
+440
+00:24:39,360 --> 00:24:43,040
+no corresponde que hable
+demasiado del futuro,
+
+441
+00:24:43,040 --> 00:24:46,200
+lo que digo que es un hecho
+cierto que durante marzo
+
+442
+00:24:46,280 --> 00:24:48,720
+se observaron desaceleraciones
+en ciertos precios,
+
+443
+00:24:48,840 --> 00:24:52,760
+en otros capaz que no,
+pero se ha trabajado también
+
+444
+00:24:52,880 --> 00:24:55,960
+desde la Secretaría de Comercio,
+con Augusto Costa,
+
+445
+00:24:56,080 --> 00:24:58,960
+desde otros ministerios
+también,
+
+446
+00:24:59,080 --> 00:25:02,000
+desde la concientización
+de los consumidores
+
+447
+00:25:02,120 --> 00:25:04,400
+cuyos derechos están invadidos
+por esta idea
+
+448
+00:25:04,480 --> 00:25:07,960
+de poner cualquier precio
+y aprovechar el poder del mercado.
+
+449
+00:25:08,040 --> 00:25:11,440
+Entonces ha habido
+un ordenamiento,
+
+450
+00:25:11,560 --> 00:25:14,320
+un acomodamiento.
+
+451
+00:25:14,560 --> 00:25:18,000
+Y también hay casos dentro
+de este índice que ahora
+
+452
+00:25:18,120 --> 00:25:20,160
+voy a anunciar, que vale
+la pena comentar.
+
+453
+00:25:20,280 --> 00:25:21,400
+El caso de medicamentos.
+
+454
+00:25:21,520 --> 00:25:24,000
+Por que yo en esta misma
+sala anuncie que a partir
+
+455
+00:25:24,080 --> 00:25:27,680
+del 1 de marzo había
+una reducción de precios
+
+456
+00:25:27,800 --> 00:25:29,680
+de muchos medicamentos por que
+se había consensuado
+
+457
+00:25:29,800 --> 00:25:32,960
+con el sector acordado
+que los aumentos
+
+458
+00:25:33,080 --> 00:25:37,320
+tenían que estar en el promedio,
+en tal banda, en el global,
+
+459
+00:25:37,440 --> 00:25:41,040
+entonces había precios
+de algunos medicamentos
+
+460
+00:25:41,040 --> 00:25:43,000
+que se habían movido por encima,
+
+461
+00:25:43,120 --> 00:25:45,560
+dijimos que era una cuestión
+muy sensible la cuestión
+
+462
+00:25:45,680 --> 00:25:48,920
+de los medicamentos,
+pero que se habían reducido
+
+463
+00:25:49,000 --> 00:25:50,440
+a partir de marzo.
+
+464
+00:25:50,560 --> 00:25:52,680
+Y efectivamente nosotros
+hacemos las mediciones
+
+465
+00:25:52,800 --> 00:25:55,000
+y hemos observado este
+movimiento.
+
+466
+00:25:55,000 --> 00:25:57,080
+O sea que enero y febrero
+están sujetos
+
+467
+00:25:57,160 --> 00:25:59,440
+a todas estos distorsiones,
+precios que subieron mucho
+
+468
+00:25:59,560 --> 00:26:00,840
+y después se acomodaron.
+
+469
+00:26:00,960 --> 00:26:03,040
+Una practica muy sana,
+nos juntamos el otro día
+
+470
+00:26:03,160 --> 00:26:05,360
+con el sector automotriz,
+y lo quiero comentar
+
+471
+00:26:05,480 --> 00:26:07,360
+por que siguen insistiendo
+con eso,
+
+472
+00:26:07,440 --> 00:26:09,320
+no los empresarios que
+estaban de acuerdo,
+
+473
+00:26:09,400 --> 00:26:12,240
+o los gerentes, por que
+muchas son internacionales,
+
+474
+00:26:12,360 --> 00:26:16,920
+estaban de acuerdo,
+el impuesto a los autos
+
+475
+00:26:17,080 --> 00:26:22,360
+de alta gama que resolvió
+el Congreso de Nación
+
+476
+00:26:22,600 --> 00:26:26,520
+solamente afecta a un 4%
+de los vehículos
+
+477
+00:26:26,640 --> 00:26:28,200
+de producción nacional,
+
+478
+00:26:28,440 --> 00:26:32,760
+solamente un 4% de los
+vehículos de producción nacional,
+
+479
+00:26:32,840 --> 00:26:36,040
+con terminales radicadas.
+
+480
+00:26:36,160 --> 00:26:40,520
+Y afecta en total a no más
+de un 9%,
+
+481
+00:26:40,640 --> 00:26:45,040
+siendo muy generoso en que
+se toma el mercado de autos,
+
+482
+00:26:45,160 --> 00:26:47,480
+no todo el sector automotriz,
+
+483
+00:26:47,600 --> 00:26:49,440
+por que las pickups
+no fueron afectadas,
+
+484
+00:26:49,560 --> 00:26:51,000
+los camiones no fueron afectados.
+
+485
+00:26:51,120 --> 00:26:54,440
+Así que eso es el efecto
+de los impuestos internos
+
+486
+00:26:54,560 --> 00:26:57,000
+sobre los autos, no puede
+afectar más del 10%.
+
+487
+00:26:57,000 --> 00:27:01,000
+Y son autos que valían
+más de 170.000 pesos,
+
+488
+00:27:01,120 --> 00:27:05,000
+o sea, es gama alta.
+
+489
+00:27:05,000 --> 00:27:09,720
+Eso es lo que se estuvo
+charlando con el sector.
+
+490
+00:27:09,800 --> 00:27:11,480
+Pero eso no puede ser
+lo que explique
+
+491
+00:27:11,600 --> 00:27:14,160
+por que subió el precio
+de un Sedán 4 puertas
+
+492
+00:27:14,280 --> 00:27:16,720
+para una familia,
+no tiene nada que ver.
+
+493
+00:27:16,840 --> 00:27:19,840
+Lo que decíamos
+y lo comunicamos,
+
+494
+00:27:19,960 --> 00:27:24,040
+es que hubo en el sector
+automotriz algunos incrementos
+
+495
+00:27:24,040 --> 00:27:26,400
+que todavía restan por ver
+si fueron las concesionarias,
+
+496
+00:27:26,520 --> 00:27:29,520
+si fueron las terminales,
+si fue una cuestión de stocks,
+
+497
+00:27:29,640 --> 00:27:34,760
+de problemas, pero hubo
+aumentos más allá,
+
+498
+00:27:34,880 --> 00:27:38,680
+no digo del 20%, 15%,
+imagínense ustedes,
+
+499
+00:27:38,760 --> 00:27:42,480
+supónganse el corrimiento
+cambiario fue del 20%,
+
+500
+00:27:42,560 --> 00:27:47,760
+supónganse, 20%, un auto
+de producción local
+
+501
+00:27:47,880 --> 00:27:53,000
+tiene aproximadamente
+un 70% de componente importado.
+
+502
+00:27:53,120 --> 00:27:57,200
+Entonces 20% por 70% igual 14%,
+
+503
+00:27:57,280 --> 00:28:00,600
+el aumento de los costos
+fue el 14% a lo sumo.
+
+504
+00:28:00,720 --> 00:28:03,960
+¿Cómo se explica un incremento
+del 20%, del 30%
+
+505
+00:28:04,080 --> 00:28:06,720
+que hemos observado
+en algunos modelos?
+
+506
+00:28:06,840 --> 00:28:08,000
+No me quiero pelear
+con la industria por que
+
+507
+00:28:08,000 --> 00:28:11,840
+hemos charlado amigablemente,
+pero les dijimos, cuidado,
+
+508
+00:28:11,960 --> 00:28:13,760
+que si los aumentos
+son desmedidos,
+
+509
+00:28:13,880 --> 00:28:16,160
+no podemos garantizar
+con otras medidas
+
+510
+00:28:16,320 --> 00:28:19,040
+que la demanda sea tan dinámica.
+
+511
+00:28:19,040 --> 00:28:21,720
+Lo digo de tal manera,
+si alguien aumenta el 34%
+
+512
+00:28:21,800 --> 00:28:23,640
+el precio de un auto
+que no espere tener
+
+513
+00:28:23,760 --> 00:28:25,880
+tantos compradores
+como el mes anterior.
+
+514
+00:28:26,000 --> 00:28:27,880
+Y esto no es atribuible,
+
+515
+00:28:28,000 --> 00:28:32,320
+estos cálculos no
+son atribuibles al impuesto.
+
+516
+00:28:32,440 --> 00:28:34,080
+El impuesto es eso,
+el corrimiento cambiario
+
+517
+00:28:34,080 --> 00:28:36,040
+es un incidencial 14,
+
+518
+00:28:36,040 --> 00:28:38,000
+y el resto son movimientos
+de los precios,
+
+519
+00:28:38,000 --> 00:28:40,000
+que como es un sector
+netamente privado
+
+520
+00:28:40,120 --> 00:28:41,880
+puede mover los precios,
+
+521
+00:28:41,960 --> 00:28:44,800
+no necesita pedirle
+permiso a nadie para hacerlo.
+
+522
+00:28:44,960 --> 00:28:47,000
+Lo puede hacer por que piensa
+que la devaluación,
+
+523
+00:28:47,160 --> 00:28:49,280
+por que le caen las ventas
+en el extranjero.
+
+524
+00:28:49,440 --> 00:28:51,760
+Ustedes sabrán que las ventas
+al Brasil mes de enero
+
+525
+00:28:51,880 --> 00:28:54,440
+cayeron como un 35%.
+
+526
+00:28:54,560 --> 00:28:56,720
+No tiene que ver
+con la cuestión local.
+
+527
+00:28:56,800 --> 00:28:59,040
+Cayó la demanda externa.
+
+528
+00:28:59,200 --> 00:29:01,320
+Pero bueno, son muchos
+factores.
+
+529
+00:29:01,440 --> 00:29:04,880
+Ahora, si suben los precios
+puede caer la demanda,
+
+530
+00:29:05,000 --> 00:29:07,040
+es una explicación económica
+claro.
+
+531
+00:29:07,040 --> 00:29:09,000
+Alguien se iba a comprar
+un coche, se lo suben 35,
+
+532
+00:29:09,080 --> 00:29:10,280
+dice, no lo compro.
+
+533
+00:29:10,400 --> 00:29:13,680
+Eso no tiene que ver
+ni con el movimiento cambiario,
+
+534
+00:29:13,760 --> 00:29:16,080
+ni con el impuesto.
+
+535
+00:29:16,200 --> 00:29:21,760
+Ahora bien, leo hoy
+una noticia interesante
+
+536
+00:29:21,920 --> 00:29:25,200
+que dice, no me quiero equivocar,
+
+537
+00:29:25,320 --> 00:29:27,640
+si la traje la leo,
+sino la digo de memora.
+
+538
+00:29:27,720 --> 00:29:30,320
+Acá está.
+
+539
+00:29:30,600 --> 00:29:36,440
+“Suben las ventas de autos
+usados por la caída de los 0Km”.
+
+540
+00:29:39,960 --> 00:29:42,560
+Y claro, si hubo aumentos
+desmedidos en el mercado
+
+541
+00:29:42,680 --> 00:29:46,040
+de los autos, también
+nos comentaron algunas
+
+542
+00:29:46,160 --> 00:29:47,880
+concesionarias que hubo
+en algún momento
+
+543
+00:29:48,000 --> 00:29:51,040
+dudas con las entregas,
+pero bien,
+
+544
+00:29:51,160 --> 00:29:53,280
+todo esto se va a ir
+normalizando.
+
+545
+00:29:53,400 --> 00:29:55,640
+Lo que pedimos, como lo
+pedimos en aquel momento,
+
+546
+00:29:55,760 --> 00:29:59,080
+es que aquellos que pueden
+fijar precios,
+
+547
+00:29:59,080 --> 00:30:01,400
+por que hay fijadores
+de precios,
+
+548
+00:30:01,480 --> 00:30:04,480
+hay formadores de precios
+en la Argentina,
+
+549
+00:30:04,560 --> 00:30:06,280
+en determinados sectores
+más que en otros,
+
+550
+00:30:06,360 --> 00:30:08,040
+donde hay más competencia
+es más difícil,
+
+551
+00:30:08,040 --> 00:30:10,720
+donde está más concentrado
+es más fácil,
+
+552
+00:30:10,840 --> 00:30:12,600
+entonces donde hay formadores
+de precios
+
+553
+00:30:12,720 --> 00:30:15,880
+que tengan racionabilidad
+en el movimiento de los precios
+
+554
+00:30:16,000 --> 00:30:19,000
+por que después ocurre
+que suben mucho los precios
+
+555
+00:30:19,000 --> 00:30:23,320
+de los autos nuevos,
+y se empiezan a comprar usados.
+
+556
+00:30:23,400 --> 00:30:25,080
+Y leyendo la nota a ver
+que decía, decía:
+
+557
+00:30:25,160 --> 00:30:30,360
+“Con un mercado desabastecido.”
+Como la causa.
+
+558
+00:30:30,480 --> 00:30:34,240
+Eso no es que el precio
+subió mucho, eso es que
+
+559
+00:30:34,360 --> 00:30:36,640
+las terminales parecería
+que no están entregando.
+
+560
+00:30:36,760 --> 00:30:38,360
+Bueno, todo eso es
+lo que tratamos
+
+561
+00:30:38,480 --> 00:30:44,000
+junto con los empresarios
+de alguna manera acomodar
+
+562
+00:30:44,000 --> 00:30:48,800
+y comunicar conjuntamente,
+que según ellos,
+
+563
+00:30:48,920 --> 00:30:52,560
+esos movimientos en el precio
+se iban a revisar
+
+564
+00:30:52,680 --> 00:30:55,040
+para que fueran absolutamente
+razonables,
+
+565
+00:30:55,040 --> 00:30:57,160
+y todas las cuestiones
+de las entregas
+
+566
+00:30:57,280 --> 00:31:02,520
+que no estaban disponibles, etc,
+se iba a normalizar rápidamente
+
+567
+00:31:02,640 --> 00:31:04,800
+para que el mercado
+de autos nuevos tenga
+
+568
+00:31:04,920 --> 00:31:07,280
+nuevamente su movimiento,
+que no depende ni del impuesto,
+
+569
+00:31:07,400 --> 00:31:09,600
+ni del corrimiento cambiario
+central.
+
+570
+00:31:09,720 --> 00:31:12,080
+No quería polemizar,
+pero simplemente, repito,
+
+571
+00:31:12,200 --> 00:31:14,080
+cuando hay movimientos
+desmedidos en los precios
+
+572
+00:31:14,080 --> 00:31:19,040
+hay caída de la demanda,
+obviamente,
+
+573
+00:31:19,040 --> 00:31:22,920
+y de eso no tiene la culpa
+el Estado que sobremarca,
+
+574
+00:31:23,000 --> 00:31:26,640
+o remarca, sino que muchas
+veces hay que ver como
+
+575
+00:31:26,720 --> 00:31:28,320
+se formó ese precio,
+cual eran los costos,
+
+576
+00:31:28,440 --> 00:31:31,840
+y si no se está buscando
+una ganancia desmedida.
+
+577
+00:31:31,920 --> 00:31:38,800
+Voy a leer ahora
+una parte del comunicado,
+
+578
+00:31:41,000 --> 00:31:44,240
+que dice: “El Nivel General
+del IPCNu
+
+579
+00:31:44,360 --> 00:31:48,920
+registró en febrero
+una variación de 3,4%
+
+580
+00:31:49,040 --> 00:31:51,560
+con relación al mes anterior.”
+
+581
+00:31:51,640 --> 00:31:54,040
+Y dice después, en una tabla,
+hay más anexos
+
+582
+00:31:54,120 --> 00:31:55,720
+que vamos a distribuir,
+vamos a publicar,
+
+583
+00:31:55,840 --> 00:32:03,000
+donde también marcamos
+los movimientos
+
+584
+00:32:03,200 --> 00:32:05,520
+en cada uno de los capítulos.
+
+585
+00:32:05,680 --> 00:32:09,720
+El Nivel general es 3,4
+respecto al mes anterior.
+
+586
+00:32:09,880 --> 00:32:15,480
+Alimentos y bebidas, 4%.
+
+587
+00:32:15,600 --> 00:32:18,000
+Repito esta cuestión
+que hemos observado
+
+588
+00:32:18,160 --> 00:32:22,880
+muy fuertemente durante
+la segunda quincena de febrero
+
+589
+00:32:23,000 --> 00:32:27,320
+en base a políticas también,
+pero también la concientización
+
+590
+00:32:27,440 --> 00:32:29,480
+de buena parte
+de los consumidores
+
+591
+00:32:29,600 --> 00:32:34,440
+y de algunos empresarios,
+productores, comercializadores.
+
+592
+00:32:34,560 --> 00:32:36,040
+En Indumentaria, 1,4.
+
+593
+00:32:36,160 --> 00:32:38,240
+Vivienda y servicios básicos,
+1,3.
+
+594
+00:32:38,360 --> 00:32:40,560
+Equipamiento y mantenimiento
+del hogar,
+
+595
+00:32:40,720 --> 00:32:43,720
+vinculado sí con un componente
+importado muy elevado, 4,8.
+
+596
+00:32:43,840 --> 00:32:49,520
+Atención médica y gastos
+para la salud, 6,0.
+
+597
+00:32:49,640 --> 00:32:53,480
+Esto mide febrero,
+no la retracción del precio
+
+598
+00:32:53,560 --> 00:32:58,440
+de una importante cantidad
+de medicamentos
+
+599
+00:32:58,600 --> 00:32:59,640
+durante el mes de marzo,
+
+600
+00:32:59,760 --> 00:33:02,040
+eso ocurrió a partir
+del mes de marzo fue el acuerdo,
+
+601
+00:33:02,040 --> 00:33:03,920
+que fue cuando se arregló
+con el sector.
+
+602
+00:33:04,080 --> 00:33:07,600
+Transporte y comunicaciones,
+esto tiene que ver
+
+603
+00:33:07,760 --> 00:33:11,280
+con algún aumento
+en las tarifas
+
+604
+00:33:11,440 --> 00:33:16,360
+de algún servicio de transporte
+público, de alguna jurisdicción,
+
+605
+00:33:16,520 --> 00:33:19,480
+Esparcimiento, 2,0.
+Educación, 1,5.
+
+606
+00:33:19,640 --> 00:33:24,560
+Otros bienes y servicios, 4,1.
+
+607
+00:33:24,720 --> 00:33:29,560
+De manera tal que, repito,
+lo que estamos observando
+
+608
+00:33:29,720 --> 00:33:34,880
+es una leve desaceleración
+con respecto al mes de enero,
+
+609
+00:33:34,960 --> 00:33:37,840
+que nosotros hemos observado
+que empezó a ocurrir
+
+610
+00:33:37,960 --> 00:33:40,360
+después de pasadas esas
+semanas complejas
+
+611
+00:33:40,480 --> 00:33:43,040
+donde subieron mucho
+electrodomésticos,
+
+612
+00:33:43,200 --> 00:33:46,000
+algunos insumos de uso
+difundido,
+
+613
+00:33:46,000 --> 00:33:50,000
+algunos productos por que sí,
+algunos medicamentos.
+
+614
+00:33:50,000 --> 00:33:55,040
+Esto ocurrió a lo largo
+del mes, principios de enero,
+
+615
+00:33:55,040 --> 00:33:57,680
+perdón, fines de enero
+y principios de febrero,
+
+616
+00:33:57,880 --> 00:34:01,200
+y última quincena de febrero
+hemos observado,
+
+617
+00:34:01,360 --> 00:34:03,960
+no voy a poner valores
+porque no tenemos ninguna
+
+618
+00:34:04,080 --> 00:34:07,840
+publicación intramensual,
+simplemente comentarles
+
+619
+00:34:08,000 --> 00:34:10,120
+que hemos observado que
+producto y fruto
+
+620
+00:34:10,280 --> 00:34:15,040
+de una medida del trabajo
+que se ha realizado,
+
+621
+00:34:15,040 --> 00:34:23,000
+ha habido desaceleración
+a partir del final de febrero
+
+622
+00:34:23,120 --> 00:34:26,520
+que no está captada plenamente
+por febrero por que observamos
+
+623
+00:34:26,640 --> 00:34:31,160
+ahí que el corrimiento de enero
+arrastro a febrero
+
+624
+00:34:31,280 --> 00:34:33,800
+y también hubo movimientos
+durante febrero.
+
+625
+00:34:33,960 --> 00:34:38,040
+Así que les agradezco mucho,
+y seguiremos en comunicación.
+

@@ -1,0 +1,78 @@
+1
+00:00:00,800 --> 00:00:06,800
+[Música de presentación]
+
+2
+00:00:07,000 --> 00:00:10,440
+El objetivo
+del Taller de Fútbol y Programación,
+
+3
+00:00:10,520 --> 00:00:13,880
+en el marco del Foro Regional
+de Program.AR,
+
+4
+00:00:14,400 --> 00:00:17,680
+es a través de la motivación
+que da el fútbol
+
+5
+00:00:17,760 --> 00:00:22,960
+con la gran variedad de desafíos
+y de problemas
+
+6
+00:00:23,280 --> 00:00:24,960
+que nos plantea.
+
+7
+00:00:25,400 --> 00:00:28,920
+Nuestra meta
+es que los participantes
+
+8
+00:00:29,000 --> 00:00:30,200
+se vayan con ideas
+
+9
+00:00:30,280 --> 00:00:33,920
+de cosas que se pueden hacer,
+
+10
+00:00:34,000 --> 00:00:35,800
+desde el punto de vista
+de la programación,
+
+11
+00:00:35,880 --> 00:00:38,280
+en el fútbol
+y en muchas otras áreas
+
+12
+00:00:38,360 --> 00:00:43,240
+porque, a lo mejor,
+resuelven el problema del reglamento
+
+13
+00:00:43,320 --> 00:00:46,440
+y de la regla once y del "offside"
+
+14
+00:00:46,520 --> 00:00:48,640
+o resuelven
+algún jueguito de penales,
+
+15
+00:00:48,720 --> 00:00:49,840
+pero se van a llevar la semilla
+
+16
+00:00:49,920 --> 00:00:51,720
+que les va a servir
+para muchas más cosas a futuro.
+
+17
+00:00:51,800 --> 00:00:55,320
+[Música de cierre]
+

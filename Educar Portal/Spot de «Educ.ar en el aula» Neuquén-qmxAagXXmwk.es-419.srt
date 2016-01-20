@@ -1,0 +1,44 @@
+1
+00:00:00,880 --> 00:00:04,880
+(Voz de hombre)
+<i>¿Te gustaría incluir en tus clases</i>
+<i>contenidos de Encuentro y Pakapaka?</i>
+
+2
+00:00:04,960 --> 00:00:08,040
+<i>¿Querés utilizar los recursos</i>
+<i>del portal Educ.ar?</i>
+
+3
+00:00:08,120 --> 00:00:11,560
+<i>Te acercamos una propuesta</i>
+<i>de formación para docentes:</i>
+
+4
+00:00:12,440 --> 00:00:13,920
+<i>Educ.ar en el aula.</i>
+
+5
+00:00:14,400 --> 00:00:17,640
+<i>Jornadas de capacitación</i>
+<i>y cursos virtuales gratuitos</i>
+
+6
+00:00:17,720 --> 00:00:20,160
+<i>para todos los niveles</i>
+<i>y en todo el país.</i>
+
+7
+00:00:20,680 --> 00:00:25,400
+<i>Informate en www.educ.ar/enelaula.</i>
+
+8
+00:00:27,760 --> 00:00:31,600
+<i>Educ.ar en el aula en Neuquén.</i>
+<i>Sábado 4 de octubre, Zapala.</i>
+
+9
+00:00:32,320 --> 00:00:35,280
+<i>Próximamente, Neuquén capital</i>
+<i>y Junín de los Andes.</i>
+

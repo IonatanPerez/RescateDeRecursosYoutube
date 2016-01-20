@@ -1,0 +1,816 @@
+1
+00:00:00,617 --> 00:00:02,093
+Bueno, muy buenas tardes
+a todos y a todas.
+
+2
+00:00:02,099 --> 00:00:02,991
+Muchas gracias.
+
+3
+00:00:03,041 --> 00:00:04,934
+Queremos agradecer muy
+especialmente
+
+4
+00:00:06,127 --> 00:00:07,619
+a este honorable Congreso
+de la Nación,
+
+5
+00:00:07,625 --> 00:00:09,966
+en la persona del Presidente de
+la Cámara de Diputados,
+
+6
+00:00:09,972 --> 00:00:10,940
+Julián Domínguez.
+
+7
+00:00:11,626 --> 00:00:13,568
+Y, por supuesto también,
+el presidente provisorio
+
+8
+00:00:14,492 --> 00:00:17,019
+del Senado, Gerardo Zamora,
+junto a Julian...
+
+9
+00:00:17,027 --> 00:00:19,755
+y Miguel Pichetto,
+como jefe de bloque
+
+10
+00:00:20,763 --> 00:00:22,635
+de... la bancada del Frente
+para la Victoria.
+
+11
+00:00:22,641 --> 00:00:24,751
+Y, por supuesto, queremos
+agradecer muy especialmente
+
+12
+00:00:25,917 --> 00:00:28,276
+la presencia de todos y cada uno
+de los integrantes
+
+13
+00:00:28,283 --> 00:00:30,429
+de los distintos bloques
+representativos
+
+14
+00:00:31,143 --> 00:00:32,704
+de la Cámara de Diputados
+de la Nación,
+
+15
+00:00:32,710 --> 00:00:34,229
+y de la Cámara de Senadores.
+
+16
+00:00:35,156 --> 00:00:38,232
+En ese contexto, lo que nosotros
+hemos propiciado hoy,
+
+17
+00:00:39,275 --> 00:00:42,607
+es un informe extenso respecto a
+las características
+
+18
+00:00:43,304 --> 00:00:46,114
+del proceso de reestructuración
+de la deuda pública
+
+19
+00:00:46,120 --> 00:00:47,599
+de la República Argentina.
+
+20
+00:00:48,752 --> 00:00:51,956
+En este contexto,
+el Ministro Axel Kicillof
+
+21
+00:00:52,754 --> 00:00:55,439
+se ha explayado respecto
+a los alcances de la deuda,
+
+22
+00:00:55,443 --> 00:00:57,840
+del origen y de los procesos
+de reestructuración,
+
+23
+00:00:58,846 --> 00:01:02,678
+y obviamente también,
+con una serie de consideraciones
+
+24
+00:01:02,684 --> 00:01:05,795
+que ha planteado el doctor
+Carlos Zannini como secretario
+
+25
+00:01:05,845 --> 00:01:07,388
+legal y técnico de la
+presidencia.
+
+26
+00:01:08,317 --> 00:01:12,117
+El resumen ejecutivo de esta
+exposición se basa
+
+27
+00:01:12,123 --> 00:01:13,305
+en lo siguiente:
+
+28
+00:01:13,966 --> 00:01:17,400
+Primero: la deuda en default
+de la República Argentina
+
+29
+00:01:17,406 --> 00:01:19,738
+se origina en el año 2001,
+por lo tanto,
+
+30
+00:01:21,398 --> 00:01:24,352
+desde el año 2002 en adelante,
+la República Argentina
+
+31
+00:01:24,357 --> 00:01:27,907
+estuvo en default del
+cumplimiento de deuda
+
+32
+00:01:27,914 --> 00:01:29,695
+hasta el año 2005.
+
+33
+00:01:30,700 --> 00:01:33,822
+Precisamente fue el presidente
+Nestor Carlos Kirchner
+
+34
+00:01:33,831 --> 00:01:36,939
+quien inició este proceso de
+reestructuración voluntaria
+
+35
+00:01:36,946 --> 00:01:40,955
+de deuda, y el Congreso de la
+Nación apoyó y respaldó
+
+36
+00:01:40,961 --> 00:01:43,669
+esta iniciativa a partir
+de la Ley 26.017,
+
+37
+00:01:44,361 --> 00:01:47,058
+que es la ley técnicamente
+denominada como Ley Cerrojo.
+
+38
+00:01:47,855 --> 00:01:51,085
+Precisamente es la que
+estableció expresamente
+
+39
+00:01:52,203 --> 00:01:55,516
+que el Congreso de la Nación en
+virtud del artículo 75,
+
+40
+00:01:55,522 --> 00:01:58,695
+inciso 7 de la Constitución
+Nacional, establecía
+
+41
+00:01:58,701 --> 00:02:01,888
+que el poder ejecutivo generaba
+las condiciones
+
+42
+00:02:01,896 --> 00:02:04,858
+de reestructuración de la
+deuda en función de el canje
+
+43
+00:02:04,865 --> 00:02:06,107
+voluntario de la misma.
+
+44
+00:02:06,913 --> 00:02:10,435
+En ese contexto, el primer canje
+de deuda del año 2005
+
+45
+00:02:11,134 --> 00:02:14,590
+tuvo una adhesión equivalente al
+76% de los bonistas
+
+46
+00:02:15,539 --> 00:02:18,212
+y luego hubo una reapertura
+de canje en el año 2010
+
+47
+00:02:18,807 --> 00:02:22,292
+hasta llegar al 92,4%.
+
+48
+00:02:22,298 --> 00:02:26,855
+Casi el 93% del total de los
+acreedores de forma voluntaria.
+
+49
+00:02:27,992 --> 00:02:31,210
+Paralelamente con esto, la
+República Argentina logró,
+
+50
+00:02:31,988 --> 00:02:35,616
+y el Congreso apoyó, el pago al
+Fondo Monetario Internacional
+
+51
+00:02:36,285 --> 00:02:38,887
+con el uso de reservas y luego,
+obviamente, la creación
+
+52
+00:02:38,893 --> 00:02:42,971
+del fondo de desendeudamiento
+a partir del uso de reservas
+
+53
+00:02:42,978 --> 00:02:45,201
+que era parte de una política
+contra cíclica
+
+54
+00:02:45,207 --> 00:02:46,200
+del Gobierno Nacional.
+
+55
+00:02:46,206 --> 00:02:51,046
+Entonces, lo que nos pareció
+importante, es una explicación
+
+56
+00:02:51,052 --> 00:02:53,855
+muy detallada de lo que ha
+significado la reestructuración
+
+57
+00:02:53,860 --> 00:02:55,242
+de la deuda en la Argentina.
+
+58
+00:02:55,248 --> 00:02:56,964
+Primero... las
+características...
+
+59
+00:02:57,585 --> 00:02:59,917
+Primero, que fue una
+reestructuración con adhesión
+
+60
+00:02:59,923 --> 00:03:01,919
+voluntaria de los acreedores.
+
+61
+00:03:02,794 --> 00:03:06,322
+Segundo, que se hizo sin la
+tutela del Fondo Monetario
+
+62
+00:03:06,328 --> 00:03:07,381
+Internacional.
+
+63
+00:03:08,138 --> 00:03:11,002
+Tercero, es que se logró,
+efectivamente,
+
+64
+00:03:11,605 --> 00:03:14,632
+en condiciones satisfactorias,
+porque hubo una fuerte quita
+
+65
+00:03:14,638 --> 00:03:19,184
+de deuda y la instrumentación
+de plazos que fue en conformidad
+
+66
+00:03:19,190 --> 00:03:21,120
+con la capacidad
+de pago del país.
+
+67
+00:03:22,061 --> 00:03:23,924
+Y esta explicación que ha
+brindado el Ministro
+
+68
+00:03:23,930 --> 00:03:25,898
+Axel Kicillof,
+ha permitido claramente
+
+69
+00:03:25,904 --> 00:03:27,236
+observar lo siguiente:
+
+70
+00:03:27,916 --> 00:03:32,407
+Primero, que la deuda pública,
+que era superior al 160%
+
+71
+00:03:32,415 --> 00:03:36,503
+del producto, bajó
+drásticamente a casi el 40%
+
+72
+00:03:36,509 --> 00:03:40,010
+del producto interno bruto,
+y que la deuda externa en manos
+
+73
+00:03:40,016 --> 00:03:43,397
+privadas hoy sea equivalente
+al 10% del producto
+
+74
+00:03:43,403 --> 00:03:44,301
+interno bruto.
+
+75
+00:03:44,312 --> 00:03:47,001
+En consecuencia, fue un proceso
+de reestructuración
+
+76
+00:03:47,007 --> 00:03:48,468
+exitosa de la deuda.
+
+77
+00:03:48,474 --> 00:03:51,937
+En donde se obtuvieron plazos,
+condiciones mejores
+
+78
+00:03:51,943 --> 00:03:55,578
+para la República Argentina,
+fuerte quita y negociación
+
+79
+00:03:55,585 --> 00:03:57,588
+desde el punto de vista de los
+servicios de capital
+
+80
+00:03:57,596 --> 00:03:59,944
+e intereses de deuda,
+sujeto a la capacidad
+
+81
+00:03:59,950 --> 00:04:03,879
+de pago y a la perspectiva de
+crecimiento de la Argentina.
+
+82
+00:04:04,692 --> 00:04:09,040
+Esto, por aquella célebre y
+memorable frase del presidente
+
+83
+00:04:09,048 --> 00:04:11,281
+Nestor Kirchner en el sentido
+de que "los muertos
+
+84
+00:04:11,288 --> 00:04:12,726
+no pagan sus deudas".
+
+85
+00:04:13,303 --> 00:04:14,930
+La presidenta Cristina
+Fernandez de Kirchner
+
+86
+00:04:15,960 --> 00:04:19,829
+generó las condiciones,
+precisamente para una reapertura
+
+87
+00:04:19,835 --> 00:04:23,025
+del canje a partir del año
+2010, y existe una última ley
+
+88
+00:04:23,031 --> 00:04:24,773
+aprobada por el Congreso
+en el año 2013,
+
+89
+00:04:25,588 --> 00:04:28,299
+y en consecuencia,
+las condiciones también,
+
+90
+00:04:28,306 --> 00:04:30,916
+conjuntamente con la
+cancelación anticipada
+
+91
+00:04:30,922 --> 00:04:32,140
+al Fondo Monetario
+Internacional
+
+92
+00:04:32,148 --> 00:04:34,181
+y con el Club de Paris
+recientemente,
+
+93
+00:04:35,314 --> 00:04:37,598
+determinan claramente
+la voluntad expresa
+
+94
+00:04:38,343 --> 00:04:39,667
+de pago de la República
+Argentina.
+
+95
+00:04:40,315 --> 00:04:42,104
+Pero para cumplir sus
+compromisos,
+
+96
+00:04:42,110 --> 00:04:45,594
+obviamente lo hace conforma a
+su capacidad de pago,
+
+97
+00:04:45,600 --> 00:04:47,196
+en forma autónoma.
+
+98
+00:04:48,026 --> 00:04:52,061
+En ese contexto, toda la
+reestructuración de la deuda
+
+99
+00:04:52,066 --> 00:04:55,125
+pública Argentina se hizo con
+el mismo hilo conductor.
+
+100
+00:04:55,899 --> 00:04:58,327
+Primero respetar la capacidad de
+pago, segundo generar
+
+101
+00:04:58,333 --> 00:05:00,277
+las condiciones de crecimiento
+de la actividad económica,
+
+102
+00:05:00,283 --> 00:05:02,481
+inclusión social y distribución
+más equitativa de la riqueza,
+
+103
+00:05:03,417 --> 00:05:06,929
+tercero... sin la tutela de
+ningún organismo multilateral
+
+104
+00:05:06,938 --> 00:05:10,127
+de crédito, y a su vez, con la
+quita correspondiente.
+
+105
+00:05:11,289 --> 00:05:14,891
+A partir de ahora se produce un
+episodio, este episodio tiene
+
+106
+00:05:14,897 --> 00:05:18,330
+que ver con el fallo de la
+Corte Suprema de Justicia
+
+107
+00:05:18,336 --> 00:05:20,319
+de Estados Unidos
+de Norte América.
+
+108
+00:05:21,129 --> 00:05:24,917
+Este fallo, en general,
+es parte de sucesivas etapas
+
+109
+00:05:25,736 --> 00:05:30,515
+y fases del sistema judicial
+norteamericano,
+
+110
+00:05:31,498 --> 00:05:34,712
+que determina claramente la
+vigencia del fallo
+
+111
+00:05:34,720 --> 00:05:36,994
+en primera instancia
+del Juez Griesa.
+
+112
+00:05:37,941 --> 00:05:43,652
+Allí han ocurrido una serie de
+preguntas de parte
+
+113
+00:05:43,657 --> 00:05:45,924
+de los distintos bloques,
+respecto a cuál
+
+114
+00:05:46,918 --> 00:05:48,296
+es la posición Argentina.
+
+115
+00:05:48,302 --> 00:05:52,410
+Entonces, lo primero es... no
+voy a hondar en lo que ya
+
+116
+00:05:52,418 --> 00:05:55,088
+explicó la presidenta de la
+nación en su discurso,
+
+117
+00:05:55,095 --> 00:05:58,500
+ni tampoco el Ministro de
+Economía, pero si creo
+
+118
+00:05:58,506 --> 00:06:00,955
+que es necesario ratificar
+lo siguiente:
+
+119
+00:06:01,797 --> 00:06:06,053
+Algunos legisladores plantearon
+la posibilidad de constituir
+
+120
+00:06:06,061 --> 00:06:10,058
+la Comisión Bicameral,
+esto es un resorte exclusivo
+
+121
+00:06:10,065 --> 00:06:12,280
+del Congreso de la Nación pero
+para eso existe también la...
+
+122
+00:06:13,201 --> 00:06:14,821
+Creo que es la ley 26.122.
+
+123
+00:06:14,825 --> 00:06:19,943
+En segundo lugar, también se ha
+planteado... o sea...
+
+124
+00:06:19,949 --> 00:06:24,312
+Los legisladores plantearon si
+era necesario una estrategia
+
+125
+00:06:24,320 --> 00:06:26,920
+de apoyo desde el punto de
+vista legislativo
+
+126
+00:06:26,928 --> 00:06:27,950
+por parte del Congreso.
+
+127
+00:06:28,781 --> 00:06:32,298
+El poder ejecutivo ha informado
+claramente que tal cual
+
+128
+00:06:33,458 --> 00:06:37,776
+se estipula la sentencia del
+Juez Griesa, técnicamente tiene
+
+129
+00:06:38,588 --> 00:06:41,746
+las limitaciones por parte del
+estado argentino.
+
+130
+00:06:42,491 --> 00:06:44,811
+por una razón muy sencilla,
+porque el estado argentino
+
+131
+00:06:44,817 --> 00:06:47,380
+tiene que respetar la
+Constitución y la ley
+
+132
+00:06:47,385 --> 00:06:50,578
+que reglamente su ejercicio,
+en consecuencia, tiene límites.
+
+133
+00:06:51,563 --> 00:06:54,752
+Y que en definitiva,
+esos límites es lo que permite
+
+134
+00:06:54,761 --> 00:06:58,873
+establecer un claro respeto
+a sus principios.
+
+135
+00:06:59,513 --> 00:07:02,838
+¿Cuáles son los principios que
+Argentina tiene que respetar?
+
+136
+00:07:03,360 --> 00:07:06,554
+Primero el respeto irrestricto
+al cumplimiento
+
+137
+00:07:07,166 --> 00:07:10,486
+de las obligaciones
+financieras con el 92,4%
+
+138
+00:07:10,536 --> 00:07:13,183
+de los acreedores que han
+adherido voluntariamente
+
+139
+00:07:13,838 --> 00:07:15,275
+a la reestructuración
+de la deuda.
+
+140
+00:07:16,355 --> 00:07:20,955
+En segundo lugar que, el fallo,
+altera todas estas condiciones
+
+141
+00:07:20,961 --> 00:07:23,232
+de reestructuración
+voluntaria de deuda.
+
+142
+00:07:23,988 --> 00:07:29,520
+En tercer lugar, que hoy,
+15 horas, existe una reunión
+
+143
+00:07:30,341 --> 00:07:32,077
+en el juzgado,
+con el Juez Griesa,
+
+144
+00:07:32,788 --> 00:07:36,713
+con la concurrencia de los
+abogados que defienden
+
+145
+00:07:36,719 --> 00:07:37,969
+la posición argentina.
+
+146
+00:07:38,665 --> 00:07:43,347
+Y que, no podemos adelantar
+ninguna definición
+
+147
+00:07:43,351 --> 00:07:46,619
+ni estrategia, porque forma
+parte de las condiciones
+
+148
+00:07:46,625 --> 00:07:49,729
+de carácter judicial,
+pero que en definitiva,
+
+149
+00:07:51,088 --> 00:07:55,034
+la síntesis que hemos recibido
+hoy es que el Congreso
+
+150
+00:07:55,038 --> 00:07:58,322
+de la Nación Argentina a
+través de sus diferentes bloques
+
+151
+00:07:58,330 --> 00:08:03,385
+legislativos, ha brindado el
+pleno respaldo a la posición
+
+152
+00:08:03,392 --> 00:08:06,785
+argentina en defensa de los
+intereses del país,
+
+153
+00:08:07,815 --> 00:08:09,629
+con sus respectivas aristas.
+
+154
+00:08:10,180 --> 00:08:13,492
+Muchos han cuestionado desde el
+origen y la legitimidad
+
+155
+00:08:13,498 --> 00:08:15,347
+de la deuda, desde el punto
+de vista ideológico,
+
+156
+00:08:15,884 --> 00:08:19,347
+hasta una serie de
+consideraciones respecto
+
+157
+00:08:19,352 --> 00:08:24,139
+a la cuestión de la estrategia
+de renegociación de Argentina.
+
+158
+00:08:24,189 --> 00:08:29,725
+Pero todos han coincidido en
+repudiar, obviamente,
+
+159
+00:08:30,460 --> 00:08:31,806
+la actitud de los fondos
+buitres.
+
+160
+00:08:32,527 --> 00:08:37,484
+De considerar que este fallo,
+obviamente es lesivo contra
+
+161
+00:08:37,490 --> 00:08:41,275
+la soberanía nacional y contra
+los intereses del pueblo
+
+162
+00:08:41,281 --> 00:08:42,928
+argentino y de nuestra patria.
+
+163
+00:08:43,666 --> 00:08:46,687
+Y que están dadas todas las
+condiciones para respaldar
+
+164
+00:08:47,418 --> 00:08:51,222
+la posición argentina de un
+modo unívoco a los efectos
+
+165
+00:08:51,230 --> 00:08:54,544
+de garantizar la defensa del
+interés nacional.
+
+166
+00:08:54,550 --> 00:08:59,635
+Esa sería una escueta y
+perfecta, diría yo, síntesis,
+
+167
+00:08:59,641 --> 00:09:03,561
+de lo que ha ocurrido en el
+transcurso de esta reunión.
+
+168
+00:09:04,779 --> 00:09:06,562
+Muchas gracias.
+

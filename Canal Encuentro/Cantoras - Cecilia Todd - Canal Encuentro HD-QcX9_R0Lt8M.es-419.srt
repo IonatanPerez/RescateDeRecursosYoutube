@@ -1,0 +1,84 @@
+1
+00:00:00,480 --> 00:00:05,600
+[Canción]
+
+2
+00:00:14,920 --> 00:00:18,480
+Pajarillo verde,
+¿cómo no quieres que llore?
+
+3
+00:00:18,560 --> 00:00:21,880
+Pajarillo verde,
+¿cómo no voy a llorar?
+
+4
+00:00:21,960 --> 00:00:25,520
+Pajarillo verde,
+¿cómo no quieres que llore?
+
+5
+00:00:25,600 --> 00:00:28,920
+Pajarillo verde,
+¿cómo no voy a llorar?
+
+6
+00:00:29,000 --> 00:00:32,640
+Ay, ay, ay, ay,
+si los grillos que me quitan,
+
+7
+00:00:32,720 --> 00:00:36,080
+pajarillo verde,
+me los vuelven a pegar.
+
+8
+00:00:36,160 --> 00:00:39,600
+Ay, ay, ay, ay,
+si los grillos que me quitan,
+
+9
+00:00:39,680 --> 00:00:43,200
+pajarillo verde,
+me los vuelven a pegar.
+
+10
+00:00:57,480 --> 00:01:01,000
+Pajarillo verde,
+¿qué te puede dar un indio?,
+
+11
+00:01:01,080 --> 00:01:04,440
+pajarillo verde,
+por mucho que tú lo quieras.
+
+12
+00:01:04,520 --> 00:01:07,960
+Pajarillo verde,
+¿qué te puede dar un indio?,
+
+13
+00:01:08,040 --> 00:01:11,440
+pajarillo verde,
+por mucho que tú lo quieras.
+
+14
+00:01:11,520 --> 00:01:14,920
+Ay, ay, ay, ay,
+una ensarta de cangrejos,
+
+15
+00:01:15,000 --> 00:01:18,480
+pajarillo verde,
+y eso será cuando llueva.
+
+16
+00:01:18,560 --> 00:01:22,000
+Ay, ay, ay, ay,
+una ensarta de cangrejos,
+
+17
+00:01:22,080 --> 00:01:25,960
+pajarillo verde,
+y eso será cuando llueva.
+

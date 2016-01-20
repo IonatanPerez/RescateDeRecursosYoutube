@@ -1,0 +1,156 @@
+1
+00:00:00,680 --> 00:00:06,680
+[Música de presentación]
+
+2
+00:00:07,600 --> 00:00:09,800
+Una de las razones
+es la capacitación
+
+3
+00:00:09,880 --> 00:00:13,360
+otra, tener el respaldo formal
+de esta capacitación.
+
+4
+00:00:13,440 --> 00:00:14,560
+Muchas de estas tecnologías,
+
+5
+00:00:14,640 --> 00:00:17,000
+los que nos dedicamos
+a la informática ya las conocemos,
+
+6
+00:00:17,080 --> 00:00:19,360
+pero nos falta, por ahí,
+el marco formal.
+
+7
+00:00:19,440 --> 00:00:22,440
+Para enseñar,
+tenés que tener un título,
+
+8
+00:00:22,520 --> 00:00:25,120
+una formación, algo,
+para poder transmitirlo
+
+9
+00:00:25,200 --> 00:00:27,000
+porque, a lo mejor, te recibís
+
+10
+00:00:27,080 --> 00:00:28,560
+y, después, en dos años,
+
+11
+00:00:28,640 --> 00:00:31,040
+la tecnología, el software,
+todo avanzó tanto
+
+12
+00:00:31,120 --> 00:00:35,480
+que todas esas capacitaciones
+ad hoc que hiciste
+
+13
+00:00:35,560 --> 00:00:39,000
+para poder transmitirlas,
+para poder enseñarlas en un curso--
+
+14
+00:00:39,080 --> 00:00:41,600
+Necesitás ese marco formal
+de enseñanza.
+
+15
+00:00:42,240 --> 00:00:45,680
+Y la otra razón es la aplicación.
+¿Está bien?
+
+16
+00:00:46,600 --> 00:00:47,960
+Yo, por ejemplo--
+
+17
+00:00:48,560 --> 00:00:50,280
+En el lugar donde yo enseño,
+
+18
+00:00:50,360 --> 00:00:53,080
+si bien es de gestión privada,
+
+19
+00:00:53,160 --> 00:00:55,240
+yo trabajo con alumnos
+que son grandes,
+
+20
+00:00:55,320 --> 00:00:57,120
+muchos son docentes también.
+
+21
+00:00:57,200 --> 00:00:59,400
+Y ellos sí tienen, por ahí,
+en escuelas
+
+22
+00:00:59,480 --> 00:01:01,520
+el programa este
+de Conectar Igualdad
+
+23
+00:01:01,600 --> 00:01:02,880
+y tienen las computadoras.
+
+24
+00:01:02,960 --> 00:01:04,320
+Entonces, ¿qué pasa?
+
+25
+00:01:04,400 --> 00:01:05,960
+Estamos viendo cómo hacer sistemas
+
+26
+00:01:06,040 --> 00:01:08,440
+para que se puedan aprovechar
+esas máquinas.
+
+27
+00:01:08,520 --> 00:01:09,880
+Entonces, por ejemplo,
+
+28
+00:01:09,960 --> 00:01:12,240
+yo tengo un alumno ahora
+que está haciendo un sistema
+
+29
+00:01:12,320 --> 00:01:15,560
+para crear una pequeña red
+
+30
+00:01:15,640 --> 00:01:19,280
+sin conexión a internet,
+sin otro dispositivo, sin un router,
+
+31
+00:01:19,360 --> 00:01:22,080
+donde los docentes
+puedan poner los contenidos,
+
+32
+00:01:22,160 --> 00:01:25,360
+y los alumnos
+puedan tenerlos ahí rápidamente.
+
+33
+00:01:25,760 --> 00:01:27,800
+Entonces, estamos viendo
+cómo lo podemos implementar.
+
+34
+00:01:28,920 --> 00:01:34,920
+[Música de cierre]
+

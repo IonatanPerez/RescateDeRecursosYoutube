@@ -1,0 +1,137 @@
+1
+00:00:05,759 --> 00:00:12,191
+Mi nombre es Alberto Escobar, pertenezco al club de 
+ciencias de la escuela industrial de la provincia de San Juan capital.
+
+2
+00:00:12,191 --> 00:00:19,107
+Y lo que yo tengo acá es un microscopio USB, el cual fue desarrollado por los chicos de la escuela.
+
+3
+00:00:19,107 --> 00:00:20,193
+¿Qué es un microscopio? 
+
+4
+00:00:20,193 --> 00:00:25,013
+Un microscopio es un artefacto con el cual se pueden observar distintos…
+
+5
+00:00:25,013 --> 00:00:29,734
+No sé, pueden observar una mosca, un mosquito, una piedra, lo que ustedes quieran observar. 
+
+6
+00:00:29,734 --> 00:00:31,628
+Mientras sea diminuto, lo pueden observar.
+
+7
+00:00:31,628 --> 00:00:33,530
+¿Pero qué pasa? 
+
+8
+00:00:33,530 --> 00:00:36,333
+Un microscopio de los convencionales tiene el problema 
+
+9
+00:00:36,333 --> 00:00:41,077
+de que cada uno de los chicos viene, saca un número, va al banco. 
+
+10
+00:00:41,077 --> 00:00:46,050
+Le dicen: «¡El número 29!», viene, observa y después pasa el otro; 
+
+11
+00:00:46,050 --> 00:00:48,202
+«¡El número 30!», viene, pasa. 
+
+12
+00:00:48,202 --> 00:00:52,386
+Y eso, primero que es aburrido y se cansan los chicos.
+
+13
+00:00:52,386 --> 00:00:56,885
+Y el docente te explica treinta veces lo mismo. Dice: «¿Vos que número sos?». «El 23». 
+
+14
+00:00:56,885 --> 00:01:01,523
+Bueno y empieza a leer el mismo y santo discurso. Se vuelve muy aburrido.
+
+15
+00:01:01,523 --> 00:01:05,115
+Entonces, con el amigo, podemos cambiar un poco esa dinámica. 
+
+16
+00:01:05,115 --> 00:01:08,627
+¿Por qué? Porque acá como tiene un puerto USB... 
+
+17
+00:01:08,627 --> 00:01:11,754
+¿El puerto USB lo conecto a la heladera, a la cocina, al microondas? No.
+
+18
+00:01:11,754 --> 00:01:16,727
+Esto lo puedo conectar a las netbooks provistas por el gobierno, las del Programa Conectar Igualdad. 
+
+19
+00:01:16,727 --> 00:01:18,905
+Entonces, ¿qué me permite? Que si yo quiero observar... 
+
+20
+00:01:18,905 --> 00:01:21,349
+Vi un mosquito o un insecto africano.
+
+21
+00:01:21,349 --> 00:01:24,661
+¡Uh, mirá un insecto africano, nunca había visto eso! ¿Qué es lo que es? Vamos a verlo.
+
+22
+00:01:24,661 --> 00:01:30,529
+Lo pongo acá en el portaobjetos del microscopio y realizo la observación, y eso va a la netbook y, 
+
+23
+00:01:30,529 --> 00:01:35,619
+desde la netbook, lo puede estar mirando un alumno o puede conectarle un cable y lo pasa por un proyector 
+
+24
+00:01:35,619 --> 00:01:38,518
+proyector y se lo muestra el profesor, por ejemplo, a otros alumnos. 
+
+25
+00:01:38,518 --> 00:01:41,926
+Otro alumno le dice: «Mirá qué copado esto que encontré» y se lo muestra a otros chicos. 
+
+26
+00:01:41,926 --> 00:01:43,507
+Hay infinidad de cosas para hacer.
+
+27
+00:01:43,804 --> 00:01:45,811
+Pero también se pueden observar otras cosas,
+
+28
+00:01:45,811 --> 00:01:50,677
+como algunos cristales, cristales de azúcar, cristales de sal, sulfato de cobre.
+
+29
+00:01:50,677 --> 00:01:52,985
+Una profesora de biología nos decía:
+
+30
+00:01:52,985 --> 00:01:56,883
+ «Pero ¿no podemos ver algo referido al ADN, una práctica que se hace en la escuela?
+
+31
+00:01:56,883 --> 00:02:00,236
+Y dijimos: «¿Estás preparado para la prueba?». 
+
+32
+00:02:00,236 --> 00:02:02,705
+Y como que el vago nos decía: «Vamos a probar, lo vamos a probar», 
+
+33
+00:02:02,705 --> 00:02:07,589
+y por eso estamos trabajando en hacer otro tipo de microscopios para seguir avanzando. 
+
+34
+00:02:07,589 --> 00:02:11,029
+Para que esto no quede así, para que el amigo no se sienta solo y tenga un hermanito.
+

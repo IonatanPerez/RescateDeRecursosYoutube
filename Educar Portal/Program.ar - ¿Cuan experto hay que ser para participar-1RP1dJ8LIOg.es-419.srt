@@ -1,0 +1,54 @@
+1
+00:00:00,880 --> 00:00:06,840
+[Música de presentación]
+
+2
+00:00:07,280 --> 00:00:08,760
+¿Cuán experto?
+
+3
+00:00:09,480 --> 00:00:11,920
+Es una pregunta que, en realidad--
+
+4
+00:00:12,000 --> 00:00:17,480
+No es necesario
+ser demasiado experto,
+
+5
+00:00:17,560 --> 00:00:21,320
+sí sirve tener una visión concreta
+
+6
+00:00:21,400 --> 00:00:23,360
+o una necesidad concreta
+
+7
+00:00:23,440 --> 00:00:26,680
+que hoy no está satisfecha
+con el portal
+
+8
+00:00:26,760 --> 00:00:28,520
+o con los sitios actuales
+que tenemos.
+
+9
+00:00:28,600 --> 00:00:30,480
+Es decir,
+si hoy el acceso a la información
+
+10
+00:00:30,560 --> 00:00:33,240
+uno lo siente limitante
+de otra cosa que uno quiere hacer,
+
+11
+00:00:33,320 --> 00:00:36,520
+es una buena oportunidad
+ir al hackatón para cambiarlo.
+
+12
+00:00:37,240 --> 00:00:39,720
+[Música de cierre]
+

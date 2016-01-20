@@ -1,0 +1,1552 @@
+1
+00:00:00,105 --> 00:00:03,956
+El señor secretario de Comercio,
+Lic. Augusto Costa;
+
+2
+00:00:04,604 --> 00:00:08,604
+el señor secretario de Obras Públicas,
+Ing. José López.
+
+3
+00:00:09,487 --> 00:00:12,240
+Se encuentran presentes, también,
+en esta reunión
+
+4
+00:00:12,300 --> 00:00:15,607
+el senador provincial
+José Mayans;
+
+5
+00:00:15,667 --> 00:00:19,375
+el señor secretario de profinanzas
+de la Unión Obrera de la Construcción
+
+6
+00:00:19,435 --> 00:00:22,510
+de la República Argentina,
+don Carlos Romero.
+
+7
+00:00:22,570 --> 00:00:25,689
+El señor presidente de la Cámara
+Argentina de la Construcción,
+
+8
+00:00:25,749 --> 00:00:27,512
+Ing. Gustavo Weiss;
+
+9
+00:00:27,572 --> 00:00:30,371
+el señor presidente de la delegación
+Formosa de la Cámara Argentina
+
+10
+00:00:30,431 --> 00:00:33,566
+de la Construcción,
+Ing. Rubén Di Martino;
+
+11
+00:00:33,626 --> 00:00:36,744
+representantes de las empresas
+vendedoras de insumos de la construcción;
+
+12
+00:00:36,804 --> 00:00:40,804
+autoridades nacionales y provinciales;
+señoras y señores.
+
+13
+00:00:42,134 --> 00:00:44,395
+En el inicio de esta reunión
+escucharemos
+
+14
+00:00:44,455 --> 00:00:46,704
+las palabras del señor ministro
+de Planificación Federal,
+
+15
+00:00:46,764 --> 00:00:50,470
+Inversión Pública y Servicios,
+Arq. Julio De Vido.
+
+16
+00:00:50,891 --> 00:00:54,891
+Bueno, buenas tardes a todos.
+Simplemente darles la bienvenida.
+
+17
+00:00:56,864 --> 00:01:00,864
+Todas las personas
+que nos acompañan.
+
+18
+00:01:01,470 --> 00:01:05,201
+Quería, en primer lugar,
+agradecer al gobernador
+
+19
+00:01:05,261 --> 00:01:08,005
+a Gildo Insfran,
+al senador Mayans,
+
+20
+00:01:08,065 --> 00:01:11,065
+el acompañamiento para poder
+convocar a todos ustedes
+
+21
+00:01:11,125 --> 00:01:14,734
+y estar hoy aquí
+y asumir este importante compromiso
+
+22
+00:01:14,794 --> 00:01:16,934
+junto con el Ministerio de Economía
+
+23
+00:01:16,994 --> 00:01:20,124
+a través del secretario de Comercio,
+Augusto Costa,
+
+24
+00:01:20,184 --> 00:01:24,184
+a José López, que fuimos,
+junto con Augusto,
+
+25
+00:01:25,620 --> 00:01:29,335
+de empezar este proceso
+de compromiso
+
+26
+00:01:29,395 --> 00:01:31,861
+con el programa Precios Cuidados,
+porque esto lo que hace
+
+27
+00:01:31,921 --> 00:01:34,452
+es arraigar más el plan
+Precios Cuidados.
+
+28
+00:01:34,512 --> 00:01:37,108
+Al vernos trabajar aquí
+todos juntos en equipo,
+
+29
+00:01:37,168 --> 00:01:38,875
+gobierno nacional,
+gobierno provincial,
+
+30
+00:01:38,935 --> 00:01:42,682
+los distintos ministerios,
+los comerciantes de la provincia,
+
+31
+00:01:42,742 --> 00:01:45,488
+los ministros provinciales, el presidente
+de la Cámara de la Construcción
+
+32
+00:01:45,548 --> 00:01:48,890
+en fin, y por supuesto también
+la gente de UOCRA.
+
+33
+00:01:48,950 --> 00:01:52,853
+Carlitos Romero, el secretario de Finanzas
+que está hoy aquí presente.
+
+34
+00:01:53,940 --> 00:01:57,940
+Y de la Cámara de Construcción
+de Formosa, Raúl Di Martino.
+
+35
+00:01:58,390 --> 00:02:00,412
+Muchas gracias por estar.
+
+36
+00:02:00,472 --> 00:02:04,472
+Y, sobre todo, por trabajar
+en esta reafirmación
+
+37
+00:02:05,511 --> 00:02:08,850
+y consolidación de la que
+venimos hablando tanto con Gildo,
+
+38
+00:02:08,910 --> 00:02:11,084
+como sus funcionarios,
+con la UOCRA,
+
+39
+00:02:11,144 --> 00:02:14,714
+y con la Cámara de la Construcción
+desde el primer día
+
+40
+00:02:14,774 --> 00:02:17,074
+que se intentó dar
+esta corrida cambiaria,
+
+41
+00:02:17,134 --> 00:02:20,789
+esta suerte de golpe de mercado
+sobre la política económica
+
+42
+00:02:20,849 --> 00:02:22,872
+del gobierno nacional,
+
+43
+00:02:23,127 --> 00:02:25,518
+y realmente hemos contado,
+en todo momento,
+
+44
+00:02:25,578 --> 00:02:27,968
+desde el primer momento,
+creo que la primer persona
+
+45
+00:02:28,028 --> 00:02:30,552
+que estuvimos reunidos
+fue con la Cámara de la Construcción,
+
+46
+00:02:30,612 --> 00:02:33,174
+y luego con Gerardo,
+
+47
+00:02:33,569 --> 00:02:36,780
+y con cada uno de los gobernadores
+para darle batalla
+
+48
+00:02:36,840 --> 00:02:39,570
+a este intento de cambiar
+este modelo de transformación
+
+49
+00:02:39,630 --> 00:02:43,479
+y de incorporación
+de la gente al ciclo económico.
+
+50
+00:02:43,539 --> 00:02:47,019
+Eso es muy importante.
+Vamos a dar algunos pocos números
+
+51
+00:02:47,079 --> 00:02:50,831
+de Formosa que, seguramente,
+el gobernador
+
+52
+00:02:50,891 --> 00:02:54,246
+luego va a recrear
+cuando cierre este acto,
+
+53
+00:02:54,801 --> 00:02:58,512
+mientras que el Producto Bruto
+en Argentina
+
+54
+00:02:58,572 --> 00:03:02,572
+creció el 93% en estos 10 años,
+en Formosa creció el 94%.
+
+55
+00:03:04,178 --> 00:03:08,178
+La desocupación en la Argentina
+bajó del 25% al 6,4%.
+
+56
+00:03:09,618 --> 00:03:13,134
+En Formosa bajó del 25% al 5,3%.
+
+57
+00:03:13,194 --> 00:03:17,194
+El promedio salarial en Formosa.
+En la Nación aumentó un 700%.
+
+58
+00:03:21,248 --> 00:03:25,197
+El promedio salarial
+desde 2003 a la fecha.
+
+59
+00:03:25,257 --> 00:03:28,194
+En Formosa aumentó el 809%.
+
+60
+00:03:29,696 --> 00:03:33,696
+En el caso de Argentina,
+
+61
+00:03:34,505 --> 00:03:38,505
+hoy, lo que hace a hogares con agua,
+creció en el 24%.
+
+62
+00:03:39,664 --> 00:03:42,370
+Con cloaca, el 29%.
+Con electricidad, el 39%.
+
+63
+00:03:42,430 --> 00:03:43,919
+Con gas, el 39%.
+
+64
+00:03:43,979 --> 00:03:47,979
+Telefonía celular, casi el 400%.
+377%.
+
+65
+00:03:49,118 --> 00:03:51,909
+Hogares con internet, el 700%.
+
+66
+00:03:51,969 --> 00:03:54,399
+Ahora estamos trabajando
+en la fibra óptica,
+
+67
+00:03:54,459 --> 00:03:56,364
+el tendido de fibra óptica
+de la provincia,
+
+68
+00:03:56,424 --> 00:04:00,173
+la provincia armó su propia empresa
+de comunicaciones,
+
+69
+00:04:00,233 --> 00:04:04,652
+y esto, evidentemente,
+va a profundizar mucho más esto,
+
+70
+00:04:04,712 --> 00:04:08,131
+y vamos a poder lograr que
+todos los hogares de Formosa,
+
+71
+00:04:08,191 --> 00:04:12,214
+tengan banda ancha, tengan internet
+con total fluidez.
+
+72
+00:04:12,274 --> 00:04:17,124
+En el caso de los hogares con agua,
+en Formosa crecieron en un 25%.
+
+73
+00:04:17,184 --> 00:04:18,852
+Con cloaca, el 20%.
+
+74
+00:04:18,912 --> 00:04:20,780
+Con electricidad, el 60%.
+
+75
+00:04:20,840 --> 00:04:23,547
+La telefonía celular, el 574%.
+
+76
+00:04:23,607 --> 00:04:25,595
+Bueno, con esta empresa,
+seguramente, Formosa
+
+77
+00:04:25,655 --> 00:04:29,346
+va a superar
+los estándares nacionales.
+
+78
+00:04:29,406 --> 00:04:36,751
+En energía, Formosa creció el 145%.
+La energía eléctrica, el 141%.
+
+79
+00:04:36,811 --> 00:04:39,630
+El consumo de nafta
+creció el 153%.
+
+80
+00:04:39,690 --> 00:04:45,424
+Los autos particulares, el 84%.
+El consumo de gasoil creció el 67%.
+
+81
+00:04:45,484 --> 00:04:48,750
+Y la planta de vehículos comerciales
+y de transporte de carga,
+
+82
+00:04:48,810 --> 00:04:52,698
+no los particulares,
+sino los que usan para trabajar,
+
+83
+00:04:52,758 --> 00:04:56,500
+creció el 172%.
+
+84
+00:04:56,560 --> 00:05:01,966
+Bueno, de la misma manera,
+la producción de arroz creció el 279%.
+
+85
+00:05:02,026 --> 00:05:06,840
+El stock bobino, el 56%.
+El consumo de cemento, el 330%.
+
+86
+00:05:06,900 --> 00:05:09,278
+Las exportaciones, el 139%.
+
+87
+00:05:09,338 --> 00:05:14,813
+Esto habla, a las claras,
+de qué es lo que estamos defendiendo.
+
+88
+00:05:14,873 --> 00:05:18,491
+Que estas batallas ganadas
+
+89
+00:05:18,551 --> 00:05:23,298
+que son el crecimiento de consumo,
+de trabajo, del Producto Bruto,
+
+90
+00:05:23,358 --> 00:05:26,852
+de Formosa y de la Argentina,
+se proyectan en el tiempo.
+
+91
+00:05:26,912 --> 00:05:32,840
+Y la presidenta ha estimado
+que la mejor manera de hacerlo
+
+92
+00:05:32,900 --> 00:05:36,965
+es de forma federal.
+El país tiene que crecer federalmente
+
+93
+00:05:37,025 --> 00:05:40,970
+y tenemos que ser todos custodios
+de estas conquistas
+
+94
+00:05:41,030 --> 00:05:43,469
+que se han dado en estos años,
+en conjunto.
+
+95
+00:05:43,529 --> 00:05:45,393
+El gobierno nacional
+trabajando en equipo,
+
+96
+00:05:45,453 --> 00:05:48,374
+y el gobierno provincial
+con todos los actores
+
+97
+00:05:48,434 --> 00:05:51,239
+y sectores de la sociedad,
+fundamentalmente, en este caso,
+
+98
+00:05:51,299 --> 00:05:54,675
+los sectores de comercio,
+los de la industria de la construcción,
+
+99
+00:05:54,735 --> 00:05:56,417
+y los trabajadores.
+
+100
+00:05:56,757 --> 00:05:59,695
+Y creo que la mejor forma de hacerlo
+es comprometernos.
+
+101
+00:05:59,755 --> 00:06:01,546
+Por eso, el acta esta
+que vamos a firmar,
+
+102
+00:06:01,606 --> 00:06:04,688
+porque esta acta le garantiza
+al gobernador
+
+103
+00:06:04,748 --> 00:06:08,429
+y a todos los municipios de la provincia
+coordinados, por supuesto,
+
+104
+00:06:08,489 --> 00:06:12,912
+por el gobernador, poder tener los
+insumos básicos de la construcción
+
+105
+00:06:12,972 --> 00:06:16,434
+a un precio determinado,
+que le dé absoluta previsibilidad
+
+106
+00:06:16,494 --> 00:06:19,249
+y eso le va a permitir a él
+comprar en Formosa.
+
+107
+00:06:19,309 --> 00:06:22,436
+Porque de eso se trata.
+Estamos defendiendo
+
+108
+00:06:22,496 --> 00:06:26,884
+el compre formoseño
+y el empleo formoseño.
+
+109
+00:06:26,944 --> 00:06:30,065
+Por eso es muy importante esto.
+Ustedes no solamente
+
+110
+00:06:30,125 --> 00:06:32,922
+van a garantizar un precio razonable,
+sino que nosotros
+
+111
+00:06:32,982 --> 00:06:36,594
+le vamos a garantizar
+una demanda razonable,
+
+112
+00:06:36,654 --> 00:06:38,932
+que les permita a ustedes
+sustentabilidad,
+
+113
+00:06:38,992 --> 00:06:41,325
+rentabilidad y crecimiento.
+
+114
+00:06:41,385 --> 00:06:43,973
+De esto se trata
+el plan Precios Cuidados,
+
+115
+00:06:44,033 --> 00:06:47,171
+que no haya dos vivos que se queden
+con la renta y con el esfuerzo
+
+116
+00:06:47,231 --> 00:06:51,131
+del trabajo de todos nosotros.
+Así que, simplemente, saludarlos,
+
+117
+00:06:51,191 --> 00:06:54,140
+agradecerles la presencia
+y darle la palabra
+
+118
+00:06:54,200 --> 00:06:57,030
+al secretario de Comercio que,
+previo a la firma,
+
+119
+00:06:57,090 --> 00:07:00,650
+también va a expresar
+cómo ve y cómo siente él
+
+120
+00:07:00,710 --> 00:07:03,212
+este proceso que estamos
+llevando adelante en conjunto
+
+121
+00:07:03,272 --> 00:07:05,454
+con la provincia y con ustedes.
+Muchísimas gracias.
+
+122
+00:07:05,514 --> 00:07:10,297
+(Aplausos)
+
+123
+00:07:11,162 --> 00:07:13,384
+¿Qué tal?
+Buenas tardes a todos.
+
+124
+00:07:13,444 --> 00:07:15,564
+Bueno, muchas gracias,
+ministro De Vido.
+
+125
+00:07:15,624 --> 00:07:17,793
+Gobernador Insfran,
+secretario López.
+
+126
+00:07:17,853 --> 00:07:23,097
+Simplemente quería remarcar
+algunas de las palabras
+
+127
+00:07:23,157 --> 00:07:26,329
+del ministro De Vido y sobre
+todo, enfatizar la importancia
+
+128
+00:07:26,389 --> 00:07:28,740
+que tiene para
+la Secretaría de Comercio
+
+129
+00:07:28,800 --> 00:07:33,937
+como autoridad competente
+en materia de administración de precios,
+
+130
+00:07:33,997 --> 00:07:38,824
+a cargo de la política
+de Precios Cuidados a nivel nacional
+
+131
+00:07:38,884 --> 00:07:43,560
+qué significado tiene avanzar,
+junto con el Ministerio de Planificación,
+
+132
+00:07:43,620 --> 00:07:47,374
+junto con la provincia de Formosa
+en este acuerdo
+
+133
+00:07:47,434 --> 00:07:48,647
+que vamos a firmar hoy.
+
+134
+00:07:48,707 --> 00:07:52,042
+En primer lugar,
+nos parece fundamental destacar
+
+135
+00:07:52,102 --> 00:07:55,171
+algo que mencionó el ministro
+que es la necesidad
+
+136
+00:07:55,231 --> 00:07:58,826
+de brindar, en materias
+de precios, previsibilidad,
+
+137
+00:07:58,886 --> 00:08:01,967
+transparencia, al momento
+de la formación de los precios
+
+138
+00:08:02,027 --> 00:08:04,876
+y estabilidad, es decir,
+evitar situaciones donde,
+
+139
+00:08:04,936 --> 00:08:09,726
+por falta de referencias
+o por falta de certezas o transparencia,
+
+140
+00:08:09,786 --> 00:08:13,156
+el consumidor, o quien quiere tomar
+una decisión de consumo,
+
+141
+00:08:13,216 --> 00:08:17,311
+no la tome de una manera informada
+y no pueda ejercer su derecho
+
+142
+00:08:17,371 --> 00:08:20,481
+que como consumidor tiene
+de elegir a conciencia,
+
+143
+00:08:20,541 --> 00:08:25,566
+sino que termina siendo
+una elección pasiva
+
+144
+00:08:25,626 --> 00:08:29,108
+de precios que le imponen
+y que no son razonables
+
+145
+00:08:29,168 --> 00:08:32,043
+desde el punto de vista de los costos
+o de la razonabilidad económica.
+
+146
+00:08:32,103 --> 00:08:35,369
+Entonces, avanzar en el proceso
+de transparencia,
+
+147
+00:08:35,429 --> 00:08:37,197
+previsibilidad y estabilidad
+en los precios
+
+148
+00:08:37,257 --> 00:08:40,162
+es central a los fines
+de la política económica
+
+149
+00:08:40,222 --> 00:08:42,498
+y a los fines del ejercicio
+de los derechos del consumidores.
+
+150
+00:08:42,558 --> 00:08:46,628
+Por lo tanto, dentro del despliegue
+que viene llevando adelante
+
+151
+00:08:46,688 --> 00:08:48,310
+la política de Precios Cuidados,
+
+152
+00:08:48,370 --> 00:08:50,479
+los objetivos que tenemos
+del gobierno nacional
+
+153
+00:08:50,539 --> 00:08:53,421
+es avanzar en materia sectorial,
+es decir,
+
+154
+00:08:53,481 --> 00:08:56,895
+pasar de todo lo que son
+los programas de Precios Cuidados
+
+155
+00:08:56,955 --> 00:09:00,635
+en bienes de consumo masivo,
+en canasta escolar,
+
+156
+00:09:00,987 --> 00:09:04,346
+en sector construcción, es decir,
+incrementando los sectores
+
+157
+00:09:04,406 --> 00:09:09,076
+donde empresarios, trabajadores,
+y los distintos actores involucrados
+
+158
+00:09:09,136 --> 00:09:11,896
+de las provincias y de los municipios
+del gobierno nacional,
+
+159
+00:09:11,956 --> 00:09:15,849
+se ponen de acuerdo para brindarle
+a los consumidores
+
+160
+00:09:15,909 --> 00:09:18,425
+precios y productos de referencia.
+
+161
+00:09:18,485 --> 00:09:21,936
+También, y en este sentido,
+este evento hoy
+
+162
+00:09:21,996 --> 00:09:23,846
+es un paso fundamental,
+
+163
+00:09:23,906 --> 00:09:27,412
+avanzar en la federalización
+de la política de precios
+
+164
+00:09:27,472 --> 00:09:31,756
+e incrementar el alcance regional
+de los acuerdos
+
+165
+00:09:31,816 --> 00:09:34,116
+y de los compromisos asumidos.
+
+166
+00:09:34,176 --> 00:09:37,234
+También lograr incorporar
+
+167
+00:09:37,697 --> 00:09:40,571
+a nuevos formatos
+de comercialización,
+
+168
+00:09:40,631 --> 00:09:44,716
+en el sentido de que la política
+de Precios Cuidados
+
+169
+00:09:44,776 --> 00:09:47,786
+fue avanzando progresivamente
+desde los grandes actores,
+
+170
+00:09:47,846 --> 00:09:52,246
+ya sea el sector supermercadista,
+del sector productor
+
+171
+00:09:52,306 --> 00:09:54,853
+de bienes de consumo masivo,
+y en el caso de construcción,
+
+172
+00:09:54,913 --> 00:09:59,344
+los grandes comercializadores,
+con los que firmamos el primer acuerdo
+
+173
+00:09:59,404 --> 00:10:02,768
+o la primera etapa del acuerdo
+de Precios Cuidados en la construcción,
+
+174
+00:10:02,828 --> 00:10:06,243
+hace un mes y medio,
+a corralones provinciales
+
+175
+00:10:06,303 --> 00:10:09,028
+y a otros actores
+que también es importante
+
+176
+00:10:09,088 --> 00:10:12,888
+que sean parte de la política
+y que son prioridad en esta etapa
+
+177
+00:10:12,948 --> 00:10:15,595
+de poder incorporar.
+Y también, por supuesto,
+
+178
+00:10:15,655 --> 00:10:19,466
+ir, a medida que va
+desarrollando la política,
+
+179
+00:10:20,023 --> 00:10:21,746
+incorporando
+más productos, también.
+
+180
+00:10:21,806 --> 00:10:26,666
+Que cada vez los consumidores
+tengan mayor cantidad de referencias
+
+181
+00:10:26,726 --> 00:10:28,820
+de precios para poder tomar
+sus decisiones.
+
+182
+00:10:28,880 --> 00:10:33,016
+Entonces, llevar todo este proceso
+a la provincia de Formosa,
+
+183
+00:10:33,076 --> 00:10:38,233
+e incorporar corralones
+para que quien tiene,
+
+184
+00:10:38,293 --> 00:10:41,679
+desde el punto de vista
+de la responsabilidad de gestión
+
+185
+00:10:41,739 --> 00:10:47,412
+de llevar adelante la obra pública,
+pueda preservar el valor real
+
+186
+00:10:47,472 --> 00:10:51,238
+de su obra pública y lograr
+que el impacto
+
+187
+00:10:51,298 --> 00:10:53,541
+en materia económica,
+en materia social
+
+188
+00:10:53,601 --> 00:10:55,375
+de todos los esfuerzos
+que hace el estado
+
+189
+00:10:55,435 --> 00:10:57,519
+y que viene haciendo
+los últimos 11 años, el estado,
+
+190
+00:10:57,579 --> 00:11:00,698
+en materia de infraestructura
+rinda los mejores frutos
+
+191
+00:11:00,758 --> 00:11:03,915
+y también que,
+quien tiene la ilusión
+
+192
+00:11:03,975 --> 00:11:06,946
+de tener su vivienda,
+de construirla,
+
+193
+00:11:07,006 --> 00:11:09,605
+hacer algún tipo
+de refacción o ampliación
+
+194
+00:11:09,665 --> 00:11:13,182
+también pueda llevar adelante
+este proceso
+
+195
+00:11:13,242 --> 00:11:16,915
+sabiendo que el valor real
+del crédito hipotecario
+
+196
+00:11:16,975 --> 00:11:20,988
+que dispone o de los ingresos
+que tiene para este fin,
+
+197
+00:11:21,048 --> 00:11:26,077
+se vea respetado y nadie se quede
+con lo que no le corresponde
+
+198
+00:11:26,137 --> 00:11:28,264
+que, en este caso sería
+una parte de su casa.
+
+199
+00:11:28,324 --> 00:11:30,917
+Que alguien se queda
+con parte de su ingreso
+
+200
+00:11:30,977 --> 00:11:35,038
+destinado al presupuesto.
+Al presupuesto para su vivienda.
+
+201
+00:11:35,098 --> 00:11:38,523
+Entonces, esta sería
+una tercera etapa
+
+202
+00:11:38,583 --> 00:11:41,260
+de la política que empezó con los
+acuerdos en Ciudad de Buenos Aires
+
+203
+00:11:41,320 --> 00:11:45,270
+y Gran Buenos Aires, luego se
+extendió a la provincia de Buenos Aires
+
+204
+00:11:45,330 --> 00:11:48,410
+donde hay una gran
+cantidad de corralones
+
+205
+00:11:48,470 --> 00:11:50,933
+de más de 50
+ya adheridos al programa,
+
+206
+00:11:50,993 --> 00:11:54,920
+y la provincia de Formosa
+es la segunda que se incorpora
+
+207
+00:11:54,980 --> 00:11:58,068
+al programa Precios Cuidados
+en la construcción
+
+208
+00:11:58,128 --> 00:12:01,571
+a nivel federal y que,
+en esta oportunidad
+
+209
+00:12:01,631 --> 00:12:05,171
+incluye a 8 corralones
+que se van a comprometer
+
+210
+00:12:05,231 --> 00:12:10,178
+durante un período de 3 meses
+a mantener los precios
+
+211
+00:12:10,238 --> 00:12:14,947
+de 28 productos que, por las
+variedades que estamos incorporando,
+
+212
+00:12:15,007 --> 00:12:16,900
+son 35 precios en total.
+
+213
+00:12:16,960 --> 00:12:20,339
+Entonces, con una visión de
+continuidad durante un año
+
+214
+00:12:20,399 --> 00:12:23,768
+de la política, con revisión trimestral,
+es decir, siguiendo el esquema
+
+215
+00:12:23,828 --> 00:12:25,944
+que estamos utilizando
+con este tipo de acuerdos
+
+216
+00:12:26,004 --> 00:12:29,049
+a los distintos sectores,
+tenemos ahora la posibilidad
+
+217
+00:12:29,109 --> 00:12:32,342
+en la provincia de Formosa de contar
+con una canasta de referencia,
+
+218
+00:12:32,402 --> 00:12:36,885
+precios razonables que garantizan
+una rentabilidad aceptable
+
+219
+00:12:36,945 --> 00:12:43,270
+para los corralones y que permiten
+que cada uno de los formoseños
+
+220
+00:12:43,330 --> 00:12:46,962
+que va a llevar adelante
+una obra, una refacción
+
+221
+00:12:47,022 --> 00:12:49,356
+pueda generar certezas y previsibilidad
+respecto a los precios.
+
+222
+00:12:49,416 --> 00:12:53,016
+Así que, es un paso muy importante.
+Agradezco los esfuerzos realizados
+
+223
+00:12:53,076 --> 00:12:56,427
+por la provincia,
+por el Ministerio de Planificación
+
+224
+00:12:56,487 --> 00:12:58,007
+en conjunto con
+la Secretaría de Comercio
+
+225
+00:12:58,067 --> 00:13:00,479
+y por supuesto, el compromiso
+de quienes están hoy aquí
+
+226
+00:13:00,539 --> 00:13:02,771
+para firmar este acuerdo.
+Muchísimas gracias.
+
+227
+00:13:02,831 --> 00:13:05,802
+(Aplausos)
+
+228
+00:13:07,076 --> 00:13:09,793
+Se procederá, a continuación,
+con la firma de los convenios
+
+229
+00:13:09,853 --> 00:13:12,061
+de compromiso de precios
+de venta al consumidor
+
+230
+00:13:12,121 --> 00:13:15,295
+en materiales para la construcción
+para la provincia de Formosa.
+
+231
+00:13:15,569 --> 00:13:18,955
+Firma, en primer lugar,
+por Gerardo Daniel Mateo,
+
+232
+00:13:19,015 --> 00:13:21,519
+su apoderada, María Andrea Mateo.
+
+233
+00:13:32,039 --> 00:13:36,155
+Firma, el secretario de Comercio,
+Lic. Augusto Costa.
+
+234
+00:13:39,704 --> 00:13:43,904
+Por Primavera Construcciones,
+firma, su gerente general, Raúl Bobadilla.
+
+235
+00:14:01,773 --> 00:14:05,127
+Firma, el secretario de Comercio,
+Lic. Augusto Costa.
+
+236
+00:14:07,079 --> 00:14:13,255
+Por Electrored, SRL,
+firma, su socio gerente, Pedro Enríquez.
+
+237
+00:14:25,208 --> 00:14:29,074
+Firma, el secretario de Comercio,
+Lic. Augusto Costa.
+
+238
+00:14:31,151 --> 00:14:35,501
+Por Néstor A. Nazer, firma su titular,
+Néstor Nazer.
+
+239
+00:14:53,849 --> 00:14:57,468
+Firma, el secretario de Comercio,
+Lic. Augusto Costa.
+
+240
+00:15:00,756 --> 00:15:06,173
+Por Horizonte SRL,
+firma, su socio gerente, Jorge Velazco.
+
+241
+00:15:18,562 --> 00:15:21,982
+Firma, el secretario de Comercio,
+Lic. Augusto Costa.
+
+242
+00:15:24,417 --> 00:15:28,163
+Firma, a continuación,
+por Ingeniería Siglo XXI, SRL,
+
+243
+00:15:28,223 --> 00:15:31,416
+su socio gerente, Guido Ollos.
+
+244
+00:15:48,699 --> 00:15:52,212
+Firma, el secretario de Comercio,
+Lic. Augusto Costa.
+
+245
+00:15:56,694 --> 00:16:00,004
+Firma, a continuación,
+por Dor, SRL,
+
+246
+00:16:00,064 --> 00:16:02,603
+su socio gerente, Diego Hrabina.
+
+247
+00:16:14,873 --> 00:16:17,982
+Firma, el secretario de Comercio,
+Lic. Augusto Costa.
+
+248
+00:16:26,785 --> 00:16:29,029
+Y en el cierre de esta reunión,
+
+249
+00:16:29,089 --> 00:16:31,180
+hace uso de la palabra
+el señor gobernador
+
+250
+00:16:31,240 --> 00:16:34,361
+de la provincia de Formosa,
+Dr. Gildo Insfran.
+
+251
+00:16:41,344 --> 00:16:44,084
+Bueno, este...
+
+252
+00:16:46,493 --> 00:16:51,229
+Solamente quiero expresar
+un agradecimiento sincero
+
+253
+00:16:51,289 --> 00:16:54,425
+al ministro De Vido,
+
+254
+00:16:54,837 --> 00:16:59,361
+al secretario de Obras Públicas,
+
+255
+00:16:59,421 --> 00:17:03,066
+el Ing. José López,
+
+256
+00:17:04,725 --> 00:17:07,589
+a Augusto,
+
+257
+00:17:08,406 --> 00:17:13,554
+por esta oportunidad
+de poder firmar este acuerdo
+
+258
+00:17:13,614 --> 00:17:17,951
+muy importante en el momento
+en que el país lo necesita.
+
+259
+00:17:19,682 --> 00:17:22,445
+Siempre decimos de que
+
+260
+00:17:23,709 --> 00:17:25,801
+nadie se realiza
+
+261
+00:17:25,861 --> 00:17:28,802
+en una nación que no se realiza.
+
+262
+00:17:30,256 --> 00:17:32,029
+Alguien lo dijo,
+que nadie se realiza,
+
+263
+00:17:32,089 --> 00:17:33,832
+en una comunidad que no se realiza.
+
+264
+00:17:33,892 --> 00:17:36,210
+Y eso entendimos hace mucho
+tiempo, los formoseños.
+
+265
+00:17:37,041 --> 00:17:39,431
+Y, fundamentalmente,
+
+266
+00:17:40,310 --> 00:17:44,260
+entendimos, después
+de aquel debacle
+
+267
+00:17:45,546 --> 00:17:47,324
+del 2001,
+
+268
+00:17:48,077 --> 00:17:50,053
+y ese renacer
+
+269
+00:17:50,113 --> 00:17:52,854
+que vino de la mano
+de Néstor Kirchner
+
+270
+00:17:52,914 --> 00:17:57,077
+a partir del 25 de mayo del 2003.
+
+271
+00:17:57,540 --> 00:17:59,348
+Todos ustedes
+
+272
+00:18:00,277 --> 00:18:02,785
+pueden dar fe
+
+273
+00:18:02,845 --> 00:18:06,596
+al resto de los argentinos
+que aún duda
+
+274
+00:18:07,172 --> 00:18:09,742
+de la década ganada.
+
+275
+00:18:09,919 --> 00:18:13,055
+Porque estos informes,
+estos indicadores
+
+276
+00:18:13,115 --> 00:18:17,284
+que hace un rato leía
+el señor ministro
+
+277
+00:18:17,344 --> 00:18:24,104
+demuestra del desarrollo,
+del crecimiento que tuvo Formosa.
+
+278
+00:18:24,164 --> 00:18:28,311
+Pero no solamente
+en su parte económica
+
+279
+00:18:28,371 --> 00:18:31,167
+sino también en todos
+sus indicadores sociales.
+
+280
+00:18:32,621 --> 00:18:34,648
+Señor ministro,
+
+281
+00:18:35,100 --> 00:18:37,795
+la mortalidad infantil
+
+282
+00:18:37,855 --> 00:18:40,695
+que era del 32 por mil,
+
+283
+00:18:41,125 --> 00:18:45,982
+hoy es del 13.2 por mil.
+
+284
+00:18:46,042 --> 00:18:51,258
+Estamos a tan 2 puntos
+por encima de la media nacional.
+
+285
+00:18:51,526 --> 00:18:54,315
+Tenemos
+
+286
+00:18:54,375 --> 00:18:57,621
+escolaridad completa
+
+287
+00:18:58,308 --> 00:19:01,994
+de chicos de 5 años a 11 años.
+
+288
+00:19:02,352 --> 00:19:05,546
+Hemos bajado la repitencia
+
+289
+00:19:05,606 --> 00:19:09,265
+del 13% al 3%.
+
+290
+00:19:09,540 --> 00:19:13,476
+Esto significa inclusión social.
+
+291
+00:19:14,464 --> 00:19:17,422
+Podemos seguir hablando
+de muchos indicadores
+
+292
+00:19:17,482 --> 00:19:19,966
+pero si estos indicadores
+
+293
+00:19:20,026 --> 00:19:24,545
+no sirven para incluir a la gente
+como ha ocurrido en otra época
+
+294
+00:19:24,605 --> 00:19:26,570
+con otras políticas,
+
+295
+00:19:28,028 --> 00:19:29,458
+no sirve.
+
+296
+00:19:29,758 --> 00:19:32,797
+Y hay un indicador muy importante.
+
+297
+00:19:33,571 --> 00:19:37,318
+Que tiene que ir acompañado
+de este crecimiento
+
+298
+00:19:37,378 --> 00:19:38,760
+y de este desarrollo,
+
+299
+00:19:38,820 --> 00:19:44,241
+que es el indicador que indica
+la distribución de la riqueza.
+
+300
+00:19:44,301 --> 00:19:47,184
+Que es el índice Gini.
+
+301
+00:19:47,244 --> 00:19:54,373
+Formosa tiene un indicador Gini
+de 0,35
+
+302
+00:19:54,649 --> 00:19:58,858
+igualable, solamente,
+en la época
+
+303
+00:19:58,918 --> 00:20:03,849
+del último gobierno de Juan
+Domingo Perón que era del 0,35.
+
+304
+00:20:03,909 --> 00:20:06,811
+Esto demuestra
+la distribución equitativa
+
+305
+00:20:06,871 --> 00:20:08,450
+de la riqueza en nuestra provincia.
+
+306
+00:20:08,510 --> 00:20:13,218
+Y esto tenemos que defender
+más allá de las personas
+
+307
+00:20:14,133 --> 00:20:18,778
+que, seguramente,
+después el pueblo elegirá.
+
+308
+00:20:18,838 --> 00:20:21,335
+Pero esta política
+la tenemos que defender
+
+309
+00:20:21,395 --> 00:20:23,494
+y se la defiende de esta manera.
+
+310
+00:20:23,554 --> 00:20:26,881
+Con el compromiso
+de cada uno de nosotros.
+
+311
+00:20:26,941 --> 00:20:31,341
+Yo sé que cada sector
+siempre estira
+
+312
+00:20:31,401 --> 00:20:36,426
+y quiere llevar más hacia
+el sector que corresponde,
+
+313
+00:20:36,486 --> 00:20:42,581
+pero es la política la que debe buscar
+armonizar en forma permanente
+
+314
+00:20:42,641 --> 00:20:45,770
+esa distribución para
+que la distribución
+
+315
+00:20:45,830 --> 00:20:48,127
+llegue a cada uno
+y vayamos mejorando
+
+316
+00:20:48,187 --> 00:20:51,782
+nuestro indicador de Gini.
+Muchísimas gracias, nuevamente.
+
+317
+00:20:51,842 --> 00:20:54,643
+A usted y a nuestra
+querida presidenta
+
+318
+00:20:54,703 --> 00:20:56,081
+todo lo mejor.
+
+319
+00:20:56,141 --> 00:20:57,282
+(Aplausos)
+
+320
+00:20:57,342 --> 00:21:01,077
+Señoras y señores, de esta manera
+se da por finalizado la reunión
+
+321
+00:21:01,137 --> 00:21:03,398
+en el marco de la firma de convenios
+de compromisos de precios
+
+322
+00:21:03,458 --> 00:21:06,170
+de venta al consumidor
+de materiales para la construcción
+
+323
+00:21:06,230 --> 00:21:08,689
+para la provincia de Formosa.
+A todos, como siempre,
+
+324
+00:21:08,749 --> 00:21:10,229
+muchísimas gracias.
+

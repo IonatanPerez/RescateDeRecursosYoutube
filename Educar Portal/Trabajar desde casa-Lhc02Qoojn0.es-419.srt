@@ -1,0 +1,203 @@
+1
+00:00:00,000 --> 00:00:03,933
+(Voz de hombre)
+<i>Cosas que pod�s hacer con tu compu:</i>
+
+2
+00:00:00,000 --> 00:00:04,533
+<i>trabajar desde casa.</i>
+<i>Junto con las nuevas tecnolog�as</i>
+
+3
+00:00:00,000 --> 00:00:05,066
+<i>surgieron formas innovadoras</i>
+<i>de trabajar a distancia desde casa</i>
+
+4
+00:00:00,000 --> 00:00:04,666
+<i>o fuera de la oficina.</i>
+<i>Se puede trabajar de manera remota</i>
+
+5
+00:00:00,000 --> 00:00:04,800
+<i>en un emprendimiento propio</i>
+<i>o en relaci�n de dependencia.</i>
+
+6
+00:00:00,000 --> 00:00:03,333
+<i>El teletrabajo</i>
+<i>tiene algunas ventajas</i>
+
+7
+00:00:00,000 --> 00:00:04,400
+<i>porque permite reducir costos</i>
+<i>y tiempos de traslados,</i>
+
+8
+00:00:00,000 --> 00:00:05,266
+<i>administrar y adaptar los horarios,</i>
+<i>disponer de mayor flexibilidad</i>
+
+9
+00:00:00,000 --> 00:00:03,933
+<i>para conciliar la vida familiar</i>
+<i>con la laboral</i>
+
+10
+00:00:00,000 --> 00:00:04,533
+<i>y puede ser una oportunidad</i>
+<i>para la inclusi�n laboral</i>
+
+11
+00:00:00,000 --> 00:00:03,866
+<i>de personas con discapacidad.</i>
+<i>Algunos oficios</i>
+
+12
+00:00:00,000 --> 00:00:03,866
+<i>se prestan especialmente</i>
+<i>para el teletrabajo:</i>
+
+13
+00:00:00,000 --> 00:00:03,400
+<i>vendedores</i>
+<i>y operadores telef�nicos,</i>
+
+14
+00:00:00,000 --> 00:00:03,733
+<i>auxiliares en tareas contables,</i>
+<i>data entry,</i>
+
+15
+00:00:00,000 --> 00:00:05,466
+<i>redactores y traductores de textos,</i>
+<i>periodistas, editores, dibujantes</i>
+
+16
+00:00:00,000 --> 00:00:05,133
+<i>y dise�adores gr�ficos.</i>
+<i>Tambi�n existen nuevas ocupaciones</i>
+
+17
+00:00:00,000 --> 00:00:03,400
+<i>derivadas</i>
+<i>de las nuevas tecnolog�as:</i>
+
+18
+00:00:00,000 --> 00:00:05,066
+<i>desarrolladores de software,</i>
+<i>administradores de redes sociales,</i>
+
+19
+00:00:00,000 --> 00:00:04,666
+<i>programadores de sitios web,</i>
+<i>bloggers, editores de video,</i>
+
+20
+00:00:00,000 --> 00:00:03,600
+<i>entre otros.</i>
+<i>Internet ofrece herramientas</i>
+
+21
+00:00:00,000 --> 00:00:04,066
+<i>y plataformas</i>
+<i>para producir, publicitar o vender</i>
+
+22
+00:00:00,000 --> 00:00:03,466
+<i>nuestros propios</i>
+<i>servicios y productos,</i>
+
+23
+00:00:00,000 --> 00:00:03,266
+<i>pudiendo ofrecer</i>
+<i>a nuestros clientes</i>
+
+24
+00:00:00,000 --> 00:00:04,800
+<i>formas f�ciles, �giles y seguras</i>
+<i>de pagar por Internet.</i>
+
+25
+00:00:00,000 --> 00:00:03,800
+<i>En la web hay muchas herramientas</i>
+<i>y recursos</i>
+
+26
+00:00:00,000 --> 00:00:03,533
+<i>que facilitan y mejoran</i>
+<i>la vida laboral:</i>
+
+27
+00:00:00,000 --> 00:00:03,800
+<i>sitios donde buscar empleo</i>
+<i>o publicar avisos</i>
+
+28
+00:00:00,000 --> 00:00:04,066
+<i>ofreciendo trabajo,</i>
+<i>redes sociales espec�ficas</i>
+
+29
+00:00:00,000 --> 00:00:04,600
+<i>en las que se puede contactar</i>
+<i>y compartir informaci�n,</i>
+
+30
+00:00:00,000 --> 00:00:03,266
+<i>difundir</i>
+<i>tus antecedentes laborales,</i>
+
+31
+00:00:00,000 --> 00:00:04,066
+<i>realizar trabajo colaborativo</i>
+<i>con otras personas</i>
+
+32
+00:00:00,000 --> 00:00:04,200
+<i>y mucho m�s.</i>
+<i>Otra novedosa herramienta de la web</i>
+
+33
+00:00:00,000 --> 00:00:04,400
+<i>son las plataformas</i>
+<i>para la financiaci�n colectiva.</i>
+
+34
+00:00:00,000 --> 00:00:03,800
+<i>Todo aquel que tiene un proyecto</i>
+<i>lo presenta</i>
+
+35
+00:00:00,000 --> 00:00:03,800
+<i>y todo el que quiera</i>
+<i>da donaciones de dinero</i>
+
+36
+00:00:00,000 --> 00:00:03,866
+<i>para apoyar la realizaci�n de este</i>
+<i>a cambio</i>
+
+37
+00:00:00,000 --> 00:00:05,133
+<i>de alguna clase de recompensa</i>
+<i>relacionada con el emprendimiento.</i>
+
+38
+00:00:00,000 --> 00:00:04,333
+<i>El teletrabajo</i>
+<i>es una modalidad que est� creciendo</i>
+
+39
+00:00:00,000 --> 00:00:05,266
+<i>y marca tendencia hacia el futuro.</i>
+<i>Esta es una de las tantas cosas</i>
+
+40
+00:00:00,000 --> 00:00:03,866
+<i>que pod�s hacer con tu compu.</i>
+[M�sica de cierre]
+
+41
+00:00:00,000 --> 00:00:01,000
+

@@ -1,0 +1,195 @@
+1
+00:00:01,720 --> 00:00:07,720
+[Música de presentación: rap]
+
+2
+00:00:12,440 --> 00:00:14,320
+(Cantando)
+<i>Venite a Conectar.</i>
+
+3
+00:00:22,360 --> 00:00:23,480
+<i>Y dice:</i>
+
+4
+00:00:25,160 --> 00:00:27,760
+<i>el MC está en la casa</i>
+<i>y viene de cambiar,</i>
+
+5
+00:00:27,840 --> 00:00:30,200
+<i>crear, inventar,</i>
+<i>vénganse a navegar.</i>
+
+6
+00:00:30,280 --> 00:00:32,680
+<i>Venite a la fiesta,</i>
+<i>venite de verdad.</i>
+
+7
+00:00:32,760 --> 00:00:35,000
+<i>Ponete media pila,</i>
+<i>vení a participar.</i>
+
+8
+00:00:35,080 --> 00:00:37,360
+<i>Expresate, conectate,</i>
+<i>sumate a este arte.</i>
+
+9
+00:00:37,440 --> 00:00:42,120
+<i>Y, si te digo</i>
+<i>"conectate, descubrite y animate",</i>
+
+10
+00:00:42,200 --> 00:00:47,120
+<i>si te digo "conectate",</i>
+<i>es porque esto se comparte.</i>
+
+11
+00:00:47,200 --> 00:00:48,280
+<i>Conectar Igualdad.</i>
+
+12
+00:00:48,360 --> 00:00:51,440
+(Voz de hombre)
+<i>La idea es incorporar la netbook</i>
+
+13
+00:00:51,520 --> 00:00:53,640
+<i>a distintas expresiones</i>
+
+14
+00:00:54,520 --> 00:00:57,480
+<i>del movimiento y de la creatividad,</i>
+
+15
+00:00:57,560 --> 00:01:00,960
+en este caso,
+usando luces de led para dibujar.
+
+16
+00:01:01,640 --> 00:01:03,600
+El programa capta ese movimiento
+
+17
+00:01:03,680 --> 00:01:05,680
+y lo transforma en una imagen.
+
+18
+00:01:05,760 --> 00:01:08,120
+Pueden dibujar,
+en definitiva, con luz
+
+19
+00:01:08,200 --> 00:01:09,680
+o con la luz de sus celulares.
+
+20
+00:01:09,760 --> 00:01:12,160
+Cualquier dispositivo que emita luz
+
+21
+00:01:12,240 --> 00:01:16,280
+genera y deja un trazo
+en las pantallas.
+
+22
+00:01:16,360 --> 00:01:17,920
+Esto trabaja a través de la webcam
+
+23
+00:01:18,000 --> 00:01:20,280
+con el software de moldeo
+instalado en las netbooks.
+
+24
+00:01:20,360 --> 00:01:22,800
+Esta instalación
+surge de un proceso
+
+25
+00:01:22,880 --> 00:01:26,000
+que tiene que ver con los talleres
+del Festival Conectar,
+
+26
+00:01:26,080 --> 00:01:29,880
+en donde vamos probando
+distintas posibilidades
+
+27
+00:01:29,960 --> 00:01:31,440
+de uso de las netbooks,
+
+28
+00:01:31,520 --> 00:01:33,520
+de uso creativo de las netbooks.
+
+29
+00:01:33,600 --> 00:01:36,160
+La incorporación
+de este software a la netbook
+
+30
+00:01:36,240 --> 00:01:37,720
+y la adaptación
+
+31
+00:01:37,800 --> 00:01:42,360
+de las características del software
+para que corra en estos procesadores
+
+32
+00:01:42,440 --> 00:01:45,200
+nos abre un camino muy grande
+
+33
+00:01:45,280 --> 00:01:49,200
+porque la idea es que este software,
+que es un software libre,
+
+34
+00:01:49,280 --> 00:01:51,480
+los chicos
+lo puedan bajar desde internet,
+
+35
+00:01:51,560 --> 00:01:52,800
+puedan bajar los tutoriales
+
+36
+00:01:52,880 --> 00:01:55,520
+y puedan desarrollar
+sus propias obras,
+
+37
+00:01:55,600 --> 00:01:58,200
+sus propios trabajos,
+sus propias ideas
+
+38
+00:01:58,280 --> 00:02:00,080
+alrededor de estas posibilidades.
+
+39
+00:02:00,320 --> 00:02:02,760
+(Cantando)
+<i>A ver quién dice "yo".</i>
+
+40
+00:02:02,840 --> 00:02:05,280
+<i>A ver quién dice "yo".</i>
+
+41
+00:02:05,360 --> 00:02:07,720
+<i>A ver quién dice "yo".</i>
+
+42
+00:02:07,800 --> 00:02:10,640
+<i>A ver quién dice ¡uuuh!</i>
+
+43
+00:02:10,720 --> 00:02:16,720
+[Música de cierre: rap]
+

@@ -1,0 +1,2143 @@
+1
+00:00:01,280 --> 00:00:04,080
+- Vamos a dar comienzo a este
+acto en el que un Salón Mujeres
+
+2
+00:00:04,200 --> 00:00:06,520
+Argentinas del Bicentenario
+y la Casa de Gobierno
+
+3
+00:00:06,640 --> 00:00:10,400
+están colmadas de jóvenes.
+En primer lugar tomando contacto
+
+4
+00:00:10,520 --> 00:00:13,480
+a través de una videoconferencia
+con la Ciudad de Tandil,
+
+5
+00:00:13,600 --> 00:00:16,120
+en la Provincia de Buenos Aires,
+allí se está produciendo
+
+6
+00:00:16,040 --> 00:00:18,000
+el lanzamiento del Programa
+de Tecnología Aplicada
+
+7
+00:00:18,120 --> 00:00:20,080
+al Conocimiento en la
+inauguración también
+
+8
+00:00:20,000 --> 00:00:24,360
+de la primera Computer Assistant
+Virtual que se va a desarrollar
+
+9
+00:00:24,480 --> 00:00:28,680
+en el país, una justamente muy
+importante noticia, por eso allí
+
+10
+00:00:28,800 --> 00:00:30,680
+se encuentran presentes
+el Rector de la Universidad
+
+11
+00:00:30,800 --> 00:00:33,080
+Nacional del Centro de la
+Provincia de Buenos Aires,
+
+12
+00:00:33,000 --> 00:00:36,640
+Roberto Tassara, el Director
+del Proyecto de Tecnologías
+
+13
+00:00:36,760 --> 00:00:40,000
+Aplicadas al Conocimiento,
+el Doctor Cristian García Bauzá,
+
+14
+00:00:40,120 --> 00:00:42,600
+y también la Subsecretaria
+de Gestión y Coordinación
+
+15
+00:00:42,720 --> 00:00:45,480
+de Políticas Universitarias,
+Laura Alonso. Presidenta,
+
+16
+00:00:45,600 --> 00:00:49,160
+la escuchan atentamente.
+- Bueno, hola Tandil, Provincia
+
+17
+00:00:49,280 --> 00:00:55,360
+de Buenos Aires, Universidad
+Nacional del Centro, estamos
+
+18
+00:00:55,480 --> 00:00:59,120
+hoy en un importante
+acontecimiento científico
+
+19
+00:00:59,240 --> 00:01:03,720
+tecnológico de origen nacional
+que queremos que le cuentes,
+
+20
+00:01:03,840 --> 00:01:09,000
+Laura, a todos los argentinos.
+
+21
+00:01:09,120 --> 00:01:12,360
+- Hola querida Presidenta,
+muy buenas tardes, estamos acá
+
+22
+00:01:12,480 --> 00:01:16,440
+en Tandil presentando hoy
+el fruto del trabajo articulado
+
+23
+00:01:16,560 --> 00:01:20,520
+hace más de 2 años entre el
+Estado Nacional y un conjunto,
+
+24
+00:01:20,640 --> 00:01:24,680
+un equipo de científicos que
+trabaja en el Instituto Pladema,
+
+25
+00:01:24,800 --> 00:01:28,400
+de acá, que es un Instituto de
+esta Universidad. Este Instituto
+
+26
+00:01:28,520 --> 00:01:32,360
+está conformado por Matemáticos
+e Ingenieros de distintas ramas
+
+27
+00:01:32,480 --> 00:01:35,040
+que se dedican hace más
+de 15 años a la generación
+
+28
+00:01:35,160 --> 00:01:39,320
+de simuladores de realidad
+virtual. Hoy, junto con ellos,
+
+29
+00:01:39,440 --> 00:01:42,360
+con el Rector Roberto Tassara
+que me acompaña, Cristian
+
+30
+00:01:42,480 --> 00:01:46,080
+García, que es el director del
+proyecto, estamos presentando
+
+31
+00:01:46,200 --> 00:01:50,040
+2 cosas muy importantes.
+Por un lado, vamos a inaugurar
+
+32
+00:01:50,160 --> 00:01:53,960
+la primer cave de la Argentina,
+que yo lo voy a explicar
+
+33
+00:01:54,080 --> 00:01:57,120
+en criollo, después Cristian
+lo va a explicar con propiedad
+
+34
+00:01:57,040 --> 00:02:02,160
+científica. Se trata básicamente
+de una habitación en cuyas
+
+35
+00:02:02,080 --> 00:02:07,440
+paredes, techo y pisos se pueden
+proyectar imágenes digitalizadas
+
+36
+00:02:07,560 --> 00:02:11,320
+de realidad virtual y para quien
+lo esté usando da una sensación
+
+37
+00:02:11,440 --> 00:02:15,160
+de inmersión y es una
+herramienta muy utilizada
+
+38
+00:02:15,080 --> 00:02:18,680
+en el mundo para simuladores
+que tienen la finalidad
+
+39
+00:02:18,800 --> 00:02:22,960
+de capacitación. Por otro lado,
+estamos presentando el Programa
+
+40
+00:02:23,080 --> 00:02:26,680
+de Tecnología Aplicada
+al Conocimiento, que ya tuvo
+
+41
+00:02:26,800 --> 00:02:30,960
+una primera etapa de ejecución.
+Este programa lo hemos empezado
+
+42
+00:02:31,080 --> 00:02:33,360
+a trabajar hace dos años junto
+a la Red de Universidades
+
+43
+00:02:33,480 --> 00:02:37,640
+Petroleras, la R.U.P.,
+que la conforman 9 Universidades
+
+44
+00:02:37,760 --> 00:02:40,120
+de distintas partes de nuestro
+país que tienen carreras
+
+45
+00:02:40,240 --> 00:02:43,840
+dedicadas a la explotación
+petrolera, a la actividad
+
+46
+00:02:43,960 --> 00:02:47,120
+petrolera, y hemos viajado
+junto a estas Universidades,
+
+47
+00:02:47,240 --> 00:02:52,640
+los científicos del Pladema
+e YPF, a Vaca Muerta 2 veces
+
+48
+00:02:52,760 --> 00:02:55,680
+para desarrollar software
+de simulación en operación
+
+49
+00:02:55,800 --> 00:02:59,840
+petrolera y visualización de
+datos geológicos. De esta manera
+
+50
+00:02:59,960 --> 00:03:03,640
+vamos a instalar en estas
+9 universidades 9 caves y,
+
+51
+00:03:03,760 --> 00:03:06,560
+por ejemplo, estudiantes de
+la Universidad Nacional Arturo
+
+52
+00:03:06,680 --> 00:03:09,480
+Jauretche, que está ubicada
+en Florencio Varela que, como
+
+53
+00:03:09,600 --> 00:03:13,120
+sabemos, está bastante distante
+geográficamente de Vaca Muerta,
+
+54
+00:03:13,240 --> 00:03:17,080
+van a poder, en sus estudios,
+mientras están cursando, poder
+
+55
+00:03:17,000 --> 00:03:21,800
+tener la experiencia directa de
+una operación en pozo o de poder
+
+56
+00:03:21,920 --> 00:03:25,120
+visualizar datos geológicos
+reproducidos a través de estos
+
+57
+00:03:25,240 --> 00:03:30,160
+simuladores. También hoy estamos
+presentando una segunda etapa
+
+58
+00:03:30,080 --> 00:03:32,480
+después del gran trabajo que
+hemos hecho a lo largo de estos
+
+59
+00:03:32,600 --> 00:03:37,000
+años, nos hemos propuesto
+ampliar esta política a otras
+
+60
+00:03:37,120 --> 00:03:40,720
+carreras de campos estratégicos
+para el desarrollo nacional
+
+61
+00:03:40,840 --> 00:03:44,240
+de nuestro país, como son
+la energía, la medicina,
+
+62
+00:03:44,360 --> 00:03:50,840
+la odontología, la logística,
+el transporte, la seguridad
+
+63
+00:03:50,960 --> 00:03:54,280
+y la defensa y todas las
+carreras comprendidas en estos
+
+64
+00:03:54,400 --> 00:03:58,200
+campos de conocimiento van
+a contar con caves, con esta
+
+65
+00:03:58,320 --> 00:04:02,920
+herramienta de simulación para
+poder mejorar la calidad de su
+
+66
+00:04:03,040 --> 00:04:08,000
+formación. Hoy estamos
+intentando alcanzar en esta
+
+67
+00:04:08,120 --> 00:04:11,680
+segunda etapa del programa
+a alrededor de 300 mil
+
+68
+00:04:11,800 --> 00:04:15,400
+estudiantes de todo el país que
+están involucrados en este tipo
+
+69
+00:04:15,520 --> 00:04:18,520
+de carreras y que van a contar
+con este instrumento de la más
+
+70
+00:04:18,640 --> 00:04:22,160
+alta tecnología en el mundo
+para poder cursar sus estudios
+
+71
+00:04:22,280 --> 00:04:25,160
+en nuestras Universidades
+Públicas Nacionales, así que,
+
+72
+00:04:25,280 --> 00:04:29,080
+la verdad que para nosotros
+es un gran orgullo poder estar
+
+73
+00:04:29,000 --> 00:04:33,400
+presentando este trabajo.
+Estamos también generando
+
+74
+00:04:33,520 --> 00:04:37,160
+una política que acorta
+la distancia entre la teoría
+
+75
+00:04:37,080 --> 00:04:41,040
+y la práctica en carreras muy
+sensibles y muy estratégicas
+
+76
+00:04:41,160 --> 00:04:45,120
+para el desarrollo de nuestro
+país y dando un paso más,
+
+77
+00:04:45,240 --> 00:04:50,840
+instalando un mojón más en esta
+enorme decisión política que han
+
+78
+00:04:50,960 --> 00:04:54,480
+tenido usted Presidenta y
+Néstor Kirchner antes, de poner
+
+79
+00:04:54,600 --> 00:04:59,800
+en el centro de la escena, de
+poner como pilar del desarrollo
+
+80
+00:04:59,920 --> 00:05:03,000
+nacional de nuestro país
+por inclusión a la ciencia,
+
+81
+00:05:03,120 --> 00:05:06,480
+la tecnología, al conocimiento
+y a la educación. La verdad que
+
+82
+00:05:06,600 --> 00:05:09,960
+para nosotros es un orgullo
+enorme ser parte de este equipo
+
+83
+00:05:10,080 --> 00:05:14,360
+de trabajo que está pudiendo
+llevar adelante estos proyectos
+
+84
+00:05:14,480 --> 00:05:20,040
+y decirle que esto es fruto de
+eso, no, hoy la cave es posible,
+
+85
+00:05:20,160 --> 00:05:22,600
+es posible este Programa
+de Tecnología Aplicada
+
+86
+00:05:22,720 --> 00:05:25,200
+al Conocimiento en nuestras
+universidades públicas porque
+
+87
+00:05:25,320 --> 00:05:28,800
+hemos saldado enorme cantidad
+de deudas con nuestro sistema
+
+88
+00:05:28,920 --> 00:05:35,040
+público y hoy claramente
+estamos avanzando en mejorar...
+
+89
+00:05:35,160 --> 00:05:54,480
+(Aplausos y cantos)
+
+90
+00:05:54,600 --> 00:05:57,120
+Y lo último que le quiero
+transmitir, Presidenta, de parte
+
+91
+00:05:57,240 --> 00:06:01,440
+de todo el equipo de compañeros
+que hemos llevado adelante este
+
+92
+00:06:01,560 --> 00:06:05,920
+proyecto, es que esto, además de
+ser fruto de esa enorme decisión
+
+93
+00:06:06,040 --> 00:06:09,920
+sostenida en el tiempo que han
+tenido Néstor y que ha tenido
+
+94
+00:06:10,040 --> 00:06:14,120
+usted también es fruto de otro
+gran logro que también es suyo
+
+95
+00:06:14,240 --> 00:06:16,680
+y es de Néstor y que es que el
+pueblo argentino ha recuperado
+
+96
+00:06:16,800 --> 00:06:19,760
+la autoestima, que el pueblo
+argentino sabe que puede, que
+
+97
+00:06:19,880 --> 00:06:23,360
+cuando se plantea un objetivo
+y va hacia un lugar sabe que es
+
+98
+00:06:23,480 --> 00:06:28,320
+realizable y entonces hoy
+estamos realizando,
+
+99
+00:06:28,440 --> 00:06:33,000
+materializando este gran logro
+porque sabemos que somos capaces
+
+100
+00:06:33,120 --> 00:06:36,520
+de hacerlo y de poder ir por
+más. Así que muchísimas gracias,
+
+101
+00:06:36,640 --> 00:06:39,400
+Presidenta, por darnos
+esta oportunidad.
+
+102
+00:06:39,520 --> 00:06:41,320
+- Gracias, Laura.
+
+103
+00:06:41,440 --> 00:06:45,040
+(Aplausos)
+
+104
+00:06:45,160 --> 00:06:49,600
+Vamos a hablar un poquitito
+con el titular del proyecto,
+
+105
+00:06:49,720 --> 00:06:53,160
+que recién lo mencionabas, que
+puede agregar, bueno, vos ya
+
+106
+00:06:53,280 --> 00:06:58,000
+fuiste muy clara, pero
+seguramente va a poder agregar
+
+107
+00:06:58,120 --> 00:07:00,320
+las especificaciones, te
+escuchamos atentamente. ¿Cómo
+
+108
+00:07:00,440 --> 00:07:04,120
+es tu nombre? Que me olvidé.
+- ¿Qué tal? Buenas tardes,
+
+109
+00:07:04,240 --> 00:07:06,920
+señora Presidenta, soy Cristian
+García Bauza, soy director
+
+110
+00:07:07,040 --> 00:07:11,840
+del proyecto. Bueno, como bien
+decía Laura, la verdad que
+
+111
+00:07:11,960 --> 00:07:14,720
+un sueño, un sueño hecho
+realidad, me parece que cuando
+
+112
+00:07:14,840 --> 00:07:18,000
+a los científicos se les pone
+algo por delante y se los
+
+113
+00:07:18,120 --> 00:07:22,400
+acompaña, está más que claro de
+que las cosas se pueden lograr.
+
+114
+00:07:22,520 --> 00:07:25,840
+Lo de tener la primera cave
+en el país me parece un logro
+
+115
+00:07:25,960 --> 00:07:29,640
+bastante importante, antes era
+algo inaccesible que únicamente
+
+116
+00:07:29,760 --> 00:07:34,160
+había que importarlo a altos
+valores, hoy puede estar
+
+117
+00:07:34,280 --> 00:07:36,640
+en distintas universidades
+del país y accesible para todos
+
+118
+00:07:36,760 --> 00:07:39,800
+los estudiantes, así que en eso
+estamos contentos. A nivel
+
+119
+00:07:39,920 --> 00:07:43,400
+técnico, una cave, yo voy
+a complementar un poco las
+
+120
+00:07:43,520 --> 00:07:46,840
+palabras que dijo Laura, es una
+habitación, un conjunto de
+
+121
+00:07:46,960 --> 00:07:50,600
+software y hardware en donde en
+esa habitación podemos generar
+
+122
+00:07:50,720 --> 00:07:54,240
+escenarios virtuales y pueden
+ser utilizados, por ejemplo,
+
+123
+00:07:54,360 --> 00:07:57,080
+para exploración de piezas
+metalmecánicas, para recorridos
+
+124
+00:07:57,000 --> 00:08:00,080
+de escenarios virtuales, para
+simuladores de entrenamiento
+
+125
+00:08:00,080 --> 00:08:03,240
+de distintas áreas. Nosotros en
+particular ahora hemos comenzado
+
+126
+00:08:03,360 --> 00:08:07,360
+con un simulador de perforación
+y de petróleo para las 9
+
+127
+00:08:07,480 --> 00:08:09,440
+universidades que componen
+la R.U.P., la Red de
+
+128
+00:08:09,560 --> 00:08:12,160
+Universidades Petroleras
+y luego, bueno, está la idea
+
+129
+00:08:12,280 --> 00:08:15,320
+de seguir trabajando en otras
+áreas como defensa, seguridad,
+
+130
+00:08:15,440 --> 00:08:22,640
+trasporte, etc. Así que bueno...
+- Una pregunta antes de irme:
+
+131
+00:08:22,760 --> 00:08:27,440
+¿podría, por ejemplo, en esa
+cave hacer una cave en medicina
+
+132
+00:08:27,560 --> 00:08:30,720
+y hacer, por ejemplo,
+una operación quirúrgica,
+
+133
+00:08:30,840 --> 00:08:33,920
+una intervención quirúrgica,
+ya sea en el cuerpo humano
+
+134
+00:08:34,040 --> 00:08:36,280
+u odontológica, bueno, también
+es el cuerpo humano los dientes,
+
+135
+00:08:36,400 --> 00:08:39,160
+podría ser utilizada, o sea,
+para la odontología y para
+
+136
+00:08:39,280 --> 00:08:44,160
+la medicina también esta cave?
+- Sí, exactamente, es una de
+
+137
+00:08:44,280 --> 00:08:48,080
+las áreas del programa, medicina
+y odontología, por ejemplo,
+
+138
+00:08:48,200 --> 00:08:50,240
+actualmente estamos trabajando
+en un simulador de ecografía
+
+139
+00:08:50,360 --> 00:08:53,040
+y el próximo va a ser
+de laparoscopía y el siguiente
+
+140
+00:08:53,160 --> 00:08:55,440
+seguramente será de cirugía,
+así que ya está en proyecto,
+
+141
+00:08:55,560 --> 00:08:58,440
+en el Hospital del Cruce
+estamos trabajando.
+
+142
+00:08:58,560 --> 00:09:03,000
+- ¡Felicitaciones! Muchas
+gracias a todos y a todas.
+
+143
+00:09:03,120 --> 00:09:05,920
+(Aplausos)
+
+144
+00:09:06,040 --> 00:09:09,160
+Los científicos y científicas
+que intervinieron en el
+
+145
+00:09:09,080 --> 00:09:12,400
+desarrollo de este proyecto, la
+felicitación de los 40 millones
+
+146
+00:09:12,520 --> 00:09:15,240
+de argentinos, muchas gracias
+a la Universidad del Centro
+
+147
+00:09:15,360 --> 00:09:17,960
+también.
+- Y de Tandil nos vamos también
+
+148
+00:09:18,080 --> 00:09:20,800
+a la Provincia de Buenos Aires,
+en este caso a General Madariaga
+
+149
+00:09:20,920 --> 00:09:23,320
+porque allí se inaugura la
+Escuela de Educación Agraria
+
+150
+00:09:23,440 --> 00:09:25,600
+número 1, se encuentran
+presentes el Secretario
+
+151
+00:09:25,720 --> 00:09:28,280
+de Educación, Jaime Perczyk,
+también el Intendente de General
+
+152
+00:09:28,400 --> 00:09:31,400
+Madariaga, Cristian Popovic, y
+la directora del establecimiento
+
+153
+00:09:31,520 --> 00:09:34,600
+Graciela Fernández. Además,
+la Ministra de Educación de la
+
+154
+00:09:34,720 --> 00:09:37,720
+Provincia de Buenos Aires, Nora
+De Lucía y muchos alumnos, entre
+
+155
+00:09:37,840 --> 00:09:41,560
+ellos, allí los vemos a todos realmente muy contentos, Morena,
+
+156
+00:09:41,680 --> 00:09:44,960
+Tomás, Ignacio, Ramiro y
+Victoria que están atentamente,
+
+157
+00:09:45,080 --> 00:09:49,520
+Presidenta, escuchándola.
+- Bueno, hola General Madariaga,
+
+158
+00:09:49,640 --> 00:09:53,160
+Graciela Fernández, la directora del colegio, Jaime Perczyk
+
+159
+00:09:53,080 --> 00:09:55,960
+también, que está allí desde
+el Ministerio de Educación,
+
+160
+00:09:56,080 --> 00:09:59,920
+estamos inaugurando esta escuela
+agraria que fue creada, si mal
+
+161
+00:10:00,040 --> 00:10:04,840
+no recuerdo, en el año 2011
+y que ahora tiene su propia
+
+162
+00:10:04,960 --> 00:10:08,480
+escuela, con laboratorio,
+con SUM, a ver, porqué no nos
+
+163
+00:10:08,600 --> 00:10:14,000
+explican un poquito
+de qué se trata esto.
+
+164
+00:10:14,120 --> 00:10:17,120
+- Qué tal, Presidenta, buenas
+noches, es una escuela que se
+
+165
+00:10:17,040 --> 00:10:22,640
+creó en 2011 y a partir de este año tiene su edificio propio,
+
+166
+00:10:22,760 --> 00:10:25,160
+casi más de 700 metros
+cuadrados, tiene albergue, tiene
+
+167
+00:10:25,280 --> 00:10:29,840
+laboratorio, tiene entorno
+productivo, tiene una gran
+
+168
+00:10:29,960 --> 00:10:32,680
+cantidad de chicos, tiene
+docentes que le ponen mucho
+
+169
+00:10:32,800 --> 00:10:36,360
+empuje, tiene una particularidad
+que me parece que es para
+
+170
+00:10:36,480 --> 00:10:39,720
+nombrarla: es una escuela que
+tiene casi la mitad, en una
+
+171
+00:10:39,840 --> 00:10:41,800
+escuela industrial, en una
+escuela agrotécnica es muy
+
+172
+00:10:41,920 --> 00:10:44,240
+importante, casi la misma
+cantidad de varones,
+
+173
+00:10:44,360 --> 00:10:47,960
+de estudiantes varones que de
+estudiantes que son chicas
+
+174
+00:10:48,080 --> 00:10:50,920
+y la verdad que es una fiesta
+en la Argentina, en la Argentina
+
+175
+00:10:51,040 --> 00:10:54,000
+real, en la Argentina federal
+hacer la misma escuela en todos
+
+176
+00:10:54,120 --> 00:10:58,120
+lados, una de las más de 1900
+escuelas que se han hecho entre
+
+177
+00:10:58,040 --> 00:11:02,640
+el gobierno de Néstor Kirchner
+y sus e gobiernos, casi 2900
+
+178
+00:11:02,760 --> 00:11:05,320
+escuelas entre las que están
+construidas y las que están
+
+179
+00:11:05,440 --> 00:11:08,800
+en gestión y la verdad que una
+fiesta, una escuela que se
+
+180
+00:11:08,920 --> 00:11:11,920
+corresponde con un país que
+quiere ser, que quiere agregarle
+
+181
+00:11:12,040 --> 00:11:14,840
+valor a a la industria
+agropecuaria, a un país que
+
+182
+00:11:14,960 --> 00:11:18,000
+quiere que todos progresen,
+un país federal, un país que es
+
+183
+00:11:18,120 --> 00:11:20,720
+para todos, así que una alegría
+enorme, estamos con los que
+
+184
+00:11:20,840 --> 00:11:23,560
+nombraron, estamos con
+el intendente Cristian Popovic,
+
+185
+00:11:23,680 --> 00:11:26,600
+que si usted me permite, quería
+hacerle un breve saludo, está
+
+186
+00:11:26,720 --> 00:11:29,920
+Graciela, que es la directora de
+la escuela, hay varios alumnos
+
+187
+00:11:30,040 --> 00:11:33,000
+y si usted al final quiere
+hablar con Nerea, que tenía
+
+188
+00:11:33,120 --> 00:11:35,800
+ganas de comentarle
+algunas cosas.
+
+189
+00:11:35,920 --> 00:11:40,480
+- Bueno, en ese orden
+y brevemente.
+
+190
+00:11:40,600 --> 00:11:42,840
+El Intendente breve, sí.
+- Muy buenas noches señora
+
+191
+00:11:42,960 --> 00:11:48,120
+Presidenta, una gran emoción.
+Este anhelo que fue para la
+
+192
+00:11:48,240 --> 00:11:51,440
+comunidad de General Madariaga
+por muchísimos años hoy se puede
+
+193
+00:11:51,560 --> 00:11:55,920
+dar cuando uno ve que los
+proyectos se vuelven realidad
+
+194
+00:11:56,040 --> 00:11:59,880
+la verdad que emocionan a todos
+y realmente el estar en este
+
+195
+00:12:00,000 --> 00:12:03,000
+proyecto donde confluyen el
+Gobierno nacional, el provincial
+
+196
+00:12:03,120 --> 00:12:06,280
+y el municipal y los vecinos
+principalmente para poder lograr
+
+197
+00:12:06,400 --> 00:12:10,240
+esta escuela realmente emociona
+y sobre todo escuchando también
+
+198
+00:12:10,360 --> 00:12:13,040
+a los compañeros de Tandil
+teniendo este proyecto del año
+
+199
+00:12:13,160 --> 00:12:17,600
+2013 y dándole importancia
+a lo que es fundamentalmente
+
+200
+00:12:17,720 --> 00:12:20,080
+la herramienta más importante
+que puede tener cualquier vecino
+
+201
+00:12:20,200 --> 00:12:23,120
+de cualquier comunidad del mundo
+que es el desarrollo de la
+
+202
+00:12:23,040 --> 00:12:25,800
+inteligencia, de la educación,
+el conocimiento, la formación
+
+203
+00:12:25,920 --> 00:12:29,120
+en la cultura fundamentalmente,
+esa es la herramienta
+
+204
+00:12:29,040 --> 00:12:32,560
+fundamental que va a tener
+nuestro mundo, nuestro país para
+
+205
+00:12:32,680 --> 00:12:36,560
+realmente poder debatir, para
+poder pensar por sí mismo y por
+
+206
+00:12:36,680 --> 00:12:40,520
+todas las cosas que nos vienen
+sucediendo y que quizás todavía
+
+207
+00:12:40,640 --> 00:12:44,040
+estamos lejos de aquellas
+cuestiones. Le agradezco
+
+208
+00:12:44,160 --> 00:12:48,200
+muchísimo, le agradezco de
+corazón y realmente le agradezco
+
+209
+00:12:48,320 --> 00:12:50,480
+su presencia en esta
+inauguración que es tan
+
+210
+00:12:50,600 --> 00:12:52,760
+importante para mi comunidad.
+Muchas gracias, buenas noches
+
+211
+00:12:52,880 --> 00:12:54,520
+a todos.
+- Muchas gracias.
+
+212
+00:12:54,640 --> 00:13:03,000
+(Aplausos)
+
+213
+00:13:03,120 --> 00:13:07,680
+A ver, quién va a hablar ahora.
+
+214
+00:13:07,800 --> 00:13:11,920
+La directora, Graciela.
+- Hola, buenas noches.
+
+215
+00:13:12,040 --> 00:13:15,760
+No, te habla la alumna, Nerea.
+- Ah, hola Nerea, ¿cómo estás?
+
+216
+00:13:15,880 --> 00:13:20,640
+¡Qué nombre, Nerea, divina!
+Medio romano, medio romanezco,
+
+217
+00:13:20,760 --> 00:13:22,120
+Nerea.
+
+218
+00:13:22,240 --> 00:13:27,040
+(Aplausos)
+
+219
+00:13:27,160 --> 00:13:30,240
+- Bueno, buenas noches, bueno,
+acá estamos inaugurando
+
+220
+00:13:30,360 --> 00:13:36,920
+la escuela, muy contentos todos
+y no sé si quiere hacer
+
+221
+00:13:37,040 --> 00:13:40,000
+alguna pregunta.
+- Contame.
+
+222
+00:13:40,120 --> 00:13:44,920
+Contame, contame en qué año
+estás, porque la escuela, hay
+
+223
+00:13:45,040 --> 00:13:48,320
+que contarle a la gente, está
+en el campo, yo vi que tiene
+
+224
+00:13:48,440 --> 00:13:52,320
+instalaciones de zeppelin para
+el gas, es muy completa, tiene
+
+225
+00:13:52,440 --> 00:13:55,520
+muchos alumnos, contame qué
+actividades desarrollan, contame
+
+226
+00:13:55,640 --> 00:14:02,000
+un día típico de tu actividad
+en el colegio, por ejemplo.
+
+227
+00:14:02,120 --> 00:14:04,320
+- Bueno, yo soy de quinto,
+el año más grande que tiene
+
+228
+00:14:04,440 --> 00:14:11,480
+la escuela.
+La escuela cuenta con
+
+229
+00:14:11,600 --> 00:14:15,400
+22 hectáreas cuenta la escuela.
+Está cerca del peaje de
+
+230
+00:14:15,520 --> 00:14:20,880
+Madariaga. Las actividades
+que se cuentan son, tenemos
+
+231
+00:14:21,000 --> 00:14:28,840
+conejos, huerta, vivero,
+estancias rurales.
+
+232
+00:14:28,960 --> 00:14:31,160
+- Acá estamos viendo a los
+chanchos, estamos viendo los
+
+233
+00:14:31,280 --> 00:14:33,880
+chanchitos, estamos viendo,
+bueno, todo lo que hay en el
+
+234
+00:14:34,000 --> 00:14:38,840
+campo: chanchitos, gallinas,
+de todo. La verdad que, bueno,
+
+235
+00:14:38,960 --> 00:14:43,480
+nos pone muy contentos realmente
+qué el 50% de la matrícula
+
+236
+00:14:43,600 --> 00:14:48,280
+del colegio sean chicas como vos
+y fundamentalmente para lo que
+
+237
+00:14:48,400 --> 00:14:53,080
+siempre hemos venido sosteniendo
+la necesidad de industrializar
+
+238
+00:14:53,200 --> 00:14:57,040
+la ruralidad, que los productos
+primarios de nuestro campo
+
+239
+00:14:57,160 --> 00:15:00,520
+tengan valor agregado y para eso
+es importante que se desarrolle
+
+240
+00:15:00,640 --> 00:15:04,200
+en colegios como el que estamos
+inaugurando, con laboratorios
+
+241
+00:15:04,320 --> 00:15:08,200
+y de manera tal que todos
+ustedes puedan crecer en el
+
+242
+00:15:08,320 --> 00:15:10,920
+mismo lugar el que nacieron
+y desarrollar allí sus
+
+243
+00:15:11,040 --> 00:15:14,440
+actividades. Gracias Nerea,
+gracias a todos y cada uno de
+
+244
+00:15:14,560 --> 00:15:18,440
+los docentes, a la directora
+Graciela Fernández y, bueno,
+
+245
+00:15:18,560 --> 00:15:21,160
+la verdad que es un orgullo
+porque sé que estuvieron durante
+
+246
+00:15:21,280 --> 00:15:24,400
+mucho tiempo de prestado
+en muchos lugares, sé que
+
+247
+00:15:24,520 --> 00:15:27,080
+estuvieron hasta en la Sociedad
+Rural dando clases y ahora, como
+
+248
+00:15:27,200 --> 00:15:34,200
+corresponde, tienen su colegio.
+Así que, felicitaciones
+
+249
+00:15:34,320 --> 00:15:42,080
+a General Madariaga, a Nerea
+y a todos, muchas gracias.
+
+250
+00:15:42,000 --> 00:15:45,760
+-Y de General Madariaga seguimos
+en territorio bonaerense, en
+
+251
+00:15:45,880 --> 00:15:48,200
+este caso vamos a comunicarnos
+con el Partido de Malvinas
+
+252
+00:15:48,320 --> 00:15:51,320
+Argentinas para compartir
+la inauguración del Multiespacio
+
+253
+00:15:51,440 --> 00:15:55,080
+Cultural de la Universidad
+Nacional General Sarmiento.
+
+254
+00:15:55,200 --> 00:15:57,120
+Allí se encuentran presentes
+el Secretario de Políticas
+
+255
+00:15:57,240 --> 00:16:00,400
+Universitarias, Aldo Caballero,
+el jefe de Anses Malvinas
+
+256
+00:16:00,520 --> 00:16:03,080
+Argentinas, Leonardo Nardini,
+también el Secretario de
+
+257
+00:16:03,000 --> 00:16:04,920
+Servicios Públicos de la
+Provincia de Buenos Aires,
+
+258
+00:16:05,040 --> 00:16:08,480
+Franco Laporta, la Rectora de
+la Universidad Nacional General
+
+259
+00:16:08,600 --> 00:16:11,560
+Sarmiento, Gabriela Dicker,
+el Director del Centro Cultural,
+
+260
+00:16:11,680 --> 00:16:14,720
+Lucas Rosermacher, y el
+Coordinador del Multiespacio
+
+261
+00:16:14,840 --> 00:16:19,160
+Cultural, Alejandro Lugo.
+- Bueno, hola Universidad
+
+262
+00:16:19,080 --> 00:16:22,640
+Nacional de General Sarmiento,
+la USAM, miren lo que es
+
+263
+00:16:22,760 --> 00:16:24,800
+el auditorio, todo eso es
+lo que estamos inaugurando,
+
+264
+00:16:24,920 --> 00:16:27,080
+una parte de lo que estamos
+inaugurando, todo ese auditorio
+
+265
+00:16:27,200 --> 00:16:30,400
+es nuevo y es un espacio
+multicultural en donde ese
+
+266
+00:16:30,520 --> 00:16:34,640
+auditorio es uno de los espacios
+que se inauguran hoy. Escuchamos
+
+267
+00:16:34,760 --> 00:16:40,080
+atentamente las palabras
+de ustedes.
+
+268
+00:16:40,200 --> 00:16:44,720
+- Muy buenas tardes querida
+Presidenta Cristina, estamos acá
+
+269
+00:16:44,840 --> 00:16:48,560
+como usted seguramente está
+escuchando con gran alegría,
+
+270
+00:16:48,680 --> 00:16:52,240
+celebrando la inauguración
+de este multiespacio que tiene
+
+271
+00:16:52,360 --> 00:16:56,920
+un valor muy significativo en
+la Universidad de estos tiempos.
+
+272
+00:16:57,040 --> 00:17:02,920
+Recién veíamos en Tandil el
+desarrollo más vinculado a la
+
+273
+00:17:03,040 --> 00:17:05,640
+cuestión científica-tecnológica
+de la universidad que es
+
+274
+00:17:05,760 --> 00:17:08,840
+sumamente relevante para el país
+porque tiene que ver con el
+
+275
+00:17:08,960 --> 00:17:12,600
+agregado de valor a las materias
+primas, tiene que ver con la
+
+276
+00:17:12,720 --> 00:17:16,080
+sustitución de importaciones,
+pero acá en General Sarmiento
+
+277
+00:17:16,200 --> 00:17:21,280
+también se está dando especial
+atención a otra dimensión que
+
+278
+00:17:21,400 --> 00:17:24,760
+hace la riqueza de un pueblo y
+que tiene que ver con la cultura
+
+279
+00:17:24,880 --> 00:17:29,440
+en un lugar en el que no había
+antes la posibilidad de contar
+
+280
+00:17:29,560 --> 00:17:33,560
+con un espacio de tanta calidad
+como este, desarrollado con la
+
+281
+00:17:33,680 --> 00:17:37,000
+mejor infraestructura y
+equipamiento posible para que
+
+282
+00:17:37,120 --> 00:17:43,640
+puedan aquí escuchar no sólo
+los estudiantes, los profesores,
+
+283
+00:17:43,760 --> 00:17:46,680
+los docentes, los no docentes
+sino sobre todo la comunidad,
+
+284
+00:17:46,800 --> 00:17:52,560
+conciertos o puedan ver obras de
+teatro, también hay un espacio
+
+285
+00:17:52,680 --> 00:17:57,160
+dedicado al cine, otro espacio
+dedicado a las artes plásticas,
+
+286
+00:17:57,080 --> 00:18:01,480
+es decir, algo vinculado a una
+dimensión que hace a la riqueza
+
+287
+00:18:01,600 --> 00:18:06,000
+de una nación que también es
+muy significativo para la
+
+288
+00:18:06,120 --> 00:18:10,360
+universidad y sobre todo
+para las universidades públicas.
+
+289
+00:18:10,480 --> 00:18:15,280
+En otros momentos se decía que
+debíamos esperar a ser un país
+
+290
+00:18:15,400 --> 00:18:19,280
+rico, desarrollado, como
+lo piensan algunos que viven
+
+291
+00:18:19,400 --> 00:18:24,440
+mirando al Norte, para invertir
+en estas cuestiones. Hoy ya
+
+292
+00:18:24,560 --> 00:18:29,240
+sabemos de la mano del proyecto
+que primero condujo Néstor
+
+293
+00:18:29,360 --> 00:18:34,440
+y ahora usted señora Presidenta,
+que los países son ricos porque
+
+294
+00:18:34,560 --> 00:18:37,920
+invierten en educación y no
+al revés, y por eso estamos
+
+295
+00:18:38,040 --> 00:18:44,480
+celebrando con muchísima alegría
+este espacio porque en Malvinas
+
+296
+00:18:44,600 --> 00:18:49,720
+Argentinas, donde era muy
+difícil contar con un lugar como
+
+297
+00:18:49,840 --> 00:18:56,080
+este, hoy está hecho realidad y
+con la mejor calidad, porque no
+
+298
+00:18:56,000 --> 00:18:57,440
+hay...
+
+299
+00:18:57,560 --> 00:19:21,040
+(Aplausos)
+
+300
+00:19:21,160 --> 00:19:27,040
+Como usted siempre señala,
+querida Cristina, no hay
+
+301
+00:19:27,160 --> 00:19:32,080
+posibilidad de tener un país
+inclusivo si no es con calidad
+
+302
+00:19:32,000 --> 00:19:36,160
+como tampoco es posible que
+exista la calidad sin inclusión
+
+303
+00:19:36,280 --> 00:19:39,240
+y esto es lo que está sucediendo
+en este espacio, yo por eso le
+
+304
+00:19:39,360 --> 00:19:44,280
+quiero pasar con la Rectora que
+es la que está aquí todos los
+
+305
+00:19:44,400 --> 00:19:48,880
+días junto a los docentes,
+los no docentes, los estudiantes
+
+306
+00:19:49,000 --> 00:19:52,040
+y también
+con toda la comunidad.
+
+307
+00:19:52,160 --> 00:19:55,800
+(Aplausos)
+
+308
+00:19:55,920 --> 00:20:02,160
+- Bien, muchas gracias,
+pasame con la Rectora, dale.
+
+309
+00:20:02,280 --> 00:20:05,920
+- Presidenta, buenas tardes.
+Bienvenida por este medio a la
+
+310
+00:20:06,040 --> 00:20:11,080
+Universidad Nacional de General Sarmiento, estamos con usted
+
+311
+00:20:11,000 --> 00:20:16,240
+inaugurando oficialmente este
+complejo cultural que son 2400
+
+312
+00:20:16,360 --> 00:20:21,120
+metros cuadrados cubiertos,
+esta sala hermosísima para 550
+
+313
+00:20:21,240 --> 00:20:25,120
+personas, cuenta con un
+microcine, tres salas de
+
+314
+00:20:25,240 --> 00:20:31,320
+exposiciones, un anfiteatro
+al aire libre, oficinas, en fin,
+
+315
+00:20:31,440 --> 00:20:35,920
+es un complejo cultural que
+no tiene equivalente en este
+
+316
+00:20:36,040 --> 00:20:40,120
+segundo cordón del noroeste del
+conurbano y entendemos que es
+
+317
+00:20:40,240 --> 00:20:46,560
+una manera particular en que
+las políticas hoy aseguran
+
+318
+00:20:46,680 --> 00:20:49,880
+la realización del ejercicio
+de derechos. En este caso,
+
+319
+00:20:50,000 --> 00:20:52,720
+el derecho a la educación
+superior, por supuesto, pero
+
+320
+00:20:52,840 --> 00:20:56,640
+también el derecho a la cultura,
+el derecho a la comunicación,
+
+321
+00:20:56,760 --> 00:20:59,640
+son derechos que la universidad
+hoy tiene que garantizar y
+
+322
+00:20:59,760 --> 00:21:02,320
+nuestra responsabilidad a partir
+de ahora es mantener esto
+
+323
+00:21:02,440 --> 00:21:07,960
+abierto para que estos derechos
+efectivamente puedan ejercerse.
+
+324
+00:21:08,080 --> 00:21:11,520
+Usted suele decir que los
+derechos no se agradecen pero
+
+325
+00:21:11,640 --> 00:21:15,080
+las políticas que los garantizan
+tienen que reconocerse, tienen
+
+326
+00:21:15,200 --> 00:21:18,800
+que defenderse y tienen que
+profundizarse, así que estamos
+
+327
+00:21:18,920 --> 00:21:22,000
+muy agradecidos y muy felices
+de tener esto hoy.
+
+328
+00:21:22,120 --> 00:21:24,080
+- Gracias Rectora, muchas
+gracias a toda la comunidad
+
+329
+00:21:24,200 --> 00:21:29,280
+docente y no docente, a los
+estudiantes de esta querida
+
+330
+00:21:29,400 --> 00:21:32,880
+universidad, de la UNSAM,
+en Malvinas Argentinas.
+
+331
+00:21:33,000 --> 00:21:35,600
+Un saludo a todos,
+muchas gracias.
+
+332
+00:21:35,720 --> 00:21:38,480
+- Nos comunicamos a continuación
+con la localidad de Escobar,
+
+333
+00:21:38,600 --> 00:21:41,080
+Provincia de Buenos Aires
+también, donde en este momento
+
+334
+00:21:41,000 --> 00:21:43,360
+se está realizando
+la ampliación del jardín
+
+335
+00:21:43,480 --> 00:21:47,400
+de infantes número 922 Eve San
+Martín De Duprat. Allí se
+
+336
+00:21:47,520 --> 00:21:49,440
+encuentran el Secretario
+de Coordinación y Monitoreo
+
+337
+00:21:49,560 --> 00:21:51,680
+Institucional del Ministerio
+de Desarrollo Social, Carlos
+
+338
+00:21:51,800 --> 00:21:54,000
+Castagneto, también el
+Secretario de Organización
+
+339
+00:21:54,120 --> 00:21:57,400
+y Comunicación Comunitaria del
+Ministerio de Desarrollo Social,
+
+340
+00:21:57,520 --> 00:22:01,760
+Rodrigo Rodríguez, el Intendente
+de Escobar, Sandro Guzmán,
+
+341
+00:22:01,880 --> 00:22:04,480
+el Subsecretario de
+Comercialización de la Economía
+
+342
+00:22:04,600 --> 00:22:07,080
+Social, también del Ministerio
+de Desarrollo Social, Ariel
+
+343
+00:22:07,200 --> 00:22:10,560
+Sujarchu y también la Directora
+del establecimiento, Nahir
+
+344
+00:22:10,680 --> 00:22:13,400
+Miranda. Junto a ellos
+muchísimas madres y alumnos,
+
+345
+00:22:13,520 --> 00:22:16,320
+una de ellas, Sofía Aranda,
+que es madre de un chiquito
+
+346
+00:22:16,440 --> 00:22:18,880
+que concurre a este
+establecimiento, Presidenta.
+
+347
+00:22:19,000 --> 00:22:23,400
+- Bueno, hola Escobar, qué tal
+la escuela, no escuela sino son
+
+348
+00:22:23,520 --> 00:22:26,760
+las salitas que estamos
+construyendo desde el Ministerio
+
+349
+00:22:26,880 --> 00:22:29,480
+de Desarrollo Social. Carlos
+Castagneto, te escuchamos
+
+350
+00:22:29,600 --> 00:22:32,080
+atentamente sobre la labor
+que viene desarrollando
+
+351
+00:22:32,000 --> 00:22:34,840
+el Ministerio de Desarrollo
+Social en el tema de
+
+352
+00:22:34,960 --> 00:22:38,920
+construcción de salitas para
+4 años que, como todos sabemos,
+
+353
+00:22:39,040 --> 00:22:43,000
+se han convertido en
+obligatoriedad por ley nacional.
+
+354
+00:22:43,120 --> 00:22:47,680
+Adelante, te escuchamos.
+- Bueno, buenas tardes señora
+
+355
+00:22:47,800 --> 00:22:51,000
+Presidenta. La verdad que es
+un placer estar inaugurando
+
+356
+00:22:51,120 --> 00:22:58,320
+acá en el jardín 922 de Garín,
+Escobar, una sala de 4 años
+
+357
+00:22:58,440 --> 00:23:03,880
+hecho por el Argentina Trabaja,
+un jardín donde, como usted bien
+
+358
+00:23:04,000 --> 00:23:08,440
+lo dijo y lo dijo en Tecnópolis,
+a través del programa Argentina
+
+359
+00:23:08,560 --> 00:23:13,080
+Trabaja tenemos que construir
+300 aulas antes de la iniciación
+
+360
+00:23:13,000 --> 00:23:18,480
+del curso lectivo del año 2016.
+Ya terminamos 50 aulas hechas
+
+361
+00:23:18,600 --> 00:23:22,760
+por manos de trabajadores de los
+cooperativistas y feliz, feliz
+
+362
+00:23:22,880 --> 00:23:26,080
+por compartir este momento
+con la comunidad manteniendo
+
+363
+00:23:26,200 --> 00:23:31,520
+la idiosincrasia del lugar y
+también contarle que todos los
+
+364
+00:23:31,640 --> 00:23:35,120
+cooperativistas que participan
+lo hacen con mucha felicidad,
+
+365
+00:23:35,040 --> 00:23:40,480
+primero porque consiguieron,
+yo recuerdo en el 2009, usted
+
+366
+00:23:40,600 --> 00:23:43,960
+Presidenta, junto con Néstor
+y Alicia, cuando se inició
+
+367
+00:23:44,080 --> 00:23:46,680
+el programa Argentina Trabaja,
+tuvimos que armar las
+
+368
+00:23:46,800 --> 00:23:51,840
+cooperativas con personas que
+habían perdido a través de las
+
+369
+00:23:51,960 --> 00:23:55,560
+políticas neoliberales la
+posibilidad de tener un trabajo,
+
+370
+00:23:55,680 --> 00:23:59,960
+a través también de la
+capacitación. Pudimos lograr eso
+
+371
+00:24:00,080 --> 00:24:03,640
+y le quiero contar que, como
+usted bien lo sabe, de los
+
+372
+00:24:03,760 --> 00:24:08,000
+integrantes de las cooperativas,
+90 mil personas ya han hecho
+
+373
+00:24:08,120 --> 00:24:12,760
+curso de capacitación, 100 mil
+mujeres terminaron la primaria
+
+374
+00:24:12,880 --> 00:24:16,320
+o la secundaria través del
+FINES, que es sacar la escuela
+
+375
+00:24:16,440 --> 00:24:19,480
+a la calle, a los barrios,
+a cada uno de los lugares
+
+376
+00:24:19,600 --> 00:24:23,280
+y también le cuento que, no en
+este caso, pero en las demás
+
+377
+00:24:23,400 --> 00:24:31,400
+aulas se hacen con los elementos
+que se hicieron a través de
+
+378
+00:24:31,520 --> 00:24:35,840
+los parques, de los 2 parques
+industriales y más de los 276
+
+379
+00:24:35,960 --> 00:24:40,360
+polos productivos. Es decir, que
+los bloques, las ventanas, las
+
+380
+00:24:40,480 --> 00:24:44,720
+puertas, todo lo que hace, el
+piso, todo lo que hace al aula
+
+381
+00:24:44,840 --> 00:24:48,120
+lo hacen con la mano de los
+cooperativistas. Por eso, cuando
+
+382
+00:24:48,040 --> 00:24:51,560
+yo la escuchaba a usted el Día
+de la Industria diciendo que los
+
+383
+00:24:51,680 --> 00:24:55,440
+industriales deben poner cada
+vez mayor valor agregado a la
+
+384
+00:24:55,560 --> 00:25:00,240
+producción, lo tengo con
+seguridad que es así porque hoy
+
+385
+00:25:00,360 --> 00:25:04,560
+tenemos miles y miles de
+argentinos que se han capacitado
+
+386
+00:25:04,680 --> 00:25:07,560
+y siempre le digo: cuando
+iniciaron el programa a lo mejor
+
+387
+00:25:07,680 --> 00:25:11,760
+cortaban pasto y hoy estamos
+haciendo viviendas, estamos
+
+388
+00:25:11,880 --> 00:25:17,160
+inaugurando aulas y bueno, y es
+nunca para atrás, siempre para
+
+389
+00:25:17,080 --> 00:25:20,920
+adelante y, si me permite,
+le paso con la Directora de la
+
+390
+00:25:21,040 --> 00:25:25,320
+escuela y después por último
+con una mamá y con un titular
+
+391
+00:25:25,440 --> 00:25:30,040
+de derecho que va a usar esta
+aula, que tiene 4 años y va
+
+392
+00:25:30,160 --> 00:25:34,800
+a empezar el jardín, así que
+agradecerles y muy feliz,
+
+393
+00:25:34,920 --> 00:25:37,120
+gracias por todo.
+- Gracias.
+
+394
+00:25:37,040 --> 00:25:42,080
+(Aplausos)
+
+395
+00:25:42,200 --> 00:25:47,160
+- Buenas noches, señora
+Presidenta. Es un honor estar
+
+396
+00:25:47,080 --> 00:25:52,160
+comunicándome con usted a través
+de esta teleconferencia,
+
+397
+00:25:52,080 --> 00:25:54,760
+la verdad que estamos muy
+contentos porque es un sueño
+
+398
+00:25:54,880 --> 00:26:00,200
+hecho realidad,
+es importante darle a los niños
+
+399
+00:26:00,320 --> 00:26:05,560
+un lugar donde aprender, porque
+el nivel inicial es así. Este
+
+400
+00:26:05,680 --> 00:26:08,960
+jardín tiene el nombre de Eve
+San Martín De Duprat, una
+
+401
+00:26:09,080 --> 00:26:13,880
+luchadora, una docente del nivel
+inicial que luchó para
+
+402
+00:26:14,000 --> 00:26:19,920
+defender en esta Argentina
+el nivel inicial y yo más que
+
+403
+00:26:20,040 --> 00:26:27,040
+agradecida, como dijo
+Castagneto, a las cooperativas
+
+404
+00:26:27,160 --> 00:26:31,640
+de trabajo porque desde que se
+comenzó todas las personas que
+
+405
+00:26:31,760 --> 00:26:36,240
+están de Argentina Trabaja,
+desde que comenzó a hacer los
+
+406
+00:26:36,360 --> 00:26:39,400
+cimientos hasta el mínimo
+detalle que usted ve en esta
+
+407
+00:26:39,520 --> 00:26:45,000
+aula, todos los días venían a
+trabajar, y eso es lo valioso,
+
+408
+00:26:45,120 --> 00:26:50,360
+¿no? De defender los derechos de
+estos niños y así, bueno, tener
+
+409
+00:26:50,480 --> 00:26:55,200
+una niñez feliz. Bueno,
+agradecerles, si usted me lo
+
+410
+00:26:55,320 --> 00:27:04,160
+permite, a Alicia Kirchner,
+al señor Ariel Sujarchu
+
+411
+00:27:04,280 --> 00:27:08,160
+y a Rodríguez Rodríguez.
+Rodrigo Rodríguez, perdón.
+
+412
+00:27:08,080 --> 00:27:13,320
+- Rodra, para nosotros Rodra.
+- Exacto, sí, así escuché
+
+413
+00:27:13,440 --> 00:27:18,960
+nombrarlo. Y también a las
+autoridades del distrito,
+
+414
+00:27:19,080 --> 00:27:23,120
+a las autoridades del distrito
+y, bueno, le paso acá, sí, acá
+
+415
+00:27:23,240 --> 00:27:26,120
+hay unos niños que están
+saludándola. Y muy contentos
+
+416
+00:27:26,040 --> 00:27:30,400
+porque sabían que iban a verla
+a usted y que iba a venir
+
+417
+00:27:30,520 --> 00:27:35,080
+a nuestro jardín. Le paso con
+la mamá de jardín, mamá de
+
+418
+00:27:35,000 --> 00:27:40,040
+cooperadora, Sofía.
+- Hola Sofía.
+
+419
+00:27:40,160 --> 00:27:43,760
+- Buenas noches, señora
+Presidenta, qué tal, cómo está.
+
+420
+00:27:43,880 --> 00:27:48,480
+La verdad es un orgulloso estar
+acá con usted, con toda esta
+
+421
+00:27:48,600 --> 00:27:53,720
+gente maravillosa y festejando
+este día de la inauguración
+
+422
+00:27:53,840 --> 00:27:58,040
+y que usted esté compartiendo
+con nosotros y mayor placer es
+
+423
+00:27:58,160 --> 00:28:02,040
+representar a los papás de
+los chicos de acá del jardín,
+
+424
+00:28:02,160 --> 00:28:06,880
+que la verdad, bueno, de parte
+de ellos le quiero agradecer
+
+425
+00:28:07,000 --> 00:28:10,880
+muchísimo a todos, especialmente
+a usted, a la señora Alicia
+
+426
+00:28:11,000 --> 00:28:15,080
+Kirchner y a todos los que
+hicieron acá la sala nueva,
+
+427
+00:28:15,000 --> 00:28:19,120
+estamos todos contentos, es algo
+tan maravilloso que vivimos día
+
+428
+00:28:19,240 --> 00:28:22,400
+a día mientras se iba poniendo
+ladrillo tras ladrillo
+
+429
+00:28:22,520 --> 00:28:28,240
+y maravilloso. No sé qué otras
+palabras podría llegar a decir.
+
+430
+00:28:28,360 --> 00:28:31,800
+- No hace falta más, muchas
+gracias. Y la verdad que ver
+
+431
+00:28:31,920 --> 00:28:35,480
+la cara de los chicos es el
+mejor premio que podemos tener.
+
+432
+00:28:35,600 --> 00:28:39,800
+Y esa salita nueva.
+Un saludo y un cariño a todos.
+

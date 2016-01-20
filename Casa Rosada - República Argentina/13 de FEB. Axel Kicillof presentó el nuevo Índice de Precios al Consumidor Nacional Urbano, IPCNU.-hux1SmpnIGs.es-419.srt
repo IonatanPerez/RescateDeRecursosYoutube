@@ -1,0 +1,5601 @@
+1
+00:03:51,000 --> 00:03:53,440
+... universidades italianas.
+
+2
+00:03:53,560 --> 00:03:56,400
+Ha estado trabajando
+muy mano a mano
+
+3
+00:03:56,480 --> 00:03:59,000
+con cada uno de nuestros
+técnicos,
+
+4
+00:03:59,080 --> 00:04:01,760
+es un especialista
+en estadística,
+
+5
+00:04:01,880 --> 00:04:05,600
+que a la hora de la conversión
+de la Unión Europea
+
+6
+00:04:05,720 --> 00:04:07,920
+de las monedas locales
+al Euro,
+
+7
+00:04:08,080 --> 00:04:12,040
+fue precisamente quien estuvo
+trabajando en la elaboración
+
+8
+00:04:12,040 --> 00:04:17,000
+del Índice de Precios
+al Consumidor Nacional de Italia.
+
+9
+00:04:17,160 --> 00:04:19,800
+En este sentido,
+muchísimas gracias, profesor,
+
+10
+00:04:19,920 --> 00:04:22,440
+y además muchísimas gracias
+por estar con nosotros.
+
+11
+00:04:22,600 --> 00:04:26,240
+Y sí luego los periodistas
+lo quieren entrevistar
+
+12
+00:04:26,400 --> 00:04:29,040
+es alguien muy reconocido
+internacionalmente
+
+13
+00:04:29,160 --> 00:04:33,800
+como para conversar con él,
+realmente.
+
+14
+00:04:34,000 --> 00:04:37,160
+De igual manera trabajamos,
+y a través de convenios
+
+15
+00:04:37,280 --> 00:04:40,080
+con otras oficinas
+estadísticas nacionales
+
+16
+00:04:40,080 --> 00:04:44,040
+de distintos países,
+
+17
+00:04:44,120 --> 00:04:46,960
+y de distintos continentes,
+les diría.
+
+18
+00:04:47,080 --> 00:04:49,720
+Hemos tenido muchos
+intercambios previos
+
+19
+00:04:49,840 --> 00:04:52,640
+a cerrar la metodología
+y marco metodológico
+
+20
+00:04:52,760 --> 00:05:00,240
+con las oficinas de Italia,
+con la oficina de España,
+
+21
+00:05:00,360 --> 00:05:03,200
+donde nuestros técnicos
+y los de ellos,
+
+22
+00:05:03,320 --> 00:05:07,400
+en índices de precios han
+tenido muchísimos intercambios.
+
+23
+00:05:07,520 --> 00:05:12,000
+Con el Buró de los EE.UU.
+
+24
+00:05:12,000 --> 00:05:16,800
+y en donde también hemos
+tenido marcos de discusión
+
+25
+00:05:17,080 --> 00:05:19,280
+sumamente importantes.
+
+26
+00:05:19,600 --> 00:05:23,040
+Hemos estado en Ecuador,
+en un país pequeño,
+
+27
+00:05:23,240 --> 00:05:24,800
+pero que tiene un muy buen
+índice
+
+28
+00:05:24,920 --> 00:05:28,040
+de precios al consumidor
+nacional.
+
+29
+00:05:28,200 --> 00:05:32,080
+Con el Banco Central de México.
+
+30
+00:05:32,080 --> 00:05:35,880
+Y bueno, así hemos estado
+con otros cuantos países,
+
+31
+00:05:36,000 --> 00:05:40,040
+incluyendo la Federación
+de Republicas Rusas.
+
+32
+00:05:40,160 --> 00:05:45,520
+De manera que es bien amplio
+el panorama de consultas
+
+33
+00:05:45,640 --> 00:05:47,520
+que hemos desarrollado.
+
+34
+00:05:47,640 --> 00:05:51,440
+Y en este marco,
+siguiendo las indicaciones,
+
+35
+00:05:51,560 --> 00:05:54,760
+las recomendaciones
+internacionales,
+
+36
+00:05:54,840 --> 00:05:57,840
+hemos tenido fluidos
+intercambios
+
+37
+00:05:58,000 --> 00:06:01,720
+con los profesionales
+del Departamento de estadística
+
+38
+00:06:02,000 --> 00:06:05,840
+y del Departamento
+del Hemisferio Occidental
+
+39
+00:06:06,040 --> 00:06:09,040
+del FMI.
+
+40
+00:06:09,200 --> 00:06:16,440
+Ustedes saben que solo el FMI,
+el Banco Mundial
+
+41
+00:06:16,520 --> 00:06:19,240
+y la Organización
+Internacional del Trabajo,
+
+42
+00:06:19,360 --> 00:06:22,880
+con quien también sostenemos
+permanentes relaciones,
+
+43
+00:06:23,040 --> 00:06:28,480
+los organismos responsables
+de normalizar la producción
+
+44
+00:06:28,640 --> 00:06:32,160
+de índices de precios
+al consumidor nacional.
+
+45
+00:06:32,240 --> 00:06:36,240
+En este sentido, tengo
+el beneplácito realmente,
+
+46
+00:06:36,320 --> 00:06:39,040
+una vez más, de agradecer
+a todo el sistema estadístico
+
+47
+00:06:39,160 --> 00:06:43,600
+nacional, y a todos quienes
+han contribuido con nosotros.
+
+48
+00:06:43,760 --> 00:06:48,000
+Y vamos a tratar de hacer
+breve presentación
+
+49
+00:06:48,120 --> 00:06:52,160
+del índice que es
+sumamente complejo,
+
+50
+00:06:52,240 --> 00:06:55,240
+es una de las estadísticas
+más complejas que tenemos.
+
+51
+00:06:55,320 --> 00:06:57,760
+Trataremos de simplificarlas.
+
+52
+00:06:57,880 --> 00:07:01,000
+Y, para concluir,
+cierro diciendo
+
+53
+00:07:01,120 --> 00:07:03,640
+que es la primera vez
+en el Instituto Nacional
+
+54
+00:07:03,800 --> 00:07:05,160
+de estadística y Censos,
+
+55
+00:07:05,280 --> 00:07:09,880
+y pensando cuanto más limitados
+eran aquellos indicadores
+
+56
+00:07:10,000 --> 00:07:12,080
+y aquellos índices de precios
+que en realidad abarcaban
+
+57
+00:07:12,240 --> 00:07:16,120
+solamente el área
+metropolitana, o sea,
+
+58
+00:07:16,200 --> 00:07:18,520
+Capital y los 24 partidos,
+
+59
+00:07:18,640 --> 00:07:21,680
+en épocas pretéritas,
+los 19,
+
+60
+00:07:21,840 --> 00:07:26,040
+había como mínimo una brecha
+de un año
+
+61
+00:07:26,200 --> 00:07:29,560
+entre la fecha
+de publicación del indicador,
+
+62
+00:07:29,680 --> 00:07:33,920
+y la fecha de publicación
+del marco metodológico.
+
+63
+00:07:34,040 --> 00:07:36,800
+Hoy en día ustedes
+van a poder consultar
+
+64
+00:07:36,960 --> 00:07:40,920
+en nuestra web, cuál es,
+se van a poder aburrir
+
+65
+00:07:41,000 --> 00:07:44,400
+un poquito también los que
+no son expertos en la materia,
+
+66
+00:07:44,520 --> 00:07:51,720
+pueden consultar en la página
+web del INDEC esta publicación.
+
+67
+00:07:51,800 --> 00:07:53,840
+Así que, muchas gracias.
+
+68
+00:07:55,320 --> 00:07:56,560
+Muchísimas gracias,
+
+69
+00:07:56,680 --> 00:07:58,680
+Licenciada Ana María Edwin.
+
+70
+00:07:58,840 --> 00:08:03,200
+Ahora sí le damos la palabra
+al Licenciado Norberto Itzcovich,
+
+71
+00:08:03,320 --> 00:08:05,920
+director técnico del INDEC.
+
+72
+00:08:06,200 --> 00:08:11,600
+Bueno, muchas gracias,
+buenas tardes a todos.
+
+73
+00:08:12,560 --> 00:08:17,240
+Vamos a tratar de presentar
+en breves minutos
+
+74
+00:08:17,360 --> 00:08:20,880
+un conjunto de procedimientos
+de altísima complejidad,
+
+75
+00:08:21,000 --> 00:08:23,160
+como dijo la directora,
+
+76
+00:08:23,280 --> 00:08:27,400
+que hicimos para tener
+finalmente nuestro
+
+77
+00:08:27,480 --> 00:08:30,000
+Índice de Precios al Consumidor
+Nacional Urbano
+
+78
+00:08:30,120 --> 00:08:33,360
+de la República Argentina.
+
+79
+00:08:33,480 --> 00:08:38,240
+Lo primero que hay que decir,
+o que hay que definir,
+
+80
+00:08:38,360 --> 00:08:42,560
+es cuál es el objetivo
+del índice.
+
+81
+00:08:42,640 --> 00:08:45,040
+Y esto es importante,
+es medir las variaciones
+
+82
+00:08:45,160 --> 00:08:48,880
+de los precios de un conjunto
+fijo, una canasta fija
+
+83
+00:08:49,000 --> 00:08:51,640
+de bienes y servicios,
+remarco esto,
+
+84
+00:08:51,760 --> 00:08:58,000
+por que algunos confunden
+el IPC con el costo de vida,
+
+85
+00:08:58,120 --> 00:09:00,880
+y son dos cosas distintas.
+
+86
+00:09:01,000 --> 00:09:02,800
+El costo de vida tiene
+que ver con la satisfacción
+
+87
+00:09:02,920 --> 00:09:08,320
+del consumidor y demás,
+y es un concepto teórico,
+
+88
+00:09:08,440 --> 00:09:10,560
+pero lo que hacemos todos
+los institutos de estadística
+
+89
+00:09:10,680 --> 00:09:14,760
+de los diferentes países,
+son IPC.
+
+90
+00:09:14,880 --> 00:09:19,920
+Entonces, el objetivo
+del IPC es medir las variaciones
+
+91
+00:09:20,040 --> 00:09:23,600
+de los precios de un conjunto
+fijo de bienes y servicios
+
+92
+00:09:23,800 --> 00:09:26,560
+representativos
+de gastos de consumo final
+
+93
+00:09:26,760 --> 00:09:31,000
+de los hogares, en nuestro caso
+este índice representativo
+
+94
+00:09:31,120 --> 00:09:34,160
+de prácticamente
+la totalidad de la población
+
+95
+00:09:34,280 --> 00:09:36,400
+urbana de la República Argentina,
+es decir,
+
+96
+00:09:36,560 --> 00:09:39,720
+la población que vive
+en localidades de 5.000
+
+97
+00:09:39,800 --> 00:09:43,120
+o más habitantes a lo largo
+y ancho del país.
+
+98
+00:09:43,120 --> 00:09:48,880
+Ese es el objetivo y la
+representatividad del indicador.
+
+99
+00:09:49,760 --> 00:09:57,160
+Como reiteramos, hacer un IPC,
+es muy complejo.
+
+100
+00:09:58,040 --> 00:10:02,040
+Y aquí tenemos una cita
+de la Conferencia
+
+101
+00:10:02,160 --> 00:10:06,280
+Internacional de Estadígrafos
+del Trabajo,
+
+102
+00:10:06,440 --> 00:10:11,120
+y está 5 veces remarcada
+la palabra “muestra”.
+
+103
+00:10:11,240 --> 00:10:14,240
+¿Por qué? Por que es
+un conjunto de muestras.
+
+104
+00:10:14,440 --> 00:10:18,000
+Es una muestra de hogares,
+después una muestra de zonas
+
+105
+00:10:18,120 --> 00:10:20,560
+comprendidas en las diferentes
+regiones.
+
+106
+00:10:20,680 --> 00:10:23,200
+Una muestra puntos de venta
+para ver a donde
+
+107
+00:10:23,320 --> 00:10:24,880
+tenemos que ir a buscar
+los precios.
+
+108
+00:10:25,000 --> 00:10:26,640
+Una muestra de bienes
+y servicios para ver
+
+109
+00:10:26,720 --> 00:10:29,120
+que precios tenemos que
+ir a buscar.
+
+110
+00:10:29,120 --> 00:10:31,280
+Y una muestra de
+los periodos de observación,
+
+111
+00:10:31,400 --> 00:10:35,000
+por que no estamos
+todo el tiempo, cada minuto,
+
+112
+00:10:35,000 --> 00:10:37,480
+en todos los locales
+relevando todos los productos
+
+113
+00:10:37,640 --> 00:10:40,480
+y servicios que se ofrecen
+al consumidor.
+
+114
+00:10:40,640 --> 00:10:46,200
+Entonces, es que decirlo
+es más sencillo,
+
+115
+00:10:46,320 --> 00:10:49,600
+plasmarlo en un indicador
+que sea representativo,
+
+116
+00:10:49,720 --> 00:10:53,000
+es bastante complicado.
+
+117
+00:10:53,120 --> 00:10:59,960
+Quiero mostrarles rápidamente
+algo que es en cronograma
+
+118
+00:11:00,080 --> 00:11:04,880
+de los operativos, que nos
+muestra esto que acabo de decir,
+
+119
+00:11:05,000 --> 00:11:07,680
+las diferentes muestras
+que hubo que componer,
+
+120
+00:11:07,800 --> 00:11:10,400
+como se plasma en operativos
+de campo,
+
+121
+00:11:10,520 --> 00:11:12,880
+como venimos trabajando
+en el INDEC.
+
+122
+00:11:12,960 --> 00:11:16,440
+Todo empezó con el censo
+que llevamos a cabo
+
+123
+00:11:16,560 --> 00:11:21,040
+el 27 de octubre del 2010,
+
+124
+00:11:21,040 --> 00:11:24,640
+aquella fecha que todos
+recordamos, por cierto.
+
+125
+00:11:24,840 --> 00:11:29,520
+Y a partir del censo
+del 2010 se construyó
+
+126
+00:11:29,640 --> 00:11:32,920
+lo que ahí se ve como
+la MMUVRA,
+
+127
+00:11:33,000 --> 00:11:35,640
+que es la Muestra Maestra
+Urbana de Viviendas
+
+128
+00:11:35,720 --> 00:11:37,640
+de la República Argentina,
+es decir,
+
+129
+00:11:37,760 --> 00:11:41,680
+un marco muestral del cuál
+después se pueden tomar
+
+130
+00:11:41,880 --> 00:11:47,280
+distintas muestras para
+todas las encuestas a hogares.
+
+131
+00:11:47,400 --> 00:11:51,600
+Esto tiene una relevancia
+absoluta
+
+132
+00:11:51,760 --> 00:11:54,000
+para los organismos
+de estadística,
+
+133
+00:11:54,160 --> 00:11:56,680
+y para las consultoras
+privadas también.
+
+134
+00:11:56,800 --> 00:11:58,800
+Cualquier encuesta
+a hogares que haya que hacer
+
+135
+00:11:58,920 --> 00:12:01,040
+tiene que hacerse sobre
+una muestra,
+
+136
+00:12:01,040 --> 00:12:03,640
+o sobre un marco muestral,
+mejor dicho,
+
+137
+00:12:03,760 --> 00:12:04,920
+que este actualizado.
+
+138
+00:12:05,040 --> 00:12:07,440
+Desde el año 91 que en el INDEC
+no se actualizaba
+
+139
+00:12:07,560 --> 00:12:10,000
+el marco muestral, bueno,
+nosotros lo actualizamos
+
+140
+00:12:10,000 --> 00:12:11,840
+a partir del Censo 2010.
+
+141
+00:12:12,000 --> 00:12:14,400
+Posteriormente,
+en marzo del 2012,
+
+142
+00:12:14,560 --> 00:12:16,800
+salimos a campo con
+la Encuesta Nacional
+
+143
+00:12:16,920 --> 00:12:19,160
+de Gasto de los Hogares
+2012-2013,
+
+144
+00:12:19,320 --> 00:12:23,360
+que es uno de los insumos
+principales del IPC
+
+145
+00:12:23,520 --> 00:12:26,120
+porque a partir de esa
+encuesta sabemos
+
+146
+00:12:26,240 --> 00:12:29,040
+que gasta los hogares
+urbanos en la Argentina,
+
+147
+00:12:29,200 --> 00:12:31,400
+cuánto gastan y en qué gastan,
+
+148
+00:12:31,560 --> 00:12:34,360
+si en alimentos, si en
+transporte, si en vestimenta.
+
+149
+00:12:34,480 --> 00:12:37,080
+Por supuesto, esto que
+estamos mencionando
+
+150
+00:12:37,160 --> 00:12:38,680
+son niveles agregados
+a que gastan
+
+151
+00:12:38,800 --> 00:12:41,120
+a un nivel muy desagregado.
+
+152
+00:12:41,160 --> 00:12:45,160
+Posteriormente,
+a la realización de la ENGO,
+
+153
+00:12:45,240 --> 00:12:48,520
+de la cuál ahora voy
+a hablar en un ratito
+
+154
+00:12:48,640 --> 00:12:51,040
+con algún detalle,
+
+155
+00:12:51,120 --> 00:12:54,320
+salimos a hacer un listado
+local,
+
+156
+00:12:54,400 --> 00:12:57,800
+se seleccionaron determinadas
+áreas en todo el país,
+
+157
+00:12:57,960 --> 00:13:00,640
+y se salió a buscar
+los locales,
+
+158
+00:13:00,760 --> 00:13:02,240
+por que si yo le digo
+a un encuestador
+
+159
+00:13:02,400 --> 00:13:03,960
+que tiene que ir a buscar
+el precio del tomate
+
+160
+00:13:04,080 --> 00:13:05,000
+a una verdulería,
+le tengo que decir
+
+161
+00:13:05,120 --> 00:13:07,160
+a que verdulería
+tiene que ir.
+
+162
+00:13:07,280 --> 00:13:10,000
+Y una verdulería grande,
+y una verdulería chica,
+
+163
+00:13:10,120 --> 00:13:13,400
+y un supermercado tienen
+que estar bien representados
+
+164
+00:13:13,560 --> 00:13:15,640
+en nuestra muestra
+de locales,
+
+165
+00:13:15,760 --> 00:13:19,000
+para que no haya sesgos
+de ningún tipo.
+
+166
+00:13:19,120 --> 00:13:21,440
+Eso se hizo con el listado
+de locales.
+
+167
+00:13:21,560 --> 00:13:25,480
+Posteriormente se seleccionaron
+las variedades, es decir,
+
+168
+00:13:25,560 --> 00:13:27,440
+se armaron las canastas
+del índice.
+
+169
+00:13:27,560 --> 00:13:31,080
+El índice es nacional
+pero está construido
+
+170
+00:13:31,080 --> 00:13:33,920
+a partir de 6 canastas
+regionales
+
+171
+00:13:34,080 --> 00:13:38,440
+que son la región
+del noroeste, nordeste,
+
+172
+00:13:38,520 --> 00:13:42,240
+cuyo, región metropolitana
+de Buenos Aires,
+
+173
+00:13:42,360 --> 00:13:46,920
+región pampeana
+y la región patagónica.
+
+174
+00:13:47,040 --> 00:13:51,360
+Finalmente en Julio del 2013
+salimos a campo
+
+175
+00:13:51,520 --> 00:13:57,080
+a relevar las variedades
+en los locales,
+
+176
+00:13:57,080 --> 00:14:00,360
+por que una cosa es la teoría
+y después es ir a un local
+
+177
+00:14:00,480 --> 00:14:02,480
+y ver si vendes las variedades
+de las cuales nosotros
+
+178
+00:14:02,640 --> 00:14:04,400
+tenemos que tomar precio.
+
+179
+00:14:04,520 --> 00:14:08,080
+Todo eso hubo que ajustarlo,
+
+180
+00:14:08,080 --> 00:14:11,040
+lo hicimos desde el mes
+de julio.
+
+181
+00:14:11,160 --> 00:14:15,000
+Y además ajustar lo que ahí
+ven en el gráfico
+
+182
+00:14:15,120 --> 00:14:17,320
+que son los atributos
+y especificaciones.
+
+183
+00:14:17,440 --> 00:14:20,040
+¿Esto qué es?
+Una variedad, por ejemplo,
+
+184
+00:14:20,120 --> 00:14:22,440
+es una lata de tomates.
+
+185
+00:14:22,560 --> 00:14:25,160
+Yo no le puedo decir
+al encuestador
+
+186
+00:14:25,240 --> 00:14:27,840
+“Andá y tomá el precio
+de una lata de tomates.”
+
+187
+00:14:27,920 --> 00:14:30,680
+Por que hay muchas
+latas de tomates.
+
+188
+00:14:30,760 --> 00:14:33,880
+Le tengo que decir,
+una lata de tomate,
+
+189
+00:14:34,040 --> 00:14:36,400
+de tantos centímetros cúbicos,
+y de tal marca.
+
+190
+00:14:36,520 --> 00:14:39,640
+Eso son los atributos
+y las especificaciones.
+
+191
+00:14:41,200 --> 00:14:46,000
+Luego, pusimos en marcha
+el operativo,
+
+192
+00:14:46,120 --> 00:14:49,760
+y finalmente, bueno,
+llegamos al día de hoy
+
+193
+00:14:49,840 --> 00:14:52,440
+pasando por la elaboración
+del periodo base
+
+194
+00:14:52,520 --> 00:14:56,000
+de este indicador que va a ser
+el último cuarto trimestre
+
+195
+00:14:56,000 --> 00:14:59,640
+del 2013, es decir,
+este es el IPC nacional
+
+196
+00:14:59,800 --> 00:15:01,640
+urbano de la República Argentina,
+
+197
+00:15:01,800 --> 00:15:07,320
+base cuarto trimestre
+del 2013 igual a 100.
+
+198
+00:15:08,080 --> 00:15:10,400
+Algunas características
+generales de la Encuesta
+
+199
+00:15:10,520 --> 00:15:13,520
+Nacional de Gasto de
+los Hogares 2012-2013,
+
+200
+00:15:13,760 --> 00:15:18,800
+como dije, se realizó
+en localidades de 5.000
+
+201
+00:15:18,960 --> 00:15:22,040
+o más habitantes,
+en 37.000 viviendas,
+
+202
+00:15:22,040 --> 00:15:24,040
+es decir, que a lo largo
+de un año
+
+203
+00:15:24,160 --> 00:15:27,080
+se estuvo preguntando
+con 5 formularios distintos
+
+204
+00:15:27,200 --> 00:15:30,280
+en 37.000 hogares,
+5 formularios distintos
+
+205
+00:15:30,400 --> 00:15:33,800
+en 37.000 hogares,
+qué gastó el hogar,
+
+206
+00:15:33,920 --> 00:15:38,000
+en qué gastó, desde el chicle
+que compró en el kiosco,
+
+207
+00:15:38,120 --> 00:15:42,040
+hasta el auto que compró
+hace 7 meses.
+
+208
+00:15:42,040 --> 00:15:45,000
+De un extremo a otro,
+absolutamente todos
+
+209
+00:15:45,120 --> 00:15:46,760
+los gastos del hogar.
+
+210
+00:15:46,920 --> 00:15:49,520
+Eso es lo que releva
+y la complejidad
+
+211
+00:15:49,680 --> 00:15:53,960
+que tiene al ser una encuesta
+nacional de gasto de los hogares.
+
+212
+00:15:55,360 --> 00:15:57,080
+Esta encuesta,
+y por ende el índice
+
+213
+00:15:57,200 --> 00:15:59,080
+tiene una representatividad,
+como dije,
+
+214
+00:15:59,200 --> 00:16:01,960
+de prácticamente toda
+la población urbana
+
+215
+00:16:02,080 --> 00:16:04,960
+de la República Argentina,
+es el 86,7% de la población,
+
+216
+00:16:05,120 --> 00:16:07,600
+más de 36 millones
+de habitantes,
+
+217
+00:16:07,680 --> 00:16:11,880
+es decir que es un índice
+muy representativo.
+
+218
+00:16:12,040 --> 00:16:16,440
+Algunos resultados
+de la encuesta de gasto
+
+219
+00:16:16,560 --> 00:16:18,040
+que después van a impactar,
+por supuesto,
+
+220
+00:16:18,040 --> 00:16:22,240
+en la elaboración del IPC.
+
+221
+00:16:22,400 --> 00:16:26,520
+En el gráfico de arriba
+está la distribución
+
+222
+00:16:26,680 --> 00:16:30,880
+por quintil de la Encuesta
+2004-2005.
+
+223
+00:16:31,000 --> 00:16:33,160
+Como algunos de ustedes
+saben,
+
+224
+00:16:33,280 --> 00:16:35,880
+cuando hablo de quintiles
+hablo de dividir a la muestra
+
+225
+00:16:36,040 --> 00:16:40,520
+en 5 grupos iguales
+por el ingreso per capita
+
+226
+00:16:40,680 --> 00:16:41,960
+de cada uno de los hogares.
+
+227
+00:16:42,120 --> 00:16:44,800
+El quintil 1 es
+el de menores ingresos,
+
+228
+00:16:44,920 --> 00:16:46,480
+menor gasto en este caso,
+
+229
+00:16:46,720 --> 00:16:49,960
+y el quintil 5 es
+el de mayor gasto.
+
+230
+00:16:50,120 --> 00:16:52,640
+En el año 2004-2005,
+los dos quintiles de menores
+
+231
+00:16:52,760 --> 00:16:57,080
+ingresos incurrían
+en el 23% del gasto total.
+
+232
+00:16:57,240 --> 00:17:03,920
+En el año 2012-2013 ese 23%
+paso a ser un 29%.
+
+233
+00:17:04,120 --> 00:17:07,960
+Esto habla inequívocamente
+de la mejora en la distribución
+
+234
+00:17:08,120 --> 00:17:10,480
+del ingreso en ese periodo.
+
+235
+00:17:10,600 --> 00:17:13,000
+Esto, por supuesto, es
+coherente con otros indicadores
+
+236
+00:17:13,120 --> 00:17:15,720
+que elaboramos en el INDEC,
+como el coeficiente de Gini,
+
+237
+00:17:15,840 --> 00:17:17,040
+que ustedes saben que cuanto
+más se acerca a cero
+
+238
+00:17:17,200 --> 00:17:21,040
+es cuanto muestra mayor
+igualdad en una sociedad.
+
+239
+00:17:22,000 --> 00:17:25,360
+En el gráfico siguiente
+la conclusión es la misma.
+
+240
+00:17:25,480 --> 00:17:30,000
+El eje del gráfico muestra
+el gasto promedio per cápita
+
+241
+00:17:30,000 --> 00:17:32,880
+de los hogares.
+
+242
+00:17:33,800 --> 00:17:37,760
+Si vemos el primer quintil,
+
+243
+00:17:37,880 --> 00:17:40,640
+aquí tenemos en cada color
+la encuesta de gastos
+
+244
+00:17:40,720 --> 00:17:43,120
+del año 96-97, en verde,
+
+245
+00:17:43,240 --> 00:17:45,360
+en rojo la de 2004-2005,
+
+246
+00:17:45,480 --> 00:17:47,720
+y en azul la de 2012-2013.
+
+247
+00:17:47,880 --> 00:17:50,800
+Y lo que vemos claramente
+aquí es como los hogares
+
+248
+00:17:50,920 --> 00:17:53,800
+de menores ingresos
+o de menor gasto,
+
+249
+00:17:53,920 --> 00:17:57,040
+que es el primer quintil,
+se acercan
+
+250
+00:17:57,160 --> 00:18:00,320
+en todo este periodo,
+al eje, digamos.
+
+251
+00:18:00,440 --> 00:18:03,040
+Es decir que cada vez
+se acerca más a la media
+
+252
+00:18:03,040 --> 00:18:05,520
+del gasto de los hogares.
+
+253
+00:18:05,640 --> 00:18:08,600
+Y en el otro extremo,
+en el quinto quintil,
+
+254
+00:18:08,720 --> 00:18:11,160
+ocurre lo mismo
+pero por arriba, digamos,
+
+255
+00:18:11,320 --> 00:18:12,880
+también como se acercan
+a la media.
+
+256
+00:18:13,000 --> 00:18:17,000
+Es decir que se va equilibrando
+el gasto entre quintiles,
+
+257
+00:18:17,120 --> 00:18:18,920
+se va achicando la distancia,
+
+258
+00:18:19,040 --> 00:18:20,560
+lo que reafirma lo que
+acabo de decir
+
+259
+00:18:20,720 --> 00:18:26,680
+de la mejora en la distribución
+del ingreso en este periodo.
+
+260
+00:18:27,200 --> 00:18:31,040
+También hay una redistribución
+en el gasto, geográfica,
+
+261
+00:18:31,040 --> 00:18:37,440
+la porción azul corresponde
+a la región del GBA,
+
+262
+00:18:37,600 --> 00:18:40,680
+la encuesta de gasto hablamos
+de GBA,
+
+263
+00:18:40,800 --> 00:18:42,560
+y en el índice,
+después lo vamos a ver,
+
+264
+00:18:42,720 --> 00:18:45,600
+hablamos de región
+metropolitana de Buenos Aires.
+
+265
+00:18:45,720 --> 00:18:51,600
+El GBA tenía el 45%
+del gasto en el año 2004-2005,
+
+266
+00:18:51,720 --> 00:18:56,200
+y pasó, se achicó,
+al 41% en el año 2012-2013.
+
+267
+00:18:56,760 --> 00:19:03,200
+Muestra una equiparación,
+digamos, entre la distribución
+
+268
+00:19:03,320 --> 00:19:06,440
+geográfica de gastos.
+
+269
+00:19:07,040 --> 00:19:10,080
+Este gráfico un poquito
+complicado explicarlo
+
+270
+00:19:10,200 --> 00:19:11,760
+pero voy a tratar
+de hacerlo.
+
+271
+00:19:11,880 --> 00:19:16,280
+De este gráfico sacamos
+el gasto en alimentos.
+
+272
+00:19:16,400 --> 00:19:17,720
+El gasto en alimentos
+está afuera.
+
+273
+00:19:17,840 --> 00:19:20,160
+Nos queda el gasto
+no alimentario.
+
+274
+00:19:20,320 --> 00:19:24,600
+Y hay un gasto básico
+que todo hogar tiene que hacer
+
+275
+00:19:24,760 --> 00:19:27,000
+para sostenerse,
+que es gasto en alquiler,
+
+276
+00:19:27,120 --> 00:19:30,000
+gasto de la vivienda,
+agua, luz, gas,
+
+277
+00:19:30,160 --> 00:19:33,440
+transporte público
+y servicio telefónico.
+
+278
+00:19:33,600 --> 00:19:38,040
+Veamos el quintil 1,
+ese gasto básico,
+
+279
+00:19:38,200 --> 00:19:42,640
+no alimentario,
+estaba entre el 35 y el 40%
+
+280
+00:19:42,760 --> 00:19:48,720
+en el 96-97, y se achicó
+a un poquito más del 25%
+
+281
+00:19:48,840 --> 00:19:51,120
+en el año 2012-2013.
+¿Esto qué quiere decir?
+
+282
+00:19:51,240 --> 00:19:55,520
+Que los hogares gastan
+menor proporción
+
+283
+00:19:55,640 --> 00:19:59,440
+de sus ingresos en los gastos
+básicos necesarios,
+
+284
+00:19:59,560 --> 00:20:02,000
+y que en consecuencia
+tienen mayor disponibilidad
+
+285
+00:20:02,120 --> 00:20:05,760
+para gastar en otros
+bienes como electrodomésticos,
+
+286
+00:20:05,880 --> 00:20:08,000
+o en otros servicios
+como esparcimiento,
+
+287
+00:20:08,000 --> 00:20:15,040
+o en algún otro tipo de gasto
+que no sea el básico necesario.
+
+288
+00:20:15,160 --> 00:20:19,040
+Aquí presentamos la comparación
+porcentual
+
+289
+00:20:19,160 --> 00:20:24,880
+entre la encuesta 2012-2013,
+con la anterior 2004-2005.
+
+290
+00:20:25,040 --> 00:20:28,800
+Hay algunos porcentajes
+significativos.
+
+291
+00:20:28,920 --> 00:20:33,480
+El gasto en telefonía móvil
+aumentó casi 141%,
+
+292
+00:20:33,600 --> 00:20:38,080
+como es lógico
+y de sentido común.
+
+293
+00:20:38,080 --> 00:20:41,040
+Hay dos datos aquí que
+me parecen relevantes, o tres.
+
+294
+00:20:41,040 --> 00:20:43,000
+Uno es el de productos
+farmacéuticos,
+
+295
+00:20:43,000 --> 00:20:47,080
+el gasto bajó un 39%.
+
+296
+00:20:47,200 --> 00:20:50,000
+Y esto, uno puede decir,
+bueno, es por que la gente
+
+297
+00:20:50,000 --> 00:20:54,160
+se enferma menos o es porque
+durante este gobierno
+
+298
+00:20:54,280 --> 00:20:57,320
+hubo planes de acceso
+a medicamentos.
+
+299
+00:20:57,440 --> 00:21:00,840
+Además del tema de los
+medicamentos genéricos y demás.
+
+300
+00:21:00,960 --> 00:21:03,440
+Entonces, bajó el gasto
+de producto farmacéutico.
+
+301
+00:21:03,600 --> 00:21:06,000
+Por el otro lado,
+en la última línea,
+
+302
+00:21:06,120 --> 00:21:07,920
+vemos el servicio
+de trasporte automotor,
+
+303
+00:21:08,120 --> 00:21:11,000
+que bajó casi un 49%,
+48 y medio,
+
+304
+00:21:11,000 --> 00:21:17,280
+y esto es a favor
+del subsidio a las tarifas
+
+305
+00:21:17,400 --> 00:21:20,280
+de transporte para que
+la gente gaste menos
+
+306
+00:21:20,440 --> 00:21:24,000
+cuando viaja a su trabajo,
+o cuando viaja a sus estudios.
+
+307
+00:21:24,120 --> 00:21:27,240
+También hay un dato significativo
+que es el de aguas minerales,
+
+308
+00:21:27,360 --> 00:21:29,560
+bebidas gaseosas y jugos,
+
+309
+00:21:29,640 --> 00:21:33,600
+que no pareciera ser
+un producto de primera necesidad,
+
+310
+00:21:33,760 --> 00:21:40,040
+y sin embargo el gasto
+aumentó un 6,46%.
+
+311
+00:21:40,120 --> 00:21:44,000
+Aquí tenemos para cada
+una de las regiones
+
+312
+00:21:44,000 --> 00:21:47,320
+de la encuesta de gasto
+de los hogares,
+
+313
+00:21:47,440 --> 00:21:52,080
+tomando el primer 25%
+del gasto de consumo.
+
+314
+00:21:52,240 --> 00:21:55,040
+¿Qué vemos en este cuadro?
+
+315
+00:21:55,120 --> 00:22:01,040
+La carne vacuna es
+prácticamente el primer ítem
+
+316
+00:22:01,160 --> 00:22:04,000
+de gasto, entre el primero
+y el segundo,
+
+317
+00:22:04,000 --> 00:22:07,640
+para casi todas las regiones,
+excepto para la patagonia,
+
+318
+00:22:07,760 --> 00:22:12,120
+que está en cuarto lugar,
+en cuarto orden.
+
+319
+00:22:12,240 --> 00:22:16,320
+Vemos que para la patagonia
+el primer ítem
+
+320
+00:22:16,440 --> 00:22:20,440
+en importancia de gasto
+es el alquiler de la vivienda,
+
+321
+00:22:20,600 --> 00:22:22,520
+y vemos el extremo contrario,
+si se quiere,
+
+322
+00:22:22,640 --> 00:22:25,680
+en la región NOA donde
+el alquiler de la vivienda
+
+323
+00:22:25,800 --> 00:22:27,720
+está en el orden número
+11 de gastos,
+
+324
+00:22:27,840 --> 00:22:29,520
+es decir que no parece
+demasiado,
+
+325
+00:22:29,680 --> 00:22:33,840
+o parece menos significativo
+que en el resto de las regiones.
+
+326
+00:22:33,960 --> 00:22:37,000
+Este cuadro también está
+en el documento metodológico,
+
+327
+00:22:37,000 --> 00:22:43,360
+así que después lo van
+a poder ver más en detalle.
+
+328
+00:22:43,440 --> 00:22:48,160
+Aquí tenemos un cuadro
+también muy relevante,
+
+329
+00:22:48,280 --> 00:22:50,040
+¿qué nos dice?
+
+330
+00:22:50,120 --> 00:22:54,640
+Que el 22,8% de los hogares
+que tienen cocina con horno,
+
+331
+00:22:54,760 --> 00:22:57,440
+el primer reglón, por ejemplo,
+
+332
+00:22:57,560 --> 00:23:01,600
+lo cambiaron o lo compraron
+en los últimos 3 años.
+
+333
+00:23:01,800 --> 00:23:06,000
+Si vamos al anteúltimo
+renglón, que el 48%
+
+334
+00:23:06,080 --> 00:23:08,320
+de los hogares que tienen
+automóvil,
+
+335
+00:23:08,400 --> 00:23:13,000
+lo cambiaron o lo compraron
+en los últimos 3 años.
+
+336
+00:23:13,000 --> 00:23:18,040
+Que el 54,5% de los hogares
+que tienen computadora,
+
+337
+00:23:18,120 --> 00:23:21,040
+de nuevo, la cambiaron o la
+compraron en los últimos 3 años.
+
+338
+00:23:21,120 --> 00:23:25,680
+Esto habla a las claras
+de como ha evolucionado
+
+339
+00:23:25,800 --> 00:23:28,360
+el gasto en consecuencia
+a los ingresos
+
+340
+00:23:28,480 --> 00:23:34,160
+de la gran mayoría de los hogares
+de la República Argentina.
+
+341
+00:23:34,200 --> 00:23:36,840
+A partir de la encuesta
+de los gastos de los hogares,
+
+342
+00:23:36,920 --> 00:23:39,040
+como dije anteriormente,
+se determinan las canastas
+
+343
+00:23:39,040 --> 00:23:41,960
+del IPC nacional urbano.
+
+344
+00:23:42,080 --> 00:23:46,760
+Nosotros tenemos el gasto
+en absolutamente todos los bienes
+
+345
+00:23:46,840 --> 00:23:49,840
+y servicios, o un conjunto
+de bienes y servicios,
+
+346
+00:23:49,960 --> 00:23:53,400
+y a partir, medidos por
+la encuesta de gastos,
+
+347
+00:23:53,480 --> 00:24:00,760
+y a partir de eso determinamos
+las canastas y sus ponderaciones.
+
+348
+00:24:00,880 --> 00:24:06,840
+Se organizó el trabajo
+siguiendo la clasificación
+
+349
+00:24:06,920 --> 00:24:08,440
+del consumo individual
+por finalidad,
+
+350
+00:24:08,560 --> 00:24:10,440
+que es una clasificación
+internacional
+
+351
+00:24:10,600 --> 00:24:12,160
+hecha por Naciones Unidas,
+
+352
+00:24:12,280 --> 00:24:14,560
+y es la que utilizamos
+todos los países
+
+353
+00:24:14,680 --> 00:24:16,640
+a la hora de elaborar,
+
+354
+00:24:16,720 --> 00:24:18,040
+a la hora de hacer
+las encuestas de gastos,
+
+355
+00:24:18,040 --> 00:24:21,000
+y a la hora de elaborar
+los IPC.
+
+356
+00:24:21,000 --> 00:24:26,000
+Y se seleccionaron para
+cada región 520 variedades
+
+357
+00:24:26,000 --> 00:24:32,000
+con la condición de que
+el gasto sea mayor al 0,025%,
+
+358
+00:24:32,000 --> 00:24:35,040
+con algunas excepciones
+que son habituales.
+
+359
+00:24:35,040 --> 00:24:38,240
+Hay algunos bienes,
+como por ejemplo,
+
+360
+00:24:38,360 --> 00:24:42,080
+la sal, cuyo gasto es menor
+pero es lo que llamamos
+
+361
+00:24:42,160 --> 00:24:45,240
+“de inclusión forzosa”
+porque la sal se consume
+
+362
+00:24:45,360 --> 00:24:46,640
+prácticamente en todos
+los hogares
+
+363
+00:24:46,720 --> 00:24:48,080
+en la República Argentina.
+
+364
+00:24:48,200 --> 00:24:51,080
+Entonces hay algunos bienes
+que a pesar de quedar afuera
+
+365
+00:24:51,200 --> 00:24:55,000
+del 0,025%, de todos modos
+se incluyeron,
+
+366
+00:24:55,080 --> 00:24:57,840
+que es lo que se hace,
+se hizo habitualmente,
+
+367
+00:24:57,960 --> 00:25:00,520
+en los IPC en el INDEC,
+
+368
+00:25:00,640 --> 00:25:04,040
+y se hace en todos
+los países del mundo.
+
+369
+00:25:04,040 --> 00:25:08,040
+Entonces, ¿cómo queda
+organizado el IPC?
+
+370
+00:25:08,040 --> 00:25:10,920
+Queda organizado
+en 9 divisiones,
+
+371
+00:25:11,000 --> 00:25:14,080
+23 grupos, 63 clases,
+
+372
+00:25:14,160 --> 00:25:17,080
+hasta ahí un número común
+para todas las regiones.
+
+373
+00:25:17,200 --> 00:25:20,040
+En las subclases es en donde
+empieza a haber diferencias
+
+374
+00:25:20,040 --> 00:25:22,000
+para cada una de las regiones,
+por que obviamente hay
+
+375
+00:25:22,000 --> 00:25:26,040
+distintos consumos
+en cada una de las regiones.
+
+376
+00:25:27,160 --> 00:25:31,840
+Alrededor entre 159 y 155
+productos,
+
+377
+00:25:32,000 --> 00:25:35,640
+y 520 variedades.
+¿A qué le llamamos variedad?
+
+378
+00:25:35,760 --> 00:25:40,720
+Variedad es la desagregación
+mínima que existe en el IPC.
+
+379
+00:25:40,840 --> 00:25:43,880
+El ejemplo que les di antes,
+la lata de tomate,
+
+380
+00:25:43,960 --> 00:25:46,000
+bueno, un nivel de variedad
+más abajo que eso,
+
+381
+00:25:46,200 --> 00:25:49,040
+solo queda la especificación
+y el atributo, es decir,
+
+382
+00:25:49,040 --> 00:25:51,920
+bueno, de que peso
+o con que volumen de contenido
+
+383
+00:25:52,080 --> 00:25:54,280
+y de que marca.
+
+384
+00:25:56,560 --> 00:25:58,520
+Bueno, esta es la formula
+de calculo de las ponderaciones,
+
+385
+00:25:58,680 --> 00:26:01,040
+que es la de cada variedad
+sobre la totalidad del gasto,
+
+386
+00:26:01,160 --> 00:26:03,760
+eso es muy sencillo.
+
+387
+00:26:03,880 --> 00:26:06,040
+Aquí tenemos un cuadro
+donde vemos como quedaron
+
+388
+00:26:06,040 --> 00:26:08,040
+las ponderaciones
+en el nuevo índice
+
+389
+00:26:08,040 --> 00:26:12,600
+respecto a las que había
+en el IPC del GBA.
+
+390
+00:26:12,760 --> 00:26:17,360
+Donde vemos, reafirmando
+la mejora
+
+391
+00:26:17,520 --> 00:26:20,760
+en el nivel de consumo
+a los hogares,
+
+392
+00:26:20,880 --> 00:26:23,880
+que alimentos y bebidas,
+pasó de un 37 a 87%
+
+393
+00:26:24,120 --> 00:26:29,880
+en el índice anterior,
+a un 33-17 en el índice actual,
+
+394
+00:26:30,040 --> 00:26:35,000
+que por ejemplo, esparcimiento
+paso de la división 7,
+
+395
+00:26:35,000 --> 00:26:39,360
+esparcimiento pasó de
+un 5,08 en el índice anterior
+
+396
+00:26:39,440 --> 00:26:43,280
+a un 8,31 en el índice actual.
+
+397
+00:26:43,400 --> 00:26:48,200
+Bueno, y aquí tenemos
+el resto de las divisiones.
+
+398
+00:26:50,160 --> 00:26:53,000
+Ya tenemos las variedades,
+ya tenemos la canasta,
+
+399
+00:26:53,000 --> 00:26:54,960
+¿dónde vamos a medir
+los precios?
+
+400
+00:26:55,080 --> 00:26:56,760
+Bueno, tenemos que seleccionar
+los puntos de venta.
+
+401
+00:26:56,880 --> 00:26:59,240
+Para seleccionar
+los puntos de venta
+
+402
+00:26:59,320 --> 00:27:02,440
+se hicieron varios registros
+o varios trabajos en simultaneo.
+
+403
+00:27:02,680 --> 00:27:06,160
+Como mencioné antes,
+en primer lugar,
+
+404
+00:27:06,280 --> 00:27:09,960
+se listaron áreas seleccionadas
+de la muestra maestra urbana
+
+405
+00:27:10,040 --> 00:27:14,000
+de viviendas, donde se fue
+a listar los locales
+
+406
+00:27:14,000 --> 00:27:17,160
+con el rubro, rubro almacén,
+rubro ferretería,
+
+407
+00:27:17,280 --> 00:27:21,200
+rubro fiambrería, rubro kiosco.
+
+408
+00:27:21,640 --> 00:27:24,360
+Pero no es todo,
+eso es una parte de los locales.
+
+409
+00:27:24,480 --> 00:27:26,440
+Había otra parte
+de los locales
+
+410
+00:27:26,600 --> 00:27:29,240
+que estaban en áreas
+que probablemente no fueron
+
+411
+00:27:29,360 --> 00:27:31,880
+seleccionadas en el primer
+listado porque tienen
+
+412
+00:27:31,960 --> 00:27:38,320
+poca población pero que tienen
+alta concentración de comercios.
+
+413
+00:27:38,440 --> 00:27:42,000
+Entonces se hizo un segundo
+listado en locales
+
+414
+00:27:42,120 --> 00:27:45,000
+en áreas con alta
+concentración de comercios.
+
+415
+00:27:45,280 --> 00:27:47,360
+Un tercer listado
+es el que incluyó
+
+416
+00:27:47,480 --> 00:27:51,520
+a la totalidad de los locales
+o sucursales de los supermercados
+
+417
+00:27:51,680 --> 00:27:55,760
+y los hipermercados
+en todo el país.
+
+418
+00:27:55,880 --> 00:27:58,600
+Y un cuarto listado
+es el que incluye
+
+419
+00:27:58,680 --> 00:28:01,040
+a los registros administrativos
+
+420
+00:28:01,160 --> 00:28:04,000
+de lo que llamamos
+el “relevamiento centralizado”,
+
+421
+00:28:04,080 --> 00:28:07,560
+hay algunos precios que no
+se salen a medir a la calle,
+
+422
+00:28:07,680 --> 00:28:09,880
+por ejemplo, las tarifas
+de electricidad,
+
+423
+00:28:09,960 --> 00:28:11,760
+por ejemplo, las tarifas
+de transporte,
+
+424
+00:28:11,960 --> 00:28:13,960
+por ejemplo, en el caso
+de la Ciudad de Buenos Aires,
+
+425
+00:28:14,120 --> 00:28:18,560
+el subte.
+Ese tipo de precios,
+
+426
+00:28:18,680 --> 00:28:20,920
+no es que sale un encuestador
+a preguntarle a un taxi,
+
+427
+00:28:21,040 --> 00:28:22,120
+por ejemplo, cuánto
+es la tarifa,
+
+428
+00:28:22,240 --> 00:28:25,520
+sino como son precios
+de registro, digamos,
+
+429
+00:28:25,640 --> 00:28:29,040
+no se toman en la calle.
+
+430
+00:28:29,040 --> 00:28:32,840
+Y se hacen centralizadamente
+en gabinete.
+
+431
+00:28:34,880 --> 00:28:38,120
+La cobertura geográfica
+de la recolección de precios,
+
+432
+00:28:38,120 --> 00:28:41,880
+nosotros recolectamos precios,
+si bien la representatividad
+
+433
+00:28:42,040 --> 00:28:46,160
+del índice, como dije,
+es de 36 millones de habitantes,
+
+434
+00:28:46,280 --> 00:28:49,320
+la totalidad prácticamente
+la población urbana
+
+435
+00:28:49,400 --> 00:28:52,040
+de la República Argentina,
+
+436
+00:28:52,120 --> 00:28:58,080
+no vamos a cada una
+de las localidades
+
+437
+00:28:58,160 --> 00:29:01,000
+a tomar precios, porque
+por razones operativas,
+
+438
+00:29:01,080 --> 00:29:04,440
+eso sería imposible, y además
+por que las recomendaciones
+
+439
+00:29:04,560 --> 00:29:07,320
+internacionales, lógicamente,
+
+440
+00:29:07,480 --> 00:29:09,920
+lo que dicen es que hay
+que tratar de tomar precios
+
+441
+00:29:10,040 --> 00:29:11,320
+en los lugares en donde
+se puede encontrar
+
+442
+00:29:11,400 --> 00:29:14,280
+la canasta completa, es decir,
+las 520 variedades.
+
+443
+00:29:14,400 --> 00:29:19,400
+Entonces, recolectamos precios
+en 146 localidades censales,
+
+444
+00:29:19,520 --> 00:29:23,360
+de 40 aglomerados urbanos
+de todo el país.
+
+445
+00:29:23,560 --> 00:29:28,120
+En este cuadro tenemos
+cada una de las regiones,
+
+446
+00:29:28,200 --> 00:29:30,080
+el nombre del aglomerado,
+
+447
+00:29:30,160 --> 00:29:32,320
+la cantidad de precios
+y la cantidad de locales.
+
+448
+00:29:32,440 --> 00:29:36,680
+Por ejemplo, en Córdoba,
+la ciudad de Córdoba,
+
+449
+00:29:36,800 --> 00:29:38,920
+que pertenece obviamente
+a la región pampeana,
+
+450
+00:29:39,080 --> 00:29:43,040
+estamos tomando 12.314
+precios por mes,
+
+451
+00:29:43,040 --> 00:29:46,760
+esto es mensual,
+en 341 locales.
+
+452
+00:29:46,920 --> 00:29:48,520
+En la ciudad de Santa Rosa,
+La Pampa,
+
+453
+00:29:48,640 --> 00:29:55,280
+estamos tomando 6.143
+precios en 196 locales.
+
+454
+00:29:55,440 --> 00:29:58,080
+En la ciudad de Buenos Aires,
+y esto es importante porque
+
+455
+00:29:58,080 --> 00:30:01,200
+leímos hoy por ahí
+que la ciudad de Buenos Aires
+
+456
+00:30:01,280 --> 00:30:03,040
+no estaba incluida
+en este indicador,
+
+457
+00:30:03,120 --> 00:30:04,800
+eso es un error.
+
+458
+00:30:04,920 --> 00:30:08,280
+En este indicador esta
+incluida, como dije,
+
+459
+00:30:08,400 --> 00:30:10,480
+toda la población urbana
+de la República Argentina,
+
+460
+00:30:10,600 --> 00:30:13,840
+incluida obviamente
+la ciudad de Buenos Aires.
+
+461
+00:30:13,960 --> 00:30:15,800
+Obviamente está
+la ciudad de Buenos Aires,
+
+462
+00:30:15,960 --> 00:30:18,640
+la única diferencia es
+que como nosotros estamos acá
+
+463
+00:30:18,800 --> 00:30:21,040
+a pocas cuadras,
+en la ciudad de Buenos Aires
+
+464
+00:30:21,040 --> 00:30:24,000
+salimos a relevar con
+nuestros propios encuestadores.
+
+465
+00:30:24,120 --> 00:30:26,800
+No con los encuestadores
+de la Dirección de estadística
+
+466
+00:30:26,920 --> 00:30:28,280
+de la ciudad de Buenos Aires.
+
+467
+00:30:28,400 --> 00:30:33,000
+Pero está incluida,
+por supuesto, en el índice.
+
+468
+00:30:33,000 --> 00:30:37,480
+En total, aproximadamente,
+¿y porque digo aproximadamente?
+
+469
+00:30:37,600 --> 00:30:39,880
+Por que mes a mes va variando
+la cantidad de precios
+
+470
+00:30:40,000 --> 00:30:42,760
+que uno toma porque va,
+se encuentra un local cerrado,
+
+471
+00:30:42,960 --> 00:30:45,840
+hay que reemplazarlo,
+para reemplazarlo,
+
+472
+00:30:45,960 --> 00:30:48,040
+por ejemplo, si cierra
+una verdulería,
+
+473
+00:30:48,040 --> 00:30:50,240
+no se reemplaza con cualquier
+otra verdulería,
+
+474
+00:30:50,360 --> 00:30:53,360
+ha métodos, hay normas
+dictadas por las buenas
+
+475
+00:30:53,480 --> 00:30:56,800
+prácticas internacionales
+de como reemplazar locales.
+
+476
+00:30:56,880 --> 00:30:59,120
+Si hay variedades
+que desaparecen del mercado,
+
+477
+00:30:59,240 --> 00:31:03,200
+hay normas y practicas
+para reemplazar esas variedades.
+
+478
+00:31:03,320 --> 00:31:04,440
+No es la que a mi se me ocurre
+
+479
+00:31:04,560 --> 00:31:06,120
+o la que se le ocurre
+a un encuestador.
+
+480
+00:31:06,240 --> 00:31:10,400
+Bueno, todo esto requiere
+una serie de procedimientos
+
+481
+00:31:10,520 --> 00:31:14,400
+muy meticulosos, en lo que
+hay que ser muy cuidadosos.
+
+482
+00:31:14,480 --> 00:31:16,040
+Tenemos entonces, en total,
+en todo el país,
+
+483
+00:31:16,160 --> 00:31:25,080
+mensualmente 235.311 precios
+y 12.229 locales.
+
+484
+00:31:25,400 --> 00:31:27,000
+Aquí faltan los de registro,
+es decir,
+
+485
+00:31:27,000 --> 00:31:30,040
+que todavía hay más informantes
+que estos,
+
+486
+00:31:30,160 --> 00:31:33,840
+son aproximadamente
+13.000 informantes.
+
+487
+00:31:34,360 --> 00:31:36,720
+La formulas de cálculo,
+
+488
+00:31:36,840 --> 00:31:38,720
+no los voy a aburrir
+con las formulas de cálculo,
+
+489
+00:31:38,840 --> 00:31:41,520
+pero son dos formas
+de cálculo distintas.
+
+490
+00:31:41,640 --> 00:31:44,040
+La que se usa a nivel
+de variedad,
+
+491
+00:31:44,160 --> 00:31:46,120
+es decir, a nivel de índice
+elemental,
+
+492
+00:31:46,280 --> 00:31:49,240
+lo primero que se hace
+es promedio geométrico
+
+493
+00:31:49,360 --> 00:31:51,320
+no ponderado utilizando
+la formula de...
+
+494
+00:31:53,600 --> 00:31:56,960
+Y después de variedad
+para arriba,
+
+495
+00:31:57,080 --> 00:32:01,200
+la fórmula que se utiliza
+es una fórmula tipo Laspeyres,
+
+496
+00:32:01,680 --> 00:32:03,160
+que no es una formula
+de Laspeyres pura,
+
+497
+00:32:03,280 --> 00:32:05,680
+es una fórmula tipo Laspeyres
+
+498
+00:32:05,840 --> 00:32:08,520
+porque el momento
+de la encuesta de gastos,
+
+499
+00:32:08,680 --> 00:32:11,680
+y el momento en que se agrega
+el precio son distintos.
+
+500
+00:32:11,840 --> 00:32:14,240
+La formula de Laspeyres puro
+dice que esos dos momentos
+
+501
+00:32:14,320 --> 00:32:16,040
+tienen que ser el mismo.
+
+502
+00:32:16,120 --> 00:32:20,480
+Como son diferentes,
+entonces es una formula similar
+
+503
+00:32:20,600 --> 00:32:23,080
+pero no exactamente
+la misma.
+
+504
+00:32:23,080 --> 00:32:27,040
+Simplemente aquí se agregan
+los índices elementales
+
+505
+00:32:27,160 --> 00:32:31,360
+que estaban en foto
+anterior
+
+506
+00:32:31,440 --> 00:32:34,000
+con el que era el índice
+de cada una de las variedades
+
+507
+00:32:34,000 --> 00:32:36,040
+ponderada por la ponderación
+que tiene cada una
+
+508
+00:32:36,160 --> 00:32:40,080
+de las variedades
+en la canasta.
+
+509
+00:32:40,160 --> 00:32:43,240
+El operativo de campo
+entonces releva alrededor
+
+510
+00:32:43,320 --> 00:32:45,800
+de 200.000 precios
+entre 6.000 locales.
+
+511
+00:32:45,960 --> 00:32:51,920
+Se releva todos los días
+hábiles del mes,
+
+512
+00:32:52,080 --> 00:32:53,920
+todos los días
+hábiles del mes.
+
+513
+00:32:54,040 --> 00:32:56,120
+Recalco esto porque
+en algunos países
+
+514
+00:32:56,160 --> 00:32:59,320
+relevan hasta el día 20
+o hasta el día 22,
+
+515
+00:32:59,440 --> 00:33:01,440
+y el resto de los días
+los utilizan para hacer
+
+516
+00:33:01,640 --> 00:33:03,720
+los cálculos y demás.
+Nosotros no.
+
+517
+00:33:03,840 --> 00:33:06,320
+Relevamos todos los días
+hábiles del mes,
+
+518
+00:33:06,480 --> 00:33:09,880
+por eso la publicación
+del índice se hace
+
+519
+00:33:10,000 --> 00:33:12,000
+entre 8 y 10 hábiles
+después de cerrado
+
+520
+00:33:12,120 --> 00:33:17,560
+porque necesitamos obviamente
+unos días para analizar,
+
+521
+00:33:17,680 --> 00:33:21,000
+para calcular, bueno,
+para hacer todos los trabajos
+
+522
+00:33:21,120 --> 00:33:24,840
+de consistencia que requiere
+este volumen de información
+
+523
+00:33:25,160 --> 00:33:28,720
+que es un volumen
+muy importante.
+
+524
+00:33:28,960 --> 00:33:33,360
+Para relevar estos 200.000
+pesos en estos 13.000 locales,
+
+525
+00:33:33,520 --> 00:33:35,520
+el trabajo, como dijo Ana,
+
+526
+00:33:35,640 --> 00:33:38,160
+se hace conjunto
+a las direcciones provinciales
+
+527
+00:33:38,280 --> 00:33:42,720
+de estadística, con un equipo
+de aproximadamente 290 personas,
+
+528
+00:33:42,800 --> 00:33:45,560
+de los cuales 160
+son encuestadores.
+
+529
+00:33:45,640 --> 00:33:48,320
+Tenemos, por supuesto,
+supervisores,
+
+530
+00:33:48,400 --> 00:33:51,600
+ingresadores de la información,
+los analistas, digamos,
+
+531
+00:33:51,680 --> 00:33:57,720
+un equipo importante
+que se ha capacitado en el INDEC
+
+532
+00:33:57,840 --> 00:34:02,520
+y que tiene un programa
+de recapacitación,
+
+533
+00:34:02,640 --> 00:34:05,160
+porque como esto es
+un programa continuo
+
+534
+00:34:05,320 --> 00:34:11,000
+que requiere de una minuciosidad
+en su elaboración,
+
+535
+00:34:11,000 --> 00:34:14,720
+y que requiere que la calidad
+del producto se mantenga,
+
+536
+00:34:14,960 --> 00:34:18,200
+hay un programa
+de recapacitación permanente
+
+537
+00:34:18,400 --> 00:34:26,240
+de toda la estructura del IPC
+nacional urbano en todo el país.
+
+538
+00:34:26,440 --> 00:34:29,200
+Algunos ejemplos, simplemente,
+
+539
+00:34:29,320 --> 00:34:32,080
+una comparación de algunas
+ponderaciones entre
+
+540
+00:34:32,240 --> 00:34:36,840
+el índice del GBA,
+y el nuevo índice nacional,
+
+541
+00:34:36,960 --> 00:34:40,120
+ahí vemos la electricidad,
+como pesaba 1,60,
+
+542
+00:34:40,120 --> 00:34:43,000
+ahora pesa 0,84 a nivel,
+
+543
+00:34:43,160 --> 00:34:47,120
+no, a nivel de la región
+metropolitana de Buenos Aires.
+
+544
+00:34:47,120 --> 00:34:51,400
+Los diarios pesaban en 0,40,
+ahora pesan en 0,22.
+
+545
+00:34:51,480 --> 00:34:55,520
+Se subió en su ponderación
+de 0,25 a 0,41,
+
+546
+00:34:55,680 --> 00:34:58,760
+y obviamente el teléfono
+celular pasó
+
+547
+00:34:59,080 --> 00:35:03,000
+de casi el 1% al 2,45%.
+
+548
+00:35:03,000 --> 00:35:05,040
+Espero no haberlo
+aburrido mucho.
+
+549
+00:35:05,160 --> 00:35:08,480
+Más o menos, rápidamente
+era esto lo que quería
+
+550
+00:35:08,560 --> 00:35:11,840
+contarles sobre el IPC.
+
+551
+00:35:11,960 --> 00:35:16,200
+En el documento metodológico
+van a tener, por supuesto,
+
+552
+00:35:16,320 --> 00:35:21,040
+con mucho mayor detalle
+cada uno de estos conceptos
+
+553
+00:35:21,160 --> 00:35:25,520
+que yo les comenté, incluidas
+las 6 canastas nacionales
+
+554
+00:35:25,640 --> 00:35:29,000
+con su ponderación,
+lo cuál es una cuestión
+
+555
+00:35:29,200 --> 00:35:34,000
+inédita también porque
+hasta el índice de GBA
+
+556
+00:35:34,000 --> 00:35:36,080
+de base abril 2008 igual 100,
+
+557
+00:35:36,200 --> 00:35:38,760
+el INDEC nunca publicaba
+la totalidad de la canasta
+
+558
+00:35:38,840 --> 00:35:41,000
+y su ponderación, bueno,
+nosotros la publicamos
+
+559
+00:35:41,000 --> 00:35:43,160
+y está a disposición
+de todos los usuarios.
+
+560
+00:35:43,280 --> 00:35:45,320
+-Muchas gracias.
+-Muchísimas gracias,
+
+561
+00:35:45,440 --> 00:35:47,040
+Licenciado Norberto Itzcovich,
+
+562
+00:35:47,040 --> 00:35:49,280
+director técnico del INDEC.
+
+563
+00:35:49,440 --> 00:35:52,800
+Ahora sí, vamos a escuchar
+al Doctor Axel Kicillof,
+
+564
+00:35:52,960 --> 00:35:56,040
+Ministro de Economía
+y Finanzas Públicas.
+
+565
+00:35:56,040 --> 00:35:59,080
+Bueno, muchas gracias,
+Ana, Norberto.
+
+566
+00:35:59,080 --> 00:36:07,160
+Me parece que la exposición
+extensa, metodológica,
+
+567
+00:36:07,440 --> 00:36:11,320
+obedece a que como
+decía la directora del INDEC,
+
+568
+00:36:11,440 --> 00:36:13,760
+esto es un hecho inédito
+en la Argentina,
+
+569
+00:36:13,920 --> 00:36:16,040
+es la primera vez
+que la República Argentina
+
+570
+00:36:16,040 --> 00:36:20,600
+va a contar con un IPC
+
+571
+00:36:20,680 --> 00:36:24,680
+para el total de la población
+urbana.
+
+572
+00:36:24,800 --> 00:36:30,040
+Es decir, es nuestro IPC
+nacional urbano que,
+
+573
+00:36:30,160 --> 00:36:33,320
+como bien explicaba
+recién Norberto,
+
+574
+00:36:33,520 --> 00:36:42,120
+no representa una continuación
+del anterior IPC para el GBA,
+
+575
+00:36:42,120 --> 00:36:45,520
+sino que cualitativa
+y cuantitativamente
+
+576
+00:36:45,760 --> 00:36:49,640
+abarca otra población,
+apunta a muestras distintas,
+
+577
+00:36:49,800 --> 00:36:53,760
+y tiene otro objeto,
+por que lo central de este índice
+
+578
+00:36:53,880 --> 00:36:57,000
+es que su cobertura es nacional.
+
+579
+00:36:57,120 --> 00:37:00,320
+Como ha mostrado Norberto
+y lo verán en el documento
+
+580
+00:37:00,440 --> 00:37:02,600
+técnico que se va a publicar,
+
+581
+00:37:02,760 --> 00:37:06,080
+la estructura de gastos
+entre las diferentes localidades,
+
+582
+00:37:06,080 --> 00:37:09,160
+y más en general,
+entre las diferentes regiones,
+
+583
+00:37:09,160 --> 00:37:13,400
+es sumamente heterogénea.
+
+584
+00:37:13,520 --> 00:37:17,840
+Es decir que no es lo mismo
+lo que consume
+
+585
+00:37:18,040 --> 00:37:20,400
+una familia del norte
+argentino,
+
+586
+00:37:20,520 --> 00:37:23,040
+que lo que consume una familia
+del sur argentino,
+
+587
+00:37:23,160 --> 00:37:25,960
+que lo que consume una familia
+de la ciudad de Buenos Aires.
+
+588
+00:37:26,080 --> 00:37:28,760
+Este índice elaborado
+a través
+
+589
+00:37:29,120 --> 00:37:33,160
+de un trabajo metodológico,
+
+590
+00:37:33,320 --> 00:37:36,360
+del que ahora voy
+a hablar un poquito,
+
+591
+00:37:36,480 --> 00:37:41,000
+lo que representa es una canasta
+que tiene en cuenta
+
+592
+00:37:41,120 --> 00:37:43,000
+todas las diferenciaciones
+
+593
+00:37:43,000 --> 00:37:46,160
+y las sintetiza
+en un solo indicador.
+
+594
+00:37:46,320 --> 00:37:49,200
+Es decir, que representa,
+tal y como lo puede hacer
+
+595
+00:37:49,280 --> 00:37:51,040
+muestralmente, porque
+esto quiere decir
+
+596
+00:37:51,040 --> 00:37:53,160
+que esto se consume una cosa
+es un país,
+
+597
+00:37:53,240 --> 00:37:55,840
+en una región con determinados
+precios,
+
+598
+00:37:55,960 --> 00:37:57,880
+o tener otra región
+con otros precios,
+
+599
+00:37:58,040 --> 00:38:00,720
+y diferentes estructuras,
+no quiere decir que todos
+
+600
+00:38:00,840 --> 00:38:03,360
+están con una canasta
+homogénea,
+
+601
+00:38:03,440 --> 00:38:05,000
+pero esto representa
+sintéticamente
+
+602
+00:38:05,120 --> 00:38:07,720
+el movimiento de esa
+canasta seleccionada
+
+603
+00:38:07,880 --> 00:38:10,600
+a lo largo y a lo ancho
+de la Argentina.
+
+604
+00:38:10,720 --> 00:38:14,680
+Es nuestro primer índice
+de carácter federal.
+
+605
+00:38:14,800 --> 00:38:17,200
+Pero además, y esto
+es muy importante,
+
+606
+00:38:17,400 --> 00:38:21,680
+el inicio de esta modificación
+tiene que ver con aquella
+
+607
+00:38:21,800 --> 00:38:25,640
+encuesta realizada en 2010,
+
+608
+00:38:25,760 --> 00:38:28,080
+analizada, publicada en 2011,
+
+609
+00:38:28,160 --> 00:38:32,600
+que lo que llevó
+es cambiar nuestra muestra
+
+610
+00:38:32,720 --> 00:38:36,000
+de localidades y viviendas,
+y en base a eso,
+
+611
+00:38:36,200 --> 00:38:39,800
+hacer una nueva encuesta
+de gasto de los hogares.
+
+612
+00:38:39,920 --> 00:38:41,600
+Esto es muy importante
+por que no solo,
+
+613
+00:38:41,720 --> 00:38:43,040
+en relación al otro índice,
+
+614
+00:38:43,200 --> 00:38:46,680
+estamos hablando del país
+federal y del país completo,
+
+615
+00:38:46,840 --> 00:38:49,600
+con 40 millones,
+36 millones de argentinos
+
+616
+00:38:49,760 --> 00:38:51,360
+que vienen en localidades
+urbanas,
+
+617
+00:38:51,520 --> 00:38:55,160
+146 que vamos a tomar
+pero representativa
+
+618
+00:38:55,320 --> 00:38:57,960
+de toda la población urbana,
+
+619
+00:38:58,160 --> 00:39:00,440
+sino lo que es tan importante
+como eso,
+
+620
+00:39:00,840 --> 00:39:03,720
+es que estamos hablando
+de otra estructura de gastos.
+
+621
+00:39:03,800 --> 00:39:05,280
+¿Por qué otra estructura
+de gastos?
+
+622
+00:39:05,440 --> 00:39:10,400
+Por que el anterior índice
+se estructuró, se armó,
+
+623
+00:39:10,520 --> 00:39:14,840
+en base a una encuesta
+de gastos realizada en 2004.
+
+624
+00:39:14,960 --> 00:39:20,040
+Y este índice toma el peso tal
+como mostraba recién Norberto,
+
+625
+00:39:20,160 --> 00:39:22,560
+toma el peso en el consumo
+de los hogares
+
+626
+00:39:22,680 --> 00:39:28,880
+tal como se expresó
+y ocurrió en el año 2012-2013.
+
+627
+00:39:29,000 --> 00:39:32,640
+¿Qué ha pasado entre
+una encuesta de gastos
+
+628
+00:39:32,720 --> 00:39:34,360
+y otra encuesta de gastos?
+
+629
+00:39:34,480 --> 00:39:36,840
+Ha cambiado mucho el país.
+
+630
+00:39:36,960 --> 00:39:39,640
+Ha cambiado mucho
+la distribución del ingreso.
+
+631
+00:39:39,720 --> 00:39:41,480
+Ha cambiado mucho
+la estructura productiva
+
+632
+00:39:41,560 --> 00:39:42,840
+de la Argentina.
+
+633
+00:39:42,960 --> 00:39:46,240
+Ha cambiado, en fin, la calidad
+de vida de los argentinos.
+
+634
+00:39:46,320 --> 00:39:50,080
+Esto explica que los gastos
+de los hogares
+
+635
+00:39:50,080 --> 00:39:52,400
+sean sustancialmente
+distintos.
+
+636
+00:39:52,520 --> 00:39:56,200
+Y esto no es menor porque
+estamos sacando una radiografía
+
+637
+00:39:56,320 --> 00:39:59,560
+de otro país. Ahora me voy
+a referir un poco a esto.
+
+638
+00:39:59,720 --> 00:40:03,000
+Dicho sintéticamente
+no es un índice que continué
+
+639
+00:40:03,000 --> 00:40:06,120
+en anterior, porque el anterior
+se basaba en otra encuesta
+
+640
+00:40:06,120 --> 00:40:08,640
+de gastos antigua,
+con una estructura de gastos
+
+641
+00:40:08,800 --> 00:40:10,040
+completamente diferente,
+
+642
+00:40:10,040 --> 00:40:13,000
+esto que mostraba Norberto
+del gasto en telefonía celular,
+
+643
+00:40:13,000 --> 00:40:15,920
+el peso para un hogar en 2004,
+
+644
+00:40:16,080 --> 00:40:18,160
+contra lo que es 2012-2013,
+
+645
+00:40:18,160 --> 00:40:21,200
+es representativo de como
+se fue modificando
+
+646
+00:40:21,320 --> 00:40:23,360
+en cuanto a los usos,
+a las culturas,
+
+647
+00:40:23,480 --> 00:40:25,600
+a la modalidad de vida
+de los argentinos,
+
+648
+00:40:25,720 --> 00:40:28,960
+pero también otras cuestiones
+centrales, como puede ser
+
+649
+00:40:29,120 --> 00:40:31,040
+el gasto disponible
+para aquellas cosas
+
+650
+00:40:31,160 --> 00:40:34,960
+que no sean ni los alimentos
+ni aquellos gastos básicos
+
+651
+00:40:35,080 --> 00:40:36,480
+para la vida, ¿por qué?
+
+652
+00:40:36,640 --> 00:40:39,480
+Por que se liberado ingreso
+en base al crecimiento
+
+653
+00:40:39,600 --> 00:40:41,120
+y a la redistribución
+de la riqueza.
+
+654
+00:40:41,240 --> 00:40:43,320
+De forma tal que el consumo
+de los argentinos
+
+655
+00:40:43,400 --> 00:40:46,040
+se ha modificado
+fuertemente.
+
+656
+00:40:46,160 --> 00:40:49,680
+Este índice no se empalma,
+no continua el índice anterior,
+
+657
+00:40:49,800 --> 00:40:52,600
+por que es sustancialmente
+distinto.
+
+658
+00:40:52,680 --> 00:40:55,040
+En cuanto a la metodología
+de elaboración,
+
+659
+00:40:55,120 --> 00:40:59,600
+la verdad es que la empresa
+ha sido una empresa faraónica
+
+660
+00:40:59,680 --> 00:41:04,560
+porque lo que se proponía
+era en base a la nueva
+
+661
+00:41:04,640 --> 00:41:07,960
+estructura de la Argentina
+de viviendas de la población,
+
+662
+00:41:08,040 --> 00:41:12,000
+tomada en el censo, hacer
+después una nueva encuesta
+
+663
+00:41:12,000 --> 00:41:14,440
+de datos y con esa nueva
+encuesta de datos,
+
+664
+00:41:14,560 --> 00:41:18,000
+elaborar un índice,
+no para la misma localidad,
+
+665
+00:41:18,120 --> 00:41:21,960
+o para el mismo conglomerado
+que se estudiaba antes,
+
+666
+00:41:22,080 --> 00:41:24,720
+sino para todo el país.
+Esa era la idea.
+
+667
+00:41:24,800 --> 00:41:28,040
+Ese es un trabajo que
+ha llevado más de 4 años.
+
+668
+00:41:28,040 --> 00:41:31,600
+Y es un trabajo que
+se ha basado en las mejores
+
+669
+00:41:31,720 --> 00:41:33,040
+normas internacionales,
+
+670
+00:41:33,120 --> 00:41:37,440
+que se ha compartido
+con los institutos de España,
+
+671
+00:41:37,600 --> 00:41:40,880
+de Italia, también
+con los de Rusia,
+
+672
+00:41:40,960 --> 00:41:45,360
+y también con organismos
+internacionales como el FMI,
+
+673
+00:41:45,480 --> 00:41:49,760
+tomando aquellas prácticas
+recomendadas por el Banco Mundial,
+
+674
+00:41:49,920 --> 00:41:52,480
+la Organización Internacional
+del Trabajo.
+
+675
+00:41:52,600 --> 00:41:55,880
+Y en base a toda esa
+discusión metodológica,
+
+676
+00:41:56,000 --> 00:41:57,400
+que va a estar reflejada
+en el cuadernillo
+
+677
+00:41:57,520 --> 00:41:59,480
+que se va a publicar
+en las próximas horas,
+
+678
+00:41:59,640 --> 00:42:03,600
+se ha llegado a este nuevo
+índice que se presenta hoy.
+
+679
+00:42:03,760 --> 00:42:06,000
+Decidimos no sacar simplemente
+un comunicado,
+
+680
+00:42:06,000 --> 00:42:07,840
+sino hacer una presentación
+del índice
+
+681
+00:42:07,960 --> 00:42:14,000
+para que los argentinos sepan
+cual es la característica
+
+682
+00:42:14,120 --> 00:42:15,840
+de lo que estamos
+presentando hoy,
+
+683
+00:42:16,000 --> 00:42:18,720
+que es lo que estamos midiendo,
+además del resultado numérico
+
+684
+00:42:18,880 --> 00:42:21,560
+sobre en el que tantas
+tintas se cargan.
+
+685
+00:42:21,720 --> 00:42:24,240
+Es decir, esto representa
+un cambio cualitativo
+
+686
+00:42:24,400 --> 00:42:26,560
+con respecto a las mediciones
+anteriores
+
+687
+00:42:26,720 --> 00:42:31,040
+y no es la sucesión
+de lo que se venía haciendo
+
+688
+00:42:31,160 --> 00:42:33,400
+por todo lo que he mencionado.
+
+689
+00:42:33,720 --> 00:42:37,600
+Voy a hacer muy breves
+comentarios acerca
+
+690
+00:42:37,720 --> 00:42:41,720
+de porque, y esto da para
+un análisis profundo,
+
+691
+00:42:41,800 --> 00:42:43,120
+la encuesta de gasto
+de los hogares,
+
+692
+00:42:43,240 --> 00:42:44,880
+o sea la estructura
+de gasto de los hogares,
+
+693
+00:42:45,000 --> 00:42:49,080
+es tan distinta en 2012
+de lo que era en 2004.
+
+694
+00:42:49,160 --> 00:42:52,560
+Recordarán ustedes
+en el año 2004,
+
+695
+00:42:52,640 --> 00:42:55,400
+muy cerquita del estallido
+del 2001
+
+696
+00:42:55,520 --> 00:42:57,520
+de la economía argentina,
+
+697
+00:42:57,640 --> 00:43:00,520
+con esas tasas gigantescas
+de desempleo,
+
+698
+00:43:00,600 --> 00:43:03,160
+cercanas a un cuarto
+de la población,
+
+699
+00:43:03,280 --> 00:43:05,040
+que estaba buscando trabajo,
+
+700
+00:43:05,040 --> 00:43:07,920
+con tasa de pobreza que
+representaban el 50%
+
+701
+00:43:08,000 --> 00:43:11,560
+de la población, la indigencia
+el 25% de la población.
+
+702
+00:43:11,680 --> 00:43:15,680
+Pero también hablemos de que
+hacía la economía argentina
+
+703
+00:43:15,800 --> 00:43:18,840
+en aquella época, hablando
+de algunas cantidades.
+
+704
+00:43:18,960 --> 00:43:20,720
+Es simplemente a modo
+de ejemplo.
+
+705
+00:43:20,800 --> 00:43:23,240
+¿Por qué los gastos
+de una hogar típico argentino,
+
+706
+00:43:23,320 --> 00:43:25,760
+de toda la Argentina,
+son distintos de lo que eran
+
+707
+00:43:25,840 --> 00:43:29,720
+en 2004? Y, veamos.
+
+708
+00:43:29,840 --> 00:43:33,280
+En 2004 la producción
+automotriz, por decir algo,
+
+709
+00:43:33,400 --> 00:43:36,920
+alcanzaba 260.000 unidades.
+
+710
+00:43:37,040 --> 00:43:41,920
+En 2013 casi 800.000.
+El aumento fue del 203%.
+
+711
+00:43:42,040 --> 00:43:43,920
+Tomando la industria
+automotriz,
+
+712
+00:43:44,040 --> 00:43:45,760
+y todas sus derivaciones
+en la cadena,
+
+713
+00:43:45,880 --> 00:43:48,800
+como una expresión clara
+de la reindustrialización
+
+714
+00:43:48,920 --> 00:43:50,640
+que ha tenido el país,
+y con ella
+
+715
+00:43:50,760 --> 00:43:53,040
+los cambios que ha habido
+en términos de empleo,
+
+716
+00:43:53,040 --> 00:43:54,200
+de desempleo al empleo,
+
+717
+00:43:54,280 --> 00:43:56,560
+pero un empleo cada vez
+más vinculado
+
+718
+00:43:56,680 --> 00:43:59,640
+a actividades industriales,
+urbanas,
+
+719
+00:43:59,760 --> 00:44:03,040
+alguna de ellas
+de tecnología de punta.
+
+720
+00:44:03,160 --> 00:44:06,240
+Pero esto mismo se puede
+ver, por ejemplo,
+
+721
+00:44:06,360 --> 00:44:08,080
+en los despachos de cemento.
+
+722
+00:44:08,080 --> 00:44:10,680
+Y estoy hablando de cantidades,
+no de precios.
+
+723
+00:44:10,760 --> 00:44:11,880
+Por que lo que estamos
+midiendo acá
+
+724
+00:44:12,000 --> 00:44:13,400
+es como se distribuye
+el gasto,
+
+725
+00:44:13,640 --> 00:44:15,920
+y como ocurre la producción.
+
+726
+00:44:16,040 --> 00:44:18,120
+Y en términos de cantidades
+tenemos, por ejemplo,
+
+727
+00:44:18,240 --> 00:44:21,080
+el despacho de cemento en 2004
+
+728
+00:44:21,080 --> 00:44:24,160
+eran de 6 millones de toneladas,
+
+729
+00:44:24,320 --> 00:44:27,040
+en 2013 en 11 millones
+de toneladas.
+
+730
+00:44:27,200 --> 00:44:30,400
+Tanto cambio la economía
+argentina en ese plazo,
+
+731
+00:44:30,560 --> 00:44:34,160
+el consumo de cemento
+de los hogares argentinos,
+
+732
+00:44:34,320 --> 00:44:37,640
+de la población argentina
+creció en un 94%.
+
+733
+00:44:37,800 --> 00:44:41,200
+La generación eléctrica
+creció en un 90%,
+
+734
+00:44:41,400 --> 00:44:43,280
+por tomar otros.
+
+735
+00:44:43,400 --> 00:44:47,680
+La producción de lavarropas
+en un 150%.
+
+736
+00:44:47,920 --> 00:44:50,040
+Tomo algunas postales
+de lo que ocurrió
+
+737
+00:44:50,200 --> 00:44:53,960
+entre 2004 y 2012
+para que tengamos conciencia
+
+738
+00:44:54,120 --> 00:44:56,000
+de cual fue el cambio
+estructural
+
+739
+00:44:56,000 --> 00:44:58,320
+y como eso se reflejó
+tal como lo dice
+
+740
+00:44:58,440 --> 00:45:00,080
+la encuesta nacional de gastos
+
+741
+00:45:00,240 --> 00:45:02,080
+en lo que los argentinos consumen,
+
+742
+00:45:02,080 --> 00:45:03,520
+en qué gastan su dinero,
+
+743
+00:45:03,640 --> 00:45:07,480
+un ingreso que ha subido
+y que se ha distribuido distinto.
+
+744
+00:45:07,720 --> 00:45:10,040
+Pero también para que
+tengan idea
+
+745
+00:45:10,160 --> 00:45:14,280
+de que ocurrió con alguna
+variable también centrales
+
+746
+00:45:14,400 --> 00:45:16,160
+de las conductas de consumo
+
+747
+00:45:16,280 --> 00:45:17,920
+y de como viven
+los argentinos.
+
+748
+00:45:18,080 --> 00:45:20,000
+Voy a dar un ejemplo.
+
+749
+00:45:20,000 --> 00:45:21,480
+Las tarjetas de crédito
+en 2004,
+
+750
+00:45:21,560 --> 00:45:23,160
+para hablar de cantidades,
+no de precios,
+
+751
+00:45:23,240 --> 00:45:27,240
+sino de cantidades,
+alcanzaba 8 millones.
+
+752
+00:45:27,360 --> 00:45:29,960
+En 2013 había 30 millones
+
+753
+00:45:30,080 --> 00:45:32,520
+de tarjetas de crédito
+en el país.
+
+754
+00:45:32,680 --> 00:45:37,120
+Las tarjetas de débito
+eran 11 millones en el 2004.
+
+755
+00:45:37,120 --> 00:45:42,760
+Fueron en 2013, el año pasado,
+de 28 millones.
+
+756
+00:45:42,880 --> 00:45:46,760
+De 11 millones a 28 millones,
+las tarjetas de débito.
+
+757
+00:45:46,880 --> 00:45:49,640
+Esto para que vean como
+en la propia actividad
+
+758
+00:45:49,800 --> 00:45:52,200
+económica también dio
+acceso al crédito
+
+759
+00:45:52,320 --> 00:45:54,360
+y ese acceso al crédito
+a otras posibilidades
+
+760
+00:45:54,480 --> 00:45:57,560
+de consumo, particularmente
+de bienes durables,
+
+761
+00:45:57,680 --> 00:46:02,280
+o bienes no de consumo
+necesario y mínimo,
+
+762
+00:46:02,400 --> 00:46:04,320
+sino de consumo suntuario,
+
+763
+00:46:04,400 --> 00:46:06,120
+así como mostraba Norberto
+recién,
+
+764
+00:46:06,240 --> 00:46:10,760
+los cambios de gasto
+en entretenimiento, etc.
+
+765
+00:46:11,560 --> 00:46:13,760
+Y eso para sintetizarlo,
+
+766
+00:46:13,920 --> 00:46:16,040
+basta ver que en 2004
+la tasa de desempleo
+
+767
+00:46:16,160 --> 00:46:19,000
+todavía era del 13,5%
+en promedio,
+
+768
+00:46:19,160 --> 00:46:23,360
+mientras en 2013
+era de 7.3%
+
+769
+00:46:23,480 --> 00:46:26,560
+O sea, el desempleo
+había caído un 43%.
+
+770
+00:46:26,720 --> 00:46:28,440
+Veamos cuál era el consumo
+de la Argentina
+
+771
+00:46:28,560 --> 00:46:30,000
+con esa tasa de desempleo,
+
+772
+00:46:30,120 --> 00:46:31,840
+contra el consumo,
+su estructura,
+
+773
+00:46:31,960 --> 00:46:37,160
+su distribución en 2013.
+
+774
+00:46:38,120 --> 00:46:42,040
+Es por eso que era imperioso
+actualizar el índice de precios.
+
+775
+00:46:42,040 --> 00:46:43,760
+Imperioso.
+
+776
+00:46:43,880 --> 00:46:46,160
+Por los cambios que hubo
+a nivel de estructura productiva,
+
+777
+00:46:46,320 --> 00:46:48,960
+los cambios que hubo
+en las regiones,
+
+778
+00:46:49,120 --> 00:46:51,800
+en las diferentes regiones,
+en la ubicación de la población,
+
+779
+00:46:51,960 --> 00:46:54,840
+los cambio que hubo en términos
+de poder adquisitivo
+
+780
+00:46:54,960 --> 00:46:57,080
+en los salarios,
+los cambios que hubo también
+
+781
+00:46:57,080 --> 00:47:00,440
+en estructura de consumo.
+
+782
+00:47:00,600 --> 00:47:05,160
+Todo esto se ha reflejado
+en los ponderadores
+
+783
+00:47:05,280 --> 00:47:06,840
+que se ven en la canasta,
+
+784
+00:47:06,960 --> 00:47:08,240
+y en la muestra que
+se ha seleccionado
+
+785
+00:47:08,360 --> 00:47:12,120
+para representar al país
+completo.
+
+786
+00:47:12,200 --> 00:47:14,680
+Quiero hacer unos comentarios,
+aunque sea laterales,
+
+787
+00:47:14,840 --> 00:47:16,520
+por que sabemos que
+los índices de precios
+
+788
+00:47:16,640 --> 00:47:18,880
+en la Argentina se han
+convertido en una cuestión
+
+789
+00:47:19,040 --> 00:47:21,880
+de polémica y discusión.
+
+790
+00:47:22,000 --> 00:47:24,400
+Hoy hablaba a la mañana
+nuestro Jefe de Gabinete,
+
+791
+00:47:24,520 --> 00:47:26,920
+Jorge Capitanich,
+de la característica
+
+792
+00:47:27,080 --> 00:47:30,960
+de algunos índices de precios
+de consultoras privadas.
+
+793
+00:47:31,160 --> 00:47:34,880
+Quiero simplemente mencionar,
+sin mencionar las consultoras,
+
+794
+00:47:35,000 --> 00:47:38,440
+y tomando los números
+publicados para el mes de enero,
+
+795
+00:47:38,560 --> 00:47:40,280
+que es el que vamos a anunciar
+hoy,
+
+796
+00:47:40,440 --> 00:47:41,800
+por diferentes consultoras,
+
+797
+00:47:41,920 --> 00:47:44,760
+a las que llamo Consultora 1,
+2, 3, 4 y 5.
+
+798
+00:47:44,920 --> 00:47:47,920
+Les digo cuánto dio
+el índice de precio,
+
+799
+00:47:48,080 --> 00:47:50,040
+y después voy a hablar
+brevemente de algunos
+
+800
+00:47:50,160 --> 00:47:51,840
+elementos metodológicos.
+
+801
+00:47:51,960 --> 00:47:55,360
+Por que Norberto de cierta
+manera recién nos abrumaba
+
+802
+00:47:55,520 --> 00:47:58,400
+con estas cifras
+de 200.000 precios
+
+803
+00:47:58,480 --> 00:48:02,240
+tomados todos los días
+del mes en 13.000 locales,
+
+804
+00:48:02,360 --> 00:48:06,000
+con 290 agentes del INDEC
+trabajando
+
+805
+00:48:06,120 --> 00:48:07,760
+para tomar esos precios,
+
+806
+00:48:07,880 --> 00:48:10,200
+de 6 canastas regionales,
+520 variedades.
+
+807
+00:48:10,320 --> 00:48:12,280
+Es decir, esta batería
+de elementos
+
+808
+00:48:12,400 --> 00:48:17,000
+que conforman ese IPC
+nacional urbano.
+
+809
+00:48:17,000 --> 00:48:20,720
+Quiero simplemente mencionarles
+como dio para enero,
+
+810
+00:48:20,880 --> 00:48:22,840
+como dieron para enero
+los índices
+
+811
+00:48:22,920 --> 00:48:24,160
+de diferente consultoras,
+
+812
+00:48:24,280 --> 00:48:26,160
+que muchos toman como
+muy serios, validos,
+
+813
+00:48:26,320 --> 00:48:27,760
+y que representan
+de alguna manera
+
+814
+00:48:27,880 --> 00:48:29,760
+lo que les está pasando
+en el bolsillo
+
+815
+00:48:29,880 --> 00:48:32,120
+a la familia argentina.
+
+816
+00:48:32,280 --> 00:48:33,920
+Entonces, fijensé.
+
+817
+00:48:34,040 --> 00:48:39,080
+Esas consultoras daban,
+para enero, 5% de variación,
+
+818
+00:48:39,080 --> 00:48:44,840
+6,1%, 3,5%, 6,0% y 4,4%.
+
+819
+00:48:44,960 --> 00:48:48,120
+Es decir, que tomando
+5 consultoras,
+
+820
+00:48:48,320 --> 00:48:55,120
+tenemos una variación
+que es la mitad al doble.
+
+821
+00:48:55,120 --> 00:48:59,360
+Es decir que en lo que
+respecta a cuál es ese valor
+
+822
+00:48:59,520 --> 00:49:01,760
+de lo que disponemos,
+es de variopintas,
+
+823
+00:49:01,920 --> 00:49:06,080
+estimaciones, cuyo contenido
+es oscuro, opaco,
+
+824
+00:49:06,160 --> 00:49:07,480
+y no sabemos como está hecho,
+
+825
+00:49:07,640 --> 00:49:10,040
+y no tiene una metodología
+publicada.
+
+826
+00:49:10,040 --> 00:49:11,560
+Pero sabemos algo
+de la metodología.
+
+827
+00:49:11,720 --> 00:49:15,080
+Y simplemente quería
+mencionar como se confeccionan
+
+828
+00:49:15,080 --> 00:49:18,040
+estos índices de precios.
+
+829
+00:49:18,880 --> 00:49:20,920
+Una de estas consultoras
+decir que para su índice
+
+830
+00:49:21,040 --> 00:49:23,160
+de precios, para el rubro
+alimentos y bebidas
+
+831
+00:49:23,280 --> 00:49:24,840
+consumidas fuera del hogar,
+
+832
+00:49:24,960 --> 00:49:30,040
+se toman precios solamente
+del microcentro porteño.
+
+833
+00:49:30,400 --> 00:49:33,960
+Así es como elaboraron
+este índice.
+
+834
+00:49:34,080 --> 00:49:35,120
+Lo decía, pueden consultarlo,
+
+835
+00:49:35,240 --> 00:49:37,120
+tal vez se animan
+a repetir esto,
+
+836
+00:49:37,120 --> 00:49:38,680
+y dicen como está elaborado.
+
+837
+00:49:38,840 --> 00:49:40,880
+Otro decía, publicamos
+un índice de alimentos
+
+838
+00:49:41,000 --> 00:49:42,720
+y bebidas, otra canasta
+básica alimentaría,
+
+839
+00:49:42,840 --> 00:49:45,440
+utilizando precios diarios
+de dos supermercados
+
+840
+00:49:45,560 --> 00:49:48,240
+de Buenos Aires.
+Dos supermercados de Buenos Aires.
+
+841
+00:49:48,400 --> 00:49:51,760
+Todos nosotros tenemos
+una experiencia personal
+
+842
+00:49:51,920 --> 00:49:54,760
+y la conoce cada uno
+de ustedes.
+
+843
+00:49:54,960 --> 00:49:56,520
+Lo mencionaba el otro
+día la Presidenta.
+
+844
+00:49:56,680 --> 00:49:58,600
+Pero es claro que si uno
+va a un comercio
+
+845
+00:49:58,720 --> 00:49:59,640
+que cada a una cuadra,
+
+846
+00:49:59,800 --> 00:50:01,840
+y uno va a un comercio
+que queda para el otro lado
+
+847
+00:50:01,960 --> 00:50:04,200
+a una cuadra,
+los precios son muy dispares.
+
+848
+00:50:04,320 --> 00:50:05,920
+A veces por que esta
+es una estrategia
+
+849
+00:50:06,080 --> 00:50:08,040
+de determinadas cadenas
+comerciales
+
+850
+00:50:08,040 --> 00:50:12,720
+para extraer el máximo
+de ingresos de sus clientes
+
+851
+00:50:12,960 --> 00:50:15,600
+en su afán de obtener
+el mayor lucro posible.
+
+852
+00:50:15,720 --> 00:50:18,560
+Entonces, miden, combinan,
+un precio más alto y más bajo,
+
+853
+00:50:18,680 --> 00:50:21,040
+pero pueden hace el experimento
+hoy a la tarde
+
+854
+00:50:21,040 --> 00:50:23,000
+de recorrer dos o tres
+supermercados ustedes,
+
+855
+00:50:23,000 --> 00:50:25,560
+y ver que los precios
+a veces tienen una variabilidad
+
+856
+00:50:25,680 --> 00:50:27,720
+inmensa del mismo producto
+
+857
+00:50:27,840 --> 00:50:30,800
+entre dos comercios que
+están muy próximos,
+
+858
+00:50:30,960 --> 00:50:32,480
+a veces del 100%.
+
+859
+00:50:32,600 --> 00:50:35,000
+Entonces, imagínense
+que rigor científico,
+
+860
+00:50:35,120 --> 00:50:38,600
+que rigor práctico,
+que rigor real,
+
+861
+00:50:38,720 --> 00:50:40,080
+o sea, que puede estar
+hablando alguien
+
+862
+00:50:40,240 --> 00:50:41,560
+que no dice que
+los precios varían,
+
+863
+00:50:41,680 --> 00:50:44,240
+mirando dos supermercados.
+
+864
+00:50:44,360 --> 00:50:49,360
+Otra decía que la cantidad
+de personas asignadas
+
+865
+00:50:49,480 --> 00:50:51,120
+a la elaboración
+del índice de precios
+
+866
+00:50:51,120 --> 00:50:54,200
+alcanza a 7 profesionales.
+
+867
+00:50:54,360 --> 00:50:57,840
+Son todas expresiones,
+obviamente,
+
+868
+00:50:57,960 --> 00:51:00,400
+cuál puede ser el alcance
+de esos índices.
+
+869
+00:51:00,520 --> 00:51:02,920
+Y me permito decir,
+son índices que tienen
+
+870
+00:51:03,040 --> 00:51:06,280
+un fuerte contenido político.
+
+871
+00:51:06,440 --> 00:51:09,000
+Por eso yo no espero rigor,
+ni lo esperemos,
+
+872
+00:51:09,120 --> 00:51:10,640
+porque la idea es decir
+un número.
+
+873
+00:51:10,760 --> 00:51:12,800
+Y aparentemente, cuánto
+más alto, mejor.
+
+874
+00:51:12,960 --> 00:51:17,080
+Y es por eso que esa
+variación aparece a veces
+
+875
+00:51:17,080 --> 00:51:19,440
+en escalerita temporal,
+uno dice un número,
+
+876
+00:51:19,560 --> 00:51:20,360
+otro dice uno más alto,
+
+877
+00:51:20,480 --> 00:51:23,400
+y parece quién sube
+las apuestas.
+
+878
+00:51:23,520 --> 00:51:27,040
+Pero la verdad es que
+es importante decirlo,
+
+879
+00:51:27,040 --> 00:51:29,000
+lo decía hoy
+el Jefe de Gabinete,
+
+880
+00:51:29,000 --> 00:51:31,880
+por que han intentado
+privatizar como tantas cosas
+
+881
+00:51:32,040 --> 00:51:33,400
+los índices de precios.
+
+882
+00:51:33,520 --> 00:51:37,040
+Y lo han hecho de esta manera
+y con este poco,
+
+883
+00:51:37,200 --> 00:51:41,800
+escasísimo rigor,
+que contrasta fuertemente
+
+884
+00:51:41,920 --> 00:51:46,000
+con una metodología
+más robusta,
+
+885
+00:51:46,160 --> 00:51:49,040
+como la que hemos expresado.
+
+886
+00:51:49,160 --> 00:51:51,360
+Voy a ahora a hacer
+lectura de una parte
+
+887
+00:51:51,480 --> 00:51:54,080
+del comunicado, simplemente
+que vamos a publicar hoy
+
+888
+00:51:54,080 --> 00:51:55,560
+a las 4 de la tarde,
+
+889
+00:51:55,680 --> 00:51:59,000
+decidimos hacerlo en esta
+breve exposición,
+
+890
+00:51:59,120 --> 00:52:01,160
+simplemente para dar
+algunas especificaciones
+
+891
+00:52:01,320 --> 00:52:03,000
+por que no era solamente
+la comunicación
+
+892
+00:52:03,000 --> 00:52:05,560
+de los números, sino,
+además la presentación
+
+893
+00:52:05,680 --> 00:52:10,160
+del nuevo índice y ameritaba
+una presentación más extensa.
+
+894
+00:52:10,240 --> 00:52:17,000
+El IPCNu para enero de 2014,
+es decir la variación mensual
+
+895
+00:52:17,120 --> 00:52:21,240
+con respecto al mes anterior,
+diciembre del 2013,
+
+896
+00:52:21,320 --> 00:52:27,920
+en su nivel general
+ha arrojado un 3,7%.
+
+897
+00:52:28,000 --> 00:52:31,720
+Voy a leer ahora las divisiones
+de las que hablaba Norberto.
+
+898
+00:52:31,840 --> 00:52:34,280
+Alimentos y bebidas, 3,3%.
+
+899
+00:52:34,400 --> 00:52:37,240
+Indumentaria, 0,8%.
+
+900
+00:52:37,440 --> 00:52:41,400
+Estamos hablando entre enero
+y diciembre.
+
+901
+00:52:41,480 --> 00:52:48,360
+Y esto lo vamos a publicar
+en unos instantes.
+
+902
+00:52:48,880 --> 00:52:51,840
+Vivienda y servicios básicos,
+2,2%.
+
+903
+00:52:52,000 --> 00:52:55,760
+Equipamiento y mantenimiento
+del hogar, 4,3%.
+
+904
+00:52:55,880 --> 00:52:59,280
+Atención médica y gastos
+para la salud, 5,9%.
+
+905
+00:52:59,400 --> 00:53:02,920
+Transporte y comunicaciones,
+5,4%.
+
+906
+00:53:03,040 --> 00:53:05,560
+Esparcimiento, 4,8%.
+
+907
+00:53:05,680 --> 00:53:08,280
+Educación, 1,6%.
+
+908
+00:53:08,360 --> 00:53:13,400
+Y otros bienes y servicios,
+3,5%.
+
+909
+00:53:16,000 --> 00:53:17,520
+Me limito a hacer unos
+breves comentarios,
+
+910
+00:53:17,640 --> 00:53:21,560
+ya tendremos ocasión
+de ir trabajando este dato,
+
+911
+00:53:21,680 --> 00:53:24,000
+pero quiero hacer simplemente
+unos breves comentarios
+
+912
+00:53:24,000 --> 00:53:27,520
+en consonancia con lo que
+venimos expresando
+
+913
+00:53:27,680 --> 00:53:32,720
+desde el Gobierno Nacional
+hace bastante tiempo ya.
+
+914
+00:53:32,840 --> 00:53:35,280
+En primer lugar, hemos dicho,
+
+915
+00:53:35,440 --> 00:53:39,360
+y me parece que es casi
+trivial y evidente,
+
+916
+00:53:39,480 --> 00:53:41,760
+todo el mundo sabe
+que los precios,
+
+917
+00:53:41,840 --> 00:53:43,800
+estos que están
+reflejados en el índice,
+
+918
+00:53:44,000 --> 00:53:46,320
+el Estado los capta,
+los mide, los publica,
+
+919
+00:53:46,440 --> 00:53:48,800
+pero no los fija el Estado.
+
+920
+00:53:48,920 --> 00:53:51,040
+Son, en su gran mayoría,
+
+921
+00:53:51,240 --> 00:53:53,520
+en su inmensidad,
+prácticamente,
+
+922
+00:53:53,680 --> 00:53:57,040
+precios que provienen
+de una decisión privada.
+
+923
+00:53:57,160 --> 00:53:59,520
+A veces una decisión
+descentralizada
+
+924
+00:53:59,640 --> 00:54:03,520
+de la cadena de comercio,
+de la cadena competitiva
+
+925
+00:54:03,640 --> 00:54:07,000
+en algunos rubros.
+Otras veces,
+
+926
+00:54:07,000 --> 00:54:09,880
+de la decisión, más bien,
+centralizada y concentrada
+
+927
+00:54:10,040 --> 00:54:13,000
+en aquellos rubros donde
+hay muy pocos proveedores
+
+928
+00:54:13,000 --> 00:54:19,760
+o muy pocos actores
+a nivel de la distribución
+
+929
+00:54:19,880 --> 00:54:23,000
+y del comercio final
+de esos artículos.
+
+930
+00:54:23,120 --> 00:54:25,960
+Así que a veces son precios
+que parecen determinados
+
+931
+00:54:26,040 --> 00:54:27,320
+por el libre juego
+del mercado,
+
+932
+00:54:27,440 --> 00:54:31,920
+otras veces precios fijados
+con determinada intencionalidad
+
+933
+00:54:32,040 --> 00:54:35,280
+y voluntad, y concertadamente,
+entre diferentes actores.
+
+934
+00:54:35,400 --> 00:54:37,520
+Hay ramas de la producción
+nacional,
+
+935
+00:54:37,680 --> 00:54:40,400
+donde dos o tres empresas
+expresan el grueso
+
+936
+00:54:40,560 --> 00:54:43,320
+de la producción, y entre ellas,
+más o menos,
+
+937
+00:54:43,440 --> 00:54:46,880
+queda determinado cuál
+es el precio final
+
+938
+00:54:47,000 --> 00:54:49,200
+de esos productos.
+
+939
+00:54:49,360 --> 00:54:51,200
+Tenemos esas condiciones,
+
+940
+00:54:51,360 --> 00:54:53,400
+precios fijados por
+las empresas privadas,
+
+941
+00:54:53,560 --> 00:54:55,600
+según diferentes criterios.
+
+942
+00:54:55,760 --> 00:54:57,840
+Y voy a hablar ahora
+del índice este
+
+943
+00:54:57,960 --> 00:55:01,080
+que estamos presentando hoy
+para enero.
+
+944
+00:55:01,160 --> 00:55:03,080
+Y de las particularidades
+de este mes de enero,
+
+945
+00:55:03,280 --> 00:55:06,400
+como fueron otros índices
+a lo largo de estos 10 años
+
+946
+00:55:06,520 --> 00:55:09,320
+y a lo largo de
+la historia argentina.
+
+947
+00:55:09,440 --> 00:55:12,400
+Sabemos, por que hemos sido testigos,
+que hemos sido victimas
+
+948
+00:55:12,560 --> 00:55:18,120
+de una campaña muy,
+pero muy fuerte
+
+949
+00:55:18,240 --> 00:55:23,080
+casi diría yo,
+furiosa que sufrió, que azotó
+
+950
+00:55:23,200 --> 00:55:26,200
+a la sociedad argentina
+durante los últimos meses,
+
+951
+00:55:26,320 --> 00:55:30,920
+que pretendió generar
+una idea de tragedia,
+
+952
+00:55:31,040 --> 00:55:34,240
+de Apocalipsis, cercana
+con lo que ocurría
+
+953
+00:55:34,360 --> 00:55:38,040
+en la economía nacional,
+que tal como decía ayer
+
+954
+00:55:38,160 --> 00:55:42,040
+la Presidenta no es que
+vaticinan o pregonan
+
+955
+00:55:42,120 --> 00:55:44,000
+que va a haber una catástrofe
+para el Gobierno,
+
+956
+00:55:44,000 --> 00:55:46,760
+lo que están diciendo
+es que la catástrofe va a ser
+
+957
+00:55:46,880 --> 00:55:49,040
+para los argentinos,
+para todos los argentinos.
+
+958
+00:55:49,200 --> 00:55:52,080
+Entonces, esa campaña
+que estuvo fogoneada
+
+959
+00:55:52,160 --> 00:55:54,880
+por los medios, pero que
+tuvo algún impacto,
+
+960
+00:55:55,000 --> 00:55:57,440
+hemos descubierto también
+en precios, tenía que ver
+
+961
+00:55:57,600 --> 00:56:00,160
+con algunos elementos
+como ese dólar ilegal.
+
+962
+00:56:00,160 --> 00:56:02,480
+Recordarán ustedes,
+salteemos enero
+
+963
+00:56:02,600 --> 00:56:05,080
+que es lo que estamos midiendo,
+recordarán ya que en diciembre
+
+964
+00:56:05,080 --> 00:56:08,960
+la idea de este dólar ilegal,
+y salía en todos los diarios
+
+965
+00:56:09,080 --> 00:56:12,040
+que decían era el que
+determinaba los precios,
+
+966
+00:56:12,160 --> 00:56:14,120
+es decir que los comerciantes
+fijaban los precios,
+
+967
+00:56:14,200 --> 00:56:16,560
+según el dólar ilegal.
+
+968
+00:56:16,680 --> 00:56:19,480
+En muchos casos, fue verdad.
+
+969
+00:56:19,640 --> 00:56:25,520
+Ese dólar ilegal, con la poca
+representatividad que tiene
+
+970
+00:56:25,600 --> 00:56:29,600
+fue convertido
+en una especie de referencia
+
+971
+00:56:29,840 --> 00:56:31,360
+para la fijación de precios.
+
+972
+00:56:31,480 --> 00:56:33,040
+Pero no fue convertido
+por la gente,
+
+973
+00:56:33,040 --> 00:56:34,440
+por los comerciantes,
+sino también
+
+974
+00:56:34,560 --> 00:56:35,720
+por esta misma campaña,
+
+975
+00:56:35,840 --> 00:56:38,600
+que lo elevó a ese lugar,
+y parecía que lo lógico,
+
+976
+00:56:38,720 --> 00:56:41,120
+era fijar los precios
+según ese dólar ilegal,
+
+977
+00:56:41,280 --> 00:56:44,000
+que recordarán ustedes
+que había llegado a valores,
+
+978
+00:56:44,120 --> 00:56:47,800
+que son difíciles de medir,
+yo dije algunas veces
+
+979
+00:56:47,960 --> 00:56:49,440
+porque como es ilegal,
+no sé sabe donde,
+
+980
+00:56:49,560 --> 00:56:50,920
+pero que había llegado
+a 13 pesos.
+
+981
+00:56:51,040 --> 00:56:54,240
+Y había comerciantes que
+aparentemente ponían sus precios
+
+982
+00:56:54,360 --> 00:56:57,080
+teniendo en cuenta esa referencia
+y había subido mucho.
+
+983
+00:56:57,080 --> 00:57:01,440
+Y entonces decían la inflación
+es por el dólar ilegal.
+
+984
+00:57:01,560 --> 00:57:04,120
+Pero después vino enero
+y hubo un corrimiento
+
+985
+00:57:04,240 --> 00:57:10,000
+del dólar oficial, mucho menor
+y por debajo de ese dólar ilegal.
+
+986
+00:57:10,160 --> 00:57:12,640
+Pero decían entonces,
+los precios deben subir,
+
+987
+00:57:12,760 --> 00:57:16,560
+por la modificación en el valor
+del dólar legal.
+
+988
+00:57:16,680 --> 00:57:18,880
+Ya habían subido por el ilegal
+que estaba muy por arriba,
+
+989
+00:57:19,000 --> 00:57:22,240
+pero ahora debían subir
+de nuevo por el legal.
+
+990
+00:57:22,360 --> 00:57:25,240
+Después apareció otro rubro
+que es uno de esos verdaderos
+
+991
+00:57:25,320 --> 00:57:27,480
+y genuinos inventos argentinos,
+
+992
+00:57:27,640 --> 00:57:31,040
+que es el rubro por las dudas
+del costo.
+
+993
+00:57:31,040 --> 00:57:33,160
+Entonces, se ve que
+el comerciante tenía que calcular
+
+994
+00:57:33,280 --> 00:57:34,800
+el costo, por que esto
+era lo que decía,
+
+995
+00:57:34,920 --> 00:57:37,000
+que era lo juicioso,
+lo razonable,
+
+996
+00:57:37,000 --> 00:57:38,560
+y lo aconsejable
+para todo el mundo,
+
+997
+00:57:38,680 --> 00:57:41,040
+tomar la cotización
+del dólar ilegal,
+
+998
+00:57:41,040 --> 00:57:42,560
+la cotización
+del dólar oficial,
+
+999
+00:57:42,680 --> 00:57:46,000
+y el rubro por las dudas,
+y fijar precios.
+
+1000
+00:57:46,120 --> 00:57:48,160
+Y efectivamente en enero
+encontramos que ese clima
+
+1001
+00:57:48,280 --> 00:57:51,960
+de psicosis,
+de que todo explotaba,
+
+1002
+00:57:52,040 --> 00:57:55,080
+como decía la Presidenta,
+llevó a corrimientos muy fuertes
+
+1003
+00:57:55,080 --> 00:58:00,120
+en los precios.
+Sin duda que esto ocurrió.
+
+1004
+00:58:00,560 --> 00:58:03,400
+Y generó fuertes distorsiones.
+
+1005
+00:58:03,640 --> 00:58:06,520
+Distorsiones, repito,
+fogoneadas por intereses
+
+1006
+00:58:06,640 --> 00:58:08,960
+muy concretos, y aprovechadas,
+también,
+
+1007
+00:58:09,080 --> 00:58:10,680
+por movimientos especulativos.
+
+1008
+00:58:10,800 --> 00:58:13,480
+Por que aquel que consiguió
+poner determinado articulo,
+
+1009
+00:58:13,600 --> 00:58:17,080
+y en ese clima de que
+los artículos se iban a acabar,
+
+1010
+00:58:17,160 --> 00:58:19,360
+de que estaban discontinuados,
+de que no se iban a reponer,
+
+1011
+00:58:19,480 --> 00:58:22,760
+consiguió que alguien
+lo comprara, y por ejemplo,
+
+1012
+00:58:22,840 --> 00:58:25,000
+lo subió de un día para
+el otro al 22%
+
+1013
+00:58:25,000 --> 00:58:27,200
+cuando no había cuenta
+matemática
+
+1014
+00:58:27,360 --> 00:58:30,080
+ni del cerebro racional
+que explicara
+
+1015
+00:58:30,080 --> 00:58:31,920
+porque tenía que haber
+ese aumento,
+
+1016
+00:58:32,080 --> 00:58:34,080
+pero fue alguien y lo compró.
+
+1017
+00:58:34,160 --> 00:58:36,840
+Y a esa persona
+la estafaron.
+
+1018
+00:58:36,960 --> 00:58:41,000
+Y la estafó un comerciante
+que se quedó con esa diferencia.
+
+1019
+00:58:41,440 --> 00:58:43,720
+Y que la tomó como ingreso.
+
+1020
+00:58:43,840 --> 00:58:46,000
+Y eso es algo que observamos,
+es por eso que esa campaña
+
+1021
+00:58:46,160 --> 00:58:48,000
+de Precios Cuidados que
+iniciamos desde
+
+1022
+00:58:48,120 --> 00:58:51,480
+la Secretaria de Comercio
+hace algún tiempo,
+
+1023
+00:58:51,560 --> 00:58:56,040
+es central, porque sino
+pareciera que los precios
+
+1024
+00:58:56,160 --> 00:58:58,240
+deben fijarse por las dudas,
+
+1025
+00:58:58,320 --> 00:58:59,400
+por el dólar ilegal,
+
+1026
+00:58:59,480 --> 00:59:04,080
+por los terremotos
+en ciudades distantes,
+
+1027
+00:59:04,080 --> 00:59:05,800
+por las tormentas en otro lado.
+
+1028
+00:59:05,880 --> 00:59:08,040
+Así que todo representa
+una excusa para subir
+
+1029
+00:59:08,160 --> 00:59:10,480
+los precios, y que esto
+es razonable.
+
+1030
+00:59:10,640 --> 00:59:12,040
+¿Qué es lo que nosotros
+encontramos?
+
+1031
+00:59:12,160 --> 00:59:14,520
+Que, en primer lugar,
+
+1032
+00:59:14,640 --> 00:59:17,120
+la relación entre el precio
+y el dólar
+
+1033
+00:59:17,240 --> 00:59:21,120
+se puede medir con respecto
+a que parte de la economía
+
+1034
+00:59:21,240 --> 00:59:24,000
+argentina tiene sus costos
+en dólares,
+
+1035
+00:59:24,120 --> 00:59:27,080
+porque nadie ha dicho
+que tiene que ser de otra manera.
+
+1036
+00:59:27,080 --> 00:59:31,040
+Si sube el valor del dólar
+
+1037
+00:59:31,160 --> 00:59:33,000
+y yo tengo costos
+de cosas que compro
+
+1038
+00:59:33,160 --> 00:59:34,840
+y tienen su precio en dólares,
+
+1039
+00:59:35,000 --> 00:59:36,360
+evidentemente el precio
+en pesos se puede mover.
+
+1040
+00:59:36,520 --> 00:59:39,960
+¿Pero cuánto? Tengan en cuenta
+que el producto bruto
+
+1041
+00:59:40,080 --> 00:59:43,240
+de Argentina es más o menos
+500.000 millones de dólares,
+
+1042
+00:59:43,400 --> 00:59:48,560
+y las importaciones
+70.000 millones de dólares,
+
+1043
+00:59:48,680 --> 00:59:55,960
+un 15% de lo que
+en Argentina se produce.
+
+1044
+00:59:56,040 --> 00:59:58,080
+Para tomar una cuenta
+y que la entienda todo el mundo.
+
+1045
+00:59:58,200 --> 01:00:00,080
+15% es importando.
+
+1046
+01:00:00,080 --> 01:00:04,280
+Entonces esto debería
+pegar en un 15%
+
+1047
+01:00:04,400 --> 01:00:07,000
+de los productos
+que se consumen en el país.
+
+1048
+01:00:07,120 --> 01:00:08,840
+Para decirlo a groso modo.
+
+1049
+01:00:08,960 --> 01:00:10,160
+Pero no fue así.
+
+1050
+01:00:10,280 --> 01:00:12,480
+Había quienes pensaban
+que lo que había que hacer,
+
+1051
+01:00:12,560 --> 01:00:14,360
+y quienes querían
+que esto ocurriera,
+
+1052
+01:00:14,480 --> 01:00:17,960
+porque querían provocar
+una determinada situación,
+
+1053
+01:00:18,080 --> 01:00:21,040
+querían hacernos creer
+que los movimientos del dólar
+
+1054
+01:00:21,160 --> 01:00:23,560
+tienen que traducirse,
+legal, ilegal, el que sea,
+
+1055
+01:00:23,720 --> 01:00:25,560
+tiene que traducirse,
+por eso tanta publicidad,
+
+1056
+01:00:25,680 --> 01:00:28,160
+tienen que traducirse
+los precios de todos
+
+1057
+01:00:28,320 --> 01:00:30,000
+los artículos que consumimos
+los argentinos.
+
+1058
+01:00:30,160 --> 01:00:32,080
+Y esto es estrictamente
+falso porque lo que
+
+1059
+01:00:32,240 --> 01:00:33,960
+se estaría haciendo
+de ese modo,
+
+1060
+01:00:34,080 --> 01:00:35,640
+no es representar
+un cambio real en los costos
+
+1061
+01:00:35,800 --> 01:00:38,200
+de alguien, en la situación
+de un comerciante,
+
+1062
+01:00:38,320 --> 01:00:41,000
+el productor,
+sino que lo que estaría haciendo
+
+1063
+01:00:41,000 --> 01:00:42,880
+esto es una maniobra
+especulativa
+
+1064
+01:00:42,960 --> 01:00:44,720
+para conseguir una ganancia
+extraordinaria
+
+1065
+01:00:44,840 --> 01:00:47,960
+que no tiene ninguna
+justificación.
+
+1066
+01:00:48,120 --> 01:00:49,800
+Pero esto ocurrió
+en Argentina.
+
+1067
+01:00:49,920 --> 01:00:53,000
+Es por eso que nosotros
+estamos trabajando fuertemente,
+
+1068
+01:00:53,000 --> 01:00:58,320
+en primer lugar,
+para que no haya
+
+1069
+01:00:58,440 --> 01:01:00,920
+distraídos,
+no haya confundidos,
+
+1070
+01:01:01,080 --> 01:01:02,880
+que hablando con medias
+palabras,
+
+1071
+01:01:03,000 --> 01:01:05,040
+hagan creer que eso
+es culpa del Gobierno,
+
+1072
+01:01:05,160 --> 01:01:06,680
+y que además es lógico
+que pase.
+
+1073
+01:01:06,800 --> 01:01:08,400
+No es lógico,
+no es culpa del Gobierno.
+
+1074
+01:01:08,560 --> 01:01:11,440
+Es el bolsillo de
+los 40 millones de argentinos
+
+1075
+01:01:11,600 --> 01:01:13,440
+el que está en riesgo
+con esas maniobras.
+
+1076
+01:01:13,640 --> 01:01:16,520
+Y hay algunos vivos
+que consiguen ganar
+
+1077
+01:01:16,640 --> 01:01:18,000
+mucha plata con estos
+movimientos.
+
+1078
+01:01:18,000 --> 01:01:21,000
+Es por eso que para
+los confundidos,
+
+1079
+01:01:21,000 --> 01:01:23,320
+no para los vivos,
+hemos trabajado
+
+1080
+01:01:23,400 --> 01:01:27,120
+desde el Gobierno Nacional
+consiguiendo que, por ejemplo,
+
+1081
+01:01:27,120 --> 01:01:28,280
+voy a dar ejemplos
+por que se anunció
+
+1082
+01:01:28,440 --> 01:01:29,640
+en esta misma casa
+que los precios
+
+1083
+01:01:29,800 --> 01:01:33,440
+de algunos electrodomésticos
+que había crecido en días
+
+1084
+01:01:33,560 --> 01:01:37,760
+en un 20%, tuvieron
+un techo de crecimiento del 7,5%,
+
+1085
+01:01:37,880 --> 01:01:41,360
+recordarán ustedes,
+o que el precio de los productos
+
+1086
+01:01:41,520 --> 01:01:44,000
+metálicos, insumos básicos
+y difundidos,
+
+1087
+01:01:44,000 --> 01:01:45,640
+que habían tenido
+corrimiento
+
+1088
+01:01:45,760 --> 01:01:47,680
+porque su precio
+estaba nominado en dólares,
+
+1089
+01:01:47,800 --> 01:01:49,680
+también se retrotrajera.
+
+1090
+01:01:49,800 --> 01:01:52,120
+O como ocurrió el día
+de ayer,
+
+1091
+01:01:52,240 --> 01:01:54,720
+que recuerdo titulares
+y titulares
+
+1092
+01:01:54,800 --> 01:01:57,040
+con respecto a que
+determinadas empresas
+
+1093
+01:01:57,160 --> 01:02:00,600
+no bajaban el precio
+de la nafta en su surtidor,
+
+1094
+01:02:00,920 --> 01:02:02,840
+no hubo tantos titulares
+cuando efectivamente
+
+1095
+01:02:02,960 --> 01:02:04,400
+lo hicieron, porque ayer
+hubo un comunicado
+
+1096
+01:02:04,560 --> 01:02:07,320
+de la empresa Shell
+diciendo que reducía
+
+1097
+01:02:07,440 --> 01:02:10,200
+sus precios en surtidor
+en base a los cambios
+
+1098
+01:02:10,360 --> 01:02:12,120
+en los valores
+de sus insumos.
+
+1099
+01:02:12,280 --> 01:02:14,400
+Es decir que ha habido
+un acomodamiento de precios.
+
+1100
+01:02:14,520 --> 01:02:17,200
+En algunos casos,
+especulativo.
+
+1101
+01:02:17,360 --> 01:02:19,320
+Esos casos especulativos
+el Gobierno está trabajando
+
+1102
+01:02:19,440 --> 01:02:22,560
+fuertemente para que
+se retrotraigan,
+
+1103
+01:02:22,640 --> 01:02:25,600
+se eviten, o se denuncien,
+
+1104
+01:02:25,720 --> 01:02:27,440
+y en otros casos vinculados
+con cambios de costos,
+
+1105
+01:02:27,560 --> 01:02:30,640
+como lo hay todo el tiempo,
+y por diferentes factores.
+
+1106
+01:02:30,760 --> 01:02:35,040
+Pero no todo, no todo,
+es una excusa válida
+
+1107
+01:02:35,200 --> 01:02:38,320
+para modificar los precios.
+
+1108
+01:02:38,480 --> 01:02:41,960
+Conocemos toda esa lista
+de cosas que pareciera
+
+1109
+01:02:42,080 --> 01:02:43,680
+que necesariamente
+tienen que producir
+
+1110
+01:02:43,840 --> 01:02:45,360
+cambios de precio.
+
+1111
+01:02:45,520 --> 01:02:47,280
+Pero son justificaciones,
+muchas veces,
+
+1112
+01:02:47,400 --> 01:02:49,920
+de aumentos injustificados.
+
+1113
+01:02:50,040 --> 01:02:51,240
+Ahí es donde trabaja
+el Gobierno.
+
+1114
+01:02:51,360 --> 01:02:53,360
+Pero aprovecho para
+repetirlo.
+
+1115
+01:02:53,480 --> 01:02:55,680
+No lo puede hacer
+en soledad.
+
+1116
+01:02:55,840 --> 01:02:58,120
+Por que no importa cuantos
+agentes tenga el Gobierno
+
+1117
+01:02:58,240 --> 01:03:00,080
+trabajando, la Secretaria
+de Comercio,
+
+1118
+01:03:00,160 --> 01:03:03,280
+cuantos inspectores,
+sino que lo debe hacer
+
+1119
+01:03:03,440 --> 01:03:04,920
+con todos lo argentinos,
+
+1120
+01:03:05,000 --> 01:03:06,560
+lo debe hacer también
+con los gobernadores,
+
+1121
+01:03:06,680 --> 01:03:08,640
+como estamos haciendo
+convenios,
+
+1122
+01:03:08,720 --> 01:03:10,080
+lo debe hacer con
+los intendentes,
+
+1123
+01:03:10,160 --> 01:03:11,800
+lo debe hacer con
+las organizaciones sociales
+
+1124
+01:03:11,880 --> 01:03:14,560
+y con los consumidores,
+cuyo derecho tenemos
+
+1125
+01:03:14,680 --> 01:03:17,680
+que defender en base
+a que los propios consumidores
+
+1126
+01:03:17,800 --> 01:03:21,000
+se concienticen
+y no naturalicen,
+
+1127
+01:03:21,120 --> 01:03:25,200
+no asuman, no deglutan,
+
+1128
+01:03:25,280 --> 01:03:28,040
+cualquier precio como
+el precio que tiene que ser.
+
+1129
+01:03:28,040 --> 01:03:31,000
+Cuando encuentren cambios
+indebidos en los precios,
+
+1130
+01:03:31,120 --> 01:03:33,680
+hay mecanismos y hay cánones
+para hacer la denuncia,
+
+1131
+01:03:33,840 --> 01:03:37,040
+y el Estado, como decía
+ayer la Presidenta de la Nación,
+
+1132
+01:03:37,040 --> 01:03:39,520
+va a actuar, y va a actuar
+
+1133
+01:03:39,720 --> 01:03:41,880
+tomando las medidas
+correspondientes
+
+1134
+01:03:42,000 --> 01:03:44,920
+y necesarias para ejecutar
+las correcciones
+
+1135
+01:03:45,040 --> 01:03:46,280
+que haya que hacer cuando
+eso no tenga
+
+1136
+01:03:46,400 --> 01:03:48,160
+ninguna justificación.
+
+1137
+01:03:48,280 --> 01:03:51,800
+Entonces, este era
+el anuncio que queríamos hacer.
+
+1138
+01:03:51,920 --> 01:03:55,160
+Va a estar ahora publicado
+el comunicado
+
+1139
+01:03:55,320 --> 01:03:59,760
+con el nuevo IPC
+en su primera publicación,
+
+1140
+01:03:59,960 --> 01:04:04,040
+el IPCNu, va a estar
+publicado el comunicado
+
+1141
+01:04:04,040 --> 01:04:05,520
+que va a tener las aperturas.
+
+1142
+01:04:05,640 --> 01:04:07,800
+El comunicado no lo leo
+por que es extenso
+
+1143
+01:04:07,960 --> 01:04:10,240
+y también tedioso.
+
+1144
+01:04:10,360 --> 01:04:13,280
+También va a estar publicado
+en algunas horas
+
+1145
+01:04:13,400 --> 01:04:18,360
+el cuadernillo metodológico
+explicando como fue
+
+1146
+01:04:18,480 --> 01:04:20,040
+la elaboración,
+estos ponderadores
+
+1147
+01:04:20,160 --> 01:04:23,960
+que mencionara recién Norberto,
+las diferentes regiones,
+
+1148
+01:04:24,040 --> 01:04:25,720
+las diferencias entre
+las regiones
+
+1149
+01:04:25,920 --> 01:04:30,280
+que se tienen en cuenta en base
+a los gastos diferenciales.
+
+1150
+01:04:30,400 --> 01:04:32,200
+Y todo aquel material
+complementario
+
+1151
+01:04:32,360 --> 01:04:37,520
+que da fundamento y sustento
+al IPCNu
+
+1152
+01:04:37,680 --> 01:04:42,160
+que acabamos de presentar.
+Muchísimas gracias.
+
+1153
+01:04:49,720 --> 01:04:51,840
+Así, con las palabras
+del Ministro de Economía
+
+1154
+01:04:52,000 --> 01:04:54,040
+y Finanzas Públicas,
+Doctor Axel Kicillof,
+
+1155
+01:04:54,160 --> 01:04:56,560
+damos por finalizado
+este acto.
+
+1156
+01:04:56,680 --> 01:04:59,280
+Muchísimas gracias
+a todos por haber venido.
+

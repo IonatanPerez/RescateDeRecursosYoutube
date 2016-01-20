@@ -1,0 +1,110 @@
+1
+00:00:01,194 --> 00:00:08,441
+6, 5, 4, 3, 2, 1.
+
+2
+00:00:08,441 --> 00:00:14,150
+Los Chicos de Presos Sanjo, 
+Promoción 2012, les presentan: 
+
+3
+00:00:14,110 --> 00:00:17,006
+«Despertar de una  utopía».
+
+4
+00:00:22,441 --> 00:00:25,781
+Todos los años, en Concordia, hacemos 
+lo que se llama la fiesta del estudiante. 
+
+5
+00:00:26,118 --> 00:00:29,621
+Durante este evento, 
+lo que realizan los estudiantes
+
+6
+00:00:29,621 --> 00:00:31,845
+son carrozas que representan a las escuelas.
+
+7
+00:00:31,845 --> 00:00:36,988
+Hemos tenido una participación 
+con una carroza alegórica,
+
+8
+00:00:36,988 --> 00:00:41,715
+controlando el sistema de iluminación
+ de la carroza por wifi. 
+
+9
+00:00:41,715 --> 00:00:43,979
+Usando la netbook y un software libre, 
+
+10
+00:00:43,979 --> 00:00:45,499
+y a través de dicho software 
+
+11
+00:00:45,499 --> 00:00:49,176
+y la programación hecha por nosotros, 
+hemos logrado controlar 
+
+12
+00:00:49,176 --> 00:00:52,375
+de forma exitosa
+ 350 lámparas de 25 watts.
+
+13
+00:00:52,375 --> 00:00:56,558
+La característica que nos brindaba 
+esta posibilidad era que 
+
+14
+00:00:56,558 --> 00:00:58,286
+no necesitábamos
+ estar dentro de la carroza,
+
+15
+00:00:58,286 --> 00:01:02,753
+digamos que, si teníamos un error,
+ alguna de las computadoras de adentro
+
+16
+00:01:02,753 --> 00:01:05,966
+de la carroza fallaba, digamos la netbook,
+ lo podíamos resolver desde la netbook.
+
+17
+00:01:05,966 --> 00:01:11,007
+Dentro de la carroza había tres computadoras,
+ las máquinas estaban conectadas 
+
+18
+00:01:11,007 --> 00:01:13,742
+a controladores de potencia diseñados
+ por nosotros.
+
+19
+00:01:13,742 --> 00:01:19,695
+Y con toda esa experiencia, digamos, aprendí 
+que el uso de la netbook, aparte de usarla en
+
+20
+00:01:19,695 --> 00:01:24,354
+clase también la podemos usar extra clase,
+ podemos construir otro tipo de dispositivos, 
+
+21
+00:01:24,354 --> 00:01:31,104
+podríamos no solo limitarnos al uso por wifi, 
+sino que, después de finalizado 
+
+22
+00:01:31,104 --> 00:01:36,559
+el evento de carrozas, realizamos 
+otro descubrimiento que, en vez de 
+
+23
+00:01:36,559 --> 00:01:42,760
+desde la netbook emitir y controlar, 
+podíamos con la netbook controlar otra cosa.
+

@@ -1,0 +1,4069 @@
+1
+00:00:00,634 --> 00:00:03,033
+Bueno, buenos días a todos.
+
+2
+00:00:03,133 --> 00:00:05,334
+Los señores Secretarios,
+Subsecretarios,
+
+3
+00:00:05,434 --> 00:00:09,167
+autoridades nacionales
+y provinciales.
+
+4
+00:00:09,234 --> 00:00:10,167
+A los señores periodistas,
+
+5
+00:00:10,234 --> 00:00:12,133
+es muy importante que estén
+ustedes acá
+
+6
+00:00:12,200 --> 00:00:14,033
+por que vamos a hablar
+de una resolución del ENRA
+
+7
+00:00:14,100 --> 00:00:19,567
+que hace a la información
+diaria que vamos a requerir
+
+8
+00:00:19,634 --> 00:00:23,334
+de las empresas prestadoras
+de la distribución
+
+9
+00:00:23,434 --> 00:00:27,701
+en cuanto a la información
+de los cortes de suministro,
+
+10
+00:00:27,801 --> 00:00:30,567
+y por supuesto las estrategias
+que tuvo cada empresa
+
+11
+00:00:30,634 --> 00:00:35,200
+a los efectos de reponerlo.
+
+12
+00:00:35,300 --> 00:00:39,501
+Y para que los usuarios
+estén debidamente informados,
+
+13
+00:00:39,601 --> 00:00:41,567
+no solamente a través
+de los callcenters,
+
+14
+00:00:41,667 --> 00:00:44,834
+sino también a través
+de los medios de comunicación.
+
+15
+00:00:44,901 --> 00:00:50,367
+Bueno, el motivo de la charla
+de hoy es ponerlos al tanto
+
+16
+00:00:50,467 --> 00:00:53,734
+e informar sobre los avances
+de los temas
+
+17
+00:00:53,801 --> 00:00:56,467
+que habíamos dejado de alguna
+manera pendientes
+
+18
+00:00:56,567 --> 00:01:00,467
+en el curso de la charla
+del día viernes anterior.
+
+19
+00:01:00,601 --> 00:01:03,767
+Y lo que hemos hecho
+en los últimos 7 días
+
+20
+00:01:03,834 --> 00:01:05,767
+a partir de la implementación
+de las resoluciones
+
+21
+00:01:05,834 --> 00:01:11,067
+número 2 y 3 de este
+Ministerio de Planificación,
+
+22
+00:01:11,167 --> 00:01:17,033
+que tal como yo informara
+en la reunión del viernes pasado,
+
+23
+00:01:17,100 --> 00:01:22,200
+eran directivas expresas de la
+señora Presidenta de la Nación,
+
+24
+00:01:22,300 --> 00:01:25,334
+con motivo de los acontecimientos
+ocurridos en las redes
+
+25
+00:01:25,434 --> 00:01:30,234
+de distribución eléctrica durante
+la extraordinaria ola de calor
+
+26
+00:01:30,334 --> 00:01:33,334
+que sufrimos en el mes
+de Diciembre,
+
+27
+00:01:33,467 --> 00:01:39,100
+a la que hiciéramos ya relación
+y comentarios la semana pasada.
+
+28
+00:01:39,234 --> 00:01:41,367
+Al igual que lo hiciera
+el pasado viernes,
+
+29
+00:01:41,467 --> 00:01:44,267
+quiero comenzar aclarando
+que en todo momento,
+
+30
+00:01:44,367 --> 00:01:47,367
+en todo momento, y no solamente
+en la Ciudad de Buenos Aires,
+
+31
+00:01:47,434 --> 00:01:50,634
+hoy hay un comunicado
+del Gobernador de Mendoza
+
+32
+00:01:50,734 --> 00:01:54,300
+porque una compañía distribuidora
+de Mendoza hablaba
+
+33
+00:01:54,367 --> 00:01:58,534
+de cortes programados.
+En realidad están haciendo cortes
+
+34
+00:01:58,634 --> 00:02:04,100
+para poder reparar, refaccionar,
+o ampliar la línea,
+
+35
+00:02:04,200 --> 00:02:07,501
+la empresa EDEMSA.
+Y el Gobernador aclara
+
+36
+00:02:07,567 --> 00:02:11,367
+claramente que las dificultades
+que hubo en el abastecimiento
+
+37
+00:02:11,467 --> 00:02:17,133
+de energía en Mendoza
+se debieron a problemas
+
+38
+00:02:17,200 --> 00:02:20,033
+de distribución, de EDEMSA
+y de otras distribuidoras,
+
+39
+00:02:20,133 --> 00:02:23,667
+en el momento del pico
+de la hora de calor.
+
+40
+00:02:23,767 --> 00:02:26,133
+Y que siempre estuvo,
+como digo acá,
+
+41
+00:02:26,234 --> 00:02:30,133
+la energía de generación
+y de transporte disponible,
+
+42
+00:02:30,200 --> 00:02:32,033
+en city gate, o sea,
+en puerta de la ciudad,
+
+43
+00:02:32,133 --> 00:02:35,000
+para ser conectada.
+
+44
+00:02:35,133 --> 00:02:39,234
+Lo mismo paso con EDESUR
+y EDENOR.
+
+45
+00:02:39,300 --> 00:02:42,534
+Y en realidad el resto
+de las distribuidoras del país.
+
+46
+00:02:42,667 --> 00:02:45,167
+Está claro que en estos
+10 años hemos hecho un esfuerzo
+
+47
+00:02:45,234 --> 00:02:47,767
+gigantesco en materia
+de generación,
+
+48
+00:02:47,868 --> 00:02:51,334
+no lo voy a volver a repetir
+por que ya sería redundante,
+
+49
+00:02:51,400 --> 00:02:54,834
+pero 8.500 megas,
+casi el 40% del sistema.
+
+50
+00:02:54,901 --> 00:02:59,901
+Un esfuerzo gigantesco
+en materia de transporte.
+
+51
+00:03:00,067 --> 00:03:05,434
+Cuando asumimos en el 2004
+no éramos capaces de transportar
+
+52
+00:03:05,534 --> 00:03:07,400
+la energía que generábamos,
+
+53
+00:03:07,501 --> 00:03:09,501
+que en aquel momento eran
+14.000 megas en el pico.
+
+54
+00:03:09,601 --> 00:03:12,701
+Realmente había una crisis
+de transporte muy grande.
+
+55
+00:03:12,767 --> 00:03:14,234
+Eso se subsano con
+la construcción de más
+
+56
+00:03:14,300 --> 00:03:17,501
+de 5 mil kilómetros de línea.
+
+57
+00:03:17,601 --> 00:03:20,601
+Y también en relación
+a la generación,
+
+58
+00:03:20,734 --> 00:03:24,667
+ese problema se presento,
+se puso de botella,
+
+59
+00:03:24,767 --> 00:03:30,501
+ustedes recordarán en el año 2007
+en ocasión de la nevada
+
+60
+00:03:30,601 --> 00:03:34,467
+que hubo en Buenos Aires,
+que fue un hecho tan singular
+
+61
+00:03:34,567 --> 00:03:37,200
+y tan extraordinario como
+la ola de calor
+
+62
+00:03:37,267 --> 00:03:38,634
+que tuvimos en el mes
+de Diciembre.
+
+63
+00:03:38,701 --> 00:03:41,767
+Ahí estábamos justo
+en el año 2008,
+
+64
+00:03:41,834 --> 00:03:44,234
+inauguramos las centrales
+de San Martín y Belgrano.
+
+65
+00:03:44,300 --> 00:03:48,000
+Empezamos a salir y de ahí
+seguimos inaugurando.
+
+66
+00:03:48,100 --> 00:03:50,834
+Ojo, cuando digo San Martín
+y Belgrano me refiero
+
+67
+00:03:50,934 --> 00:03:58,267
+a las usinas de Rosario
+y de Campana.
+
+68
+00:03:59,467 --> 00:04:00,901
+Belgrano la de Campana
+
+69
+00:04:01,000 --> 00:04:04,634
+y San Martín la de la Ciudad
+de Rosario.
+
+70
+00:04:04,734 --> 00:04:09,734
+De no haber sido así durante
+la temporada de calor,
+
+71
+00:04:09,834 --> 00:04:12,267
+la ola de calor
+tan extraordinaria
+
+72
+00:04:12,367 --> 00:04:19,000
+que tuvimos en el mes
+de Diciembre y parte de Enero,
+
+73
+00:04:19,100 --> 00:04:20,834
+no se hubiera podido abatir
+una y otra vez
+
+74
+00:04:20,968 --> 00:04:23,000
+todos los records de demanda
+y potencia,
+
+75
+00:04:23,100 --> 00:04:25,701
+por que técnicamente
+no existe posibilidad alguna
+
+76
+00:04:25,801 --> 00:04:28,033
+de almacenar la energía.
+
+77
+00:04:28,133 --> 00:04:30,701
+La energía que está
+es la que se distribuye,
+
+78
+00:04:30,801 --> 00:04:33,467
+pero que es la que se genera,
+y es la que se transporta.
+
+79
+00:04:33,601 --> 00:04:36,701
+Se transportó, se generó,
+y las empresas distribuidoras
+
+80
+00:04:36,801 --> 00:04:40,067
+no estuvieron a la altura
+de las circunstancias,
+
+81
+00:04:40,167 --> 00:04:45,367
+no pudieron llevar adelante
+la distribución en forma normal
+
+82
+00:04:45,467 --> 00:04:47,067
+como requieren todos
+los usuarios.
+
+83
+00:04:47,133 --> 00:04:50,968
+Ni las que son privadas,
+ni las que son públicas,
+
+84
+00:04:51,067 --> 00:04:52,834
+como en el caso de Córdoba
+y Santa Fe,
+
+85
+00:04:52,934 --> 00:04:55,100
+que además tienen tarifas
+mucho más altas
+
+86
+00:04:55,200 --> 00:04:57,300
+que las que son privadas
+y reguladas
+
+87
+00:04:57,400 --> 00:05:00,133
+por el Estado Nacional,
+EDENOR y EDESUR.
+
+88
+00:05:00,200 --> 00:05:04,601
+Ni las que fueron,
+eran privadas y reguladas
+
+89
+00:05:04,734 --> 00:05:07,167
+por el Estado Nacional
+y fueron transferidas,
+
+90
+00:05:07,267 --> 00:05:09,701
+por ejemplo el caso de LAP,
+a la provincia de Buenos Aires
+
+91
+00:05:09,834 --> 00:05:11,501
+a la Ciudad de La Plata,
+
+92
+00:05:11,601 --> 00:05:14,100
+con un 85% más de tarifa
+que es lo que cobraba
+
+93
+00:05:14,234 --> 00:05:16,400
+cuando era regulada
+por nosotros,
+
+94
+00:05:16,501 --> 00:05:20,601
+tampoco puedo abastecer
+normalmente el mercado.
+
+95
+00:05:20,701 --> 00:05:26,267
+Todas estas inversiones
+que hablamos en megavatios
+
+96
+00:05:26,367 --> 00:05:31,367
+y en kilómetros de línea
+de extra alta tensión,
+
+97
+00:05:31,434 --> 00:05:34,467
+más lo que se invirtió
+en generación,
+
+98
+00:05:34,567 --> 00:05:37,901
+más los gasoductos,
+decíamos el viernes pasado,
+
+99
+00:05:38,000 --> 00:05:40,667
+significaron una inversión
+por parte del Estado Nacional
+
+100
+00:05:40,901 --> 00:05:43,767
+de 92.500 millones de pesos,
+
+101
+00:05:43,901 --> 00:05:49,934
+72.150, el 78% fueron aportados
+por el Estado Nacional.
+
+102
+00:05:50,033 --> 00:05:52,567
+Indica claramente que
+la directiva que tenemos,
+
+103
+00:05:52,667 --> 00:05:54,467
+hacia donde debemos avanzar.
+
+104
+00:05:54,567 --> 00:05:58,968
+Es decir, a capitalizar
+las inversiones que se hicieron
+
+105
+00:05:59,067 --> 00:06:02,834
+en la red, y donde evidentemente
+
+106
+00:06:02,968 --> 00:06:05,567
+el Estado Nacional puso
+la parte de león.
+
+107
+00:06:05,667 --> 00:06:09,567
+Y eso dice que de alguna forma
+vamos a seguir trabajando
+
+108
+00:06:09,634 --> 00:06:12,834
+muy fuertemente, para
+en el marco del derecho,
+
+109
+00:06:12,934 --> 00:06:14,968
+en el marco de la seguridad
+jurídica de todos,
+
+110
+00:06:15,067 --> 00:06:17,033
+de los usuarios,
+de las empresas privadas
+
+111
+00:06:17,100 --> 00:06:19,834
+que prestan el servicio,
+y del Estado Nacional,
+
+112
+00:06:19,934 --> 00:06:22,767
+podamos normalizar
+esa situación.
+
+113
+00:06:22,868 --> 00:06:25,534
+Las interrupciones
+del servicio que existieron
+
+114
+00:06:25,667 --> 00:06:29,200
+fueron por que fallaron
+los cables de distribución,
+
+115
+00:06:29,267 --> 00:06:33,901
+y los únicos responsables
+son los que prestan ese servicio.
+
+116
+00:06:33,968 --> 00:06:36,367
+En el caso de EDENOR y EDESUR,
+
+117
+00:06:36,434 --> 00:06:39,501
+las inversiones ejecutadas
+por el Gobierno Nacional
+
+118
+00:06:39,601 --> 00:06:42,534
+en el año 2003 permite
+que en los puntos
+
+119
+00:06:42,634 --> 00:06:45,000
+donde estas se conectan
+al sistema,
+
+120
+00:06:45,133 --> 00:06:47,634
+hoy existe un efecto continuo
+de energía
+
+121
+00:06:47,734 --> 00:06:49,000
+de unos 12 mil megavatios.
+
+122
+00:06:49,100 --> 00:06:51,667
+Es decir, EDENOR y EDESUR
+tienen la posibilidad
+
+123
+00:06:51,801 --> 00:06:54,634
+de conectar al Sistema Nacional
+Interconectado
+
+124
+00:06:54,734 --> 00:06:56,567
+en distintos puntos de la red,
+
+125
+00:06:56,667 --> 00:06:59,234
+por supuesto
+la jurisdicción esta,
+
+126
+00:06:59,334 --> 00:07:06,100
+para poder obtener y abastecer
+a los usuarios con 12 mil megas.
+
+127
+00:07:06,334 --> 00:07:11,734
+Que casi duplica los 2.600
+que repartían o distribuían
+
+128
+00:07:11,834 --> 00:07:14,567
+10 años atrás.
+
+129
+00:07:14,667 --> 00:07:16,234
+En el momento que se batían
+todos los records
+
+130
+00:07:16,334 --> 00:07:18,267
+y los picos de demanda
+llegaban a EDENOR y a EDESUR
+
+131
+00:07:18,367 --> 00:07:20,901
+a 9 mil megas, había 3 mil
+megavatios adicionales
+
+132
+00:07:21,000 --> 00:07:24,100
+disponibles que podrían
+haber sido distribuidos
+
+133
+00:07:24,200 --> 00:07:25,501
+a los usuarios.
+
+134
+00:07:25,901 --> 00:07:28,033
+Mientras que la demanda
+de los usuarios con corte
+
+135
+00:07:28,100 --> 00:07:30,367
+nunca superó los 40 megas.
+
+136
+00:07:30,501 --> 00:07:34,267
+Eso habla claramente
+de donde está el problema.
+
+137
+00:07:34,400 --> 00:07:36,501
+Esto también lo quiero
+volver a comentar
+
+138
+00:07:36,601 --> 00:07:38,834
+por que no solo hubo
+interrupciones
+
+139
+00:07:38,934 --> 00:07:41,767
+en la red de distribución,
+como dijimos anteriormente,
+
+140
+00:07:41,901 --> 00:07:46,400
+de la Ciudad de Buenos Aires,
+sino también en distritos
+
+141
+00:07:46,501 --> 00:07:49,467
+y en lugares en donde
+la distribución es del Estado
+
+142
+00:07:49,601 --> 00:07:54,868
+y donde se paga un 200%
+más caro,
+
+143
+00:07:54,968 --> 00:08:01,067
+y un 480% más caro el servicio
+que las empresas reguladas.
+
+144
+00:08:01,133 --> 00:08:04,000
+En Córdoba y Santa Fe
+se pagan...
+
+145
+00:08:04,100 --> 00:08:06,467
+¿Cuál es más caro,
+Córdoba o Santa Fe?
+
+146
+00:08:06,567 --> 00:08:08,801
+Córdoba, bien.
+
+147
+00:08:08,901 --> 00:08:11,667
+En Córdoba se paga
+un %480 más,
+
+148
+00:08:11,734 --> 00:08:14,334
+y en Santa Fe un 200% más.
+
+149
+00:08:14,501 --> 00:08:17,067
+Y hubo tantos o más
+cortes que acá.
+
+150
+00:08:17,167 --> 00:08:18,934
+La mayor ola de calor
+de la historia
+
+151
+00:08:19,000 --> 00:08:22,167
+que azotó durante 18 días
+consecutivos de Diciembre
+
+152
+00:08:22,267 --> 00:08:24,934
+a la Argentina, y especialmente
+
+153
+00:08:25,000 --> 00:08:26,534
+a la Ciudad Autónoma
+de Buenos Aires
+
+154
+00:08:26,601 --> 00:08:30,634
+no es justificativo alguno
+de las reiteradas negligencias
+
+155
+00:08:30,734 --> 00:08:35,200
+y desidia por parte
+de EDENOR y EDESUR.
+
+156
+00:08:35,267 --> 00:08:37,467
+En este sentido, a partir
+de la implementación
+
+157
+00:08:37,534 --> 00:08:39,934
+de las resoluciones 2 y 3
+del Ministerio de Planificación
+
+158
+00:08:40,033 --> 00:08:44,067
+Federal, firmadas por supuesto
+estos días,
+
+159
+00:08:44,167 --> 00:08:48,701
+en estos 7 días se implementaron
+por indicación de la Presidenta
+
+160
+00:08:48,767 --> 00:08:52,067
+y bajo las directivas
+del Ministerio,
+
+161
+00:08:52,167 --> 00:08:55,000
+las siguientes acciones:
+Se lanzó y se encuentra
+
+162
+00:08:55,067 --> 00:08:57,234
+en ejecución un plan
+de obras inmediato
+
+163
+00:08:57,334 --> 00:08:59,334
+concentrado primeramente
+en los barrios
+
+164
+00:08:59,434 --> 00:09:02,000
+que sufrieron mayores
+inconvenientes
+
+165
+00:09:02,100 --> 00:09:05,067
+en la Ciudad de Buenos Aires.
+
+166
+00:09:05,200 --> 00:09:07,934
+Sobretodo en el área
+de EDESUR.
+
+167
+00:09:08,000 --> 00:09:11,300
+Son 5 obras que ya empezaron
+el martes o miércoles,
+
+168
+00:09:11,400 --> 00:09:14,634
+que ustedes lo difundieron
+por distintos medios.
+
+169
+00:09:14,734 --> 00:09:17,267
+Se definió una estricta
+programación con las Cámaras
+
+170
+00:09:17,400 --> 00:09:18,934
+empresariales del sector,
+
+171
+00:09:19,033 --> 00:09:22,868
+tanto sea las contratistas
+de las empresas,
+
+172
+00:09:22,968 --> 00:09:25,467
+como los proveedores
+de materiales.
+
+173
+00:09:25,567 --> 00:09:28,567
+Y estuvimos reunidos
+trabajando aquí con Caril,
+
+174
+00:09:28,701 --> 00:09:31,667
+CAMENOFE, CIPIBIC, y ADIMRA,
+
+175
+00:09:31,767 --> 00:09:33,567
+en su rol de coordinador,
+
+176
+00:09:33,667 --> 00:09:36,434
+o sea que ADIMRA es la madre,
+la que los federa.
+
+177
+00:09:36,534 --> 00:09:38,801
+Y el compromiso de
+los contratistas
+
+178
+00:09:38,934 --> 00:09:41,601
+a acelerar la ejecución
+de las obras.
+
+179
+00:09:41,701 --> 00:09:44,267
+Así mismo nos reunimos
+con todos los intendentes
+
+180
+00:09:44,367 --> 00:09:46,767
+y/o secretarios
+de obras publicas
+
+181
+00:09:46,868 --> 00:09:50,601
+de las jurisdicciones
+que prestan el servicio
+
+182
+00:09:50,701 --> 00:09:54,534
+EDENOR y EDESUR, y se acordó
+con ellos la estrategia
+
+183
+00:09:54,634 --> 00:09:58,501
+de condenación y control
+de avance de obra.
+
+184
+00:09:58,667 --> 00:10:00,501
+Se ampliaron y se ampliarán,
+
+185
+00:10:00,634 --> 00:10:03,033
+y esto también vamos
+a sacar,
+
+186
+00:10:03,133 --> 00:10:05,267
+y es una decisión
+de la Presidenta,
+
+187
+00:10:05,434 --> 00:10:08,567
+el lunes una resolución
+del ENRE,
+
+188
+00:10:08,701 --> 00:10:12,300
+obligando a las empresas
+a aumentar un 20% más
+
+189
+00:10:12,434 --> 00:10:16,801
+las cuadrillas para
+las tareas de reparación,
+
+190
+00:10:16,934 --> 00:10:19,234
+inconvenientes e interrupciones.
+
+191
+00:10:19,367 --> 00:10:23,200
+Teniendo cada empresa
+un mínimo a partir de ahora
+
+192
+00:10:23,334 --> 00:10:25,868
+de 500 cuadrillas por empresa.
+
+193
+00:10:25,968 --> 00:10:29,767
+Esto es mayor trabajo,
+mayor cantidad de mano de obra.
+
+194
+00:10:29,868 --> 00:10:33,033
+O sea, no puede ser
+negativo para nadie,
+
+195
+00:10:33,133 --> 00:10:35,100
+ni para las empresas porque
+deben prestar
+
+196
+00:10:35,234 --> 00:10:37,234
+un servicio correcto.
+
+197
+00:10:37,367 --> 00:10:39,968
+Para el Estado,
+por que generamos trabajo.
+
+198
+00:10:40,100 --> 00:10:41,334
+Y hablamos con
+el Ministro Tomada
+
+199
+00:10:41,434 --> 00:10:44,400
+para generar también procesos
+de promoción al empleo
+
+200
+00:10:44,534 --> 00:10:46,868
+para estas contratistas
+para que puedan incorporar
+
+201
+00:10:46,968 --> 00:10:49,067
+y rápidamente, y por supuesto
+con la colaboración
+
+202
+00:10:49,167 --> 00:10:53,601
+del Sindicato Luz y Fuerza,
+el personal adecuado
+
+203
+00:10:53,701 --> 00:10:58,968
+y capacitado para generarles
+el incremento de cuadrillas.
+
+204
+00:10:59,100 --> 00:11:02,901
+Por otro lado, a través
+de los mecanismos
+
+205
+00:11:03,000 --> 00:11:05,868
+de monitoreo y video,
+esto lo hemos visto estos días,
+
+206
+00:11:05,968 --> 00:11:08,701
+fundamentalmente el Doctor Berni
+trabajó mucho en el tema
+
+207
+00:11:08,834 --> 00:11:11,467
+cuando estábamos en emergencia
+los días de más calor
+
+208
+00:11:11,567 --> 00:11:14,167
+y de más cortes, entonces
+podíamos ver a través
+
+209
+00:11:14,267 --> 00:11:17,033
+del sistema que tiene instalado
+la Policía Federal de Argentina
+
+210
+00:11:17,167 --> 00:11:19,133
+desde la cede central,
+
+211
+00:11:19,234 --> 00:11:22,033
+si realmente las cuadrillas
+estaban yendo.
+
+212
+00:11:22,167 --> 00:11:24,367
+Y esto no estamos hablando
+de que la gente iba para atrás
+
+213
+00:11:24,501 --> 00:11:26,968
+y tenían directiva... No,
+recibían la directiva
+
+214
+00:11:27,067 --> 00:11:29,868
+de las empresas, por eso
+entramos a generar
+
+215
+00:11:29,968 --> 00:11:32,467
+sistemas de controles
+cruzados.
+
+216
+00:11:32,601 --> 00:11:35,367
+Y se implementó la resolución
+del ENRE número 1
+
+217
+00:11:35,467 --> 00:11:38,234
+que se refiere a
+los resarcimientos
+
+218
+00:11:38,334 --> 00:11:40,834
+que informamos la semana
+pasada.
+
+219
+00:11:40,968 --> 00:11:43,200
+490 pesos los usuarios
+de interrupciones
+
+220
+00:11:43,300 --> 00:11:48,400
+de 12 y 24 horas, y 760
+a los que tuvieron más de 48.
+
+221
+00:11:48,501 --> 00:11:52,634
+Y 870 a los que tuvieron más,
+perdón, hasta 48,
+
+222
+00:11:52,734 --> 00:11:56,033
+y 870 los que tuvieron más.
+
+223
+00:11:56,133 --> 00:11:59,467
+Asimismo esto valores
+se incrementan un 100%
+
+224
+00:11:59,567 --> 00:12:02,033
+en los casos de usuarios
+que también han sido afectados
+
+225
+00:12:02,133 --> 00:12:06,200
+en el 2010, 2011 y 2012.
+
+226
+00:12:06,300 --> 00:12:12,701
+Todo el ENRE con el Ingeniero
+Casas en su conducción.
+
+227
+00:12:12,834 --> 00:12:15,567
+El vicepresidente,
+el Ingeniero Luis Barletta,
+
+228
+00:12:15,701 --> 00:12:17,834
+que además nuestro veedor
+técnico en EDESUR.
+
+229
+00:12:17,968 --> 00:12:21,100
+Realizarán todas las acciones
+que corresponda para que
+
+230
+00:12:21,234 --> 00:12:24,434
+hasta el último usuario
+sea debidamente resarcido.
+
+231
+00:12:24,534 --> 00:12:30,100
+De hecho, terminada esta reunión,
+además de indicar
+
+232
+00:12:30,200 --> 00:12:33,567
+a los contratistas
+de las empresas
+
+233
+00:12:33,701 --> 00:12:34,767
+que están dependiendo
+directamente
+
+234
+00:12:34,868 --> 00:12:37,234
+de la Secretaría de Coordinación
+de la Nación,
+
+235
+00:12:37,334 --> 00:12:41,000
+de acuerdo a la resolución
+numero 1, 2 perdón,
+
+236
+00:12:41,100 --> 00:12:45,467
+vamos a citar a los responsables
+de EDENOR y de EDESUR
+
+237
+00:12:45,934 --> 00:12:51,367
+aquí para darle todas
+las instrucciones en relación
+
+238
+00:12:51,501 --> 00:12:53,834
+a toda la colaboración
+que deben prestar
+
+239
+00:12:53,968 --> 00:12:58,133
+y todo el facilitamiento
+en hacer esta tarea
+
+240
+00:12:58,234 --> 00:13:00,400
+que estamos haciendo desde
+el Ministerio de Planificación
+
+241
+00:13:00,501 --> 00:13:04,300
+junto con el ENRE para
+la reconducción
+
+242
+00:13:04,367 --> 00:13:06,200
+del Fondo de Desarrollo
+e Infraestructura.
+
+243
+00:13:06,567 --> 00:13:08,667
+Es el fondo que anunciamos,
+con los recursos que anunciamos
+
+244
+00:13:08,767 --> 00:13:12,501
+acá con el Ministro Kicillof
+hace exactamente un año,
+
+245
+00:13:12,634 --> 00:13:18,234
+y que en este momento tiene
+240 millones de pesos en caja.
+
+246
+00:13:18,367 --> 00:13:21,767
+Y paralelamente también
+para informarlos
+
+247
+00:13:21,868 --> 00:13:24,167
+de la resolución que
+después va a leer la locutora
+
+248
+00:13:24,267 --> 00:13:25,734
+en relación a la publicidad
+como hablamos al principio,
+
+249
+00:13:25,834 --> 00:13:28,167
+que deben hacer de los cortes,
+donde se producen,
+
+250
+00:13:28,267 --> 00:13:30,133
+de los tiempos,
+de la reparación,
+
+251
+00:13:30,267 --> 00:13:32,234
+de las estrategias adoptadas,
+
+252
+00:13:32,334 --> 00:13:34,467
+y de las expectativas
+y perspectivas de duración
+
+253
+00:13:34,567 --> 00:13:36,834
+que tiene el corte
+en forma permanente.
+
+254
+00:13:37,000 --> 00:13:40,634
+En eso por supuesto también
+va a colaborar
+
+255
+00:13:40,868 --> 00:13:46,000
+el centro de llamados
+que conduce Marcelo Montero,
+
+256
+00:13:46,100 --> 00:13:47,834
+del Ministerio de Planificación.
+
+257
+00:13:48,167 --> 00:13:51,534
+Que va a ser no solamente
+la herramienta
+
+258
+00:13:51,667 --> 00:13:54,234
+con la ventana directa
+de comunicación nuestra
+
+259
+00:13:54,334 --> 00:13:56,267
+con los vecinos, es decir,
+
+260
+00:13:56,400 --> 00:13:58,968
+todos aquellos vecinos
+que tengan cortes de baja,
+
+261
+00:13:59,067 --> 00:14:01,801
+que no son los cortes
+que se detectan
+
+262
+00:14:01,868 --> 00:14:05,701
+en las pantallas de las mesas
+de control de las compañías.
+
+263
+00:14:05,801 --> 00:14:09,767
+Nosotros les pedimos que llamen
+a los centros de llamado.
+
+264
+00:14:09,868 --> 00:14:11,834
+Si no son atendidos
+en la empresa,
+
+265
+00:14:11,968 --> 00:14:14,367
+nuevamente después
+de la conferencia,
+
+266
+00:14:14,467 --> 00:14:17,300
+vamos a repartir el listado
+de todos los teléfonos
+
+267
+00:14:17,400 --> 00:14:20,534
+del callcenter que son
+como 40 teléfonos.
+
+268
+00:14:21,601 --> 00:14:23,367
+Perfecto. Y 20 celulares,
+
+269
+00:14:23,467 --> 00:14:27,467
+para que puedan tener
+la llamada aquí.
+
+270
+00:14:27,534 --> 00:14:33,334
+Igualmente vamos a trabajar
+con el Licenciado Barata,
+
+271
+00:14:33,467 --> 00:14:35,667
+la Secretaría de energía,
+de la gente del ENRE,
+
+272
+00:14:35,767 --> 00:14:38,434
+en la charla que vamos
+a tener inmediatamente
+
+273
+00:14:38,567 --> 00:14:40,634
+con los responsables
+de las empresas
+
+274
+00:14:40,767 --> 00:14:44,667
+para que se agilice
+al máximo también
+
+275
+00:14:44,767 --> 00:14:47,334
+la reposición y repago
+de todas aquellas personas
+
+276
+00:14:47,434 --> 00:14:50,167
+que puedan certificar
+o demostrar que han tenido
+
+277
+00:14:50,300 --> 00:14:56,534
+daño en sus instalaciones
+y en sus electrodomésticos.
+
+278
+00:14:56,634 --> 00:15:00,300
+En eso también les pido
+a la gente que no solamente
+
+279
+00:15:00,400 --> 00:15:02,234
+llamen por el tema
+de los cortes,
+
+280
+00:15:02,367 --> 00:15:06,133
+sino que llamen y nos notifiquen
+de las situaciones
+
+281
+00:15:06,267 --> 00:15:11,467
+que hemos tenido en materia
+de daños a bienes propios,
+
+282
+00:15:11,601 --> 00:15:13,434
+en los casos de
+los electrodomésticos.
+
+283
+00:15:13,534 --> 00:15:14,801
+Eso también lo vamos a hacer,
+
+284
+00:15:14,901 --> 00:15:16,467
+y vamos a tener un proceso
+de ida a y vuelta
+
+285
+00:15:16,567 --> 00:15:21,567
+muy rápido con los responsables
+de las empresas.
+
+286
+00:15:21,667 --> 00:15:23,767
+Se implemento además
+la obligatoriedad
+
+287
+00:15:23,868 --> 00:15:26,133
+de la atención personalizada
+de los centros de llamado
+
+288
+00:15:26,200 --> 00:15:29,100
+de EDENOR y EDESUR. O sea,
+vamos a hacer un centro
+
+289
+00:15:29,234 --> 00:15:33,133
+de llamado imagen y semejanza
+al que ha funcionado acá
+
+290
+00:15:33,234 --> 00:15:37,133
+y que ha sido reconocido
+por periodistas y por usuarios
+
+291
+00:15:37,234 --> 00:15:40,267
+en los medios en
+los últimos días.
+
+292
+00:15:40,367 --> 00:15:44,334
+Esto permitirá hoy que
+7 de cada 10 llamados,
+
+293
+00:15:44,400 --> 00:15:47,167
+inicialmente vamos a,
+que es lo que pueden
+
+294
+00:15:47,234 --> 00:15:49,934
+hacer ellos técnicamente,
+vamos a hacer
+
+295
+00:15:50,000 --> 00:15:52,434
+que 7 de cada 10 llamados
+sean atendidas en forma
+
+296
+00:15:52,501 --> 00:15:55,567
+personalizada con la debida
+información acerca de cuando
+
+297
+00:15:55,634 --> 00:15:57,667
+se le va a reponer
+el suministro.
+
+298
+00:15:57,901 --> 00:16:00,667
+Una semana atrás exactamente
+era al revés.
+
+299
+00:16:00,801 --> 00:16:04,267
+7 de cada 10 los atendía
+el contestador automático.
+
+300
+00:16:04,400 --> 00:16:06,000
+Y en el corto plazo,
+¿en cuanto tiempo vamos
+
+301
+00:16:06,100 --> 00:16:09,300
+a resolver para que sean
+del 100%?
+
+302
+00:16:09,400 --> 00:16:11,300
+En el curso del próximo mes,
+10 días más,
+
+303
+00:16:11,400 --> 00:16:13,634
+para que el 100% de
+las llamadas...
+
+304
+00:16:13,734 --> 00:16:16,200
+Por eso hablamos 7 porque
+vamos a ir gradualmente
+
+305
+00:16:16,300 --> 00:16:17,934
+avanzando en todos los temas
+que nos comprometimos
+
+306
+00:16:18,000 --> 00:16:20,000
+la vez pasada.
+
+307
+00:16:20,234 --> 00:16:23,534
+También se estableció
+la obligatoriedad del rellamado,
+
+308
+00:16:23,634 --> 00:16:25,567
+que es lo que la gente más
+valoraba de nuestro
+
+309
+00:16:25,667 --> 00:16:27,434
+centro de llamado, es decir,
+la persona llama
+
+310
+00:16:27,534 --> 00:16:29,567
+y dice el problema que tiene,
+
+311
+00:16:29,667 --> 00:16:31,834
+desde un corte hasta
+la heladera que se le quemó.
+
+312
+00:16:31,968 --> 00:16:34,534
+Evidentemente nosotros
+lo que debemos hacer
+
+313
+00:16:34,667 --> 00:16:37,367
+para generar la contención
+necesaria del usuario
+
+314
+00:16:37,501 --> 00:16:38,968
+que está teniendo un problema,
+
+315
+00:16:39,167 --> 00:16:42,133
+es rellamarlo en los tiempos
+lógicos que uno convenga con el
+
+316
+00:16:42,267 --> 00:16:46,601
+para rechequear que realmente
+o el servicio fue restituido,
+
+317
+00:16:46,701 --> 00:16:51,834
+o fue saldada la deuda
+inicialmente de los,
+
+318
+00:16:51,934 --> 00:16:56,934
+de las multas, que eso
+es un tema del Estado,
+
+319
+00:16:57,033 --> 00:16:58,868
+y de los resarcimientos,
+como así también
+
+320
+00:16:59,033 --> 00:17:02,467
+de los artefactos
+que fueron destituidos.
+
+321
+00:17:02,634 --> 00:17:07,968
+Eso queremos que sea lo más
+en tiempo real posible.
+
+322
+00:17:08,067 --> 00:17:12,067
+Y obviamente dentro
+del estudio y del análisis
+
+323
+00:17:12,167 --> 00:17:15,033
+de la performance contractual
+que estamos haciendo
+
+324
+00:17:15,133 --> 00:17:17,767
+con todos nuestros cuerpos
+leales y demás,
+
+325
+00:17:17,868 --> 00:17:22,567
+vamos a generar un dictamen
+definitivo del estado
+
+326
+00:17:22,667 --> 00:17:24,167
+de situación de estos
+contratos,
+
+327
+00:17:24,300 --> 00:17:26,767
+cosa que hoy todavía no lo
+podemos hacer por que
+
+328
+00:17:26,868 --> 00:17:30,934
+en general todavía hay
+resabios y recidivas
+
+329
+00:17:31,033 --> 00:17:34,133
+con problemas para algunos vecinos,
+sobretodo cortes de baja
+
+330
+00:17:34,200 --> 00:17:35,501
+que todavía no hay podido
+resolver.
+
+331
+00:17:35,567 --> 00:17:38,968
+Por eso estamos viéndolo,
+estamos charlando
+
+332
+00:17:39,100 --> 00:17:40,834
+con la procuradora del tesoro.
+
+333
+00:17:40,934 --> 00:17:46,501
+Estamos viendo la manera
+de buscar un ensamble,
+
+334
+00:17:46,601 --> 00:17:49,267
+de buscar una coordinación,
+de buscar una complementación
+
+335
+00:17:49,367 --> 00:17:54,300
+de todos los sectores
+del Estado para trabajar
+
+336
+00:17:54,400 --> 00:17:59,300
+en las sanciones definitivas
+por estas negligencias cometidas.
+
+337
+00:17:59,400 --> 00:18:03,400
+Es muy importante entonces
+la obligatoriedad del rellamado,
+
+338
+00:18:03,534 --> 00:18:06,200
+como también que el 100%
+de lo llamados
+
+339
+00:18:06,300 --> 00:18:09,334
+sean respondidos en forma
+personalizada.
+
+340
+00:18:09,434 --> 00:18:11,968
+Esto lo vamos a seguir,
+vamos a hacer controles
+
+341
+00:18:12,100 --> 00:18:14,968
+con el ENRE a partir
+de llamado que vamos a hacer
+
+342
+00:18:15,067 --> 00:18:18,267
+nosotros para ver que eso
+este funcionando.
+
+343
+00:18:18,367 --> 00:18:21,000
+Igualmente vamos a hacer
+un control permanente.
+
+344
+00:18:21,100 --> 00:18:24,734
+Vamos a habilitar un área
+especial para
+
+345
+00:18:24,868 --> 00:18:28,434
+el Centro de Informaciones
+
+346
+00:18:28,534 --> 00:18:30,367
+que tiene que tener cada
+empresa para informar
+
+347
+00:18:30,467 --> 00:18:33,067
+sobre los cortes y estrategias,
+y tácticas adoptadas
+
+348
+00:18:33,133 --> 00:18:35,467
+en cada caso para resolverlo.
+
+349
+00:18:35,567 --> 00:18:37,634
+Y eso se va a ir chequeando
+con la mesa de trabajo
+
+350
+00:18:37,734 --> 00:18:40,501
+que tiene el Subsecretario Barata
+
+351
+00:18:40,634 --> 00:18:44,100
+en relación a los contratistas
+
+352
+00:18:44,200 --> 00:18:46,200
+y el avance de las obras
+que se van a ir produciendo.
+
+353
+00:18:46,300 --> 00:18:50,133
+Y evidentemente estas obras
+van a bajar en forma singular
+
+354
+00:18:50,234 --> 00:18:52,934
+importante la cantidad
+de cortes producidos,
+
+355
+00:18:53,067 --> 00:18:54,267
+que como hablabamos la otra vez
+
+356
+00:18:54,367 --> 00:18:58,267
+en ningún momento superó
+el 1.4% de los usuarios
+
+357
+00:18:58,400 --> 00:19:00,400
+pero que sin embargo
+son muy importantes.
+
+358
+00:19:00,534 --> 00:19:06,167
+En realidad esto surge,
+por que esto es bueno comentarlo.
+
+359
+00:19:07,267 --> 00:19:14,300
+Días pasados estuvieron
+visitando la mesa de control
+
+360
+00:19:14,400 --> 00:19:18,901
+de EDESUR 3 diputados nacionales,
+Andrés Larroque, Juan Cabandié,
+
+361
+00:19:19,000 --> 00:19:23,000
+y la compañera Penacca.
+Bueno.
+
+362
+00:19:23,133 --> 00:19:28,000
+La noticia, como siempre,
+se manipuleo.
+
+363
+00:19:28,100 --> 00:19:32,200
+Se hizo operación mediática.
+
+364
+00:19:32,300 --> 00:19:36,734
+Y parecía un avallazamiento
+de 3 compañeros militantes
+
+365
+00:19:36,834 --> 00:19:38,734
+de determinada organización
+política,
+
+366
+00:19:38,801 --> 00:19:41,300
+concretamente La Campora,
+esa era la noticia.
+
+367
+00:19:41,367 --> 00:19:44,334
+Y en realidad eran
+3 diputados nacionales,
+
+368
+00:19:44,434 --> 00:19:47,367
+una diputada, perdón,
+de la ciudad,
+
+369
+00:19:47,467 --> 00:19:49,868
+la compañera Penacca,
+y 2 diputados nacionales,
+
+370
+00:19:50,100 --> 00:19:52,868
+Larroque y Cabandié que
+iba a interesarse
+
+371
+00:19:52,968 --> 00:19:55,467
+por la suerte y por el destino,
+
+372
+00:19:55,567 --> 00:19:59,200
+y de alguna manera por
+el bienestar de la gente
+
+373
+00:19:59,334 --> 00:20:01,734
+que los había votado
+en su electorado.
+
+374
+00:20:01,834 --> 00:20:06,234
+Y la nota que se veía
+en los portales, en todos,
+
+375
+00:20:06,334 --> 00:20:10,367
+en general, era que había
+un avallasamiento de La Campora
+
+376
+00:20:10,467 --> 00:20:12,300
+a la empresa EDESUR,
+después de que había dejado
+
+377
+00:20:12,400 --> 00:20:14,868
+a gran parte o alguna parte
+
+378
+00:20:14,968 --> 00:20:16,767
+de los usuarios de
+la Ciudad sin luz.
+
+379
+00:20:16,901 --> 00:20:20,534
+En esa reunión,
+en esa visita,
+
+380
+00:20:20,634 --> 00:20:27,367
+tienen un intercambio con
+una abogada corporativa
+
+381
+00:20:27,501 --> 00:20:30,667
+de la empresa EDESUR,
+Inés Justo se llama.
+
+382
+00:20:30,734 --> 00:20:36,934
+Y esta abogada obviamente
+no es directora pero estaba ahí
+
+383
+00:20:37,033 --> 00:20:41,000
+y atendió a los legisladores,
+
+384
+00:20:41,100 --> 00:20:44,534
+y les dijo que tenía expresa
+directiva del Gobierno Nacional
+
+385
+00:20:44,667 --> 00:20:48,133
+de no informar esto.
+Cosa que no es cierto.
+
+386
+00:20:48,234 --> 00:20:52,067
+Yo no sé si la Doctora Justo
+tenía directiva
+
+387
+00:20:52,167 --> 00:20:56,167
+de su superioridad,
+o no se puedo explicar bien,
+
+388
+00:20:56,300 --> 00:21:01,100
+o realmente alguien le dio
+alguna directiva de no informar.
+
+389
+00:21:01,234 --> 00:21:03,334
+De hecho, acá vivimos
+informando permanentemente
+
+390
+00:21:03,467 --> 00:21:07,400
+todos los avatares de
+los cortes y demás.
+
+391
+00:21:07,501 --> 00:21:10,801
+O sea, reivindicar la tarea
+de los legisladores
+
+392
+00:21:10,934 --> 00:21:12,467
+que estaban donde
+tenían que estar,
+
+393
+00:21:12,601 --> 00:21:14,834
+a tendiendo la problemática
+de la gente.
+
+394
+00:21:14,968 --> 00:21:16,834
+Y la política está para eso.
+
+395
+00:21:16,901 --> 00:21:21,801
+Y por supuesto el repudio
+al comentario
+
+396
+00:21:21,934 --> 00:21:25,234
+de que nosotros le impidiéramos
+a las empresas difundir
+
+397
+00:21:25,334 --> 00:21:28,267
+la cantidad de cortes,
+cuando yo ya en Atucha
+
+398
+00:21:28,400 --> 00:21:32,267
+dije e inste a los directores
+de las empresas argentinas,
+
+399
+00:21:32,367 --> 00:21:35,133
+por que los extranjeros
+directivos de EDESUR
+
+400
+00:21:35,267 --> 00:21:38,300
+estaban todos en Europa pasando
+las fiestas del 10 de Diciembre,
+
+401
+00:21:38,434 --> 00:21:43,634
+y alguno que estaba acá
+era inubicable,
+
+402
+00:21:43,767 --> 00:21:45,567
+o estaría en Punta del Este.
+
+403
+00:21:45,701 --> 00:21:49,934
+Y la verdad es que
+yo desde Atucha
+
+404
+00:21:50,067 --> 00:21:51,334
+con el Ministro Capitanich,
+
+405
+00:21:51,467 --> 00:21:54,734
+y desde aquí desde el callcenter
+el día anterior
+
+406
+00:21:54,834 --> 00:21:57,400
+los convoque a hacerse cargo
+del problema
+
+407
+00:21:57,534 --> 00:22:00,767
+y dar la cara a los usuarios,
+explicar, darles tiempo,
+
+408
+00:22:00,901 --> 00:22:03,133
+generar la expectativa,
+contener,
+
+409
+00:22:03,267 --> 00:22:04,901
+resolver el tema
+de los callcenters, bueno,
+
+410
+00:22:05,000 --> 00:22:06,934
+cosa que ya vamos a hacer,
+pero ya a través
+
+411
+00:22:07,033 --> 00:22:08,634
+de papeles firmados.
+
+412
+00:22:08,734 --> 00:22:10,834
+Y cuyos incumplimientos
+van a ser sancionados
+
+413
+00:22:10,934 --> 00:22:13,467
+y van a ser acumulativos
+a los incumplimientos
+
+414
+00:22:13,567 --> 00:22:15,567
+que ya tienen, y que todavía
+no tienen, reitero,
+
+415
+00:22:15,667 --> 00:22:18,100
+una sanción definitiva.
+
+416
+00:22:18,200 --> 00:22:20,534
+El plan de obras que se,
+vamos a leer el plan de obras.
+
+417
+00:22:20,667 --> 00:22:23,033
+El plan de obras que ya
+se encuentra en ejecución
+
+418
+00:22:23,133 --> 00:22:27,367
+contempla una inversión total
+de 3.950 millones de pesos
+
+419
+00:22:27,501 --> 00:22:30,501
+que se va a financiar con el
+fondo este de infraestructura.
+
+420
+00:22:30,634 --> 00:22:31,701
+El fondo está liquido,
+
+421
+00:22:31,801 --> 00:22:33,100
+obviamente no están
+los 3 mil millones,
+
+422
+00:22:33,200 --> 00:22:35,467
+pero hay 240, y luego,
+obviamente a medida
+
+423
+00:22:35,567 --> 00:22:38,100
+que cada uno va pagando
+sus facturas,
+
+424
+00:22:38,234 --> 00:22:42,968
+el fondo va teniendo liquidez,
+o sea tiene potencialidad.
+
+425
+00:22:43,067 --> 00:22:44,434
+Vamos a trabajar seguramente
+con el Banco Nación.
+
+426
+00:22:44,534 --> 00:22:47,133
+Tiene posibilidad financiera
+y demás para poder avanzar
+
+427
+00:22:47,267 --> 00:22:50,267
+rápidamente las obras
+en función de la capacidad
+
+428
+00:22:50,367 --> 00:22:52,734
+operativa de las empresas.
+
+429
+00:22:52,868 --> 00:22:55,667
+Que con esto, y con lo que
+hemos hablado también la ENRE
+
+430
+00:22:55,734 --> 00:22:57,901
+y demás, van a multiplicar
+esfuerzos por que
+
+431
+00:22:58,000 --> 00:23:01,567
+ven un horizonte de trabajo
+importante.
+
+432
+00:23:01,667 --> 00:23:05,868
+Y 1900 millones para EDENOR.
+
+433
+00:23:06,033 --> 00:23:07,834
+El mejor auditor que va
+a tener el plan de obra
+
+434
+00:23:07,934 --> 00:23:10,400
+van a ser los propios vecinos
+que va a observar en las calles
+
+435
+00:23:10,501 --> 00:23:12,033
+la apertura de veredas para
+la instalación
+
+436
+00:23:12,133 --> 00:23:15,267
+de los nuevos cables de mayor
+capacidad de transmisión.
+
+437
+00:23:15,400 --> 00:23:18,367
+La repotenciación y renovación
+de los cables actuales.
+
+438
+00:23:18,567 --> 00:23:20,133
+Estaciones transformadoras
+nuevas.
+
+439
+00:23:20,267 --> 00:23:21,434
+Obras para seccionar la red
+
+440
+00:23:21,534 --> 00:23:25,400
+y los trabajos de reparación
+y construcción.
+
+441
+00:23:25,501 --> 00:23:28,100
+En este caso esto, claro,
+vamos a reiterar,
+
+442
+00:23:28,234 --> 00:23:30,567
+que en los barrios donde
+hay más problemas
+
+443
+00:23:30,634 --> 00:23:31,367
+de esta naturaleza,
+
+444
+00:23:31,501 --> 00:23:37,267
+donde se construyeron
+conjuntos de torre.
+
+445
+00:23:37,367 --> 00:23:42,467
+Hoy estaba haciendo con
+mi vocero un recuento
+
+446
+00:23:42,567 --> 00:23:46,033
+por que ha habido,
+hubo un comentario
+
+447
+00:23:46,133 --> 00:23:49,467
+respecto a una torre
+construida en Vicente López
+
+448
+00:23:49,601 --> 00:23:51,234
+que trajo inconvenientes
+a los vecinos
+
+449
+00:23:51,334 --> 00:23:52,601
+que están mas abajo.
+
+450
+00:23:52,701 --> 00:23:54,701
+Antes no había problemas
+y ahora los problemas están.
+
+451
+00:23:54,767 --> 00:23:56,467
+El problema no es
+del paseo costero,
+
+452
+00:23:56,567 --> 00:23:58,167
+el problema son los edificios
+que se construyeron
+
+453
+00:23:58,267 --> 00:24:00,167
+en la vereda del paseo.
+
+454
+00:24:00,267 --> 00:24:02,133
+Bueno, veíamos también,
+y esto no es sinónimo
+
+455
+00:24:02,200 --> 00:24:03,968
+de cargar las tintas,
+por que no...
+
+456
+00:24:04,067 --> 00:24:06,901
+La etapa 2, la fase 2,
+o sea las nuevas torres
+
+457
+00:24:07,000 --> 00:24:08,734
+que todavía no se empezaron
+a construir,
+
+458
+00:24:08,834 --> 00:24:13,601
+el día 13 de Octubre
+el diario La Nación
+
+459
+00:24:13,701 --> 00:24:15,634
+ponía que lo iba a hacer
+la empresa Caputo,
+
+460
+00:24:15,734 --> 00:24:18,334
+que fue el gran desarrollador
+
+461
+00:24:18,434 --> 00:24:20,234
+aquí de la Ciudad
+de Buenos Aires.
+
+462
+00:24:20,367 --> 00:24:22,567
+Pero esto no busca hallar
+culpa de nadie, ni justificativos,
+
+463
+00:24:22,667 --> 00:24:27,200
+simplemente sabemos que
+se ha intensificado la ciudad,
+
+464
+00:24:27,300 --> 00:24:29,634
+en Caballito, en Flores,
+en Villa Mitre, en Villa Rita,
+
+465
+00:24:29,734 --> 00:24:33,167
+y ahí tenemos que ir
+y trabajar, y hacer las redes.
+
+466
+00:24:33,267 --> 00:24:35,567
+No cargar las culpas
+sobre otro.
+
+467
+00:24:35,667 --> 00:24:37,033
+Pero tampoco dejarlo
+de reconocer.
+
+468
+00:24:37,133 --> 00:24:40,067
+Por otro lado, el diario
+La Nación, hablando
+
+469
+00:24:40,167 --> 00:24:42,901
+de presiones mediáticas,
+era el principal critico
+
+470
+00:24:43,000 --> 00:24:47,734
+del Intendente García
+
+471
+00:24:47,834 --> 00:24:50,067
+cuando impulso el desarrollo
+costero
+
+472
+00:24:50,167 --> 00:24:52,033
+y ese desarrollo urbano
+e inmobiliario.
+
+473
+00:24:52,100 --> 00:24:54,868
+Bueno, resulta que uno
+de los habitantes
+
+474
+00:24:55,000 --> 00:24:57,534
+de esas torres es el diario
+La Nación que se mudó ahí.
+
+475
+00:24:57,634 --> 00:24:59,033
+Pero bueno, cosas que pasan.
+
+476
+00:24:59,133 --> 00:25:01,868
+Ahora parece que está
+todo bien.
+
+477
+00:25:01,968 --> 00:25:04,000
+Inclusive ponderaba
+la adjudicación a Caputo
+
+478
+00:25:04,100 --> 00:25:05,834
+de las torres, y ese día
+mostraban
+
+479
+00:25:05,934 --> 00:25:07,234
+que se habían mudado ahí.
+
+480
+00:25:07,334 --> 00:25:10,167
+El plan subsanará
+los inconvenientes actuales,
+
+481
+00:25:10,267 --> 00:25:12,133
+y a su vez se ampliaría
+el sistema por que
+
+482
+00:25:12,234 --> 00:25:14,868
+los incrementos de demanda
+llegaron para quedarse.
+
+483
+00:25:14,968 --> 00:25:16,300
+Lo que decíamos recién.
+
+484
+00:25:16,400 --> 00:25:18,634
+A pesar que a muchos
+no les guste,
+
+485
+00:25:18,734 --> 00:25:21,868
+marca el desarrollo económico
+y mejora la calidad de vida
+
+486
+00:25:21,968 --> 00:25:24,067
+con un fenomenal proceso
+de inclusión.
+
+487
+00:25:24,133 --> 00:25:26,067
+Hay que resolver, hay que...
+
+488
+00:25:26,133 --> 00:25:29,934
+No que la gente viva peor,
+o pague mucho más.
+
+489
+00:25:30,000 --> 00:25:31,367
+Hay que poner un cable
+más grueso,
+
+490
+00:25:31,467 --> 00:25:33,701
+hay que ejecutar lo que
+las empresas no ejecutaron.
+
+491
+00:25:33,834 --> 00:25:37,000
+Y es lo que de alguna manera
+nos vamos a hacer cargo nosotros.
+
+492
+00:25:37,133 --> 00:25:43,200
+(Aplausos)
+
+493
+00:25:43,300 --> 00:25:46,667
+Hoy, en el año 2013,
+y con un crecimiento demográfico
+
+494
+00:25:46,801 --> 00:25:53,834
+del 10% en los últimos 10 años,
+los hogares porteños, porteños,
+
+495
+00:25:53,934 --> 00:25:57,667
+demandan un 143% más
+de energía eléctrica
+
+496
+00:25:57,767 --> 00:26:00,467
+que 10 años atrás.
+¿Quién lo hizo?
+
+497
+00:26:00,567 --> 00:26:03,667
+Es decir, había el uno
+que estaba con problemas de luz
+
+498
+00:26:03,801 --> 00:26:05,267
+y era muy grave,
+un tema muy serio.
+
+499
+00:26:05,367 --> 00:26:07,934
+¿Pero quien los hizo?
+Los hizo está década ganada,
+
+500
+00:26:08,033 --> 00:26:10,300
+no fue de otra manera.
+
+501
+00:26:10,400 --> 00:26:12,634
+Y los artefactos
+y electrodomésticos,
+
+502
+00:26:12,734 --> 00:26:14,701
+y las posibilidades
+crediticias para adquirirlos,
+
+503
+00:26:14,834 --> 00:26:16,701
+y la fabricación
+de los mismos en el país,
+
+504
+00:26:16,834 --> 00:26:18,133
+y con métodos promociónales,
+
+505
+00:26:18,234 --> 00:26:20,133
+y los puestos industriales
+que se ganaron,
+
+506
+00:26:20,234 --> 00:26:21,801
+los hizo este modelo de inclusión
+
+507
+00:26:21,901 --> 00:26:27,701
+que encabezaron Néstor
+y Cristina.
+
+508
+00:26:27,767 --> 00:26:30,667
+Estos números, reitero,
+por que hay que decirlo,
+
+509
+00:26:30,734 --> 00:26:32,501
+no resisten el menor análisis.
+
+510
+00:26:32,601 --> 00:26:35,934
+Y marcan claramente que
+en el año 2003
+
+511
+00:26:36,033 --> 00:26:38,400
+existía una demanda
+excluida del sistema
+
+512
+00:26:38,501 --> 00:26:43,000
+por que el modelo neoliberal
+se basaba en que la energía
+
+513
+00:26:43,133 --> 00:26:46,467
+era un privilegio,
+únicamente para los argentinos
+
+514
+00:26:46,567 --> 00:26:48,567
+que pudieran pagarla
+en dólares.
+
+515
+00:26:48,701 --> 00:26:51,033
+Tal es lo que plantean
+muchos colegas de ustedes,
+
+516
+00:26:51,167 --> 00:26:54,901
+Willy Kohan, bueno, Montamat
+parece que también es periodista.
+
+517
+00:26:55,000 --> 00:26:58,033
+Mientras se construía gasoductos
+y líneas eléctricas
+
+518
+00:26:58,100 --> 00:27:01,601
+incompatibles con el sistema
+nacional para exportar a Chile
+
+519
+00:27:01,734 --> 00:27:03,868
+energía a precio vil.
+
+520
+00:27:03,968 --> 00:27:06,801
+De ninguna manera es una opción
+para esta gestión de Gobierno
+
+521
+00:27:06,901 --> 00:27:11,033
+reducir la demanda,
+aplicando tarifas en dólares,
+
+522
+00:27:11,133 --> 00:27:13,300
+y precios prohibitivos para
+engrosar la cerca
+
+523
+00:27:13,400 --> 00:27:15,801
+de las empresas teniendo
+la misma cantidad de problemas.
+
+524
+00:27:15,934 --> 00:27:20,000
+En el año 2000, me vas
+a corregir vos Luis
+
+525
+00:27:20,100 --> 00:27:22,434
+cuando fue el corte grande
+que tuvo EDESUR acá
+
+526
+00:27:22,501 --> 00:27:25,367
+en la época del gobierno
+de la Alianza.
+
+527
+00:27:25,467 --> 00:27:31,100
+1999, recién asumido,
+estuvieron 25 días sin luz.
+
+528
+00:27:31,200 --> 00:27:35,601
+Era la empresa EDESUR
+con tarifas, Azopardo,
+
+529
+00:27:35,734 --> 00:27:41,133
+con tarifas más caras
+de la región.
+
+530
+00:27:41,234 --> 00:27:43,634
+O sea, hubo siempre problemas.
+
+531
+00:27:43,767 --> 00:27:47,901
+Cuando se inundo la Ciudad
+hubo 270 mil clientes sin luz
+
+532
+00:27:48,033 --> 00:27:50,000
+más de una semana,
+producto de la inundación
+
+533
+00:27:50,100 --> 00:27:51,801
+de la Ciudad
+y de sus Cámaras.
+
+534
+00:27:51,901 --> 00:27:55,267
+Esto fue el 2 de Abril
+del 2012,
+
+535
+00:27:55,367 --> 00:27:57,701
+no fue hace 50 años.
+
+536
+00:27:57,767 --> 00:28:00,667
+EDESUR y EDENOR lo sabían
+claramente.
+
+537
+00:28:00,767 --> 00:28:03,400
+En sus redes podían ver
+en tiempo real como la demanda
+
+538
+00:28:03,467 --> 00:28:05,968
+en la última década crecía
+el 7% anual.
+
+539
+00:28:06,033 --> 00:28:07,334
+Esto también lo vamos
+a tener en cuenta
+
+540
+00:28:07,434 --> 00:28:09,467
+en las evaluaciones
+que estamos haciendo.
+
+541
+00:28:09,567 --> 00:28:11,968
+Mientras en la década previa
+al 2003 lo hacía el 3%,
+
+542
+00:28:12,067 --> 00:28:15,167
+y también el pico de la demanda
+potencia conjunto EDENOR
+
+543
+00:28:15,267 --> 00:28:20,300
+y EDESUR, mientras entre el 93'
+y el 2003 creció 1.200 megas,
+
+544
+00:28:20,467 --> 00:28:25,634
+en los últimos 10 años
+creció 4.500 megas,
+
+545
+00:28:25,734 --> 00:28:27,701
+exactamente tres veces más.
+
+546
+00:28:27,834 --> 00:28:30,200
+En el caso de EDESUR
+los 2.050 millones
+
+547
+00:28:30,334 --> 00:28:33,868
+a invertir en forma inmediata
+consisten en una primera etapa
+
+548
+00:28:33,968 --> 00:28:41,200
+de 208 obras concentradas en
+los barrios de Villa Santa Rita,
+
+549
+00:28:41,300 --> 00:28:43,501
+Flores, Floresta,
+Villa Devoto, Liniers,
+
+550
+00:28:43,634 --> 00:28:45,834
+Mataderos, Caballito,
+Villa Crespo, Villa Mitre,
+
+551
+00:28:46,000 --> 00:28:49,033
+Lugano, Parque Patricios,
+Barracas, La Boca,
+
+552
+00:28:49,133 --> 00:28:51,334
+Montserrat, Almagro, Boedo,
+y Balvanera
+
+553
+00:28:51,467 --> 00:28:53,667
+de la Ciudad Autónoma
+de Bueno Aires.
+
+554
+00:28:53,801 --> 00:28:59,667
+Todos estos, localizaciones,
+después va a ser entregada
+
+555
+00:28:59,801 --> 00:29:04,334
+a los periodistas...
+¿Dónde está?
+
+556
+00:29:04,434 --> 00:29:06,701
+Va a ser entregada
+a los compañeros periodistas
+
+557
+00:29:06,801 --> 00:29:10,801
+con el lugar exacto de la obra
+para que los vecinos
+
+558
+00:29:10,901 --> 00:29:12,067
+puedan ir y ver.
+
+559
+00:29:12,133 --> 00:29:13,667
+Y sin van despacio que nos
+llamen al callcenter
+
+560
+00:29:13,734 --> 00:29:16,367
+y nosotros vamos a apurar.
+Esto es fundamental.
+
+561
+00:29:17,000 --> 00:29:19,667
+Ahí va a estar la intervención
+concreta del Estado,
+
+562
+00:29:19,801 --> 00:29:23,234
+operando y controlando.
+
+563
+00:29:23,334 --> 00:29:25,234
+Barletta con el ENRE
+
+564
+00:29:25,300 --> 00:29:28,734
+y Barata con el Ministerio
+de Planificación.
+
+565
+00:29:28,801 --> 00:29:30,200
+Y en los partidos
+de Gran Buenos Aires,
+
+566
+00:29:30,267 --> 00:29:32,501
+Lanús, Quilmes, Berazategui,
+Avellaneda, Ezeiza,
+
+567
+00:29:32,601 --> 00:29:34,667
+Cañuelas, San Vicente,
+Presidente Perón
+
+568
+00:29:34,734 --> 00:29:36,334
+y Almirante Brown.
+
+569
+00:29:36,467 --> 00:29:38,801
+Todas estas zonas fueron
+las que mayores inconvenientes
+
+570
+00:29:38,901 --> 00:29:43,400
+tuvieron en el sistema eléctrico
+por la negligencia de EDESUR.
+
+571
+00:29:43,534 --> 00:29:46,400
+En el caso de EDENOR
+los 1900 millones de pesos
+
+572
+00:29:46,567 --> 00:29:49,934
+a invertir consistirán
+en una primera etapa
+
+573
+00:29:50,067 --> 00:29:53,567
+de 146 obras concentradas
+principalmente en los barrios
+
+574
+00:29:53,701 --> 00:29:56,467
+de Retiro, Colegiales,
+Villa Pueyrredón, Agronomía,
+
+575
+00:29:56,567 --> 00:30:00,033
+Urquiza, Ortúzar, Chacarita,
+Saavedra, Coghlan,
+
+576
+00:30:00,133 --> 00:30:02,133
+Núñez y Belgrano de la
+Ciudad de Buenos Aires.
+
+577
+00:30:02,367 --> 00:30:04,100
+Y los partidos del
+Gran Bueno Aires,
+
+578
+00:30:04,234 --> 00:30:06,501
+Moreno, Merlo, Ituzzaingó,
+Hurlinghan, Morón,
+
+579
+00:30:06,601 --> 00:30:09,834
+La Matanza, Tres de Febrero,
+San Martín, Malvinas,
+
+580
+00:30:09,934 --> 00:30:13,000
+Marcos Paz, San Fernando,
+San Miguel, José C. Paz,
+
+581
+00:30:13,133 --> 00:30:16,868
+Pilar, General Rodríguez,
+Tigre, Escobar y Vicente López.
+
+582
+00:30:17,000 --> 00:30:19,434
+Todas estas obras también
+fueron las que mayores
+
+583
+00:30:19,534 --> 00:30:22,267
+inconvenientes tuvieron
+en el sistema eléctrico.
+
+584
+00:30:22,400 --> 00:30:25,801
+En este caso por negligencia
+de EDENOR.
+
+585
+00:30:25,901 --> 00:30:29,701
+Que conste como poder consedente
+y acreedor prendario
+
+586
+00:30:29,801 --> 00:30:32,000
+el Estado Nacional ejerció
+siempre el derecho
+
+587
+00:30:32,100 --> 00:30:33,901
+a solicitar información,
+
+588
+00:30:34,033 --> 00:30:36,267
+la cual muchas veces fue
+retazada
+
+589
+00:30:36,400 --> 00:30:38,634
+y obligo a intimaciones
+reiteradas
+
+590
+00:30:38,734 --> 00:30:42,567
+que llevo adelante Luis Barletta
+en el caso EDESUR.
+
+591
+00:30:42,667 --> 00:30:47,067
+El ENRE por ese motivo,
+apareció esa figura de EDENOR
+
+592
+00:30:47,200 --> 00:30:51,133
+que es la que lleva Luis
+y que ahora con la intervención
+
+593
+00:30:51,267 --> 00:30:55,400
+de Roberto y tuya también,
+Luis, en el fondo este,
+
+594
+00:30:55,501 --> 00:30:56,601
+en el control del fondo,
+
+595
+00:30:56,734 --> 00:30:59,934
+además de poder intimar
+y poder multar,
+
+596
+00:31:00,067 --> 00:31:02,701
+multas que generalmente
+se apelan y van a los tribunales.
+
+597
+00:31:02,801 --> 00:31:04,901
+Y también les pido a
+los periodistas que chequeen
+
+598
+00:31:04,968 --> 00:31:07,334
+los amparos y estas cuestiones
+
+599
+00:31:07,434 --> 00:31:09,501
+para que las multas
+sean efectivas.
+
+600
+00:31:09,601 --> 00:31:11,934
+Incluso durante el año 2003
+no hubo ningún amparo
+
+601
+00:31:12,000 --> 00:31:15,234
+para los usuarios
+durante los cortes.
+
+602
+00:31:15,334 --> 00:31:16,901
+Vamos a ver cuanto tienen
+ellos ahora
+
+603
+00:31:17,000 --> 00:31:19,300
+para no pagar las multas.
+Vamos a verlo.
+
+604
+00:31:19,400 --> 00:31:22,067
+Estudiémoslo. Sigámoslo.
+Investiguemos,
+
+605
+00:31:22,167 --> 00:31:24,734
+como dije la semana pasada,
+el caso de los grandes
+
+606
+00:31:24,834 --> 00:31:26,834
+desarrolladores inmobiliarios
+de la ciudad.
+
+607
+00:31:26,934 --> 00:31:31,133
+Hasta ahora no he visto
+un solo pedido de informe
+
+608
+00:31:31,267 --> 00:31:35,501
+a la Legislatura de Buenos Aires
+en relación al...
+
+609
+00:31:35,601 --> 00:31:38,601
+Comentario, yo no dije que
+era ni siquiera una denuncia,
+
+610
+00:31:38,667 --> 00:31:40,334
+un comentario objetivo
+de la realidad.
+
+611
+00:31:40,434 --> 00:31:43,367
+Y la verdad es que bastantes
+pocas notas periodísticas,
+
+612
+00:31:43,834 --> 00:31:46,267
+salvando honrosas excepciones,
+
+613
+00:31:46,367 --> 00:31:47,734
+como el caso de Bernal,
+Victo Hugo,
+
+614
+00:31:47,801 --> 00:31:50,234
+que lo he visto que,
+tocaron el tema por lo menos.
+
+615
+00:31:50,334 --> 00:31:56,200
+Uno puedo estar más o menos
+de acuerdo pero el tema se tocó.
+
+616
+00:31:56,267 --> 00:31:58,834
+Creo que da para estudiarlo
+y para verla en profundidad
+
+617
+00:31:58,901 --> 00:32:00,934
+las causas de las cosas
+porque sino es muy fácil
+
+618
+00:32:01,033 --> 00:32:03,868
+decir "se busca el chivo
+emisario" y todo el tiempo...
+
+619
+00:32:04,033 --> 00:32:06,400
+Ni una sola denuncia.
+
+620
+00:32:06,467 --> 00:32:09,834
+Ni un solo comentario
+de nadie en relación...
+
+621
+00:32:09,934 --> 00:32:12,167
+Institucionalmente digo.
+
+622
+00:32:12,234 --> 00:32:14,801
+Bueno, habrá muchos que
+están de vacaciones.
+
+623
+00:32:14,868 --> 00:32:17,300
+Espero que cuando vuelvan
+lo tomen.
+
+624
+00:32:17,400 --> 00:32:21,868
+EDENOR y EDESUR durante
+este tiempo tuvieron
+
+625
+00:32:21,968 --> 00:32:25,033
+capacidad financiera
+para hacer las obras.
+
+626
+00:32:25,100 --> 00:32:28,334
+Lo que pasa que buscaban
+destinar esos fondos
+
+627
+00:32:28,467 --> 00:32:31,634
+a otros gastos que nosotros
+nunca le permitimos.
+
+628
+00:32:31,734 --> 00:32:34,701
+Vía EDENOR, perdón,
+del ENRE,
+
+629
+00:32:34,868 --> 00:32:37,200
+vía desde la Secretaría
+de Energía,
+
+630
+00:32:37,300 --> 00:32:39,901
+y vi de la Secretaría
+de Coordinación.
+
+631
+00:32:40,133 --> 00:32:42,467
+Quedó claramente demostrado
+el desinterés
+
+632
+00:32:42,601 --> 00:32:44,434
+de las dos empresas por
+realizar obras
+
+633
+00:32:44,501 --> 00:32:47,367
+con los 200 millones de pesos
+que no ejecutaron
+
+634
+00:32:47,434 --> 00:32:49,567
+durante el año, y estando
+acreditados y disponibles
+
+635
+00:32:49,634 --> 00:32:52,801
+en el fideicomiso,
+y fehacientemente intimados
+
+636
+00:32:52,868 --> 00:32:57,400
+por el ENRE. Ahora serán
+aplicados desde oficio,
+
+637
+00:32:57,501 --> 00:32:58,801
+a través de la resolución 3,
+
+638
+00:32:58,868 --> 00:33:01,901
+a través de la Secretaría
+de Coordinación del Ministerio.
+
+639
+00:33:01,968 --> 00:33:03,667
+Y lo hago a través de
+la Secretaría de Coordinación
+
+640
+00:33:03,767 --> 00:33:07,000
+por que ya estamos hablando
+Joselo, con Cameron,
+
+641
+00:33:07,100 --> 00:33:10,400
+con estadías que nos
+puedan ayudar.
+
+642
+00:33:10,501 --> 00:33:15,534
+Todo el Gobierno atrás
+de este tema el cual pidió
+
+643
+00:33:15,634 --> 00:33:17,734
+la Presidenta para que
+esta palabra FOCEDE
+
+644
+00:33:17,801 --> 00:33:20,200
+deje de ser una sigla
+inentendible y se transforme
+
+645
+00:33:20,300 --> 00:33:23,000
+en un esquema de solución
+para la gente que tuvo
+
+646
+00:33:23,100 --> 00:33:26,267
+tan graves problemas por que
+hubo quien teniendo los fondos,
+
+647
+00:33:26,367 --> 00:33:29,167
+irresponsablemente
+no los ejecutó.
+
+648
+00:33:29,267 --> 00:33:32,300
+Ahora van a ser aplicados
+en su totalidad las obras,
+
+649
+00:33:32,367 --> 00:33:34,901
+y los que vengan creciendo,
+es un fondo que es dinámico,
+
+650
+00:33:35,033 --> 00:33:38,434
+se van a aplicar y se van a usar
+inclusive en términos financieros
+
+651
+00:33:38,534 --> 00:33:44,868
+y vamos a hablar en ese sentido
+con el Banco Nación.
+
+652
+00:33:45,033 --> 00:33:47,334
+Es de mañana que quede
+garantizada la efectividad
+
+653
+00:33:47,400 --> 00:33:50,467
+de las inversiones para una
+prestación normal de suministro.
+
+654
+00:33:50,567 --> 00:33:54,501
+Quiero volver a reconocer,
+porque estos días que pasaron
+
+655
+00:33:54,567 --> 00:33:57,534
+también hubo cortes que...
+
+656
+00:33:57,601 --> 00:34:00,667
+Hubo algún corte también
+por algún otro motivo.
+
+657
+00:34:00,767 --> 00:34:05,033
+En plena época de las fiestas
+y fuera de todo limite humano
+
+658
+00:34:05,133 --> 00:34:07,701
+en muchos casos, a los
+trabajadores de Luz y Fuerza,
+
+659
+00:34:07,801 --> 00:34:09,901
+de la Unión Obrera
+de la Construcción,
+
+660
+00:34:10,000 --> 00:34:13,000
+a los del callcenter
+del Ministerio que la verdad
+
+661
+00:34:13,133 --> 00:34:15,634
+dejaron el alma y la vida ahí,
+
+662
+00:34:15,734 --> 00:34:18,834
+y a todos en general,
+los que pusieron esfuerzo
+
+663
+00:34:18,968 --> 00:34:22,901
+para resolverlo. También
+al Ministerio de Seguridad,
+
+664
+00:34:23,100 --> 00:34:26,167
+al que vamos además a usar
+porque van a servir de contralor
+
+665
+00:34:26,300 --> 00:34:29,200
+para que las cuadrillas,
+cuando nosotros dispongamos
+
+666
+00:34:29,334 --> 00:34:31,868
+que vayan, más allá que eso
+no esta en el FOCEDE,
+
+667
+00:34:31,968 --> 00:34:34,901
+vamos a coordinarlo desde
+la coordinación que lleva
+
+668
+00:34:35,000 --> 00:34:37,801
+adelante Roberto junto con
+el resto del Ministerio
+
+669
+00:34:37,901 --> 00:34:40,267
+para que cuando haya problemas
+en un lugar,
+
+670
+00:34:40,400 --> 00:34:42,167
+y sea de mantenimiento
+y de cuadrillas,
+
+671
+00:34:42,300 --> 00:34:43,667
+esas cuadrillas estén.
+
+672
+00:34:43,767 --> 00:34:46,968
+Y el ENRE va a verificar
+que además sean 500.
+
+673
+00:34:47,100 --> 00:34:49,100
+Y vamos a sacar la resolución
+del lunes del ENRE
+
+674
+00:34:49,200 --> 00:34:53,167
+para que sean 500 y no 400.
+
+675
+00:34:53,334 --> 00:34:55,601
+También agradecer al
+Ministerio de Seguridad,
+
+676
+00:34:55,767 --> 00:34:57,667
+a la Ministra, y demás.
+
+677
+00:34:57,767 --> 00:35:01,234
+No debe caber la menor duda
+que todas estas medidas
+
+678
+00:35:01,334 --> 00:35:02,501
+que por indicación
+de la Presidenta
+
+679
+00:35:02,567 --> 00:35:06,100
+estamos implementando,
+permitirán en futuro,
+
+680
+00:35:06,234 --> 00:35:09,000
+que los usuarios no vuelvan
+a pasar una situación
+
+681
+00:35:09,100 --> 00:35:12,200
+como la que se pasó,
+más allá de la ola de calor
+
+682
+00:35:12,334 --> 00:35:14,968
+extraordinaria, como fue
+la nevada en el 2007,
+
+683
+00:35:15,067 --> 00:35:17,534
+como fue en la inundación inclusive,
+
+684
+00:35:17,934 --> 00:35:21,033
+a extremos de servicio como
+ocurrió Diciembre pasado.
+
+685
+00:35:21,200 --> 00:35:25,000
+Todo otro corte y toda otra
+irregularidad que se cometa
+
+686
+00:35:25,100 --> 00:35:28,734
+en los próximos días
+no va a tener nuevo expediente,
+
+687
+00:35:28,834 --> 00:35:31,767
+va a ser incorporado
+al expediente que está
+
+688
+00:35:31,868 --> 00:35:37,634
+a los efectos de avanzar
+en las sanciones definitivas
+
+689
+00:35:37,767 --> 00:35:40,934
+que correspondan. Quien afirme
+que en estos 10 años
+
+690
+00:35:41,033 --> 00:35:43,400
+la Argentina perdió,
+en abastecimiento energético,
+
+691
+00:35:43,534 --> 00:35:47,534
+está argumentando falazmente
+para tragiversar la realidad
+
+692
+00:35:47,634 --> 00:35:51,634
+y desinformar. En virtual
+abastecimiento energético
+
+693
+00:35:51,701 --> 00:35:55,467
+previo al año 2013,
+daban con tarifas dolarizadas,
+
+694
+00:35:55,534 --> 00:35:58,033
+la industria quebrada por
+falta de competitividad.
+
+695
+00:35:58,100 --> 00:36:02,767
+54% de pobreza.
+25% de desocupación.
+
+696
+00:36:02,834 --> 00:36:05,934
+50% de los hogares sin gas.
+
+697
+00:36:06,067 --> 00:36:08,667
+La mitad de las provincias
+sin conexión a la red.
+
+698
+00:36:08,767 --> 00:36:10,901
+No hay lugar a duda que
+si el Estado Nacional
+
+699
+00:36:11,000 --> 00:36:13,334
+no hubiese construido las obras
+e infraestructura
+
+700
+00:36:13,434 --> 00:36:15,934
+para acompañar los crecimientos
+potenciales de demanda
+
+701
+00:36:16,000 --> 00:36:19,868
+que se produjeron entre 2003
+y 2013, hubiera sido
+
+702
+00:36:20,000 --> 00:36:24,067
+absolutamente imposible batir
+todos estos records.
+
+703
+00:36:24,167 --> 00:36:27,601
+El pasado viernes dentro
+de la conferencia informe
+
+704
+00:36:27,734 --> 00:36:31,601
+que el Ministerio
+de Planificación,
+
+705
+00:36:31,667 --> 00:36:33,834
+la Secretaría de Energía,
+el Ente Regulador,
+
+706
+00:36:33,934 --> 00:36:35,834
+se encontraban analizando
+el cumplimiento del contrato
+
+707
+00:36:35,901 --> 00:36:38,767
+de la concesión por parte
+de EDENOR y EDESUR,
+
+708
+00:36:38,934 --> 00:36:41,334
+que sigue bajo jurisdicción
+nacional.
+
+709
+00:36:41,434 --> 00:36:45,534
+En ese sentido, seguimos
+trabajando, seguimos avanzando,
+
+710
+00:36:45,601 --> 00:36:50,234
+seguimos valuando en el marco
+del respeto,
+
+711
+00:36:50,300 --> 00:36:52,868
+de la firmeza, como dije
+la semana pasada.
+
+712
+00:36:52,934 --> 00:36:56,767
+Y van a pasar los tiempos
+necesarios para que
+
+713
+00:36:56,834 --> 00:36:59,701
+la seguridad jurídica
+de nadie no se vea afectada.
+
+714
+00:36:59,767 --> 00:37:01,601
+Ni la de los usuarios
+en primer lugar,
+
+715
+00:37:01,701 --> 00:37:03,434
+ni la del Estado
+en segundo lugar.
+
+716
+00:37:03,534 --> 00:37:06,367
+Que el Estado ponga en valor
+lo que invirtió
+
+717
+00:37:06,434 --> 00:37:08,400
+en términos de capitalización,
+
+718
+00:37:08,501 --> 00:37:12,801
+en una tarea que vamos
+a avanzar sin ruedo.
+
+719
+00:37:12,868 --> 00:37:16,601
+Y trabajar fuertemente
+con los dictámenes jurídicos
+
+720
+00:37:16,667 --> 00:37:19,000
+que nos conlleven a seguir
+avanzando en este proceso
+
+721
+00:37:19,067 --> 00:37:22,200
+sansonatorio que fue
+empezado, pero más allá de eso,
+
+722
+00:37:22,267 --> 00:37:25,801
+también avanzar en las medidas
+concretas y efectivas
+
+723
+00:37:25,901 --> 00:37:28,567
+que hemos tomado a través
+de la directiva
+
+724
+00:37:28,667 --> 00:37:30,300
+de la Presidenta de la Nación
+en el Ministerio
+
+725
+00:37:30,400 --> 00:37:34,501
+para darle solución definitiva
+a aquellos barrios, lugares,
+
+726
+00:37:34,601 --> 00:37:36,434
+que acabo de nombrar,
+y que después ustedes
+
+727
+00:37:36,534 --> 00:37:38,868
+van a obtener prácticamente
+la dirección y el punto,
+
+728
+00:37:38,934 --> 00:37:42,367
+eso va a ser en la próxima
+hora.
+
+729
+00:37:42,434 --> 00:37:44,767
+Y ahora me gustaría que
+la locutora,
+
+730
+00:37:44,834 --> 00:37:47,234
+si es tan amable,
+nos lea la parte resolutiva
+
+731
+00:37:47,334 --> 00:37:51,300
+de la obligación por parte
+de las empresas de difundir
+
+732
+00:37:51,400 --> 00:37:53,968
+a los medios la situación
+de cortes de cada uno
+
+733
+00:37:54,067 --> 00:37:56,667
+en cada momento,
+y fundamentalmente las llamadas
+
+734
+00:37:56,767 --> 00:37:58,934
+que tienen al callcenter
+llamadas atendidas,
+
+735
+00:37:59,033 --> 00:38:02,067
+y fundamentalmente las tácticas
+y las estrategias a adoptar
+
+736
+00:38:02,167 --> 00:38:05,434
+para que estos cortes
+sean subsanados
+
+737
+00:38:05,501 --> 00:38:07,400
+en el tiempo más breve posible,
+
+738
+00:38:07,534 --> 00:38:09,200
+y que eso esté a
+la consideración del usuario
+
+739
+00:38:09,300 --> 00:38:11,067
+y de la opinión publica.
+
+740
+00:38:11,167 --> 00:38:13,601
+Bueno, damos lectura entonces
+al Directorio del Ente Nacional
+
+741
+00:38:13,667 --> 00:38:16,300
+Regulador de la Electricidad,
+resuelve en el Articulo 1
+
+742
+00:38:16,400 --> 00:38:19,667
+disponer que la Empresa
+Distribuidora Sur S.A.,
+
+743
+00:38:19,801 --> 00:38:23,033
+EDESUR S.A., y la Empresa
+Distribuidora y Comercializadora
+
+744
+00:38:23,133 --> 00:38:27,734
+Norte S.A., EDENOR S.A.,
+deberá brindar partes diarios
+
+745
+00:38:27,868 --> 00:38:29,968
+respecto de la falta
+de suministro
+
+746
+00:38:30,100 --> 00:38:33,634
+del servicio eléctrico
+producidas y que se produzcan
+
+747
+00:38:33,767 --> 00:38:36,300
+en sus respectivas áreas
+de concesión.
+
+748
+00:38:36,434 --> 00:38:39,667
+En el Articulo 2 señala
+que la información referida
+
+749
+00:38:39,767 --> 00:38:42,968
+en el Articulo 1 deberá ser
+brindada a los usuarios
+
+750
+00:38:43,067 --> 00:38:46,534
+en forma diaria a través
+de todos los medios
+
+751
+00:38:46,601 --> 00:38:49,901
+de comunicación masivos,
+y deberá incluir las zonas
+
+752
+00:38:50,000 --> 00:38:53,434
+afectadas por las interrupciones
+del suministro,
+
+753
+00:38:53,534 --> 00:38:55,367
+la cantidad de usuarios
+involucrados,
+
+754
+00:38:55,467 --> 00:38:58,367
+las acciones encaradas
+por las empresas,
+
+755
+00:38:58,467 --> 00:39:00,934
+en orden a la restitución
+del mismo,
+
+756
+00:39:01,033 --> 00:39:05,133
+y el tiempo que conllevaría
+esta restitución.
+
+757
+00:39:05,234 --> 00:39:08,767
+Las obras que se encararán
+para proveer a la regularidad
+
+758
+00:39:08,834 --> 00:39:11,400
+y continuidad de la prestación
+del servicio,
+
+759
+00:39:11,501 --> 00:39:14,400
+y para mejorar la calidad
+del mismo.
+
+760
+00:39:14,501 --> 00:39:18,801
+Y también las zonas donde
+se realizaran dichas obras.
+
+761
+00:39:18,868 --> 00:39:22,701
+Como así también toda otra
+medida que implementen a tal fin.
+
+762
+00:39:22,767 --> 00:39:26,167
+Articulo 3, notifíquese
+a EDESUR S.A. y a EDENOR S.A.
+
+763
+00:39:26,234 --> 00:39:29,367
+Articulo 4, comuníquese,
+publíquese en extracto,
+
+764
+00:39:29,434 --> 00:39:32,267
+dese a la Dirección Nacional
+del Registro oficial
+
+765
+00:39:32,334 --> 00:39:35,334
+y archívese.
+
+766
+00:39:35,400 --> 00:39:36,601
+Vamos entonces a pasar,
+ahora sí,
+
+767
+00:39:36,667 --> 00:39:38,400
+a las consultas de
+los señores periodistas.
+
+768
+00:39:38,467 --> 00:39:40,734
+Aquí, como siempre,
+los invitamos a que
+
+769
+00:39:40,801 --> 00:39:42,367
+se identifiquen con nombre
+y medio a que pertenecen,
+
+770
+00:39:42,467 --> 00:39:44,968
+porque el Ministro por supuesto
+va a responder
+
+771
+00:39:45,067 --> 00:39:48,067
+a cada una de sus consultas.
+¿Con quién comenzamos?
+
+772
+00:39:48,133 --> 00:39:52,701
+A ver quien tiene el micrófono
+para hacer la primer pregunta.
+
+773
+00:39:52,801 --> 00:39:55,467
+¿No hay consultas? ¿O si hay?
+Perfecto.
+
+774
+00:39:55,534 --> 00:39:57,701
+Les pedimos entonces...
+Ahí comenzamos con la primera.
+
+775
+00:39:57,801 --> 00:40:00,300
+Sí, buen día. Gisella López,
+360 TV.
+
+776
+00:40:00,434 --> 00:40:02,367
+La consulta para el Ministro
+es saber si puede dar
+
+777
+00:40:02,467 --> 00:40:04,968
+más precisiones con respecto
+a las obras,
+
+778
+00:40:05,067 --> 00:40:06,968
+estas 5 obras que usted
+mencionó que se están
+
+779
+00:40:07,067 --> 00:40:09,267
+ya realizando desde hace
+varios días en algunos
+
+780
+00:40:09,367 --> 00:40:12,534
+barrios de la ciudad.
+Y con respecto a, bueno,
+
+781
+00:40:12,634 --> 00:40:14,801
+básicamente que es lo primero
+que de alguna forma se está
+
+782
+00:40:14,901 --> 00:40:18,167
+planteando exigirle
+a las dos empresas mencionadas,
+
+783
+00:40:18,267 --> 00:40:20,834
+EDENOR y EDESUR,
+es esta reunión que usted
+
+784
+00:40:20,901 --> 00:40:23,501
+ya mencionó van a tener
+con ellos.
+
+785
+00:40:23,567 --> 00:40:26,167
+Las obras se las vamos
+a entregar a ustedes,
+
+786
+00:40:26,267 --> 00:40:28,167
+no solamente las 5
+que ya empezaron,
+
+787
+00:40:28,234 --> 00:40:31,200
+que son normalmente la zona
+de Floresta, Villa Rita,
+
+788
+00:40:31,300 --> 00:40:35,234
+y Flores y Caballito,
+
+789
+00:40:35,334 --> 00:40:39,601
+sino que vana a tener,
+hay un listado
+
+790
+00:40:39,667 --> 00:40:42,000
+que les va a entregar Horacio
+en donde está obra por obra,
+
+791
+00:40:42,100 --> 00:40:45,501
+las 208 y la ubicación
+de la obra, y demás.
+
+792
+00:40:45,601 --> 00:40:48,701
+Si ustedes lo difunden bien,
+inclusive podemos poner
+
+793
+00:40:48,834 --> 00:40:53,033
+en algún momento una solicitada
+o algo para que en paginas
+
+794
+00:40:53,133 --> 00:40:55,133
+de internet, pero para que
+la gente acceda,
+
+795
+00:40:55,234 --> 00:40:57,701
+y pueda ver si la obra empezó,
+si está demorada y demás.
+
+796
+00:40:57,767 --> 00:41:01,767
+O si va bien,
+si quiere hacer un comentario.
+
+797
+00:41:01,868 --> 00:41:05,133
+Son 208, si me las pongo
+a leerte ahora
+
+798
+00:41:05,234 --> 00:41:07,033
+estamos hasta las 10 de la noche.
+
+799
+00:41:07,133 --> 00:41:09,234
+Pero vas a tener el listado.
+
+800
+00:41:09,300 --> 00:41:12,267
+Y ustedes después pueden
+difundirlo total o parcialmente.
+
+801
+00:41:12,400 --> 00:41:14,501
+Pero lo van a tener ahora
+en 5, 10 minutos.
+
+802
+00:41:14,601 --> 00:41:16,334
+¿Ya están las copias
+de eso, Horacio?
+
+803
+00:41:16,400 --> 00:41:19,367
+Sí, ya están.
+Y me hiciste otra pregunta más.
+
+804
+00:41:19,434 --> 00:41:25,801
+Ahora vamos a hacer la reunión
+para informarlos
+
+805
+00:41:25,868 --> 00:41:31,167
+del inicio de las obras,
+para informarlos de la necesidad
+
+806
+00:41:31,267 --> 00:41:34,067
+que se facilite desde
+la empresa toda,
+
+807
+00:41:34,133 --> 00:41:37,367
+valga la palabra,
+las facilidades,
+
+808
+00:41:37,467 --> 00:41:41,067
+la logística necesaria
+para que la obra
+
+809
+00:41:41,133 --> 00:41:44,567
+funcione con normalidad
+y que no haya ninguna
+
+810
+00:41:44,667 --> 00:41:47,267
+traba o demora por parte
+de la empresa.
+
+811
+00:41:47,367 --> 00:41:53,167
+Para que los resarcimientos
+y las multas sean diligentes
+
+812
+00:41:53,267 --> 00:41:55,434
+y puntuales en los pagos.
+
+813
+00:41:55,501 --> 00:41:58,167
+De la misma manera
+el reintegro por
+
+814
+00:41:58,234 --> 00:42:01,767
+los electrodomésticos dañados,
+que tenga la efectividad del caso.
+
+815
+00:42:02,000 --> 00:42:04,467
+Entonces el Licenciado Barata
+se va a juntar
+
+816
+00:42:04,567 --> 00:42:06,167
+con los responsables
+de las dos empresas
+
+817
+00:42:06,267 --> 00:42:09,868
+por separado, y a cada uno
+le va a informar detalladamente
+
+818
+00:42:09,968 --> 00:42:12,067
+que obra vamos a hacer
+en su jurisdicción.
+
+819
+00:42:12,200 --> 00:42:15,234
+Y por supuesto, el lunes
+nos vamos a juntar de nuevo
+
+820
+00:42:15,334 --> 00:42:18,367
+con los secretarios
+de obras publicas,
+
+821
+00:42:18,467 --> 00:42:20,567
+de los municipios que
+juridicialmente están
+
+822
+00:42:20,667 --> 00:42:23,934
+intervenidos en termino
+de las obras estas,
+
+823
+00:42:24,067 --> 00:42:26,968
+también para que desde
+los Municipios se les facilite
+
+824
+00:42:27,067 --> 00:42:30,067
+lo que sea cortes de calle,
+o reducción de calzada y demás,
+
+825
+00:42:30,167 --> 00:42:32,734
+para que las obras sean
+rápidas.
+
+826
+00:42:32,834 --> 00:42:36,767
+O sea, es una manera
+ya de intervenir concretamente,
+
+827
+00:42:36,868 --> 00:42:40,100
+de accionar de las empresas
+desde el Estado
+
+828
+00:42:40,234 --> 00:42:43,734
+sin que haya ninguna situación
+que pudiera alimentar
+
+829
+00:42:43,801 --> 00:42:46,267
+el contrato que esta siendo
+si estudiado,
+
+830
+00:42:46,400 --> 00:42:48,534
+y el proceso sansonatorio
+que empezó
+
+831
+00:42:48,634 --> 00:42:51,167
+pero que todavía no ha concluido.
+
+832
+00:42:51,968 --> 00:42:54,000
+¿Hay otra consulta?
+
+833
+00:42:54,100 --> 00:42:55,601
+¿No hay otra consulta?
+Ha sido todo muy claro.
+
+834
+00:42:55,701 --> 00:42:57,767
+Ahora vamos a dar entonces
+por concluida
+
+835
+00:42:57,901 --> 00:43:00,167
+esta conferencia de prensa.
+

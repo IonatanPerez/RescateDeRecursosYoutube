@@ -1,0 +1,116 @@
+1
+00:00:01,320 --> 00:00:06,920
+[Música de presentación]
+
+2
+00:00:07,000 --> 00:00:08,320
+Educ.ar va a participar
+
+3
+00:00:08,400 --> 00:00:11,120
+poniendo a disposición
+de los participantes
+
+4
+00:00:11,200 --> 00:00:14,000
+una serie
+de herramientas tecnológicas
+
+5
+00:00:14,080 --> 00:00:15,680
+que permiten acceder
+a nuestros datos
+
+6
+00:00:15,760 --> 00:00:17,480
+sin ningún tipo de filtro editorial,
+
+7
+00:00:17,560 --> 00:00:20,360
+es decir,
+uno puede desarrollar herramientas
+
+8
+00:00:20,440 --> 00:00:23,200
+o darle algún tipo de orden
+
+9
+00:00:23,280 --> 00:00:26,320
+a datos desordenados, pero en bruto.
+
+10
+00:00:26,400 --> 00:00:30,800
+Y eso es algo que, en principio,
+está orientado a conectarse
+
+11
+00:00:30,880 --> 00:00:32,360
+con otro tipo de usuarios.
+
+12
+00:00:32,440 --> 00:00:35,200
+Usualmente,
+los portales o sitios de internet
+
+13
+00:00:35,280 --> 00:00:37,000
+que tienen mucho contenido
+para ofrecer
+
+14
+00:00:37,080 --> 00:00:38,480
+lo están empezando a abrir.
+
+15
+00:00:38,560 --> 00:00:41,520
+Hasta ahora, se entendía
+que existía un solo tipo de usuario,
+
+16
+00:00:41,600 --> 00:00:45,480
+que era el usuario lector,
+el usuario consumidor lector.
+
+17
+00:00:45,560 --> 00:00:47,840
+Ahora existe un usuario
+un poco más sofisticado,
+
+18
+00:00:47,920 --> 00:00:50,200
+que es el usuario
+que puede trabajar esos datos.
+
+19
+00:00:50,280 --> 00:00:51,600
+Y para trabajar esos datos,
+
+20
+00:00:51,680 --> 00:00:54,040
+necesita esos datos
+en un formato que sea
+
+21
+00:00:54,120 --> 00:00:57,720
+fácilmente trabajable y adaptable
+a entornos de programación.
+
+22
+00:00:58,400 --> 00:01:02,080
+Estamos construyendo un sistema
+que es una plataforma abierta,
+
+23
+00:01:02,160 --> 00:01:03,600
+en donde,
+a partir de esa plataforma,
+
+24
+00:01:03,680 --> 00:01:08,840
+vos podés codesarrollar con nosotros
+extensiones de uso de ese contenido.
+
+25
+00:01:10,160 --> 00:01:13,840
+[Música de cierre]
+

@@ -1,0 +1,172 @@
+1
+00:00:00,000 --> 00:00:02,267
+Hemos entendido con Diego
+hace mucho tiempo
+
+2
+00:00:02,334 --> 00:00:04,767
+que el ciudadano es uno solo
+y que el Estado debe darle
+
+3
+00:00:04,834 --> 00:00:07,567
+respuesta como tal, y que,
+en ese sentido,
+
+4
+00:00:07,634 --> 00:00:11,000
+el desarrollo de la tecnología,
+los procesos de modernización
+
+5
+00:00:11,067 --> 00:00:12,534
+que hemos llevado adelante,
+
+6
+00:00:12,634 --> 00:00:15,734
+tanto en el Registro Nacional
+de las Personas para que
+
+7
+00:00:15,801 --> 00:00:19,000
+millones de argentinos tengan
+el nuevo DNI,
+
+8
+00:00:19,067 --> 00:00:22,234
+como lo propio ha hecho el ANSES
+para que millones de argentinos
+
+9
+00:00:22,300 --> 00:00:25,801
+hayan podido jubilarse,
+o hay tenido acceso, por ejemplo,
+
+10
+00:00:25,868 --> 00:00:27,434
+a la Asignación Universal
+por Hijo,
+
+11
+00:00:27,501 --> 00:00:29,501
+es lo que nos ha dado
+la oportunidad que a partir
+
+12
+00:00:29,567 --> 00:00:33,133
+del día de hoy, todos aquellos
+que han tramitado el Documento,
+
+13
+00:00:33,200 --> 00:00:35,734
+en su Documento van a ver
+en el dorso del Documento
+
+14
+00:00:35,834 --> 00:00:39,767
+que está incorporado
+el número del CUIL, es decir,
+
+15
+00:00:39,834 --> 00:00:42,167
+que a partir de ahora no solo
+el Documento tiene los datos
+
+16
+00:00:42,234 --> 00:00:44,200
+de la persona, su número
+de Documento,
+
+17
+00:00:44,267 --> 00:00:45,734
+sino el número de CUIL,
+y para obtener el número de CUIL
+
+18
+00:00:45,834 --> 00:00:49,167
+no tienen que hacer ningún
+tramite adicional,
+
+19
+00:00:49,234 --> 00:00:52,601
+automáticamente cuando van
+a hacer el DNI,
+
+20
+00:00:52,667 --> 00:00:55,267
+el sistema consulta a la base
+del ANSES,
+
+21
+00:00:55,334 --> 00:00:57,467
+y la base del ANSES a aquel
+que ya tiene el CUIL,
+
+22
+00:00:57,534 --> 00:01:00,667
+le envía el CUIL existente
+al ciudadano para quienes
+
+23
+00:01:00,734 --> 00:01:02,434
+lo incorporan al Documento,
+y aquel que no lo tiene,
+
+24
+00:01:02,501 --> 00:01:05,100
+se le asigna un número de CUIL.
+
+25
+00:01:05,200 --> 00:01:07,434
+Cualquier argentino que nace
+hoy en la Argentina,
+
+26
+00:01:07,501 --> 00:01:09,334
+que hace su DNI, y que tiene
+el derecho civil
+
+27
+00:01:09,400 --> 00:01:12,234
+de derecho a la identidad,
+también tiene el derecho social.
+
+28
+00:01:12,300 --> 00:01:13,634
+¿Qué significa esto?
+
+29
+00:01:13,701 --> 00:01:17,033
+Los 750.000 argentinos
+que nacen todos los años
+
+30
+00:01:17,100 --> 00:01:21,634
+ya van a estar inscriptos en ANSES
+el día que tramitan el DNI,
+
+31
+00:01:21,701 --> 00:01:23,901
+y automáticamente tiene el derecho
+al salario familiar,
+
+32
+00:01:23,968 --> 00:01:26,200
+el derecho a la Asignación
+Universal por Hijo.
+
+33
+00:01:26,267 --> 00:01:28,601
+A partir de la coordinación
+de los diferentes organismos
+
+34
+00:01:28,667 --> 00:01:30,400
+del Estado se reduce
+la burocracia,
+
+35
+00:01:30,467 --> 00:01:34,734
+y facilitamos los trámites
+a los argentinos.
+

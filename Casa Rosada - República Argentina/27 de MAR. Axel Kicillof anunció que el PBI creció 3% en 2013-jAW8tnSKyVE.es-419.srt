@@ -1,0 +1,1189 @@
+1
+00:00:00,720 --> 00:00:02,800
+Bueno, buenas tardes.
+
+2
+00:00:03,760 --> 00:00:06,680
+Gracias por concurrir.
+
+3
+00:00:07,000 --> 00:00:08,880
+La verdad, lo primero
+que quiero hacer
+
+4
+00:00:09,000 --> 00:00:15,800
+es una aclaración sobre
+el carácter de esta convocatoria,
+
+5
+00:00:15,920 --> 00:00:19,800
+dicho de otra manera,
+lo que vamos a hacer.
+
+6
+00:00:19,960 --> 00:00:27,160
+Esto es un anuncio de lo
+que serían dos comunicados
+
+7
+00:00:27,280 --> 00:00:29,600
+que van a salir ahora
+del INDEC.
+
+8
+00:00:29,840 --> 00:00:33,120
+El primero es un informe
+de avance del nivel
+
+9
+00:00:33,240 --> 00:00:37,000
+de actividad del año 2013.
+
+10
+00:00:37,000 --> 00:00:41,320
+Y el segundo es el estimado
+mensual de actividad económica
+
+11
+00:00:41,560 --> 00:00:45,480
+correspondiente a enero
+del 2014.
+
+12
+00:00:45,600 --> 00:00:49,800
+En general estos datos salían
+a través de un comunicado,
+
+13
+00:00:49,920 --> 00:00:52,480
+no era una conferencia
+de prensa.
+
+14
+00:00:52,600 --> 00:00:55,000
+Esto tampoco es una conferencia
+de prensa, sinceramente,
+
+15
+00:00:55,000 --> 00:00:59,080
+es un anuncio y una exposición.
+
+16
+00:00:59,280 --> 00:01:01,840
+Y amerita hacerla porque
+no es simplemente la lectura
+
+17
+00:01:01,960 --> 00:01:03,640
+del comunicado, que la vamos
+a hacer de todas maneras
+
+18
+00:01:03,760 --> 00:01:05,440
+antes de distribuirlo.
+
+19
+00:01:05,560 --> 00:01:07,440
+Está marcado para
+las 16 horas,
+
+20
+00:01:07,560 --> 00:01:16,480
+pero tal como hicimos
+en su momento para el IPCNu,
+
+21
+00:01:16,640 --> 00:01:19,480
+que se trataba de una serie
+estadística nueva
+
+22
+00:01:19,560 --> 00:01:21,760
+que implica una mejora
+en nuestro sistema estadístico,
+
+23
+00:01:21,880 --> 00:01:25,920
+en este caso vamos a hacer
+el informe de avance
+
+24
+00:01:26,000 --> 00:01:27,840
+del nivel de actividad
+para el año 2013
+
+25
+00:01:27,960 --> 00:01:33,000
+con una particularidad
+que es que el PBI
+
+26
+00:01:33,120 --> 00:01:37,000
+va a estar medido
+con otra base.
+
+27
+00:01:37,160 --> 00:01:42,200
+Es decir esto implica un cambio
+en el dato correspondiente
+
+28
+00:01:42,360 --> 00:01:47,560
+al año 2013, pero también
+a los años anteriores,
+
+29
+00:01:47,720 --> 00:01:51,040
+empezando por el año 2005.
+
+30
+00:01:51,040 --> 00:01:54,040
+Es una nueva serie.
+¿Por qué una nueva serie?
+
+31
+00:01:54,160 --> 00:01:59,480
+Porque lo que se emplea
+para la elaboración
+
+32
+00:01:59,600 --> 00:02:08,400
+del cálculo del producto
+es una información
+
+33
+00:02:08,520 --> 00:02:11,080
+que proviene del censo
+económico, entre otras fuentes,
+
+34
+00:02:11,240 --> 00:02:15,000
+del censo económico 2004.
+
+35
+00:02:15,120 --> 00:02:18,880
+El censo económico 2004
+revela diferencias
+
+36
+00:02:19,040 --> 00:02:21,160
+muy significativas desde
+nuestro punto de vista,
+
+37
+00:02:21,280 --> 00:02:24,080
+eso es también algo
+que tenemos que destacar hoy,
+
+38
+00:02:24,080 --> 00:02:28,440
+con respecto a la base
+que usábamos anteriormente
+
+39
+00:02:28,600 --> 00:02:33,000
+que era la base 93
+a nivel de ponderadores.
+
+40
+00:02:33,000 --> 00:02:35,240
+No quería dejar de hacer
+una aclaración
+
+41
+00:02:35,360 --> 00:02:38,920
+ya que han concurrido
+también videos de prensa,
+
+42
+00:02:39,080 --> 00:02:43,080
+una aclaración, que es que
+se va a modificar la serie
+
+43
+00:02:43,160 --> 00:02:48,040
+del PBI desde el año 2005
+sobre otra base.
+
+44
+00:02:48,160 --> 00:02:50,840
+Eso va a significar,
+como estamos usando
+
+45
+00:02:51,000 --> 00:02:53,440
+otra estructura de ponderadores,
+
+46
+00:02:53,600 --> 00:02:58,120
+va a significar que los datos
+que tenemos base 93
+
+47
+00:02:58,240 --> 00:03:02,400
+sean distintos
+a los de base 2004.
+
+48
+00:03:02,560 --> 00:03:08,080
+Va a haber modificaciones
+en el PBI del 2013,
+
+49
+00:03:08,080 --> 00:03:10,080
+que no lo estamos midiendo
+en base 93,
+
+50
+00:03:10,080 --> 00:03:12,800
+solo en base 2004,
+
+51
+00:03:12,920 --> 00:03:16,040
+pero también 2012,
+2011, 2010.
+
+52
+00:03:16,040 --> 00:03:17,160
+Va a haber modificaciones,
+
+53
+00:03:17,280 --> 00:03:18,320
+o sea que va a haber
+dos series,
+
+54
+00:03:18,480 --> 00:03:20,440
+esta última hecha
+con la nueva base
+
+55
+00:03:20,560 --> 00:03:24,880
+que es la base que de ahora
+en más se va a emplear
+
+56
+00:03:25,000 --> 00:03:28,640
+metodológicamente corresponde
+a hacer un trabajo
+
+57
+00:03:28,760 --> 00:03:31,360
+que es el trabajo
+que ha realizado el instituto
+
+58
+00:03:31,480 --> 00:03:34,920
+más profundo y más extenso
+
+59
+00:03:35,040 --> 00:03:39,800
+en términos de que hubo
+que recalcular el PBI
+
+60
+00:03:39,920 --> 00:03:44,320
+para todos esos años,
+empleando la nueva base.
+
+61
+00:03:44,440 --> 00:03:47,360
+Lo que significa que con
+respecto a las mediciones
+
+62
+00:03:47,440 --> 00:03:49,560
+que estábamos teniendo
+hay diferencias
+
+63
+00:03:49,640 --> 00:03:52,000
+que pueden estar en más
+o en menos,
+
+64
+00:03:52,000 --> 00:03:55,160
+porque es un cambio de base.
+
+65
+00:03:55,320 --> 00:03:59,280
+Ese un primer aspecto.
+
+66
+00:03:59,480 --> 00:04:01,640
+La base que va a adoptar,
+
+67
+00:04:01,760 --> 00:04:04,040
+y la única serie que vamos
+a tener de ahora en más,
+
+68
+00:04:04,120 --> 00:04:07,760
+para 2014, 2015,
+es el base 2004.
+
+69
+00:04:07,920 --> 00:04:12,800
+Se discontinua la serie
+base 93.
+
+70
+00:04:12,920 --> 00:04:14,640
+De ahora en adelante
+seguimos trabajando
+
+71
+00:04:14,760 --> 00:04:17,320
+con la serie 2004
+que es la única
+
+72
+00:04:17,440 --> 00:04:21,000
+que se va a publicar
+de aquí en más.
+
+73
+00:04:21,240 --> 00:04:25,720
+Como sé que esto está
+vinculado a algunas cuestiones
+
+74
+00:04:25,840 --> 00:04:33,000
+financieras por los títulos
+vinculados a las variaciones
+
+75
+00:04:33,120 --> 00:04:37,360
+del PBI, lo que quiero decir
+son básicamente dos cosas:
+
+76
+00:04:37,560 --> 00:04:42,880
+La primera es que el que
+se va a emplear,
+
+77
+00:04:43,000 --> 00:04:47,640
+y creo que Norberto dijo
+algo, para el pago,
+
+78
+00:04:47,800 --> 00:04:50,520
+digamos, según el prospecto,
+
+79
+00:04:50,640 --> 00:04:52,760
+y consta en el prospecto
+que es la guía
+
+80
+00:04:52,920 --> 00:04:55,960
+que estamos siguiendo
+del cupón PBI,
+
+81
+00:04:56,120 --> 00:04:57,880
+que no es estrictamente
+un bono, es un derivado,
+
+82
+00:04:58,040 --> 00:05:03,000
+se va a usar
+la nueva serie.
+
+83
+00:05:03,000 --> 00:05:06,480
+Que como decía recién,
+es relativamente distinta
+
+84
+00:05:06,560 --> 00:05:09,000
+porque su base de calculo
+es distinta
+
+85
+00:05:09,080 --> 00:05:10,640
+a la que veníamos
+midiendo hasta ahora,
+
+86
+00:05:10,760 --> 00:05:12,960
+con lo cual difieren,
+incluso lo que decíamos
+
+87
+00:05:13,080 --> 00:05:18,000
+que había sido el incremento
+del PBI para cualquier año,
+
+88
+00:05:18,120 --> 00:05:22,080
+2008, 2009, 2010, base 93,
+
+89
+00:05:22,080 --> 00:05:25,040
+es distinto de lo que vamos
+a decir base 2004.
+
+90
+00:05:25,040 --> 00:05:28,240
+Esto no obedece
+a que cambiamos de idea,
+
+91
+00:05:28,360 --> 00:05:32,360
+a que estamos haciendo
+dos alternativas,
+
+92
+00:05:32,480 --> 00:05:38,000
+sino que metodológicamente
+para estimar la variación
+
+93
+00:05:38,120 --> 00:05:41,440
+del nivel de producción
+en términos reales de bienes,
+
+94
+00:05:41,560 --> 00:05:43,800
+lo que hay que usar
+es una base de cálculo
+
+95
+00:05:43,920 --> 00:05:48,320
+sobre la que se ponderan
+las variaciones
+
+96
+00:05:48,440 --> 00:05:50,360
+sobre los distintos sectores.
+
+97
+00:05:50,480 --> 00:05:54,000
+La base esa se ha modificado
+de forma tal que los números
+
+98
+00:05:54,080 --> 00:05:57,080
+van a ser distintos,
+ambos números son chequeables
+
+99
+00:05:57,200 --> 00:06:00,520
+utilizando una base y la otra,
+no hay ningún problema.
+
+100
+00:06:00,640 --> 00:06:05,000
+La única diferencia es emplear
+una estructura distinta.
+
+101
+00:06:05,160 --> 00:06:08,040
+Lo que vamos a presentar
+hoy se denomina,
+
+102
+00:06:08,120 --> 00:06:10,120
+y es lo que se hace
+todos los años:
+
+103
+00:06:10,240 --> 00:06:14,000
+Estimación Preliminar.
+
+104
+00:06:14,160 --> 00:06:15,880
+Después de esta estimación
+preliminar,
+
+105
+00:06:16,000 --> 00:06:17,160
+que tal como consta
+en el calendario
+
+106
+00:06:17,240 --> 00:06:19,000
+de publicaciones del INDEC,
+
+107
+00:06:19,120 --> 00:06:21,960
+se está haciendo
+en el día de la fecha,
+
+108
+00:06:22,080 --> 00:06:28,720
+en junio se va a hacer
+una nueva estimación provisional.
+
+109
+00:06:30,160 --> 00:06:34,040
+En septiembre una última
+que es la provisoria.
+
+110
+00:06:34,040 --> 00:06:38,040
+Ese, el valor de septiembre,
+es el que según en el prospecto,
+
+111
+00:06:38,160 --> 00:06:41,760
+determina el pago o no
+de los bonos atados
+
+112
+00:06:41,840 --> 00:06:45,240
+al desempeño del PBI,
+la medición de septiembre.
+
+113
+00:06:45,360 --> 00:06:48,640
+Usualmente las diferencias
+no son muy amplias
+
+114
+00:06:48,720 --> 00:06:52,560
+pero lo que quiero decir
+es que va a ser ahí
+
+115
+00:06:52,640 --> 00:06:56,720
+donde se determina finalmente
+si entra o no.
+
+116
+00:06:56,800 --> 00:06:59,000
+Además de que hay que hacer
+una modificación en la base
+
+117
+00:06:59,080 --> 00:07:01,000
+según consta, perdón,
+
+118
+00:07:01,120 --> 00:07:03,120
+en el escenario base
+del prospecto.
+
+119
+00:07:03,240 --> 00:07:06,040
+Último punto que me interesa
+recalcar.
+
+120
+00:07:06,040 --> 00:07:10,400
+Hoy lo que vamos a presentar,
+tal como está en el calendario,
+
+121
+00:07:10,480 --> 00:07:12,000
+es el informe de avance
+del nivel de actividad
+
+122
+00:07:12,120 --> 00:07:15,440
+económica del año 2013.
+
+123
+00:07:15,560 --> 00:07:20,880
+No vamos a presentar una
+cantidad de documentación
+
+124
+00:07:20,960 --> 00:07:23,280
+adicional vinculada
+al cambio de base,
+
+125
+00:07:23,400 --> 00:07:29,080
+que son una batería
+de cuadros estadísticos
+
+126
+00:07:29,200 --> 00:07:33,000
+vinculados a toda esta
+gigantesca tarea
+
+127
+00:07:33,080 --> 00:07:37,320
+que se ha desarrollado para
+trabajar con la base 2004.
+
+128
+00:07:37,400 --> 00:07:40,000
+Hoy vamos a entregar
+este numero
+
+129
+00:07:40,000 --> 00:07:44,600
+y aproximadamente a mediados,
+
+130
+00:07:44,760 --> 00:07:47,760
+ya vamos a decir
+la fecha exacta,
+
+131
+00:07:47,840 --> 00:07:52,000
+segunda quincena de abril,
+
+132
+00:07:52,000 --> 00:07:55,600
+dentro de aproximadamente
+15 días,
+
+133
+00:07:55,720 --> 00:07:58,080
+vamos a presentar
+todas las estadísticas
+
+134
+00:07:58,080 --> 00:08:05,440
+complementarias, incluyendo
+la reestimación con esta base
+
+135
+00:08:05,560 --> 00:08:10,480
+de los años 2005 en adelante,
+hasta el 2013.
+
+136
+00:08:10,800 --> 00:08:16,640
+Estamos ante un cambio
+de serie, de base,
+
+137
+00:08:16,720 --> 00:08:20,040
+y un cambio que también
+refleja transformaciones
+
+138
+00:08:20,040 --> 00:08:24,040
+que ocurrieron en el país
+y que están claramente expresadas
+
+139
+00:08:24,160 --> 00:08:27,120
+por los ponderadores,
+tomando base 93,
+
+140
+00:08:27,200 --> 00:08:30,360
+y base 2004,
+dicho de otra manera,
+
+141
+00:08:30,480 --> 00:08:33,480
+esos años los sectores
+pesaban distinto,
+
+142
+00:08:33,600 --> 00:08:37,560
+entonces cuando uno
+calcula el nivel de actividad
+
+143
+00:08:37,720 --> 00:08:40,400
+usa como ponderadores, o sea,
+
+144
+00:08:40,520 --> 00:08:44,680
+como medida del peso
+de cada sector,
+
+145
+00:08:44,800 --> 00:08:46,480
+una base distinta.
+
+146
+00:08:46,600 --> 00:08:50,120
+Repito entonces esta serie
+que hoy entregamos
+
+147
+00:08:50,280 --> 00:08:53,040
+el último dato correspondiente
+a 2013
+
+148
+00:08:53,160 --> 00:08:55,040
+en su versión preliminar
+
+149
+00:08:55,040 --> 00:08:58,520
+que va a ser luego
+revisada posteriormente,
+
+150
+00:08:58,640 --> 00:09:04,040
+este dato responde
+a la nueva base que es 2004.
+
+151
+00:09:05,040 --> 00:09:08,880
+Voy a hacer primero
+el comentario del EMAE,
+
+152
+00:09:08,960 --> 00:09:13,280
+el Estimador Mensual
+de Actividad Económica,
+
+153
+00:09:13,400 --> 00:09:15,000
+que es, de nuevo,
+una estimación provisoria
+
+154
+00:09:15,120 --> 00:09:18,040
+de la actividad económica
+de enero del 2004
+
+155
+00:09:18,160 --> 00:09:21,000
+y que se va a publicar
+el comunicado,
+
+156
+00:09:21,120 --> 00:09:25,000
+muestra una variación del 1,2
+con respecto al mes anterior,
+
+157
+00:09:25,000 --> 00:09:30,040
+y el indicador desestacionalizado
+con respecto a diciembre 2013
+
+158
+00:09:30,040 --> 00:09:33,160
+registra una variación de -0,4.
+
+159
+00:09:33,440 --> 00:09:37,000
+Esto es en lo que respecta
+al EMAE.
+
+160
+00:09:37,120 --> 00:09:42,560
+Antes de publicar
+la variación del PBI,
+
+161
+00:09:42,680 --> 00:09:47,400
+particularmente
+con la nueva base,
+
+162
+00:09:47,560 --> 00:09:50,240
+quería hacer un comentario
+muy breve en torno
+
+163
+00:09:50,360 --> 00:09:53,280
+porque a pesar
+de las polémicas
+
+164
+00:09:53,400 --> 00:09:54,520
+que están ocurriendo,
+
+165
+00:09:54,640 --> 00:09:58,240
+las mediciones de diferentes
+tipos, privadas, etc.,
+
+166
+00:09:58,360 --> 00:10:04,440
+debemos para hacer justicia
+al verdadero desempeño
+
+167
+00:10:04,520 --> 00:10:08,320
+de la economía nacional
+durante el año 2013,
+
+168
+00:10:08,440 --> 00:10:13,480
+tener un poco en cuenta
+lo que sería el contexto
+
+169
+00:10:13,600 --> 00:10:15,840
+económico internacional.
+
+170
+00:10:15,960 --> 00:10:17,040
+Me permito,
+aunque obviamente
+
+171
+00:10:17,160 --> 00:10:19,000
+no es materia de esta
+presentación,
+
+172
+00:10:19,160 --> 00:10:21,520
+simplemente recordarles,
+porque siempre que uno
+
+173
+00:10:21,600 --> 00:10:26,960
+anuncia un número es más
+o menos de lo que uno esperaba,
+
+174
+00:10:27,080 --> 00:10:28,440
+o de lo que dijo otro.
+
+175
+00:10:28,560 --> 00:10:31,000
+Me permito agregar
+un elemento interesante
+
+176
+00:10:31,160 --> 00:10:34,520
+que es una selección
+de países muy importantes
+
+177
+00:10:34,680 --> 00:10:39,560
+de Europa y también
+de la región,
+
+178
+00:10:39,720 --> 00:10:42,960
+para ver cuál fue
+la variación de producto
+
+179
+00:10:43,120 --> 00:10:46,720
+en términos reales
+de Alemania, Francia, Canadá.
+
+180
+00:10:46,840 --> 00:10:50,000
+Se la leo simplemente
+con carácter informativo.
+
+181
+00:10:50,120 --> 00:10:52,000
+El año 2013,
+todos lo sabemos,
+
+182
+00:10:52,200 --> 00:10:56,480
+es un año que ha sido complicado
+para la economía mundial.
+
+183
+00:10:56,640 --> 00:10:58,680
+Por supuesto que esto
+no es una muestra completa,
+
+184
+00:10:58,840 --> 00:11:01,640
+no tomo China, no tomo India,
+u otros emergentes,
+
+185
+00:11:01,760 --> 00:11:05,520
+muestro un logaritmo de países
+que son relevantes
+
+186
+00:11:05,600 --> 00:11:08,200
+para la Argentina
+por su relación comercial
+
+187
+00:11:08,320 --> 00:11:10,040
+y por la importancia
+relativa que tienen
+
+188
+00:11:10,120 --> 00:11:12,160
+en concierto las naciones.
+
+189
+00:11:12,280 --> 00:11:15,480
+Alemania en 2013 creció 0,5.
+
+190
+00:11:15,560 --> 00:11:18,080
+Francia 0,2.
+
+191
+00:11:18,080 --> 00:11:20,640
+Canadá 1,6.
+
+192
+00:11:20,720 --> 00:11:25,480
+EE.UU. 1,6 en el año 2013,
+el año pasado.
+
+193
+00:11:25,640 --> 00:11:29,640
+Italia -1,8,
+en el terreno negativo,
+
+194
+00:11:29,720 --> 00:11:33,120
+casi dos puntos de contracción.
+
+195
+00:11:33,120 --> 00:11:37,400
+España 1,3. Brasil 2,5.
+
+196
+00:11:37,560 --> 00:11:41,480
+México 1,2.
+Y Venezuela 1%.
+
+197
+00:11:41,640 --> 00:11:44,000
+Por tomar algunos países
+del Mercosur, EE.UU.,
+
+198
+00:11:44,000 --> 00:11:46,560
+y algunos países
+de la Unión Europea,
+
+199
+00:11:46,680 --> 00:11:49,960
+que ustedes saben específicamente
+que la situación europea
+
+200
+00:11:50,120 --> 00:11:53,840
+durante estos últimos años
+ha sido delicada
+
+201
+00:11:53,960 --> 00:11:57,640
+en términos de variación
+de la actividad.
+
+202
+00:11:57,920 --> 00:11:59,960
+Menciono esto para
+dimensionar también
+
+203
+00:12:00,120 --> 00:12:03,840
+nuestro indicador.
+
+204
+00:12:04,000 --> 00:12:09,200
+En lo que respecta
+al año 2013,
+
+205
+00:12:09,360 --> 00:12:14,000
+el resultado de la actividad
+económica,
+
+206
+00:12:14,000 --> 00:12:15,880
+de la variación
+de la actividad económica,
+
+207
+00:12:16,000 --> 00:12:19,400
+perdón, quería leerlo
+directamente del comunicado.
+
+208
+00:12:23,400 --> 00:12:24,480
+Acá está.
+
+209
+00:12:25,200 --> 00:12:29,280
+El PBI a precios constantes
+del año 2004
+
+210
+00:12:29,440 --> 00:12:32,680
+con respecto al igual
+periodo del año anterior
+
+211
+00:12:32,800 --> 00:12:41,080
+ha dado en total 3%
+en base 2004.
+
+212
+00:12:41,080 --> 00:12:44,520
+Esto, por supuesto,
+que tal como ocurre
+
+213
+00:12:44,640 --> 00:12:50,240
+con diferentes valores
+de la serie
+
+214
+00:12:50,320 --> 00:12:53,880
+empleando el año base 2004,
+si bien todavía no difundimos
+
+215
+00:12:54,000 --> 00:12:58,560
+las estadísticas
+preliminares,
+
+216
+00:12:58,640 --> 00:13:02,680
+si nosotros observamos
+cuál fue el desempeño,
+
+217
+00:13:02,840 --> 00:13:07,040
+hay diferencias con lo que
+nosotros estábamos
+
+218
+00:13:07,040 --> 00:13:10,200
+midiendo antes que era
+base 93.
+
+219
+00:13:10,280 --> 00:13:12,960
+Eso se va a notar año por año.
+
+220
+00:13:13,080 --> 00:13:16,920
+De nuevo, porque cuando
+había un crecimiento
+
+221
+00:13:17,040 --> 00:13:21,320
+de la minería en base 93,
+eso tenía,
+
+222
+00:13:21,480 --> 00:13:24,360
+supongamos que la minería
+crecía un 10%,
+
+223
+00:13:24,520 --> 00:13:33,200
+bajo la base del 93
+eso ponderaba 1,59%,
+
+224
+00:13:33,320 --> 00:13:36,560
+mientras en base 2004
+ese mismo crecimiento
+
+225
+00:13:36,720 --> 00:13:39,680
+tenía una ponderación del 5,6%.
+
+226
+00:13:39,800 --> 00:13:42,440
+De manera que con los mismos
+datos, cambiando la base,
+
+227
+00:13:42,600 --> 00:13:45,800
+hay una modificación
+en los valores
+
+228
+00:13:45,920 --> 00:13:49,280
+del crecimiento total.
+
+229
+00:13:50,000 --> 00:13:52,680
+Dicho esto, recuerdo
+un 3% de crecimiento
+
+230
+00:13:52,800 --> 00:13:56,720
+para el año, es para nosotros
+un muy buen desempeño
+
+231
+00:13:56,840 --> 00:14:00,240
+en la economía argentina,
+en un marco internacional,
+
+232
+00:14:00,360 --> 00:14:03,280
+que como acabo de mostrar
+fue complejo
+
+233
+00:14:03,360 --> 00:14:10,120
+porque muchos países
+desarrollados, en primer lugar,
+
+234
+00:14:10,240 --> 00:14:13,680
+tome Alemania y EE.UU.
+para que tengan una idea
+
+235
+00:14:13,800 --> 00:14:17,000
+que crecieron 0,5 y 1,6,
+esto representaría
+
+236
+00:14:17,120 --> 00:14:22,880
+un crecimiento que es
+el doble del de EE.UU.
+
+237
+00:14:23,040 --> 00:14:26,000
+y 6 veces el de Canadá.
+
+238
+00:14:26,200 --> 00:14:29,880
+Y México creció 1,2.
+
+239
+00:14:30,040 --> 00:14:32,440
+Brasil, nuestro principal
+socio comercial
+
+240
+00:14:32,520 --> 00:14:36,040
+y nuestro vecino creció 2,5.
+
+241
+00:14:36,040 --> 00:14:38,040
+Así que hemos estado
+en un desempeño
+
+242
+00:14:38,160 --> 00:14:42,040
+similar al de la economía
+brasileña
+
+243
+00:14:42,120 --> 00:14:46,000
+midiendo el PBI sobre
+esta nueva base.
+
+244
+00:14:46,160 --> 00:14:48,800
+Después les distribuiremos
+los comunicados.
+
+245
+00:14:48,920 --> 00:14:51,560
+Creo que por ahí hay copias.
+
+246
+00:14:51,840 --> 00:14:55,040
+Y con eso van a tener
+más información.
+
+247
+00:14:55,040 --> 00:14:57,240
+Muchísimas gracias.
+

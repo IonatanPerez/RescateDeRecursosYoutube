@@ -1,0 +1,97 @@
+1
+00:00:04,998 --> 00:00:09,939
+Soy de la Escuela Técnica N.º 10 de
+Villa Madero, La Matanza.
+
+2
+00:00:10,033 --> 00:00:13,621
+Nuestros dos proyectos son: el FLISOL
+(Festival Latinoamericano de Instalación
+
+3
+00:00:13,682 --> 00:00:19,964
+de Software Libre) y capacitaciones en un
+C.I.C, en una escuela para chicos con
+
+4
+00:00:20,074 --> 00:00:21,102
+capacidades especiales.
+
+5
+00:00:21,230 --> 00:00:26,668
+En el FLISOL damos charlas sobre
+software libre.
+
+6
+00:00:26,743 --> 00:00:32,452
+Damos talleres de Inkscape, de Audacity y
+de Gimp -que es diseño gráfico.
+
+7
+00:00:32,507 --> 00:00:38,802
+Audacity es un editor de sonido y
+el Inkscape, un editor vectorial.
+
+8
+00:00:38,845 --> 00:00:43,120
+Estamos en el 7mo año, y ya estamos
+haciendo las prácticas "profesionalizantes".
+
+9
+00:00:43,214 --> 00:00:44,086
+Una de las prácticas es ésta.
+
+10
+00:00:44,139 --> 00:00:49,158
+Ellos estaban usando el Coreldraw,
+que se les dificultaba
+
+11
+00:00:49,244 --> 00:00:55,024
+porque era muy pesado para el tipo de máquina
+que tenían. Así que nosotros les propusimos
+
+12
+00:00:55,068 --> 00:00:58,829
+usar el Inkscape, que es un
+programa de software libre
+
+13
+00:00:58,876 --> 00:01:04,096
+que básicamente hace lo mismo, cumple el
+mismo trabajo.
+
+14
+00:01:04,097 --> 00:01:09,518
+Nosotros los estamos incentivando a que de
+a poquito puedan utilizar Linux, todo lo
+
+15
+00:01:09,542 --> 00:01:14,464
+que es software libre. También el sistema
+operativo de Conectar Igualdad, para que
+
+16
+00:01:14,467 --> 00:01:18,870
+les resulte más fácil y no tengan que andar
+pagando licencias, ni nada por el estilo.
+
+17
+00:01:18,930 --> 00:01:23,980
+Mi idea, para los chicos de ahora, es que
+busquen tutoriales, que investiguen;
+
+18
+00:01:24,061 --> 00:01:29,934
+porque el software libre es fácil de usar y
+de modificar, nadie te va a estar diciendo
+
+19
+00:01:29,949 --> 00:01:34,122
+nada, ni vas a tener que pagar licencias por
+modificar tu sistema operativo para hacerlo
+
+20
+00:01:34,153 --> 00:01:35,762
+y  adecuarlo como vos querés.
+

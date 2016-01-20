@@ -1,0 +1,189 @@
+1
+00:00:05,730 --> 00:00:08,676
+Yo soy Manuel Rojas, de la Escuela N.° 3100 República de la India,
+
+2
+00:00:08,676 --> 00:00:10,036
+de la provincia de Salta, capital.
+
+3
+00:00:10,934 --> 00:00:18,152
+La experiencia fue bastante buena. Lo que nosotros 
+hicimos fue armar un robot montado en un carro.
+
+4
+00:00:18,152 --> 00:00:26,186
+Fue una idea de un robot. La mostramos en la muestra 
+anual del establecimiento, que este año cumplieron 49 años.
+
+5
+00:00:26,186 --> 00:00:29,085
+De manera artesanal, realizamos esta mano. 
+
+6
+00:00:29,085 --> 00:00:37,317
+Con aluminio, fuimos torneando las piezas y extrajimos 
+engranajes de una fotocopiadora vieja. O sea, es todo reciclado.
+
+7
+00:00:37,317 --> 00:00:41,238
+Es una mano que se va realizando... 
+
+8
+00:00:41,238 --> 00:00:46,146
+Como tiene distintas etapas, en la parte de 
+control podemos hacer la parte de programación.
+
+9
+00:00:46,146 --> 00:00:50,560
+En la parte de electrónica, podemos hacer la plaqueta.
+
+10
+00:00:50,560 --> 00:00:56,531
+También con el profesor hicimos el desarrollo de la mano, 
+como dijeron mis compañeros, de manera artesanal.
+
+11
+00:00:56,531 --> 00:01:01,302
+Así que, como le digo, es un dispositivo que se va realizando
+
+12
+00:01:01,302 --> 00:01:05,126
+de a poco en distintas materias aportando los conocimientos de cada una de ellas.
+
+13
+00:01:05,126 --> 00:01:10,105
+Bueno, básicamente vemos que esta mano está hecha con aluminio. 
+
+14
+00:01:10,105 --> 00:01:14,732
+Son todos recortes de aluminio, engranajes de computadoras viejas
+
+15
+00:01:14,732 --> 00:01:19,491
+y acá no vemos, pero acá abajo lleva un servomecanismo, un servomotor.
+
+16
+00:01:19,491 --> 00:01:24,170
+A este servomotor le ponemos un dato y se va hacia la derecha y abre.
+
+17
+00:01:24,170 --> 00:01:33,300
+Le ponemos otro dato y se va y cierra. Hasta ahí estamos 
+haciendo un control remoto a distancia simple.
+
+18
+00:01:33,300 --> 00:01:38,313
+Nosotros hemos dejado que... Este es un transmisor y este un receptor. 
+
+19
+00:01:38,313 --> 00:01:45,635
+Esto está conectado con una computadora que tiene los programas,
+ que hace funcionar automáticamente esta mano. 
+
+20
+00:01:45,635 --> 00:01:49,278
+Ahora le faltan unos sensores, que son los sensores de proximidad, 
+
+21
+00:01:49,278 --> 00:01:52,544
+de presión, para hacerlo que tenga sensibilidad y precisión. 
+
+22
+00:01:52,544 --> 00:02:00,816
+Y eso se logra gracias a los sensores que le 
+vamos a agregar y a la programación.
+
+23
+00:02:00,816 --> 00:02:08,071
+Y después un paso un poquito más avanzado es tener 
+esta computadora con una cámara visualizando 
+
+24
+00:02:08,071 --> 00:02:15,066
+ y telecontrolando con otra computadora remota, 
+como decimos, que puede estar en otro país,
+
+25
+00:02:15,066 --> 00:02:19,537
+y estamos viendo la mano y la estamos comandando a distancia.
+
+26
+00:02:19,537 --> 00:02:22,479
+Eso sería básicamente el proyecto.
+
+27
+00:02:22,479 --> 00:02:28,211
+Y más allá de lo técnico, digamos, esta experiencia les deja...
+
+28
+00:02:28,211 --> 00:02:31,815
+Los chicos se han trabajado y se han esforzado para la muestra. 
+
+29
+00:02:31,815 --> 00:02:34,947
+Estuvieron trabajando mucho, se esforzaron mucho más. 
+
+30
+00:02:34,947 --> 00:02:42,330
+Y esto les deja la sociabilización, les deja un 
+antecedente que puede ser útil para la vida laboral. 
+
+31
+00:02:42,330 --> 00:02:50,643
+Me parece importante eso: la vida de ellos en la 
+preparación futura para el mundo del trabajo.
+
+32
+00:02:50,864 --> 00:02:59,688
+Desde el punto de vista de la enseñanza, nosotros enseñamos electrónica 
+
+33
+00:02:59,688 --> 00:03:03,302
+y tienen computación también en la escuela, unimos todo eso en este proyecto.
+
+34
+00:03:03,302 --> 00:03:11,970
+Está la parte mecánica, por ejemplo, hacer un aparatito, 
+poner un motorcito que vaya y venga, bueno, no parece difícil. 
+
+35
+00:03:11,970 --> 00:03:16,573
+Pero hacer una mano que hemos hecho con 
+recortes de aluminio, de chatarras de aluminio, 
+
+36
+00:03:16,573 --> 00:03:21,141
+darle la forma, trabajarla en una escuela que no hace eso... 
+
+37
+00:03:21,141 --> 00:03:24,861
+Por ahí los chicos decían: «Parece que estamos como mecánicos. 
+
+38
+00:03:24,861 --> 00:03:30,366
+Hemos estado cuatro o cinco días cortando los dedos, 
+haciendo la articulación, cambiando las chapas».
+
+39
+00:03:30,366 --> 00:03:32,792
+Formar la parte física del proyecto. 
+
+40
+00:03:32,792 --> 00:03:38,938
+Yo les digo: «Chicos, cuando tengan la 
+estructura física, se va a formar algo lindo
+
+41
+00:03:38,938 --> 00:03:42,051
+porque hacer plaquetas y hacerlas funcionar... 
+
+42
+00:03:42,051 --> 00:03:47,869
+La electrónica pura, digamos, es medio..., poco digerible. 
+
+43
+00:03:47,869 --> 00:03:53,537
+Cuando tiene un motorcito, una luz, un sonido, 
+una interconexión, eso los activa a los chicos.
+

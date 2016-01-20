@@ -1,0 +1,54 @@
+1
+00:00:00,480 --> 00:00:06,480
+[Música de presentación]
+
+2
+00:00:08,160 --> 00:00:09,520
+El objetivo del taller
+
+3
+00:00:09,600 --> 00:00:12,720
+es enseñar o acercar a los chicos
+a la programación,
+
+4
+00:00:12,800 --> 00:00:13,840
+sepan o no programar.
+
+5
+00:00:13,920 --> 00:00:16,000
+A través
+del lenguaje de programación Python,
+
+6
+00:00:16,080 --> 00:00:19,160
+que es muy amigable
+para gente que no esté metida
+
+7
+00:00:19,240 --> 00:00:20,600
+en lo que es programación,
+
+8
+00:00:20,680 --> 00:00:23,320
+vamos a poder solucionar
+varios tipos de conflictos
+
+9
+00:00:23,400 --> 00:00:24,760
+de la vida real,
+
+10
+00:00:24,840 --> 00:00:27,080
+como, en este caso,
+problemas de matemática
+
+11
+00:00:27,160 --> 00:00:29,360
+que los chicos
+enfrentan en el colegio.
+
+12
+00:00:29,440 --> 00:00:33,000
+[Música de cierre]
+

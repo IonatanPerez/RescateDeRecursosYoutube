@@ -1,0 +1,78 @@
+1
+00:00:04,972 --> 00:00:10,112
+La experiencia surge porque todos los años 
+nosotros solemos recibir donaciones de una
+
+2
+00:00:10,124 --> 00:00:12,024
+empresa llamada Total.
+
+3
+00:00:12,050 --> 00:00:17,118
+Este año en particular recibí una 
+donación de 40 monitores LCD, 
+
+4
+00:00:17,197 --> 00:00:20,184
+de cuales había algunos que tenían 
+algunas fallas como, por ejemplo, 
+
+5
+00:00:21,328 --> 00:00:24,720
+roturas de placa lógica o roturas
+ de fuente de alimentación. 
+
+6
+00:00:25,880 --> 00:00:29,647
+La idea fue armar un manual de 
+procedimiento que indicara cómo se hace
+
+7
+00:00:29,659 --> 00:00:34,299
+el testeo de cada una de esas partes y poder 
+armar uno con las dos partes funcionando.
+
+8
+00:00:34,405 --> 00:00:39,409
+De los 40 monitores pudimos recuperar 
+16 monitores. Todo lo que es de 
+
+9
+00:00:39,426 --> 00:00:44,504
+donación se vuelve a donar; no tiene
+ fines económicos lo que hacemos.
+
+10
+00:00:44,555 --> 00:00:49,286
+Ellos están muy contentos porque a raíz 
+de esta experiencia pudieron participar en 
+
+11
+00:00:49,372 --> 00:00:54,576
+algunos foros como son: Epsonianos,
+ Hackhispanos, Yoreparo, que 
+
+12
+00:00:54,586 --> 00:00:59,930
+son foros que son a nivel mundial, que participa 
+gente de todo el mundo y ellos pudieron contribuir
+
+13
+00:00:59,939 --> 00:01:02,999
+con algo que a esa gente le pareció muy bueno. 
+
+14
+00:01:03,008 --> 00:01:10,474
+Para mí, lo más interesante es que, como 
+resultado, obtenemos herramientas y
+
+15
+00:01:11,406 --> 00:01:17,985
+recursos digitales para que los años 
+venideros los espacios que vienen después
+
+16
+00:01:18,029 --> 00:01:21,407
+puedan consultar y que también 
+puedan hacer este tipo de experiencias.
+

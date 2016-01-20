@@ -1,0 +1,86 @@
+1
+00:00:00,840 --> 00:00:06,840
+[Música de presentación]
+
+2
+00:00:07,320 --> 00:00:10,080
+Deberían participar
+docentes del hackatón
+
+3
+00:00:10,160 --> 00:00:12,040
+porque es una oportunidad
+
+4
+00:00:12,120 --> 00:00:14,680
+de empezar a ver los datos
+de otra manera.
+
+5
+00:00:14,760 --> 00:00:17,320
+A uno, en general,
+
+6
+00:00:17,400 --> 00:00:20,680
+cuando tiene que ofrecer
+información que uno tiene,
+
+7
+00:00:20,760 --> 00:00:23,200
+le es difícil conocer de antemano
+
+8
+00:00:23,280 --> 00:00:25,280
+el criterio por el cual
+puede ser de utilidad
+
+9
+00:00:25,360 --> 00:00:26,640
+esa información.
+
+10
+00:00:26,720 --> 00:00:31,160
+Estando en contacto
+con los datos en cantidad,
+
+11
+00:00:31,240 --> 00:00:32,840
+sin ningún tipo de filtro,
+
+12
+00:00:32,920 --> 00:00:34,560
+y teniendo a disposición
+
+13
+00:00:34,640 --> 00:00:38,120
+gente que está abierta a trabajar
+
+14
+00:00:38,200 --> 00:00:40,160
+y a encontrarle
+un sentido a los datos,
+
+15
+00:00:40,240 --> 00:00:44,080
+uno realmente puede encontrar cosas,
+encontrar patrones o sistemas,
+
+16
+00:00:44,160 --> 00:00:45,640
+que saquen provecho
+de la información
+
+17
+00:00:45,720 --> 00:00:48,440
+para, eventualmente,
+casos que nosotros no imaginamos.
+
+18
+00:00:48,520 --> 00:00:51,000
+O sea,
+es volver más útil la información.
+
+19
+00:00:51,920 --> 00:00:55,720
+[Música de cierre]
+

@@ -1,0 +1,328 @@
+1
+00:00:00,212 --> 00:00:03,290
+Bueno, esto es parte integral
+de un proceso de puesta en valor
+
+2
+00:00:03,350 --> 00:00:06,159
+del sistema ferroviario que
+tiene que ver con varios aspectos.
+
+3
+00:00:06,219 --> 00:00:08,532
+Desde la infraestructura
+hasta la incorporación
+
+4
+00:00:08,592 --> 00:00:11,406
+de tecnología, como en este caso,
+
+5
+00:00:11,466 --> 00:00:16,246
+que va a permitir controlar
+online, los parámetros de referencia
+
+6
+00:00:16,306 --> 00:00:18,548
+de las líneas del área metropolitana.
+
+7
+00:00:18,608 --> 00:00:19,999
+Cuando digo parámetros de referencia
+estamos hablando
+
+8
+00:00:20,059 --> 00:00:22,263
+de velocidades,
+aproximación de trenes,
+
+9
+00:00:22,323 --> 00:00:25,349
+e ingreso a las
+velocidades permitidas
+
+10
+00:00:25,409 --> 00:00:29,199
+en las terminales que son punta,
+en fin, todas aquellas cuestiones
+
+11
+00:00:29,259 --> 00:00:32,231
+que hacen a la seguridad
+del sistema ferroviario
+
+12
+00:00:32,291 --> 00:00:34,400
+por ahora, del área metropolitana.
+Y después, seguramente,
+
+13
+00:00:34,460 --> 00:00:36,461
+los expanderemos al resto
+de los ferrocarriles
+
+14
+00:00:36,521 --> 00:00:38,049
+que operan en la Argentina.
+
+15
+00:00:38,109 --> 00:00:40,476
+Vamos a controlar
+todas las líneas
+
+16
+00:00:40,536 --> 00:00:42,956
+del área metropolitana.
+La idea, como les decía
+
+17
+00:00:43,016 --> 00:00:46,121
+es darle mayor seguridad
+a la operación del tren,
+
+18
+00:00:46,181 --> 00:00:48,184
+es un trabajo que
+están desarrollando
+
+19
+00:00:48,244 --> 00:00:50,548
+la sociedad operadora
+ferroviaria del Estado,
+
+20
+00:00:50,608 --> 00:00:53,738
+conjuntamente con
+los trabajadores
+
+21
+00:00:53,798 --> 00:00:56,325
+con una experiencia enorme
+que tienen muchos de ellos,
+
+22
+00:00:56,385 --> 00:00:59,852
+y que, en realidad, aportan
+para darle mayor seguridad,
+
+23
+00:00:59,912 --> 00:01:02,391
+mejor operatividad al sistema.
+
+24
+00:01:02,451 --> 00:01:06,270
+Va a funcionar los 365 días del año
+
+25
+00:01:06,330 --> 00:01:10,038
+en 3 turnos, así lo amerita
+la importancia que tiene
+
+26
+00:01:10,098 --> 00:01:13,791
+la operación de un servicio
+que, vuelvo a repetir,
+
+27
+00:01:13,851 --> 00:01:16,177
+estamos poniendo en valor
+por decisión de la presidenta
+
+28
+00:01:16,237 --> 00:01:18,242
+de la República, porque
+estamos incorporando
+
+29
+00:01:18,302 --> 00:01:20,354
+mayor cantidad de formaciones,
+
+30
+00:01:20,414 --> 00:01:24,344
+que estimamos que vamos a duplicar
+la capacidad de transporte
+
+31
+00:01:24,404 --> 00:01:25,802
+que tiene el área
+metropolitana este año,
+
+32
+00:01:25,862 --> 00:01:28,279
+ya, en algunas de las líneas.
+Razón por la cual
+
+33
+00:01:28,339 --> 00:01:30,357
+creemos que es necesario
+que este centro opere
+
+34
+00:01:30,417 --> 00:01:32,842
+los 365 días del año,
+las 24 horas.
+
+35
+00:01:33,312 --> 00:01:36,390
+Bueno, esto es parte integral
+de un proceso de puesta en valor
+
+36
+00:01:36,450 --> 00:01:39,259
+del sistema ferroviario que
+tiene que ver con varios aspectos.
+
+37
+00:01:39,319 --> 00:01:41,632
+Desde la infraestructura
+hasta la incorporación
+
+38
+00:01:41,692 --> 00:01:44,506
+de tecnología, como en este caso,
+
+39
+00:01:44,566 --> 00:01:49,346
+que va a permitir controlar
+online, los parámetros de referencia
+
+40
+00:01:49,406 --> 00:01:51,648
+de las líneas del área metropolitana.
+
+41
+00:01:51,708 --> 00:01:53,099
+Cuando digo parámetros de referencia
+estamos hablando
+
+42
+00:01:53,159 --> 00:01:55,363
+de velocidades,
+aproximación de trenes,
+
+43
+00:01:55,423 --> 00:01:58,449
+e ingreso a las
+velocidades permitidas
+
+44
+00:01:58,509 --> 00:02:02,299
+en las terminales que son punta,
+en fin, todas aquellas cuestiones
+
+45
+00:02:02,359 --> 00:02:05,331
+que hacen a la seguridad
+del sistema ferroviario
+
+46
+00:02:05,391 --> 00:02:07,500
+por ahora, del área metropolitana.
+Y después, seguramente,
+
+47
+00:02:07,560 --> 00:02:09,561
+los expanderemos al resto
+de los ferrocarriles
+
+48
+00:02:09,621 --> 00:02:11,149
+que operan en la Argentina.
+
+49
+00:02:11,209 --> 00:02:13,576
+Vamos a controlar
+todas las líneas
+
+50
+00:02:13,636 --> 00:02:16,056
+del área metropolitana.
+La idea, como les decía
+
+51
+00:02:16,116 --> 00:02:19,221
+es darle mayor seguridad
+a la operación del tren,
+
+52
+00:02:19,281 --> 00:02:21,284
+es un trabajo que
+están desarrollando
+
+53
+00:02:21,344 --> 00:02:23,648
+la sociedad operadora
+ferroviaria del Estado,
+
+54
+00:02:23,708 --> 00:02:26,838
+conjuntamente con
+los trabajadores
+
+55
+00:02:26,898 --> 00:02:29,425
+con una experiencia enorme
+que tienen muchos de ellos,
+
+56
+00:02:29,485 --> 00:02:32,952
+y que, en realidad, aportan
+para darle mayor seguridad,
+
+57
+00:02:33,012 --> 00:02:35,491
+mejor operatividad al sistema.
+
+58
+00:02:35,551 --> 00:02:39,370
+Va a funcionar los 365 días del año
+
+59
+00:02:39,430 --> 00:02:43,138
+en 3 turnos, así lo amerita
+la importancia que tiene
+
+60
+00:02:43,198 --> 00:02:46,891
+la operación de un servicio
+que, vuelvo a repetir,
+
+61
+00:02:46,951 --> 00:02:49,277
+estamos poniendo en valor
+por decisión de la presidenta
+
+62
+00:02:49,337 --> 00:02:51,342
+de la República, porque
+estamos incorporando
+
+63
+00:02:51,402 --> 00:02:53,454
+mayor cantidad de formaciones,
+
+64
+00:02:53,514 --> 00:02:57,444
+que estimamos que vamos a duplicar
+la capacidad de transporte
+
+65
+00:02:57,504 --> 00:02:58,902
+que tiene el área
+metropolitana este año,
+
+66
+00:02:58,962 --> 00:03:01,379
+ya, en algunas de las líneas.
+Razón por la cual
+
+67
+00:03:01,439 --> 00:03:03,457
+creemos que es necesario
+que este centro opere
+
+68
+00:03:03,517 --> 00:03:05,942
+los 365 días del año,
+las 24 horas.
+

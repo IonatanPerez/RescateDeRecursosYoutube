@@ -1,0 +1,87 @@
+1
+00:00:00,760 --> 00:00:06,760
+[Música de presentación]
+
+2
+00:00:07,240 --> 00:00:10,160
+Un hackatón es una reunión
+
+3
+00:00:10,240 --> 00:00:15,720
+en la que participa
+gente profesional en sistemas,
+
+4
+00:00:16,000 --> 00:00:18,960
+programadores, gente que se está
+iniciando en la programación.
+
+5
+00:00:19,040 --> 00:00:22,960
+En general,
+hay una temática abierta,
+
+6
+00:00:24,160 --> 00:00:25,760
+datos públicos,
+
+7
+00:00:26,240 --> 00:00:30,560
+un conjunto de herramientas
+que se liberan por algún motivo
+
+8
+00:00:30,640 --> 00:00:34,160
+y se convoca a programadores
+y gente del ambiente
+
+9
+00:00:34,240 --> 00:00:37,160
+para que vengan
+a aportar sus ideas y a tratar,
+
+10
+00:00:37,240 --> 00:00:38,800
+en una jornada breve,
+
+11
+00:00:39,280 --> 00:00:41,800
+de generar
+algún tipo de herramienta usable
+
+12
+00:00:41,880 --> 00:00:44,400
+que agregue algún tipo de valor
+
+13
+00:00:45,520 --> 00:00:47,680
+o, simplemente, de mostrar
+la información que se tiene
+
+14
+00:00:47,760 --> 00:00:49,040
+de otra manera.
+
+15
+00:00:49,760 --> 00:00:55,200
+Es una jornada
+para gente del mundo del software
+
+16
+00:00:55,280 --> 00:00:57,920
+y gente
+que se quiera acercar y participar,
+
+17
+00:00:58,000 --> 00:01:00,480
+en la que siempre
+se pueden aprender cosas nuevas
+
+18
+00:01:00,560 --> 00:01:03,600
+y desarrollar nuevas herramientas.
+
+19
+00:01:04,200 --> 00:01:08,160
+[Música de cierre]
+

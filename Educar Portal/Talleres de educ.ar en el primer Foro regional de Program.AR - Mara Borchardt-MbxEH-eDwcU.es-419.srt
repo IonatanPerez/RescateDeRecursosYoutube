@@ -1,0 +1,267 @@
+1
+00:00:00,640 --> 00:00:06,640
+[Música de presentación]
+
+2
+00:00:06,960 --> 00:00:08,000
+El portal Educ.ar
+
+3
+00:00:08,080 --> 00:00:09,720
+del Ministerio de Educación
+de la Nación
+
+4
+00:00:09,800 --> 00:00:11,800
+va a estar proponiendo
+
+5
+00:00:11,880 --> 00:00:13,880
+alrededor de entre siete
+y nueve talleres
+
+6
+00:00:13,960 --> 00:00:15,080
+en cada oportunidad,
+
+7
+00:00:15,160 --> 00:00:16,640
+algunos dirigidos a docentes
+
+8
+00:00:16,720 --> 00:00:19,560
+y otros dirigidos a estudiantes
+de escuelas secundarias públicas
+
+9
+00:00:19,640 --> 00:00:22,000
+que forman parte
+del programa Conectar Igualdad
+
+10
+00:00:22,080 --> 00:00:23,480
+y han recibido sus netbooks,
+
+11
+00:00:23,560 --> 00:00:27,200
+con la idea de promover
+el acercamiento a la programación
+
+12
+00:00:27,280 --> 00:00:28,800
+con distintas orientaciones:
+
+13
+00:00:28,880 --> 00:00:31,640
+algunos talleres están orientados
+a la programación y al arte;
+
+14
+00:00:31,720 --> 00:00:34,440
+otros,
+a la programación y la robótica;
+
+15
+00:00:34,520 --> 00:00:36,960
+otros,
+a la programación y los videojuegos.
+
+16
+00:00:37,040 --> 00:00:38,240
+Todos estos talleres
+
+17
+00:00:38,320 --> 00:00:41,520
+fueron desarrollados
+por artistas y programadores
+
+18
+00:00:41,600 --> 00:00:44,080
+especialmente convocados por Educ.ar
+
+19
+00:00:44,160 --> 00:00:46,480
+para dar continuidad al trabajo
+que se viene haciendo
+
+20
+00:00:46,560 --> 00:00:47,840
+en los festivales Conectar
+
+21
+00:00:47,920 --> 00:00:50,280
+y a la propuesta
+de las revistas "Conectados",
+
+22
+00:00:50,360 --> 00:00:51,960
+que editamos para jóvenes.
+
+23
+00:00:52,040 --> 00:00:55,080
+Program.AR
+es un programa plurinstitucional,
+
+24
+00:00:55,160 --> 00:00:57,480
+en el que está participando
+el portal Educ.ar
+
+25
+00:00:57,560 --> 00:00:59,760
+como representante del Ministerio
+de Educación de la Nación
+
+26
+00:00:59,840 --> 00:01:01,680
+junto con la Fundación Sadosky,
+
+27
+00:01:01,760 --> 00:01:03,400
+del Ministerio
+de Ciencia y Tecnología,
+
+28
+00:01:03,480 --> 00:01:05,400
+y el programa Conectar Igualdad.
+
+29
+00:01:05,480 --> 00:01:07,920
+En particular,
+Program.AR se va a expresar este año
+
+30
+00:01:08,000 --> 00:01:09,120
+en siete foros regionales
+
+31
+00:01:09,200 --> 00:01:11,800
+que se van a desarrollar
+a los largo y a lo ancho del país.
+
+32
+00:01:11,880 --> 00:01:14,840
+El primero es el 5 y 6 de junio,
+
+33
+00:01:14,920 --> 00:01:18,000
+se va a llevar adelante
+en la Universidad de Quilmes
+
+34
+00:01:18,080 --> 00:01:19,720
+para la región AMBA,
+
+35
+00:01:19,800 --> 00:01:24,080
+es decir, ciudad de Buenos Aires
+y el cordón sur del conurbano.
+
+36
+00:01:24,160 --> 00:01:25,960
+Cada uno de estos foros
+
+37
+00:01:26,440 --> 00:01:28,800
+tiene previstas
+tres actividades en paralelo.
+
+38
+00:01:28,880 --> 00:01:31,360
+Un debate, que es la primera tarde,
+
+39
+00:01:31,440 --> 00:01:33,520
+dirigido
+a la comunidad educativa en general,
+
+40
+00:01:33,600 --> 00:01:34,880
+incluyendo a las familias,
+
+41
+00:01:34,960 --> 00:01:36,040
+donde se va a trabajar
+
+42
+00:01:36,120 --> 00:01:39,160
+sobre por qué es importante
+enseñar y aprender a programar
+
+43
+00:01:39,240 --> 00:01:40,480
+hoy en día.
+
+44
+00:01:40,560 --> 00:01:43,360
+El segundo día va a constar
+de dos actividades
+
+45
+00:01:43,440 --> 00:01:44,600
+que se desarrollan en paralelo:
+
+46
+00:01:44,680 --> 00:01:48,000
+un hackatón, que es una maratón
+de programación colaborativa,
+
+47
+00:01:48,080 --> 00:01:50,800
+y una propuesta
+de talleres educativos
+
+48
+00:01:50,880 --> 00:01:52,480
+para docentes y estudiantes.
+
+49
+00:01:52,560 --> 00:01:55,400
+En este contexto, Educ.ar
+va a estar participando en el debate
+
+50
+00:01:55,480 --> 00:01:56,600
+moderando los foros
+
+51
+00:01:56,680 --> 00:02:01,240
+y aportando recursos de datos
+para el propio hackatón
+
+52
+00:02:01,320 --> 00:02:02,400
+para que los programadores
+
+53
+00:02:02,480 --> 00:02:05,240
+puedan desarrollar
+aplicaciones y visualizaciones
+
+54
+00:02:05,320 --> 00:02:07,760
+en relación con los contenidos
+que Educ.ar viene desarrollando
+
+55
+00:02:07,840 --> 00:02:09,360
+a lo largo de estos años.
+
+56
+00:02:09,440 --> 00:02:10,880
+Y, en relación con los talleres,
+
+57
+00:02:10,960 --> 00:02:14,080
+vamos a estar liderando
+la propuesta de actividades
+
+58
+00:02:14,160 --> 00:02:16,000
+tanto para estudiantes
+como para docentes.
+
+59
+00:02:16,080 --> 00:02:19,680
+[Música de cierre]
+

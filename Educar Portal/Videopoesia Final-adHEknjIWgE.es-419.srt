@@ -1,0 +1,503 @@
+1
+00:00:00,600 --> 00:00:06,600
+[Música de presentación]
+
+2
+00:00:15,520 --> 00:00:17,800
+VideoBardo es un colectivo
+
+3
+00:00:18,920 --> 00:00:22,760
+de poetas, artistas
+y realizadores audiovisuales.
+
+4
+00:00:23,800 --> 00:00:25,920
+Fue fundado en 1996
+
+5
+00:00:26,360 --> 00:00:28,880
+<i>a partir</i>
+<i>de "Bardo, Revista de Poesía",</i>
+
+6
+00:00:28,960 --> 00:00:31,640
+<i>que es una revista de poesía</i>
+<i>que empezó a salir en papel</i>
+
+7
+00:00:31,720 --> 00:00:33,480
+<i>y hoy tiene formato de blog,</i>
+
+8
+00:00:33,560 --> 00:00:37,520
+<i>y, justamente, por estas inquietudes</i>
+<i>sobre el lenguaje audiovisual,</i>
+
+9
+00:00:37,600 --> 00:00:40,240
+decidimos fundar VideoBardo
+
+10
+00:00:40,320 --> 00:00:42,360
+como archivo de videopoesía,
+primero.
+
+11
+00:00:42,440 --> 00:00:44,640
+<i>En el año 2004</i>
+
+12
+00:00:44,720 --> 00:00:48,200
+<i>–ya teníamos mucha difusión</i>
+<i>con la videopoesía–,</i>
+
+13
+00:00:48,280 --> 00:00:49,320
+<i>decidimos armar</i>
+
+14
+00:00:49,400 --> 00:00:51,640
+<i>el primer Festival Internacional</i>
+<i>de Videopoesía.</i>
+
+15
+00:00:51,960 --> 00:00:53,280
+El año pasado, en el 2012,
+
+16
+00:00:53,360 --> 00:00:56,200
+hicimos el cuarto Festival
+Internacional de Videopoesía.
+
+17
+00:00:56,280 --> 00:00:57,720
+La videopoesía
+
+18
+00:00:59,320 --> 00:01:01,760
+tiene dos definiciones.
+
+19
+00:01:02,560 --> 00:01:04,440
+<i>La que tomamos en VideoBardo,</i>
+
+20
+00:01:04,520 --> 00:01:06,400
+<i>o lo que elaboramos un poco</i>
+<i>en VideoBardo,</i>
+
+21
+00:01:06,480 --> 00:01:09,440
+<i>es que la videopoesía</i>
+<i>es una obra audiovisual</i>
+
+22
+00:01:09,520 --> 00:01:11,160
+<i>en la cual la imagen en movimiento,</i>
+
+23
+00:01:11,240 --> 00:01:15,400
+<i>el sonido o lenguaje sonoro</i>
+<i>y el lenguaje verbal o la palabra,</i>
+
+24
+00:01:15,480 --> 00:01:17,160
+<i>esos tres elementos,</i>
+
+25
+00:01:17,240 --> 00:01:19,200
+<i>se suman</i>
+<i>para lograr una cuarta realidad</i>
+
+26
+00:01:19,280 --> 00:01:21,080
+<i>que es la obra videopoética.</i>
+
+27
+00:01:21,560 --> 00:01:23,120
+<i>Después, hay otra definición</i>
+
+28
+00:01:23,200 --> 00:01:25,280
+<i>en la cual</i>
+<i>el propio lenguaje audiovisual</i>
+
+29
+00:01:25,360 --> 00:01:27,880
+<i>es usado poética o artísticamente,</i>
+
+30
+00:01:27,960 --> 00:01:31,600
+<i>o sea que no necesariamente</i>
+<i>tiene que estar la presencia</i>
+
+31
+00:01:31,680 --> 00:01:33,880
+<i>del lenguaje verbal</i>
+<i>o de la palabra.</i>
+
+32
+00:01:33,960 --> 00:01:35,640
+Este es un concepto que viene--
+
+33
+00:01:35,720 --> 00:01:38,800
+fue un poco acuñado
+por Pier Paolo Pasolini,
+
+34
+00:01:38,880 --> 00:01:41,760
+creador del cine de poesía,
+como lo llamó,
+
+35
+00:01:42,600 --> 00:01:45,920
+que es entender el cine,
+un lenguaje audiovisual,
+
+36
+00:01:46,000 --> 00:01:47,480
+con un uso no narrativo,
+
+37
+00:01:47,560 --> 00:01:49,960
+con un uso poético
+o con un uso artístico.
+
+38
+00:01:50,040 --> 00:01:54,000
+<i>El hombre en las cavernas</i>
+<i>animaba pinturas rupestres</i>
+
+39
+00:01:54,080 --> 00:01:57,640
+<i>moviendo antorchas</i>
+<i>con jabalíes de ocho patas</i>
+
+40
+00:01:58,040 --> 00:02:01,400
+<i>que, ante el movimiento</i>
+<i>de la luz de la antorcha, se movían.</i>
+
+41
+00:02:01,480 --> 00:02:06,520
+<i>O sea, ya, de esa manera,</i>
+<i>generaban imágenes en movimiento</i>
+
+42
+00:02:07,880 --> 00:02:10,120
+<i>y, seguramente,</i>
+<i>estarían acompañadas por música</i>
+
+43
+00:02:10,200 --> 00:02:12,240
+<i>o recitados de textos rituales.</i>
+
+44
+00:02:13,640 --> 00:02:14,680
+<i>Entonces, yo imagino</i>
+
+45
+00:02:14,760 --> 00:02:16,960
+<i>que esos habrán sido</i>
+<i>los primeros videopoemas</i>
+
+46
+00:02:17,040 --> 00:02:18,240
+<i>en las cavernas.</i>
+
+47
+00:02:18,800 --> 00:02:20,960
+<i>O sea que es ancestral,</i>
+<i>en ese sentido,</i>
+
+48
+00:02:21,040 --> 00:02:24,400
+<i>y, a la vez, muy novedoso,</i>
+<i>dadas las nuevas tecnologías,</i>
+
+49
+00:02:24,480 --> 00:02:29,840
+<i>que han potenciado y generado</i>
+<i>un montón de formatos nuevos</i>
+
+50
+00:02:29,920 --> 00:02:32,480
+<i>y que hacen que esto</i>
+<i>sea muy novedoso también.</i>
+
+51
+00:02:33,200 --> 00:02:34,480
+Las nuevas tecnologías, hoy día,
+
+52
+00:02:34,560 --> 00:02:37,600
+están tan al alcance de la mano
+para cualquiera,
+
+53
+00:02:37,680 --> 00:02:40,120
+o sea, hay muchas herramientas
+a nivel usuario
+
+54
+00:02:40,200 --> 00:02:43,880
+que uno puede agarrar en el celular,
+en la computadora,
+
+55
+00:02:43,960 --> 00:02:47,200
+y empezar a hacer cosas con ellas.
+
+56
+00:02:48,960 --> 00:02:51,320
+Está bueno poder sentirse creativo
+con ellas también.
+
+57
+00:02:51,400 --> 00:02:55,120
+No es simplemente
+hacer un uso
+
+58
+00:02:57,880 --> 00:03:00,480
+de trabajo,
+sino pensar que vos podés realmente
+
+59
+00:03:00,560 --> 00:03:03,560
+<i>llegar a crear con ellas.</i>
+<i>Y las tenés ahí nomás.</i>
+
+60
+00:03:03,640 --> 00:03:06,200
+(Javier)
+<i>Al ser un lenguaje de cruce,</i>
+
+61
+00:03:07,880 --> 00:03:09,120
+incluye varios lenguajes,
+
+62
+00:03:09,200 --> 00:03:10,480
+entonces, a vos te puede--
+
+63
+00:03:10,560 --> 00:03:13,360
+podés entrar por la música
+a la videopoesía,
+
+64
+00:03:13,440 --> 00:03:15,160
+podés entrar por la poesía,
+
+65
+00:03:15,680 --> 00:03:17,440
+podés entrar por el arte,
+
+66
+00:03:17,840 --> 00:03:19,800
+podés entrar por el cine,
+
+67
+00:03:20,680 --> 00:03:22,120
+podés entrar por el teatro,
+
+68
+00:03:22,200 --> 00:03:24,200
+podés entrar por la danza,
+
+69
+00:03:25,520 --> 00:03:28,000
+podés entrar por la animación,
+
+70
+00:03:29,440 --> 00:03:31,040
+podés entrar por el videojuego.
+
+71
+00:03:31,120 --> 00:03:33,200
+Tiene muchas aristas de entrada
+
+72
+00:03:34,040 --> 00:03:35,680
+porque todas
+pueden estar representadas
+
+73
+00:03:35,760 --> 00:03:36,800
+en un videopoema,
+
+74
+00:03:36,880 --> 00:03:39,000
+eso es lo que hace
+que tenga tantas posibilidades.
+
+75
+00:03:39,080 --> 00:03:42,760
+<i>Y la línea que podríamos tirar</i>
+<i>para alguien que quiere arrancar</i>
+
+76
+00:03:42,840 --> 00:03:45,680
+<i>es una imagen en movimiento,</i>
+
+77
+00:03:45,760 --> 00:03:47,960
+<i>o sea que podés arrancar</i>
+<i>desde una imagen,</i>
+
+78
+00:03:48,040 --> 00:03:50,560
+<i>fija o en movimiento,</i>
+<i>una imagen visual,</i>
+
+79
+00:03:51,120 --> 00:03:54,280
+<i>podés arrancar</i>
+<i>de un sonido o de una música</i>
+
+80
+00:03:55,120 --> 00:03:58,800
+<i>y, tercero, podés arrancar</i>
+<i>de una palabra o de un texto.</i>
+
+81
+00:03:59,200 --> 00:04:02,520
+<i>Como que esos tres elementos,</i>
+<i>como yo dije,</i>
+
+82
+00:04:02,600 --> 00:04:04,280
+<i>son los tres elementos que se suman,</i>
+
+83
+00:04:04,360 --> 00:04:06,920
+<i>entonces, podés arrancar</i>
+<i>de alguno de esos tres</i>
+
+84
+00:04:07,000 --> 00:04:08,560
+<i>y combinarlos, ¿no?</i>
+
+85
+00:04:08,640 --> 00:04:12,440
+(Queralt)
+<i>Con el avance tecnológico,</i>
+<i>cada vez es menos costoso todo:</i>
+
+86
+00:04:12,520 --> 00:04:15,960
+<i>menos costoso grabar,</i>
+<i>menos costoso editar,</i>
+
+87
+00:04:16,040 --> 00:04:18,640
+menos costoso producir
+la parte audiovisual
+
+88
+00:04:18,720 --> 00:04:19,960
+de la videopoesía.
+
+89
+00:04:20,040 --> 00:04:25,560
+Antes de que se hiciesen
+de uso común
+
+90
+00:04:25,640 --> 00:04:27,640
+todas estas herramientas,
+
+91
+00:04:27,720 --> 00:04:29,800
+tanto la parte de hardware
+como de software,
+
+92
+00:04:29,880 --> 00:04:35,480
+antes vos tenías que tener
+ese equipo para realizarlo.
+
+93
+00:04:35,560 --> 00:04:37,080
+Hoy día,
+
+94
+00:04:38,560 --> 00:04:40,520
+es muy fácil,
+
+95
+00:04:40,600 --> 00:04:43,040
+como dice él,
+para bien o para mal.
+
+96
+00:04:43,120 --> 00:04:44,480
+A la hora también de explotarlo,
+
+97
+00:04:44,560 --> 00:04:47,840
+uno tiene que saber
+qué uso hacer de eso,
+
+98
+00:04:48,160 --> 00:04:51,760
+saber de forma consciente
+lo que está produciendo
+
+99
+00:04:51,840 --> 00:04:52,880
+y cómo lo está haciendo.
+
+100
+00:04:52,960 --> 00:04:55,320
+Y también, hoy día,
+vos podés compartir un video
+
+101
+00:04:55,400 --> 00:04:59,200
+con miles de personas
+de una forma pasmosa,
+
+102
+00:04:59,280 --> 00:05:01,960
+que hace unos años era impensable.
+
+103
+00:05:02,720 --> 00:05:06,560
+Así que tanto cómo consumimos
+como cómo producimos
+
+104
+00:05:06,640 --> 00:05:07,680
+ha cambiado radicalmente,
+
+105
+00:05:07,760 --> 00:05:10,120
+y eso, obviamente, se ve
+en los trabajos que recibimos.
+
+106
+00:05:10,200 --> 00:05:12,040
+Hay todo un cambio,
+
+107
+00:05:12,120 --> 00:05:16,760
+hay múltiples miradas,
+múltiples modos de hacer,
+
+108
+00:05:18,360 --> 00:05:20,040
+eso se nota, desde luego,
+
+109
+00:05:20,120 --> 00:05:22,760
+y se nota en el trabajo
+de los artistas, claro.
+
+110
+00:05:23,560 --> 00:05:29,560
+[Música de cierre]
+

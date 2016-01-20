@@ -1,0 +1,900 @@
+1
+00:00:00,641 --> 00:00:03,964
+Muchas gracias. Muy buenas noches
+
+2
+00:00:04,024 --> 00:00:06,627
+a todos y a todas...
+
+3
+00:00:21,687 --> 00:00:23,483
+Señor ministro de
+
+4
+00:00:23,543 --> 00:00:26,136
+ciencia y tecnología de la
+
+5
+00:00:26,196 --> 00:00:27,295
+República federativa de
+
+6
+00:00:27,355 --> 00:00:30,001
+Brasil muchas gracias por
+
+7
+00:00:30,061 --> 00:00:31,583
+estar hoy aquí
+
+8
+00:00:31,643 --> 00:00:34,933
+representando a su país en
+
+9
+00:00:34,993 --> 00:00:37,007
+esta tercera edición de
+
+10
+00:00:37,067 --> 00:00:38,948
+tecnopolis.
+
+11
+00:00:39,443 --> 00:00:40,582
+señor gobernador de la
+
+12
+00:00:40,642 --> 00:00:41,384
+Provincia de Buenos
+
+13
+00:00:41,444 --> 00:00:43,574
+aires... Señor
+
+14
+00:00:43,634 --> 00:00:45,836
+Vicepresidente...
+
+15
+00:00:45,896 --> 00:00:48,606
+Señor Martín Insaurralde,
+
+16
+00:00:48,666 --> 00:00:49,716
+intendente de Lomas de
+
+17
+00:00:49,776 --> 00:00:51,442
+Zamora.
+
+18
+00:00:53,527 --> 00:00:54,957
+Intendente de vicente
+
+19
+00:00:55,017 --> 00:00:57,011
+López, Jorge Macri...
+
+20
+00:01:00,115 --> 00:01:01,503
+Y...
+
+21
+00:01:01,563 --> 00:01:05,321
+Y... Nuestros invitados...
+
+22
+00:01:05,381 --> 00:01:07,164
+Especiales.
+
+23
+00:01:08,072 --> 00:01:09,601
+La escuela...
+
+24
+00:01:09,661 --> 00:01:11,487
+De loma Blanca, provincia
+
+25
+00:01:11,547 --> 00:01:13,149
+de Jujuy...
+
+26
+00:01:13,209 --> 00:01:17,159
+Primaria y secundaria...
+
+27
+00:01:20,952 --> 00:01:22,882
+Que hoy nos visitan...
+
+28
+00:01:22,942 --> 00:01:27,244
+Allá arriba...
+
+29
+00:01:29,945 --> 00:01:33,491
+Nuestros compatriotas, dos
+
+30
+00:01:33,551 --> 00:01:35,961
+personas... Dos personitas
+
+31
+00:01:36,021 --> 00:01:37,114
+muy particulares que son
+
+32
+00:01:37,174 --> 00:01:40,793
+celeste y fabrizio, a ver
+
+33
+00:01:40,853 --> 00:01:42,823
+de pie, celeste y fabrizio?
+
+34
+00:01:42,883 --> 00:01:45,705
+Vamos, celeste y
+
+35
+00:01:45,765 --> 00:01:54,803
+fabrizio. Ellos dos...
+
+36
+00:01:54,863 --> 00:01:55,877
+Celeste y fabrizio
+
+37
+00:01:55,937 --> 00:01:59,805
+representan... representan
+
+38
+00:01:59,865 --> 00:02:02,255
+a millones de argentinos...
+
+39
+00:02:02,315 --> 00:02:04,337
+que no estaban incluidos y
+
+40
+00:02:04,397 --> 00:02:06,194
+que hoy con gran
+
+41
+00:02:06,254 --> 00:02:08,184
+esfuerzo...
+
+42
+00:02:08,244 --> 00:02:09,942
+Con gran cariño, con gran
+
+43
+00:02:10,002 --> 00:02:12,805
+amor los incluimos.
+
+44
+00:02:12,865 --> 00:02:14,307
+(Aplausos).
+
+45
+00:02:14,367 --> 00:02:17,009
+[Ovación]
+
+46
+00:02:40,879 --> 00:02:42,886
+En esta tercera... en
+
+47
+00:02:42,946 --> 00:02:46,860
+esta tercera edición de
+
+48
+00:02:46,920 --> 00:02:49,422
+tecnópolis que está más
+
+49
+00:02:49,482 --> 00:02:53,695
+linda que nunca, con 164
+
+50
+00:02:53,755 --> 00:02:55,901
+empresas privadas que
+
+51
+00:02:55,961 --> 00:02:58,656
+intervienen con el primer
+
+52
+00:02:58,716 --> 00:03:01,610
+invitado Internacional o
+
+53
+00:03:01,670 --> 00:03:03,592
+regional, que tenemos o
+
+54
+00:03:03,652 --> 00:03:06,378
+casi nacional, que tenemos
+
+55
+00:03:06,438 --> 00:03:07,843
+porque somos hermanos, le
+
+56
+00:03:07,903 --> 00:03:09,017
+damos la bienvenida al
+
+57
+00:03:09,077 --> 00:03:09,839
+primer invitado la
+
+58
+00:03:09,899 --> 00:03:11,117
+República federativa de
+
+59
+00:03:11,177 --> 00:03:12,455
+Brasil que tiene su stand
+
+60
+00:03:12,515 --> 00:03:18,062
+aquí en tecnópolis, donde
+
+61
+00:03:18,122 --> 00:03:21,952
+los argentinos...
+
+62
+00:03:22,012 --> 00:03:24,909
+desplegamos a través de
+
+63
+00:03:24,969 --> 00:03:27,559
+nuestras empresas, a través
+
+64
+00:03:27,619 --> 00:03:29,389
+del estado, las
+
+65
+00:03:29,449 --> 00:03:31,108
+reparticiones públicas del
+
+66
+00:03:31,168 --> 00:03:32,762
+sector privado desplegamos
+
+67
+00:03:32,822 --> 00:03:35,516
+nuestras capacidades,
+
+68
+00:03:35,576 --> 00:03:36,706
+nuestra evolución
+
+69
+00:03:36,766 --> 00:03:37,875
+tecnología con la
+
+70
+00:03:37,935 --> 00:03:41,201
+convicción de que esta debe
+
+71
+00:03:41,261 --> 00:03:43,327
+ser la muestra del futuro y
+
+72
+00:03:43,387 --> 00:03:44,853
+del presente, porque
+
+73
+00:03:44,913 --> 00:03:46,400
+tenemos que seguir
+
+74
+00:03:46,460 --> 00:03:48,458
+agregando valor, tenemos
+
+75
+00:03:48,518 --> 00:03:49,888
+que incorporar cada vez mas
+
+76
+00:03:49,948 --> 00:03:52,178
+ciencia y más tecnología
+
+77
+00:03:52,238 --> 00:03:53,943
+para que haya más y mejor
+
+78
+00:03:54,003 --> 00:03:55,897
+trabajo para los 40
+
+79
+00:03:55,957 --> 00:03:58,663
+millones de argentinos.
+
+80
+00:03:58,723 --> 00:04:01,777
+[Ovación]
+
+81
+00:04:01,837 --> 00:04:03,880
+Necesitamos...
+
+82
+00:04:03,940 --> 00:04:06,886
+Necesitamos...
+
+83
+00:04:06,946 --> 00:04:11,691
+Que fabrizio... Y que
+
+84
+00:04:11,751 --> 00:04:13,817
+celeste...
+
+85
+00:04:13,877 --> 00:04:15,735
+A quienes el otro día en la
+
+86
+00:04:15,795 --> 00:04:18,118
+escuela loma Blanca además
+
+87
+00:04:18,178 --> 00:04:19,548
+de la TDA
+
+88
+00:04:19,608 --> 00:04:22,126
+hicimos la conexión con el
+
+89
+00:04:22,186 --> 00:04:24,019
+aula móvil, con el
+
+90
+00:04:24,079 --> 00:04:28,651
+Internet, tengan la misma
+
+91
+00:04:28,711 --> 00:04:32,842
+oportunidad, viviendo a
+
+92
+00:04:32,902 --> 00:04:35,484
+4200 metros de altura, allá
+
+93
+00:04:35,544 --> 00:04:39,165
+en la frontera de ser parte
+
+94
+00:04:39,225 --> 00:04:41,415
+del país, parte integrante
+
+95
+00:04:41,475 --> 00:04:44,041
+del país. me contaban que
+
+96
+00:04:44,101 --> 00:04:45,351
+ni siquiera conocían
+
+97
+00:04:45,411 --> 00:04:47,090
+tilcara y que conocieron
+
+98
+00:04:47,150 --> 00:04:49,832
+tilcara antes...
+
+99
+00:04:49,892 --> 00:04:52,334
+de venir acá, por eso... yo
+
+100
+00:04:52,394 --> 00:04:54,123
+le pido a todos...
+
+101
+00:04:54,183 --> 00:04:56,149
+A todos los argentinos...
+
+102
+00:04:56,209 --> 00:04:57,711
+Piensen como piensen...
+
+103
+00:04:57,771 --> 00:04:59,745
+sientan como sientan...
+
+104
+00:04:59,805 --> 00:05:01,407
+Que todavía tenemos una
+
+105
+00:05:01,467 --> 00:05:04,037
+inmensa deuda social y que
+
+106
+00:05:04,097 --> 00:05:06,116
+tenemos que hacerla con el
+
+107
+00:05:06,176 --> 00:05:08,765
+esfuerzo de los que ya han
+
+108
+00:05:08,825 --> 00:05:11,603
+tenido o tienen una
+
+109
+00:05:11,663 --> 00:05:13,441
+oportunidad.
+
+110
+00:05:13,501 --> 00:05:16,447
+Por los miles y miles...
+
+111
+00:05:17,492 --> 00:05:19,702
+De fabrizios y de
+
+112
+00:05:19,762 --> 00:05:21,988
+celestes... pueblos
+
+113
+00:05:22,048 --> 00:05:24,681
+originarios y los que no
+
+114
+00:05:24,741 --> 00:05:26,703
+son originarios, también.
+
+115
+00:05:26,763 --> 00:05:28,569
+que merecen toda nuestra
+
+116
+00:05:28,629 --> 00:05:30,291
+atención...
+
+117
+00:05:31,139 --> 00:05:32,620
+Gracias, mi amor, este
+
+118
+00:05:32,680 --> 00:05:34,155
+año...
+
+119
+00:05:34,215 --> 00:05:36,045
+Este año...
+
+120
+00:05:36,105 --> 00:05:38,135
+Este año tecnópolis tiene
+
+121
+00:05:38,195 --> 00:05:40,636
+más de 40 mil metros
+
+122
+00:05:40,696 --> 00:05:43,242
+cuadrados cubiertos y tiene
+
+123
+00:05:43,302 --> 00:05:46,616
+el predio ferial de 32 mil
+
+124
+00:05:46,676 --> 00:05:47,794
+metros que nos permite
+
+125
+00:05:47,854 --> 00:05:49,973
+convertirnos, creo que lo
+
+126
+00:05:50,033 --> 00:05:51,843
+más importante de la
+
+127
+00:05:51,903 --> 00:05:55,381
+argentina con 3500 lugares
+
+128
+00:05:55,441 --> 00:05:56,754
+para estacionamiento de
+
+129
+00:05:56,814 --> 00:05:57,940
+autos.
+
+130
+00:05:58,000 --> 00:05:58,894
+Y con toda una
+
+131
+00:05:58,954 --> 00:06:00,304
+infraestructura en
+
+132
+00:06:00,364 --> 00:06:02,375
+tecnología, en ciencia...
+
+133
+00:06:02,435 --> 00:06:03,677
+En arte...
+
+134
+00:06:03,737 --> 00:06:05,715
+Para todos los argentinos.
+
+135
+00:06:05,775 --> 00:06:08,200
+La verdad que.. yo estoy
+
+136
+00:06:08,260 --> 00:06:09,766
+muy contenta acabo de
+
+137
+00:06:09,826 --> 00:06:12,268
+llegar hace unas horas de
+
+138
+00:06:12,328 --> 00:06:15,962
+montevideo... donde se
+
+139
+00:06:16,022 --> 00:06:20,189
+realizó la 45 reunión
+
+140
+00:06:20,249 --> 00:06:22,163
+cumbre del Mercosur,
+
+141
+00:06:22,223 --> 00:06:24,776
+asumiendo su presidencia el
+
+142
+00:06:24,836 --> 00:06:27,574
+compañero nicolás maduro
+
+143
+00:06:27,634 --> 00:06:28,884
+por la República
+
+144
+00:06:28,944 --> 00:06:31,070
+bolivariana de Venezuela.
+
+145
+00:06:31,130 --> 00:06:33,004
+[Ovación]
+
+146
+00:06:33,064 --> 00:06:34,931
+(Aplausos).
+
+147
+00:06:34,991 --> 00:06:36,605
+Símbolo...
+
+148
+00:06:36,665 --> 00:06:38,446
+Símbolo...
+
+149
+00:06:39,531 --> 00:06:41,505
+De la integración...
+
+150
+00:06:41,565 --> 00:06:43,647
+regional de la América del
+
+151
+00:06:43,707 --> 00:06:45,265
+sur donde también los
+
+152
+00:06:45,325 --> 00:06:46,411
+solidarizamos una vez
+
+153
+00:06:46,471 --> 00:06:49,273
+más... con evo morales,
+
+154
+00:06:49,333 --> 00:06:50,607
+presidente del estado
+
+155
+00:06:50,667 --> 00:06:53,133
+plurinacional de Bolivia...
+
+156
+00:06:57,296 --> 00:07:00,028
+Y donde todos los
+
+157
+00:07:00,088 --> 00:07:01,131
+presidentes y
+
+158
+00:07:01,191 --> 00:07:01,837
+presidentas...
+
+159
+00:07:01,897 --> 00:07:03,563
+Nos comprometimos
+
+160
+00:07:03,623 --> 00:07:05,625
+Con acciones claras y
+
+161
+00:07:05,685 --> 00:07:08,650
+contundentes en la defensa
+
+162
+00:07:08,710 --> 00:07:10,440
+de la dignidad regional,
+
+163
+00:07:10,500 --> 00:07:12,754
+pero como siempre digo, la
+
+164
+00:07:12,814 --> 00:07:14,954
+dignidad regional no se
+
+165
+00:07:15,014 --> 00:07:16,128
+sostiene únicamente con
+
+166
+00:07:16,188 --> 00:07:17,746
+discursos, sino que se
+
+167
+00:07:17,806 --> 00:07:21,672
+sostiene haciendo cosas
+
+168
+00:07:21,732 --> 00:07:23,686
+como estas, incorporando
+
+169
+00:07:23,746 --> 00:07:26,484
+cada vez mayor tecnología,
+
+170
+00:07:26,544 --> 00:07:27,870
+mayor valor agregado y
+
+171
+00:07:27,930 --> 00:07:30,340
+dándole... oportunidades de
+
+172
+00:07:30,400 --> 00:07:33,452
+educación, de preparación a
+
+173
+00:07:33,512 --> 00:07:34,646
+todos los chicos
+
+174
+00:07:34,706 --> 00:07:36,048
+argentinos... Para que
+
+175
+00:07:36,108 --> 00:07:38,778
+todos... desde loma Blanca
+
+176
+00:07:38,838 --> 00:07:41,092
+allá arriba a 4200 metros,
+
+177
+00:07:41,152 --> 00:07:42,686
+hasta Ushuaia tengan la
+
+178
+00:07:42,746 --> 00:07:45,352
+misma oportunidad que el
+
+179
+00:07:45,412 --> 00:07:47,314
+resto de los argentinos de
+
+180
+00:07:47,374 --> 00:07:50,324
+aprender, de educarse de
+
+181
+00:07:50,384 --> 00:07:52,053
+elegir...
+
+182
+00:07:52,113 --> 00:07:54,768
+(Aplausos).
+
+183
+00:07:59,870 --> 00:08:02,087
+Quiero agradecerle al
+
+184
+00:08:02,147 --> 00:08:03,461
+maestro, Andrés, a
+
+185
+00:08:03,521 --> 00:08:05,303
+ramiro... ahí está Andrés,
+
+186
+00:08:05,363 --> 00:08:06,828
+ramiro, era, no?
+
+187
+00:08:08,203 --> 00:08:13,877
+Rufino... Rufino es el
+
+188
+00:08:13,937 --> 00:08:15,903
+jefe, medio del pueblo de
+
+189
+00:08:15,963 --> 00:08:18,833
+loma Blanca, el que
+
+190
+00:08:18,893 --> 00:08:20,223
+organiza porque siempre hay
+
+191
+00:08:20,283 --> 00:08:22,756
+alguien que debe liderar y
+
+192
+00:08:22,816 --> 00:08:24,906
+organizar a una sociedad
+
+193
+00:08:24,966 --> 00:08:27,211
+y esto no significa no ser
+
+194
+00:08:27,271 --> 00:08:28,469
+democrático... al
+
+195
+00:08:28,529 --> 00:08:29,843
+contrario... significa
+
+196
+00:08:29,903 --> 00:08:31,053
+ser... algo mucho más
+
+197
+00:08:31,113 --> 00:08:33,095
+simple, organizado...
+
+198
+00:08:33,155 --> 00:08:36,184
+tener, sí, organizado. sin
+
+199
+00:08:36,244 --> 00:08:38,598
+unidad y sin organización
+
+200
+00:08:38,658 --> 00:08:41,105
+no se va a ninguna parte, a
+
+201
+00:08:41,165 --> 00:08:44,835
+ninguna parte. así que...
+
+202
+00:08:44,895 --> 00:08:46,957
+quiero dejar... esta noche,
+
+203
+00:08:47,017 --> 00:08:48,463
+donde hemos... Vivido...
+
+204
+00:08:48,523 --> 00:08:50,552
+10 importantes horas, allá
+
+205
+00:08:50,612 --> 00:08:53,886
+en montevideo dejar
+
+206
+00:08:53,946 --> 00:08:56,773
+inaugurado junto a celeste
+
+207
+00:08:56,833 --> 00:08:58,715
+y a fabrizio, mirá a
+
+208
+00:08:58,775 --> 00:09:01,369
+fabrizio apenas se le ve la
+
+209
+00:09:01,429 --> 00:09:03,367
+carita, es un amor,
+
+210
+00:09:03,427 --> 00:09:04,360
+fabrizio.
+
+211
+00:09:04,420 --> 00:09:05,418
+Y celeste, también.
+
+212
+00:09:05,478 --> 00:09:07,612
+Claro que sí, viva la
+
+213
+00:09:07,672 --> 00:09:09,522
+patria... claro que sí,
+
+214
+00:09:09,582 --> 00:09:11,036
+viva la patria!
+
+215
+00:09:12,135 --> 00:09:14,915
+Quiero dejar
+
+216
+00:09:14,975 --> 00:09:16,761
+inaugurada...
+
+217
+00:09:16,821 --> 00:09:18,463
+Formalmente...
+
+218
+00:09:19,192 --> 00:09:20,648
+Agradeciendo la presencia
+
+219
+00:09:20,708 --> 00:09:23,070
+de Brasil y en nombre de
+
+220
+00:09:23,130 --> 00:09:25,652
+fabrizio y de celeste, la
+
+221
+00:09:25,712 --> 00:09:27,390
+tercera edición de
+
+222
+00:09:27,450 --> 00:09:29,312
+tecnópolis para todos los
+
+223
+00:09:29,372 --> 00:09:31,030
+argentinos... vamos,
+
+224
+00:09:31,090 --> 00:09:33,013
+todavía, muchas gracias!
+
+225
+00:09:33,073 --> 00:09:34,089
+(Aplausos).
+

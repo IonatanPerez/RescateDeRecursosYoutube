@@ -1,0 +1,267 @@
+1
+00:00:04,720 --> 00:00:06,640
+[Música melódica]
+
+2
+00:00:06,720 --> 00:00:08,880
+(Voz de hombre)
+<i>En los últimos años las TIC,</i>
+
+3
+00:00:08,960 --> 00:00:11,160
+<i>Tecnologías de la Información</i>
+<i>y la Comunicación,</i>
+
+4
+00:00:11,240 --> 00:00:13,000
+<i>se han transformado</i>
+<i>en elementos clave</i>
+
+5
+00:00:13,080 --> 00:00:15,640
+<i>para la educación y desarrollo</i>
+<i>de las nuevas generaciones,</i>
+
+6
+00:00:15,720 --> 00:00:17,200
+<i>tanto por la influencia que ejercen</i>
+
+7
+00:00:17,280 --> 00:00:19,560
+<i>en la vida personal y profesional</i>
+<i>de los ciudadanos,</i>
+
+8
+00:00:19,640 --> 00:00:22,720
+<i>como por el rol que han asumido</i>
+<i>en el marco de la cultura global.</i>
+
+9
+00:00:22,800 --> 00:00:25,800
+<i>Educ.ar surgió para acompañar</i>
+<i>a la comunidad educativa</i>
+
+10
+00:00:25,880 --> 00:00:27,080
+<i>en este proceso;</i>
+
+11
+00:00:27,160 --> 00:00:30,120
+<i>un portal educativo</i>
+<i>con contenidos y servicios digitales</i>
+
+12
+00:00:30,200 --> 00:00:31,240
+<i>destinado a ejecutar</i>
+
+13
+00:00:31,320 --> 00:00:33,440
+<i>las políticas definidas</i>
+<i>por el Ministerio de Educación</i>
+
+14
+00:00:33,520 --> 00:00:36,440
+<i>en materia de integración de TIC</i>
+<i>en el sistema educativo.</i>
+
+15
+00:00:36,520 --> 00:00:37,560
+<i>Desde su creación,</i>
+
+16
+00:00:37,640 --> 00:00:40,400
+<i>el portal Educ.ar</i>
+<i>se ha propuesto como desafío</i>
+
+17
+00:00:40,480 --> 00:00:42,880
+<i>mejorar los modos</i>
+<i>de enseñar y de aprender</i>
+
+18
+00:00:42,960 --> 00:00:44,560
+<i>a partir</i>
+<i>de la incorporación de las TIC,</i>
+
+19
+00:00:44,640 --> 00:00:47,520
+<i>innovar en el desarrollo</i>
+<i>de propuestas y proyectos educativos</i>
+
+20
+00:00:47,600 --> 00:00:48,680
+<i>con el uso de TIC,</i>
+
+21
+00:00:48,760 --> 00:00:50,520
+<i>capacitar docentes</i>
+<i>en todos los niveles</i>
+
+22
+00:00:50,600 --> 00:00:53,480
+<i>de alfabetización digital</i>
+<i>y desarrollar contenidos digitales</i>
+
+23
+00:00:53,560 --> 00:00:56,120
+<i>seleccionados y especializados</i>
+<i>para docentes,</i>
+
+24
+00:00:56,200 --> 00:00:58,080
+<i>familias y estudiantes.</i>
+
+25
+00:00:58,160 --> 00:01:00,360
+<i>Educ.ar es un portal para todos,</i>
+
+26
+00:01:00,440 --> 00:01:02,640
+<i>destinado</i>
+<i>a toda la comunidad educativa,</i>
+
+27
+00:01:02,720 --> 00:01:03,760
+<i>para acompañarlos</i>
+
+28
+00:01:03,840 --> 00:01:06,040
+<i>en el proceso de inclusión</i>
+<i>y alfabetización digital,</i>
+
+29
+00:01:06,120 --> 00:01:07,400
+<i>en marcha a nivel nacional,</i>
+
+30
+00:01:07,480 --> 00:01:09,680
+<i>a través de una oferta</i>
+<i>de contenidos abiertos</i>
+
+31
+00:01:09,760 --> 00:01:11,240
+<i>y proyectos de calidad.</i>
+
+32
+00:01:11,320 --> 00:01:13,480
+<i>Educ.ar es un portal colaborativo,</i>
+
+33
+00:01:13,560 --> 00:01:16,000
+<i>diseñado para que los usuarios</i>
+<i>puedan crear y compartir</i>
+
+34
+00:01:16,080 --> 00:01:18,600
+<i>recursos y contenidos</i>
+<i>generados por ellos mismos</i>
+
+35
+00:01:18,680 --> 00:01:21,400
+<i>para revalorizar la inteligencia</i>
+<i>colectiva  de la comunidad,</i>
+
+36
+00:01:21,480 --> 00:01:23,640
+<i>que puede expresarse</i>
+<i>en las distintas convocatorias</i>
+
+37
+00:01:23,720 --> 00:01:26,520
+<i>y proyectos para todos los niveles</i>
+<i>del sistema educativo.</i>
+
+38
+00:01:26,600 --> 00:01:28,640
+<i>Educ.ar es un portal social,</i>
+
+39
+00:01:29,320 --> 00:01:30,440
+<i>un espacio privilegiado</i>
+
+40
+00:01:30,520 --> 00:01:32,280
+<i>para conectar</i>
+<i>a una comunidad innovadora,</i>
+
+41
+00:01:32,360 --> 00:01:34,960
+<i>creativa y con intereses sociales,</i>
+
+42
+00:01:35,040 --> 00:01:37,360
+<i>para que sus integrantes</i>
+<i>puedan transformarse</i>
+
+43
+00:01:37,440 --> 00:01:39,960
+<i>en productores</i>
+<i>de sus propias historias.</i>
+
+44
+00:01:40,040 --> 00:01:42,440
+<i>Educ.ar es un portal al día</i>
+
+45
+00:01:42,520 --> 00:01:45,640
+<i>que crece y genera diferentes</i>
+<i>propuestas  de formación continua</i>
+
+46
+00:01:45,720 --> 00:01:47,800
+<i>para acompañar a los docentes</i>
+<i>en la incorporación</i>
+
+47
+00:01:47,880 --> 00:01:49,680
+<i>de nuevas formas de enseñar</i>
+<i>y aprender</i>
+
+48
+00:01:49,760 --> 00:01:52,640
+<i>en su tarea</i>
+<i>como profesionales del siglo XXI.</i>
+
+49
+00:01:53,880 --> 00:01:56,320
+<i>Educ.ar es un portal innovador</i>
+
+50
+00:01:56,400 --> 00:01:58,880
+<i>que trabaja y desarrolla</i>
+<i>un multimedia educativo</i>
+
+51
+00:01:58,960 --> 00:02:00,760
+<i>con contenidos</i>
+<i>en varias plataformas,</i>
+
+52
+00:02:00,840 --> 00:02:03,560
+<i>como una fórmula para vincular</i>
+<i>la calidad del contenido</i>
+
+53
+00:02:03,640 --> 00:02:06,360
+<i>con la interactividad</i>
+<i>y la llegada a las aulas.</i>
+
+54
+00:02:06,440 --> 00:02:08,960
+<i>Educ.ar es un portal aumentado;</i>
+
+55
+00:02:09,040 --> 00:02:12,120
+<i>un portal que en la suma</i>
+<i>de plataformas, medios y proyectos</i>
+
+56
+00:02:12,200 --> 00:02:15,240
+<i>busca promover la igualdad</i>
+<i>en el acceso al conocimiento</i>
+
+57
+00:02:15,320 --> 00:02:18,760
+<i>a través de la distribución libre</i>
+<i>de contenidos de calidad.</i>
+

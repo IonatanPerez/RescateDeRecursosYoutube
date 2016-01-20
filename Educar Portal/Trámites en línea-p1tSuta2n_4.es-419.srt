@@ -1,0 +1,225 @@
+1
+00:00:03,840 --> 00:00:07,720
+(Voz de hombre)
+<i>Cosas que podés hacer con tu compu:</i>
+<i>trámites en línea.</i>
+
+2
+00:00:08,320 --> 00:00:09,440
+<i>En nuestra vida cotidiana,</i>
+
+3
+00:00:09,520 --> 00:00:12,360
+<i>siempre tenemos que realizar</i>
+<i>numerosos trámites:</i>
+
+4
+00:00:12,440 --> 00:00:15,200
+<i>pagar cuentas e impuestos,</i>
+<i>solicitar turnos,</i>
+
+5
+00:00:15,280 --> 00:00:18,520
+<i>enviar solicitudes,</i>
+<i>obtener certificados y documentos</i>
+
+6
+00:00:18,600 --> 00:00:20,400
+<i>o inscribirnos a eventos.</i>
+
+7
+00:00:20,480 --> 00:00:22,360
+<i>También podemos</i>
+<i>obtener y actualizar</i>
+
+8
+00:00:22,440 --> 00:00:25,280
+<i>el Documento Nacional de Identidad</i>
+<i>y nuestro pasaporte,</i>
+
+9
+00:00:25,360 --> 00:00:26,880
+<i>pedir créditos hipotecarios,</i>
+
+10
+00:00:26,960 --> 00:00:30,160
+<i>inscribirnos en planes sociales</i>
+<i>y programas educativos,</i>
+
+11
+00:00:30,240 --> 00:00:32,560
+<i>obtener constancias</i>
+<i>de organismos estatales,</i>
+
+12
+00:00:32,640 --> 00:00:35,600
+<i>consultar calendario de cobros</i>
+<i>y de pagos a jubilados</i>
+
+13
+00:00:35,680 --> 00:00:39,400
+<i>o enterarnos de dónde debemos votar</i>
+<i>en las próximas elecciones.</i>
+
+14
+00:00:39,480 --> 00:00:41,680
+<i>Muchas veces esto demanda tiempo,</i>
+
+15
+00:00:41,760 --> 00:00:43,400
+<i>realizar largas esperas,</i>
+
+16
+00:00:43,480 --> 00:00:45,680
+<i>trasladarnos</i>
+<i>por diferentes puntos de la ciudad</i>
+
+17
+00:00:45,760 --> 00:00:48,960
+<i>o completar enormes pilas</i>
+<i>de formularios en papel.</i>
+
+18
+00:00:49,040 --> 00:00:50,840
+<i>Internet nos ofrece la posibilidad</i>
+
+19
+00:00:50,920 --> 00:00:53,240
+<i>de realizar</i>
+<i>muchos trámites y consultas</i>
+
+20
+00:00:53,320 --> 00:00:56,400
+<i>sin movernos de nuestros hogares</i>
+<i>o lugares de trabajo</i>
+
+21
+00:00:56,480 --> 00:00:58,480
+<i>de manera más rápida, efectiva</i>
+
+22
+00:00:58,560 --> 00:01:00,640
+<i>y ahorrando mucho tiempo y dinero.</i>
+
+23
+00:01:00,720 --> 00:01:01,760
+<i>¡Atención!</i>
+
+24
+00:01:01,840 --> 00:01:03,920
+<i>Es importante tener paciencia,</i>
+
+25
+00:01:04,000 --> 00:01:05,040
+<i>leer con cuidado</i>
+
+26
+00:01:05,120 --> 00:01:08,720
+<i>y buscar sitios oficiales y seguros</i>
+<i>para realizar nuestras operaciones</i>
+
+27
+00:01:08,800 --> 00:01:13,280
+<i>y comprobar que las solicitudes</i>
+<i>hayan sido correctamente enviadas.</i>
+
+28
+00:01:13,360 --> 00:01:15,040
+<i>Y, si no entendemos algún mecanismo</i>
+
+29
+00:01:15,120 --> 00:01:17,400
+<i>o nos perdemos</i>
+<i>en alguno de los pasos a seguir,</i>
+
+30
+00:01:17,480 --> 00:01:20,160
+<i>siempre podemos pedir ayuda</i>
+<i>a alguien de confianza</i>
+
+31
+00:01:20,240 --> 00:01:23,080
+<i>o que tenga más experiencia</i>
+<i>en el uso de la computadora.</i>
+
+32
+00:01:23,160 --> 00:01:25,840
+<i>También se puede usar la web</i>
+<i>para realizar compras</i>
+
+33
+00:01:25,920 --> 00:01:27,800
+<i>en plataformas de compras</i>
+<i>y ventas web,</i>
+
+34
+00:01:27,880 --> 00:01:29,080
+<i>reservar pasajes</i>
+
+35
+00:01:29,160 --> 00:01:32,320
+<i>o adquirir entradas</i>
+<i>para todo tipo de espectáculos.</i>
+
+36
+00:01:32,400 --> 00:01:35,400
+<i>Muchas instituciones públicas</i>
+<i>y privadas, como los bancos,</i>
+
+37
+00:01:35,480 --> 00:01:38,240
+<i>promueven cada vez más</i>
+<i>la utilización de Internet</i>
+
+38
+00:01:38,320 --> 00:01:40,240
+<i>para realizar las operaciones.</i>
+
+39
+00:01:40,320 --> 00:01:42,840
+<i>Esta modalidad virtual</i>
+<i>acelera los trámites</i>
+
+40
+00:01:42,920 --> 00:01:45,280
+<i>y es muy útil</i>
+<i>para las personas mayores,</i>
+
+41
+00:01:45,360 --> 00:01:47,400
+<i>para los que tienen problemas</i>
+<i>para trasladarse</i>
+
+42
+00:01:47,480 --> 00:01:50,440
+<i>y para los que viven en zonas</i>
+<i>alejadas  de los centros urbanos</i>
+
+43
+00:01:50,520 --> 00:01:51,560
+<i>o en el exterior.</i>
+
+44
+00:01:51,640 --> 00:01:55,120
+<i>Y es un fenómeno que sigue creciendo</i>
+<i>con el paso del tiempo.</i>
+
+45
+00:01:55,200 --> 00:01:57,800
+<i>Internet está cambiando</i>
+<i>nuestra manera de vivir</i>
+
+46
+00:01:57,880 --> 00:01:59,440
+<i>y de conectarnos con el mundo</i>
+
+47
+00:01:59,520 --> 00:02:02,720
+<i>sumando herramientas</i>
+<i>y acortando distancias.</i>
+
+48
+00:02:02,800 --> 00:02:07,200
+<i>Esta es una de las tantas cosas</i>
+<i>que podés hacer con tu compu.</i>
+

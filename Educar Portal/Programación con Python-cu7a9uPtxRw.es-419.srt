@@ -1,0 +1,203 @@
+1
+00:00:12,606 --> 00:00:18,115
+Phyton es extremadamente simple
+ y produce excelentes resultados. 
+
+2
+00:00:18,115 --> 00:00:22,156
+Entonces por eso es que lo elegimos, 
+porque se puede empezar a programar 
+
+3
+00:00:22,156 --> 00:00:23,882
+muy rápidamente,
+
+4
+00:00:23,882 --> 00:00:28,108
+sin necesidad de practicar
+ durante mucho tiempo
+
+5
+00:00:28,108 --> 00:00:30,396
+y luchar durante mucho tiempo 
+con la computadora.
+
+6
+00:00:30,396 --> 00:00:37,298
+Además, es un lenguaje interpretado
+ y eso también contribuye a la facilidad
+
+7
+00:00:37,298 --> 00:00:40,204
+de desarrollo para un primer lenguaje.
+
+8
+00:00:40,204 --> 00:00:42,610
+La gente tiene mucho éxito muy rapidamente. 
+
+9
+00:00:42,610 --> 00:00:48,793
+Entonces no se desanima
+ y eso además ayuda a evitar la deserción, 
+
+10
+00:00:48,793 --> 00:00:52,965
+que es uno de los problemas más serios
+ que suele tener la enseñanza 
+
+11
+00:00:52,965 --> 00:00:56,170
+de la programación en las universidades.
+
+12
+00:00:56,170 --> 00:01:00,676
+En este momento, 
+tenemos la situación ideal acá:
+
+13
+00:01:00,676 --> 00:01:09,856
+por un lado, la facultad tiene  computadoras,
+ notebooks, en las aulas, así que podemos 
+
+14
+00:01:10,094 --> 00:01:15,655
+trabajar con la computadora directamente
+ en clase, y, por el otro lado, los alumnos 
+
+15
+00:01:15,655 --> 00:01:20,375
+vienen con sus netbooks personales,
+
+16
+00:01:20,375 --> 00:01:25,524
+en particular los que vienen de
+ Conectar Igualdad traen las netbooks 
+
+17
+00:01:25,524 --> 00:01:26,806
+de Conectar Igualdad. 
+
+18
+00:01:26,806 --> 00:01:32,981
+Otros traen otras netbooks que tienen
+ en sus casas y, por supuesto, 
+
+19
+00:01:32,981 --> 00:01:35,244
+están siempre las notebooks de la facultad.
+
+20
+00:01:35,244 --> 00:01:43,755
+No nos olvidemos de que tenemos 
+una población que no tiene necesariamente
+
+21
+00:01:43,755 --> 00:01:48,796
+el recurso de la computadora en sus casas. 
+O sea, tenemos muchos estudiantes 
+
+22
+00:01:48,796 --> 00:01:56,319
+que tienen las computadoras 
+de la facultad como «el gran recurso». 
+
+23
+00:01:56,319 --> 00:02:00,594
+Es un recurso impresionante, 
+indispensable para trabajar
+
+24
+00:02:00,594 --> 00:02:03,797
+y para mucha gente es la única 
+computadora que tienen.
+
+25
+00:02:03,797 --> 00:02:10,115
+Este grupo de estudiantes 
+se parece mucho en algún sentido
+
+26
+00:02:10,115 --> 00:02:14,397
+a nuestro grupo de estudiantes, 
+en el sentido de que es nuevamente 
+
+27
+00:02:14,397 --> 00:02:20,773
+una primera generación universitaria 
+de la familia o primera generación 
+
+28
+00:02:20,773 --> 00:02:26,630
+de estudiantes de la familia muchas veces... 
+Nuestra generación también era así 
+
+29
+00:02:26,630 --> 00:02:33,111
+en general, o sea, nosotros éramos
+ una generación por la estructura
+
+30
+00:02:33,111 --> 00:02:40,182
+de lo que fue la inmigración en la Argentina
+ y el progreso social a partir de los cincuenta,
+
+31
+00:02:40,182 --> 00:02:45,513
+de los cuarenta o de los cincuenta,
+ la inmigración y las expectativas de 
+
+32
+00:02:45,513 --> 00:02:51,247
+entrar a la universidad como manera 
+de progreso social, 
+
+33
+00:02:51,247 --> 00:02:54,561
+y esta es una recuperación
+ de ese espíritu también.
+
+34
+00:02:54,561 --> 00:02:59,881
+Yo espero poder despertar 
+en los chicos el espíritu emprendedor. 
+
+35
+00:02:59,881 --> 00:03:03,847
+Creo que es muy importante para 
+el desarrollo de la industria 
+
+36
+00:03:03,847 --> 00:03:10,851
+de software nacional la posibilidad de que 
+la gente participe activamente en 
+
+37
+00:03:10,851 --> 00:03:17,299
+movimientos emprendedores, ¿sí? 
+Para desarrollar la creatividad,
+
+38
+00:03:17,299 --> 00:03:25,227
+desarrollar la inventiva y ser capaces de producir 
+su propio software, poder participar
+
+39
+00:03:25,227 --> 00:03:31,231
+en movimientos de software libre también,
+ poder participar activamente 
+
+40
+00:03:31,231 --> 00:03:34,943
+en un movimiento de desarrollo 
+de software nacional. 
+
+41
+00:03:34,943 --> 00:03:40,327
+Eso es lo que espero para mis alumnos
+ en el momento que se reciban, 
+
+42
+00:03:40,327 --> 00:03:44,627
+y antes también, antes también porque
+ pueden empezar a participar mucho antes.
+

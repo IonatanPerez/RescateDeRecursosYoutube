@@ -1,0 +1,217 @@
+1
+00:00:01,400 --> 00:00:04,560
+(Voz de hombre)
+<i>Cosas que podés hacer con tu compu.</i>
+
+2
+00:00:05,480 --> 00:00:07,840
+<i>En Internet existen</i>
+<i>muchas plataformas y programas</i>
+
+3
+00:00:07,920 --> 00:00:11,360
+<i>que pueden ayudarnos a impulsar</i>
+<i>nuestro ingenio y creatividad.</i>
+
+4
+00:00:11,440 --> 00:00:12,520
+<i>Las nuevas tecnologías</i>
+
+5
+00:00:12,600 --> 00:00:15,160
+<i>permiten compartir</i>
+<i>nuevas actividades en familia,</i>
+
+6
+00:00:15,240 --> 00:00:18,520
+<i>despertar una vocación</i>
+<i>o retomar viejos proyectos.</i>
+
+7
+00:00:18,600 --> 00:00:20,800
+<i>Por ejemplo,</i>
+<i>podemos utilizar software</i>
+
+8
+00:00:20,880 --> 00:00:24,280
+<i>para filmar, editar y componer</i>
+<i>videos de los eventos familiares,</i>
+
+9
+00:00:24,360 --> 00:00:27,040
+<i>actos escolares,</i>
+<i>paseos y vacaciones.</i>
+
+10
+00:00:27,120 --> 00:00:28,840
+<i>Las posibilidades son infinitas</i>
+
+11
+00:00:28,920 --> 00:00:31,360
+<i>y se pueden alcanzar</i>
+<i>buenos resultados.</i>
+
+12
+00:00:31,760 --> 00:00:35,280
+<i>También existen programas</i>
+<i>para crear y retocar fotografías.</i>
+
+13
+00:00:35,360 --> 00:00:37,800
+<i>Luego podemos reunirlas</i>
+<i>en un álbum digital,</i>
+
+14
+00:00:37,880 --> 00:00:42,080
+<i>agregarles descripciones, efectos</i>
+<i>y compartirlas con otras personas.</i>
+
+15
+00:00:42,480 --> 00:00:45,720
+<i>Una gran variedad de programas</i>
+<i>sirven para dibujar en la pantalla</i>
+
+16
+00:00:45,800 --> 00:00:47,360
+<i>y así crear felicitaciones,</i>
+
+17
+00:00:47,440 --> 00:00:49,320
+<i>invitaciones de cumpleaños,</i>
+<i>pósteres,</i>
+
+18
+00:00:49,400 --> 00:00:52,040
+<i>escribir e ilustrar cuentos</i>
+<i>y mucho más.</i>
+
+19
+00:00:53,560 --> 00:00:54,600
+<i>Si nos gusta la música,</i>
+
+20
+00:00:54,680 --> 00:00:58,040
+<i>podemos grabar y editar sonidos</i>
+<i>para componer canciones.</i>
+
+21
+00:00:58,120 --> 00:00:59,360
+<i>Además es posible integrar</i>
+
+22
+00:00:59,440 --> 00:01:02,000
+<i>instrumentos</i>
+<i>convencionales y virtuales,</i>
+
+23
+00:01:02,080 --> 00:01:03,800
+<i>mezclar y remixar pistas,</i>
+
+24
+00:01:03,880 --> 00:01:05,920
+<i>grabar nuestra voz y la de otros,</i>
+
+25
+00:01:06,000 --> 00:01:08,840
+<i>crear ritmos musicales</i>
+<i>utilizando aplicaciones web</i>
+
+26
+00:01:08,920 --> 00:01:10,960
+<i>y usar ecualizadores digitales.</i>
+
+27
+00:01:11,200 --> 00:01:14,000
+<i>Otra opción</i>
+<i>son las presentaciones animadas</i>
+
+28
+00:01:14,080 --> 00:01:16,080
+<i>para el trabajo, la escuela</i>
+<i>o para eventos</i>
+
+29
+00:01:16,160 --> 00:01:17,480
+<i>en forma de diapositivas</i>
+
+30
+00:01:17,560 --> 00:01:19,280
+<i>o de una animación en video.</i>
+
+31
+00:01:19,360 --> 00:01:22,760
+<i>Con unos pocos elementos</i>
+<i>podemos hacer muchas cosas.</i>
+
+32
+00:01:22,840 --> 00:01:25,840
+<i>Si nos interesan los videojuegos,</i>
+<i>además de jugar con ellos,</i>
+
+33
+00:01:25,920 --> 00:01:28,080
+<i>hay programas</i>
+<i>sencillos y accesibles</i>
+
+34
+00:01:28,160 --> 00:01:30,960
+<i>que permiten crearlos</i>
+<i>a partir de nuestros gustos.</i>
+
+35
+00:01:31,040 --> 00:01:32,800
+<i>Incluso, nos permiten aprender</i>
+
+36
+00:01:32,880 --> 00:01:34,840
+<i>y compartir conocimiento</i>
+<i>con la familia</i>
+
+37
+00:01:34,920 --> 00:01:37,920
+<i>y con una comunidad</i>
+<i>que no para de crecer.</i>
+
+38
+00:01:38,320 --> 00:01:41,080
+<i>Y, si nos gustan los videos,</i>
+<i>la fotografía, la música,</i>
+
+39
+00:01:41,160 --> 00:01:43,640
+<i>las animaciones digitales</i>
+<i>y los videojuegos,</i>
+
+40
+00:01:43,720 --> 00:01:46,120
+<i>también podemos integrarlos</i>
+<i>todos juntos</i>
+
+41
+00:01:46,200 --> 00:01:48,560
+<i>en producciones más elaboradas.</i>
+
+42
+00:01:48,640 --> 00:01:50,440
+<i>Gracias</i>
+<i>a las herramientas digitales</i>
+
+43
+00:01:50,520 --> 00:01:52,760
+<i>que nos ofrecen</i>
+<i>las nuevas tecnologías,</i>
+
+44
+00:01:52,840 --> 00:01:56,760
+<i>hoy contamos en nuestros hogares</i>
+<i>con un mundo de posibilidades.</i>
+
+45
+00:01:58,200 --> 00:02:02,040
+<i>Esta es una de las tantas cosas</i>
+<i>que podés hacer con tu compu.</i>
+
+46
+00:02:04,120 --> 00:02:07,240
+[Música de cierre]
+

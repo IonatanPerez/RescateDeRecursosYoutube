@@ -1,0 +1,1702 @@
+1
+00:00:01,067 --> 00:00:02,968
+Hola, buenas tardes.
+
+2
+00:00:03,534 --> 00:00:06,467
+Gracias por venir,
+disculpen la demora.
+
+3
+00:00:06,868 --> 00:00:10,334
+La verdad es que hoy me acompaña
+el Administrador Federal
+
+4
+00:00:10,434 --> 00:00:13,000
+de Ingresos Públicos,
+Ricardo Echegaray
+
+5
+00:00:13,067 --> 00:00:16,000
+porque tenemos que hacer
+dos anuncios
+
+6
+00:00:16,067 --> 00:00:20,033
+de dos disposiciones
+que ha dado la Presidenta
+
+7
+00:00:20,133 --> 00:00:24,133
+con respecto a planes
+de facilidades de pago
+
+8
+00:00:24,200 --> 00:00:25,634
+y protección de empleo,
+
+9
+00:00:25,701 --> 00:00:30,734
+que tienen que ver con,
+básicamente, dos instrumentos,
+
+10
+00:00:30,834 --> 00:00:33,667
+que son bastante conocidos.
+
+11
+00:00:33,767 --> 00:00:36,133
+Yo me voy a permitir exponerlos.
+
+12
+00:00:36,200 --> 00:00:37,934
+Después quedaremos a disposición
+para las preguntas
+
+13
+00:00:38,000 --> 00:00:40,567
+sobre este tema, tanto Ricardo,
+
+14
+00:00:40,667 --> 00:00:46,767
+que tiene el saber técnico
+más preciso,
+
+15
+00:00:47,000 --> 00:00:50,267
+como yo para las cuestiones
+vinculadas al proceso económico
+
+16
+00:00:50,334 --> 00:00:52,033
+de estas medidas.
+
+17
+00:00:52,100 --> 00:00:54,801
+La verdad es que,
+sabrán ustedes que durante
+
+18
+00:00:55,000 --> 00:00:59,300
+los 10 años que lleva
+el gobierno de Néstor Kirchner
+
+19
+00:00:59,400 --> 00:01:00,834
+y de Cristina Fernández
+de Kirchner
+
+20
+00:01:00,901 --> 00:01:06,000
+ha habido una mejora sustancial
+en la capacidad de recaudación
+
+21
+00:01:06,067 --> 00:01:09,901
+de la Administración Federal
+de Ingresos Públicos,
+
+22
+00:01:10,000 --> 00:01:15,801
+de forma tal que hemos terminado
+con una serie de medidas tomadas,
+
+23
+00:01:15,901 --> 00:01:18,334
+de mejora de eficiencia
+en la recaudación,
+
+24
+00:01:18,434 --> 00:01:19,834
+claridad en las reglas de juego,
+
+25
+00:01:19,901 --> 00:01:22,634
+fiscalización también,
+y control,
+
+26
+00:01:22,734 --> 00:01:25,767
+hemos conseguido un mejor
+cumplimiento
+
+27
+00:01:25,834 --> 00:01:30,834
+del conjunto de la economía,
+lo cual nos complace,
+
+28
+00:01:30,901 --> 00:01:32,701
+pero sabemos, por supuesto,
+
+29
+00:01:32,801 --> 00:01:35,234
+que esto es un camino de ida
+y vuelta.
+
+30
+00:01:35,334 --> 00:01:39,434
+Ese mejor cumplimiento requiere
+un esfuerzo del los contribuyentes
+
+31
+00:01:39,501 --> 00:01:44,100
+pero por otro lado
+una mano del Estado
+
+32
+00:01:44,167 --> 00:01:47,968
+en cuanto a permitir modalidades
+flexibles de pago
+
+33
+00:01:48,033 --> 00:01:52,133
+para que este cumplimiento
+pueda ser sostenido en el tiempo,
+
+34
+00:01:52,200 --> 00:01:54,334
+y mejorado e incrementado,
+
+35
+00:01:54,400 --> 00:01:57,467
+de forma tal que el Estado
+tiene contemplación
+
+36
+00:01:57,567 --> 00:02:01,901
+por situaciones particulares
+que impide
+
+37
+00:02:01,968 --> 00:02:06,000
+que determinadas empresas
+cumplan en tiempo y forma
+
+38
+00:02:06,067 --> 00:02:09,734
+con sus obligaciones impositivas.
+
+39
+00:02:09,834 --> 00:02:13,801
+Esto, la verdad es que no estamos
+viendo elevado número
+
+40
+00:02:13,868 --> 00:02:15,868
+de incumplimiento,
+pero sí sabemos,
+
+41
+00:02:15,934 --> 00:02:19,434
+y esto es por las reuniones
+que se han llevado a cabo
+
+42
+00:02:19,534 --> 00:02:22,801
+a partir de agosto,
+allí en Río Gallegos,
+
+43
+00:02:22,868 --> 00:02:26,167
+en esto conocido como
+Mesa de Diálogo con empresarios,
+
+44
+00:02:26,234 --> 00:02:28,300
+sectores empresarios
+y trabajadores,
+
+45
+00:02:28,367 --> 00:02:30,267
+y la Presidenta de la Nación,
+
+46
+00:02:30,367 --> 00:02:35,634
+que entre los pedidos habituales
+de las cámaras empresarias,
+
+47
+00:02:35,734 --> 00:02:38,267
+en particular tengo
+que mencionar a CAME
+
+48
+00:02:38,367 --> 00:02:42,000
+que efectivamente es una
+de las cámaras
+
+49
+00:02:42,067 --> 00:02:45,467
+que más ha trabajado técnicamente
+esta propuesta,
+
+50
+00:02:45,601 --> 00:02:49,434
+pero también la UIA, también,
+bueno, las diferentes cámaras
+
+51
+00:02:49,534 --> 00:02:53,734
+que participan han pedido
+ya desde agosto,
+
+52
+00:02:53,868 --> 00:02:56,400
+así que esta no es
+una cuestión coyuntural,
+
+53
+00:02:56,467 --> 00:02:58,934
+sino algo que ha requerido
+algún estudio,
+
+54
+00:02:59,033 --> 00:03:00,667
+pero que hoy estamos lanzando,
+
+55
+00:03:00,734 --> 00:03:04,701
+han pedido alguna flexibilización
+o algunos planes particulares
+
+56
+00:03:04,868 --> 00:03:07,567
+para afrontar las obligaciones
+impositivas.
+
+57
+00:03:07,667 --> 00:03:11,534
+Así que hoy vamos a anunciar
+dos planes.
+
+58
+00:03:11,634 --> 00:03:14,267
+En primer lugar, un plan
+de facilidad de pagos
+
+59
+00:03:14,367 --> 00:03:19,300
+para aquellos que tienen
+deudas impositivas,
+
+60
+00:03:19,400 --> 00:03:21,834
+lo que se conoce
+como mochila impositiva,
+
+61
+00:03:21,901 --> 00:03:23,567
+porque tienen una deuda anterior.
+
+62
+00:03:23,634 --> 00:03:28,167
+Aquellos que tengan deuda
+hasta el 31 de marzo
+
+63
+00:03:28,234 --> 00:03:33,167
+pueden entrar en un plan de pago,
+de 24 cuotas,
+
+64
+00:03:33,300 --> 00:03:41,734
+a una tasa mensual del 1,9%,
+con la deuda hasta el 31 de marzo.
+
+65
+00:03:41,801 --> 00:03:44,434
+Esto puede ser deuda aduanera,
+deuda impositiva,
+
+66
+00:03:44,534 --> 00:03:47,234
+deuda de la seguridad social.
+
+67
+00:03:47,434 --> 00:03:50,367
+La fecha límite de presentación,
+esto son cuestiones técnicas,
+
+68
+00:03:50,467 --> 00:03:53,334
+después vamos a difundirlas
+a través de un comunicado
+
+69
+00:03:53,400 --> 00:03:56,334
+para que a todo el mundo le quede
+claro a quién se le aplica
+
+70
+00:03:56,434 --> 00:03:58,567
+y cómo es la modalidad,
+
+71
+00:03:58,667 --> 00:04:03,200
+la fecha límite es del 25
+al 29 de agosto
+
+72
+00:04:03,267 --> 00:04:06,033
+según terminación del CUIT,
+
+73
+00:04:06,100 --> 00:04:10,367
+pero hay que dejar bien en claro
+que para poder aplicar
+
+74
+00:04:10,467 --> 00:04:13,267
+tienen que dar perfecto
+cumplimiento
+
+75
+00:04:13,334 --> 00:04:17,901
+las obligaciones impositivas,
+con posterioridad al 1 de abril
+
+76
+00:04:17,968 --> 00:04:19,667
+y hasta la fecha de cierre
+de plan.
+
+77
+00:04:19,767 --> 00:04:22,267
+Dicho de otra manera,
+son deudas hasta el 31,
+
+78
+00:04:22,367 --> 00:04:27,400
+cumplimiento perfecto
+del 1 de abril
+
+79
+00:04:27,501 --> 00:04:30,200
+hasta que se inicie el plan
+
+80
+00:04:30,300 --> 00:04:36,200
+y a partir de ahí 24 cuotas,
+al 1,9, se va a hacer,
+
+81
+00:04:36,300 --> 00:04:39,267
+como es habitual, mediante débito
+directo de cuenta bancaria.
+
+82
+00:04:39,367 --> 00:04:43,901
+Hay un punto central porque
+esto lo llamamos
+
+83
+00:04:43,968 --> 00:04:46,901
+plan de facilidad de pago
+y protección de empleo.
+
+84
+00:04:47,000 --> 00:04:50,467
+Ya estamos habituados,
+tanto en los planes
+
+85
+00:04:50,567 --> 00:04:53,667
+que lanzamos junto
+al Ministerio de Industria,
+
+86
+00:04:53,767 --> 00:04:55,033
+como con la propia AFIP,
+
+87
+00:04:55,100 --> 00:04:56,701
+en general cuando viene
+un beneficio
+
+88
+00:04:56,801 --> 00:05:02,100
+también viene acompañado
+de alguna obligación.
+
+89
+00:05:02,200 --> 00:05:08,534
+En este caso nosotros necesitamos
+que cuenten con una cantidad
+
+90
+00:05:08,601 --> 00:05:12,701
+de empleados igual o superior
+a la registrada en marzo de 2014,
+
+91
+00:05:12,801 --> 00:05:16,367
+es decir, un mantenimiento
+del empleo durante el plan.
+
+92
+00:05:16,467 --> 00:05:18,834
+Pueden crecer en cantidad
+de empleados,
+
+93
+00:05:18,901 --> 00:05:20,400
+pero no pueden reducirlos,
+
+94
+00:05:20,501 --> 00:05:23,501
+esto ya es algo que hemos
+aplicado para otras medidas,
+
+95
+00:05:23,601 --> 00:05:25,133
+y esta es una de las dos,
+
+96
+00:05:25,200 --> 00:05:28,667
+un plan de facilidad de pago,
+24 cuotas, 1,9%,
+
+97
+00:05:28,801 --> 00:05:31,400
+deudas hasta el 31 de marzo.
+
+98
+00:05:31,901 --> 00:05:36,767
+Fecha límite de presentación
+del 25 al 29
+
+99
+00:05:36,834 --> 00:05:40,300
+según terminación del CUIT.
+
+100
+00:05:40,367 --> 00:05:43,367
+Esto es para seguir acompañando
+la mejora en la recaudación,
+
+101
+00:05:43,434 --> 00:05:46,400
+pero también hay
+una segunda medida.
+
+102
+00:05:47,033 --> 00:05:49,100
+Esta segunda medida tiene que ver
+
+103
+00:05:49,167 --> 00:05:51,834
+con los planes permanentes
+de facilidades de pago,
+
+104
+00:05:51,934 --> 00:05:55,033
+conocidos también
+como “miniplanes” en la jerga
+
+105
+00:05:55,133 --> 00:05:58,100
+de los contadores
+y las pequeñas empresas,
+
+106
+00:05:58,167 --> 00:06:01,334
+que ustedes saben que permite
+descargar obligaciones
+
+107
+00:06:01,434 --> 00:06:04,467
+en 6 cuotas en vez de...
+Es así, Ricardo, ¿no?
+
+108
+00:06:04,567 --> 00:06:06,734
+En lugar de al día
+del vencimiento,
+
+109
+00:06:06,801 --> 00:06:09,400
+entrar en un miniplan de 6 cuotas.
+
+110
+00:06:09,467 --> 00:06:15,267
+Ese miniplan hasta ahora
+tenía un límite de facturación
+
+111
+00:06:15,367 --> 00:06:18,033
+de hasta 10 millones de pesos,
+
+112
+00:06:18,100 --> 00:06:21,400
+estamos anunciando hoy simplemente
+que se va a elevar ese límite
+
+113
+00:06:21,501 --> 00:06:23,300
+a 30 millones de pesos,
+
+114
+00:06:23,367 --> 00:06:27,834
+para el caso de actividad
+de prestación de servicios,
+
+115
+00:06:27,934 --> 00:06:29,234
+empresas de servicio,
+
+116
+00:06:29,334 --> 00:06:33,767
+y para las restantes actividades
+hasta 50 millones de pesos.
+
+117
+00:06:34,000 --> 00:06:37,000
+Esto también fue algo que se fue
+discutiendo técnicamente
+
+118
+00:06:37,067 --> 00:06:41,868
+en las Mesas de Diálogo
+porque el lanzamiento
+
+119
+00:06:41,934 --> 00:06:45,100
+fue allá por agosto,
+el año pasado en Río Gallegos,
+
+120
+00:06:45,167 --> 00:06:47,567
+pero hemos mantenido diferentes
+reuniones
+
+121
+00:06:47,634 --> 00:06:50,701
+en conjunto con cada una
+de las cámaras
+
+122
+00:06:50,801 --> 00:06:54,400
+y de los representantes
+de los empresarios,
+
+123
+00:06:54,501 --> 00:06:56,934
+lo hemos hecho también
+en diferentes
+
+124
+00:06:57,033 --> 00:06:58,400
+reparticiones del Estado,
+
+125
+00:06:58,501 --> 00:07:01,000
+pero ha dispuesto
+la Presidenta de la Nación
+
+126
+00:07:01,067 --> 00:07:05,601
+la aplicación dos medidas
+que ya habían sido solicitadas
+
+127
+00:07:05,701 --> 00:07:07,701
+en el mes de agosto.
+
+128
+00:07:07,801 --> 00:07:12,834
+Obviamente esto tiene
+un costo fiscal, es decir,
+
+129
+00:07:12,901 --> 00:07:14,968
+es un esfuerzo fiscal
+por parte del Estado
+
+130
+00:07:15,033 --> 00:07:19,968
+porque dar planes de pago
+implica cobrar financieramente
+
+131
+00:07:20,033 --> 00:07:23,667
+de forma más extendida
+
+132
+00:07:23,767 --> 00:07:27,667
+y lo mismo ocurre con estos
+miniplanes,
+
+133
+00:07:27,734 --> 00:07:31,167
+que con las 24 cuotas
+para las obligaciones impagas,
+
+134
+00:07:31,267 --> 00:07:35,434
+pero sabemos que todo
+lo que se ha obtenido
+
+135
+00:07:35,534 --> 00:07:38,534
+en términos del incremento
+de la recaudación,
+
+136
+00:07:38,634 --> 00:07:42,267
+particularmente impuestos
+vinculados a la Seguridad Social,
+
+137
+00:07:42,334 --> 00:07:44,334
+o sea, que estamos
+hablando también
+
+138
+00:07:44,434 --> 00:07:48,834
+de la Registración del Empleo,
+que es un proyecto de ley
+
+139
+00:07:48,934 --> 00:07:51,801
+que ha enviado la Presidenta
+de la Nación hace pocos días
+
+140
+00:07:51,901 --> 00:07:53,367
+al Congreso de la Nación,
+
+141
+00:07:53,434 --> 00:07:55,400
+pero todo esto, de nuevo,
+es una idea y vuelta,
+
+142
+00:07:55,501 --> 00:07:58,033
+una sociedad entre el Estado
+y las empresas
+
+143
+00:07:58,100 --> 00:08:00,934
+que para que puedan regularizar
+su situación
+
+144
+00:08:01,033 --> 00:08:04,267
+también tiene que haber
+flexibilidad del lado del Estado
+
+145
+00:08:04,367 --> 00:08:10,334
+para permitirles afrontar
+las obligaciones que tienen.
+
+146
+00:08:14,000 --> 00:08:19,934
+Esto va a estar comunicado
+en breve a través de la AFIP,
+
+147
+00:08:20,133 --> 00:08:22,467
+pero saben que están abiertos
+también los canales habituales
+
+148
+00:08:22,534 --> 00:08:25,400
+en la AFIP de contacto
+con los profesionales
+
+149
+00:08:25,467 --> 00:08:28,901
+y también con las empresas
+para mayores consultas.
+
+150
+00:08:29,000 --> 00:08:30,901
+Eso es todo. Muchas gracias.
+
+151
+00:08:35,334 --> 00:08:37,601
+Iniciamos la ronda de preguntas.
+
+152
+00:08:45,367 --> 00:08:46,567
+Nombre, medio y, por favor,
+
+153
+00:08:46,667 --> 00:08:49,567
+que sean sobre el tema
+que estamos exponiendo.
+
+154
+00:08:49,667 --> 00:08:50,534
+Sí, buenas tardes.
+
+155
+00:08:50,601 --> 00:08:53,434
+Liliana Franco de Ámbito
+y Radio Rivadavia.
+
+156
+00:08:53,501 --> 00:08:56,534
+Para el Ministro Axel Kicillof:
+
+157
+00:08:56,601 --> 00:08:59,434
+Una aclaración de la segunda
+medida,
+
+158
+00:08:59,501 --> 00:09:02,767
+si el límite de 10 millones
+que se extendió hasta 30
+
+159
+00:09:02,868 --> 00:09:07,334
+ahora se refiere a mensual
+o anual, la facturación.
+
+160
+00:09:07,434 --> 00:09:11,634
+Y la pregunta referida
+a cuánto es el universo,
+
+161
+00:09:11,734 --> 00:09:15,033
+no sé si el titular de la AFIP
+querrá contestar,
+
+162
+00:09:15,100 --> 00:09:16,801
+cuánto es el universo
+que se estima
+
+163
+00:09:16,868 --> 00:09:20,400
+que se puede acoger
+a los dos planes.
+
+164
+00:09:20,467 --> 00:09:24,434
+Es anual pero le paso,
+obviamente, al administrador.
+
+165
+00:09:25,133 --> 00:09:30,501
+En cuanto a la deuda
+de miniplanes queda claro,
+
+166
+00:09:30,601 --> 00:09:32,067
+o planes de facilidades
+permanentes,
+
+167
+00:09:32,167 --> 00:09:35,567
+que es un nivel de facturación
+que pueden tener
+
+168
+00:09:35,667 --> 00:09:38,200
+los contribuyentes anual,
+
+169
+00:09:38,300 --> 00:09:40,634
+y que estamos en 10 millones
+de facturación
+
+170
+00:09:40,701 --> 00:09:44,400
+para tanto sean prestadores
+o vendedores de servicios
+
+171
+00:09:44,467 --> 00:09:47,434
+como de bienes, y ahora hicimos
+una diferencia clara,
+
+172
+00:09:47,567 --> 00:09:50,534
+30 millones es el límite
+de facturación anual
+
+173
+00:09:50,634 --> 00:09:55,667
+para los que prestan servicios
+y 50 millones para los de bienes.
+
+174
+00:09:55,767 --> 00:10:00,934
+Está muy en línea con el primer
+planteo que se realizó
+
+175
+00:10:01,000 --> 00:10:05,534
+en la primera reunión de diálogo,
+que se hizo en el mes de agosto,
+
+176
+00:10:05,634 --> 00:10:08,234
+planteo que hizo
+el señor Osvaldo Cornide
+
+177
+00:10:08,300 --> 00:10:10,234
+en representación de la CAME,
+
+178
+00:10:10,334 --> 00:10:13,000
+y que también había hecho
+el titular de la UIA,
+
+179
+00:10:13,100 --> 00:10:14,334
+el señor Héctor Méndez,
+
+180
+00:10:14,434 --> 00:10:16,667
+que después en sucesivas
+reuniones,
+
+181
+00:10:16,734 --> 00:10:18,801
+a lo largo del año pasado,
+y entiendo con el Ministro
+
+182
+00:10:18,868 --> 00:10:22,567
+también este año,
+vinieron con esta cuestión.
+
+183
+00:10:22,667 --> 00:10:26,200
+La cantidad de contribuyentes
+estaríamos abarcando
+
+184
+00:10:26,300 --> 00:10:31,501
+un número que oscilaría
+en el orden
+
+185
+00:10:31,601 --> 00:10:34,400
+de los 700 mil contribuyentes
+
+186
+00:10:34,467 --> 00:10:37,767
+que estarían en condiciones
+no, para esta medida,
+
+187
+00:10:37,834 --> 00:10:41,167
+para lo que son planes
+de facilidades de pago,
+
+188
+00:10:41,267 --> 00:10:42,801
+de carácter permanente,
+
+189
+00:10:42,868 --> 00:10:46,734
+conocidos en la jerga
+como miniplanes.
+
+190
+00:10:47,300 --> 00:10:54,167
+En cuanto a la deuda mayor,
+la deuda global, la mochila,
+
+191
+00:10:54,300 --> 00:11:00,234
+sería una deuda que incluiría
+a 1.226.016 contribuyentes,
+
+192
+00:11:00,367 --> 00:11:02,667
+es el número de contribuyentes
+
+193
+00:11:02,767 --> 00:11:09,267
+que al 31 de marzo
+tienen deudas impositivas,
+
+194
+00:11:09,334 --> 00:11:13,267
+deudas por contribuciones
+patronales
+
+195
+00:11:13,334 --> 00:11:19,701
+o deudas aduaneras,
+frente a la AFIP.
+
+196
+00:11:19,801 --> 00:11:23,167
+Lo que se está dando
+es un plan de 24 cuotas,
+
+197
+00:11:23,267 --> 00:11:28,567
+con una tasa de 1,90,
+que es un 22,8% anual,
+
+198
+00:11:28,667 --> 00:11:31,067
+que le va  permitir
+a esos contribuyentes
+
+199
+00:11:31,167 --> 00:11:33,701
+que tengan situación particular
+
+200
+00:11:33,767 --> 00:11:37,400
+poder cancelar rápidamente
+esas deudas.
+
+201
+00:11:38,267 --> 00:11:39,868
+Siguiente pregunta.
+
+202
+00:11:40,434 --> 00:11:42,501
+Sí, Tomás Luquin de Página 12.
+
+203
+00:11:42,567 --> 00:11:45,100
+Quería saber cuál es el objetivo
+macroeconómico
+
+204
+00:11:45,167 --> 00:11:48,734
+detrás de los planes de pago,
+las facilidades y demás.
+
+205
+00:11:48,934 --> 00:11:53,434
+Sí, comentaba un primer elemento
+con respecto a la dinámica
+
+206
+00:11:53,501 --> 00:11:55,567
+de la propia recaudación,
+
+207
+00:11:55,634 --> 00:12:02,100
+el Estado se financia en base
+a los diferentes tributos
+
+208
+00:12:02,200 --> 00:12:08,267
+y la verdad es que ha hecho
+un esfuerzo extraordinario la AFIP
+
+209
+00:12:08,367 --> 00:12:11,734
+para mejorar el cumplimiento
+de esos tributos,
+
+210
+00:12:11,801 --> 00:12:14,501
+lo cual implica regularización,
+
+211
+00:12:14,601 --> 00:12:18,334
+tanto a lo que hace
+la registración
+
+212
+00:12:18,434 --> 00:12:20,968
+de los empleados
+como de las empresas,
+
+213
+00:12:21,067 --> 00:12:24,534
+y que las actividades
+no transcurran por fuera
+
+214
+00:12:24,634 --> 00:12:28,767
+del alcance de los instrumentos
+impositivos.
+
+215
+00:12:28,868 --> 00:12:31,467
+Por supuesto, que hay impuestos
+de más fácil recaudación
+
+216
+00:12:31,567 --> 00:12:33,300
+y de más difícil recaudación.
+
+217
+00:12:33,400 --> 00:12:35,400
+Una de las cuestiones
+que para nosotros es central
+
+218
+00:12:35,501 --> 00:12:39,267
+es el crecimiento de recaudación
+en el Impuesto a las Ganancias
+
+219
+00:12:39,367 --> 00:12:41,000
+a sociedades, por ejemplo,
+
+220
+00:12:41,100 --> 00:12:44,367
+porque es un impuesto
+tremendamente progresivo,
+
+221
+00:12:44,434 --> 00:12:46,601
+ganan los que más facturan,
+a los que más ganan,
+
+222
+00:12:46,701 --> 00:12:50,033
+y los que más tienen,
+de forma tal que es un impuesto
+
+223
+00:12:50,100 --> 00:12:53,334
+que en la década de los 90
+representaba muy poquito
+
+224
+00:12:53,400 --> 00:12:55,901
+y la recaudación básicamente
+se basaba en los impuestos
+
+225
+00:12:55,968 --> 00:12:58,767
+al consumo, que son los
+de más fácil recaudación,
+
+226
+00:12:58,868 --> 00:13:02,100
+pero hoy esa estructura
+ha variado significativamente
+
+227
+00:13:02,200 --> 00:13:05,868
+haciendo más progresiva
+la tributación,
+
+228
+00:13:05,968 --> 00:13:09,734
+sin por eso haber modificado
+las alícuotas
+
+229
+00:13:09,834 --> 00:13:11,801
+ni creados nuevos impuestos.
+
+230
+00:13:11,868 --> 00:13:15,734
+Entonces, sabemos que esto
+es una dinámica,
+
+231
+00:13:15,834 --> 00:13:20,000
+que para que los contribuyentes
+puedan estar al día
+
+232
+00:13:20,100 --> 00:13:22,601
+con sus impuestos tenemos que,
+por un lado,
+
+233
+00:13:22,701 --> 00:13:27,267
+ser muy rigurosos en el control
+
+234
+00:13:27,334 --> 00:13:32,434
+y seguimiento de los planes
+anti-evasión que hemos sacado
+
+235
+00:13:32,501 --> 00:13:36,334
+también para que todo el mundo
+sienta que tiene que cumplir
+
+236
+00:13:36,400 --> 00:13:37,934
+sus obligaciones,
+cosa que en la Argentina,
+
+237
+00:13:38,000 --> 00:13:40,667
+en algún momento,
+parecía que no era así.
+
+238
+00:13:40,767 --> 00:13:44,767
+Y por otro lado sabemos también
+que hay que darle flexibilidad,
+
+239
+00:13:44,868 --> 00:13:47,267
+así que periódicamente
+
+240
+00:13:47,367 --> 00:13:51,133
+se establecen algunos planes
+de pago cuando encontramos
+
+241
+00:13:51,234 --> 00:13:55,234
+que técnicamente estamos ante
+una situación que lo amerita,
+
+242
+00:13:55,300 --> 00:13:57,667
+también el diseño de cada uno
+de estos planes de pago
+
+243
+00:13:57,734 --> 00:13:59,834
+tienen un efecto macroeconómico.
+
+244
+00:13:59,901 --> 00:14:02,734
+Por supuesto que si se ponen
+al día más contribuyentes
+
+245
+00:14:02,834 --> 00:14:05,667
+esto puede significar
+un incremento de la recaudación,
+
+246
+00:14:05,734 --> 00:14:09,400
+así que macroeconómicamente
+depende de si no iba a pagar
+
+247
+00:14:09,467 --> 00:14:10,968
+y puede hacerlo,
+
+248
+00:14:11,033 --> 00:14:14,267
+o si iba a pagar
+y se le extiende el plazo.
+
+249
+00:14:14,334 --> 00:14:19,334
+En ambos casos se trata
+de hacer es con mucho análisis
+
+250
+00:14:19,434 --> 00:14:23,100
+poner planes que sean todos
+para permitirle al contribuyente
+
+251
+00:14:23,200 --> 00:14:25,801
+aliviar su situación
+pero no por la vía del no pago,
+
+252
+00:14:25,868 --> 00:14:27,267
+sino por la vía del pago,
+
+253
+00:14:27,334 --> 00:14:29,901
+lo cual significa fortalecer
+la capacidad recaudatoria
+
+254
+00:14:30,000 --> 00:14:32,934
+del Estado, hacer la economía,
+
+255
+00:14:33,033 --> 00:14:36,934
+también convertirla
+en economía más formal,
+
+256
+00:14:37,033 --> 00:14:39,434
+un trabajo que atañe
+a nuestro país
+
+257
+00:14:39,501 --> 00:14:41,434
+pero a todos los países
+de América Latina
+
+258
+00:14:41,501 --> 00:14:43,834
+y en general emergentes
+y en vías de desarrollo,
+
+259
+00:14:43,901 --> 00:14:46,868
+que es la cuestión de la falta
+de registración,
+
+260
+00:14:46,968 --> 00:14:50,067
+es un mal de todo el mundo
+en vías de desarrollo
+
+261
+00:14:50,133 --> 00:14:51,934
+y acá hemos hecho avances
+muy fuertes,
+
+262
+00:14:52,000 --> 00:14:54,434
+tanto a lo que toca
+la registración de las empresas
+
+263
+00:14:54,501 --> 00:14:56,801
+como a que esas mismas empresas
+
+264
+00:14:56,868 --> 00:14:58,868
+registren también
+a los trabajadores.
+
+265
+00:14:58,934 --> 00:15:00,667
+Esto no es un problema
+del trabajador,
+
+266
+00:15:00,767 --> 00:15:03,000
+en algún momento habían
+convencido a la gente
+
+267
+00:15:03,100 --> 00:15:06,434
+que era mejor trabajar en negro,
+como se dice,
+
+268
+00:15:06,501 --> 00:15:09,767
+porque se gana más y lo que hemos
+demostrado estos años
+
+269
+00:15:09,868 --> 00:15:12,567
+es que quien se ha perjudicado
+es el propio trabajador.
+
+270
+00:15:12,801 --> 00:15:15,000
+Entonces, los planes de pago
+son un instrumento
+
+271
+00:15:15,067 --> 00:15:17,400
+que permite justamente conseguir
+
+272
+00:15:17,467 --> 00:15:23,434
+que la regularización impositiva
+avance a paso firme,
+
+273
+00:15:23,501 --> 00:15:25,267
+como se ha hecho estos años.
+
+274
+00:15:25,334 --> 00:15:28,334
+Por eso hemos,
+a lo largo de 10 años,
+
+275
+00:15:28,434 --> 00:15:31,234
+presentado diversos planes
+de pago
+
+276
+00:15:31,300 --> 00:15:34,133
+en diferentes circunstancias.
+Es eso.
+
+277
+00:15:34,601 --> 00:15:36,200
+Siguiente pregunta.
+
+278
+00:15:36,734 --> 00:15:38,934
+Florencia Donovan de La Nación.
+
+279
+00:15:39,000 --> 00:15:40,634
+Creo que para el jefe de la AFIP.
+
+280
+00:15:40,701 --> 00:15:42,934
+En un principio,
+en un escenario de máxima,
+
+281
+00:15:43,000 --> 00:15:45,067
+¿cuál es el costo fiscal
+de esta medida?
+
+282
+00:15:45,133 --> 00:15:49,734
+Con respecto después a quienes
+tenían deudas al 31 de marzo,
+
+283
+00:15:49,834 --> 00:15:52,133
+¿qué tipo de deudas
+es la más habitual,
+
+284
+00:15:52,200 --> 00:15:55,834
+la aduanera, aporte,
+cuál es la más común?
+
+285
+00:15:55,901 --> 00:15:58,734
+¿Y desde cuándo era que
+estaba vigente el límite
+
+286
+00:15:58,801 --> 00:16:00,534
+de los 10 millones?
+
+287
+00:16:01,834 --> 00:16:04,868
+El límite de los 10 millones,
+empezamos de atrás para adelante,
+
+288
+00:16:04,934 --> 00:16:07,934
+el límite de los 10 millones,
+es desde el año pasado,
+
+289
+00:16:08,000 --> 00:16:11,501
+desde el mes de marzo,
+si mal no recuerdo, agosto.
+
+290
+00:16:13,033 --> 00:16:17,033
+Claro salió en agosto
+y ahí es cuando ya la UIA
+
+291
+00:16:17,100 --> 00:16:21,400
+estaba buscando un límite mayor,
+que es el que estamos dando ahora.
+
+292
+00:16:21,634 --> 00:16:26,100
+En segundo lugar la deuda
+que podría consolidarse
+
+293
+00:16:26,234 --> 00:16:30,968
+en planes de pago
+es de 36.166 millones de pesos,
+
+294
+00:16:31,033 --> 00:16:35,300
+y está compuesta por
+unos 16 mil millones
+
+295
+00:16:35,367 --> 00:16:38,334
+de contribuciones,
+que es un 46%,
+
+296
+00:16:38,400 --> 00:16:44,133
+IVA unos 9.334 millones,
+que es 25,8%,
+
+297
+00:16:45,200 --> 00:16:49,067
+podría haber algo de ganancias,
+de 5.499 millones,
+
+298
+00:16:49,133 --> 00:16:54,400
+un 15,2% y derechos aduaneros,
+de exportación e importación,
+
+299
+00:16:54,467 --> 00:16:58,868
+unos 4.495 millones, un 12,4%.
+
+300
+00:16:58,968 --> 00:17:02,234
+Ese sería el total
+de las expectativas,
+
+301
+00:17:02,334 --> 00:17:04,801
+tengamos en cuenta que en algunos
+casos esto se puede tratar
+
+302
+00:17:04,868 --> 00:17:07,367
+de contribuyentes que ya
+no despiden actividad
+
+303
+00:17:07,434 --> 00:17:10,434
+y nosotros estamos en búsqueda
+de que se pague
+
+304
+00:17:10,501 --> 00:17:12,167
+una deuda con la AFIP.
+
+305
+00:17:12,267 --> 00:17:17,133
+En otros casos se puede tratarse
+de situaciones
+
+306
+00:17:17,200 --> 00:17:18,801
+que nosotros tenemos
+esas expectativas,
+
+307
+00:17:18,901 --> 00:17:23,067
+no necesariamente
+los 36.166 millones
+
+308
+00:17:23,133 --> 00:17:27,267
+y el 1.226.016 contribuyentes
+van a terminar regularizando,
+
+309
+00:17:27,334 --> 00:17:30,467
+lo que está haciendo el Estado
+es frente a los resultados
+
+310
+00:17:30,534 --> 00:17:32,934
+objetivos de la recaudación,
+
+311
+00:17:33,067 --> 00:17:36,501
+caso del cumplimiento
+de las metas presupuestarias,
+
+312
+00:17:36,601 --> 00:17:38,367
+como hemos venido cumpliendo,
+
+313
+00:17:38,501 --> 00:17:42,801
+al mismo tiempo tener expectativas
+de cumplimiento en este mes,
+
+314
+00:17:42,868 --> 00:17:45,734
+fíjense que nosotros
+tuvimos vencimientos,
+
+315
+00:17:45,801 --> 00:17:47,601
+el último vencimiento
+de presentación
+
+316
+00:17:47,701 --> 00:17:51,000
+de declaraciones juradas,
+de impuesto a las ganancias,
+
+317
+00:17:51,067 --> 00:17:53,567
+de bienes personales
+para sociedades
+
+318
+00:17:53,667 --> 00:17:56,734
+y para personas que tenían
+participación en sociedades,
+
+319
+00:17:56,801 --> 00:17:59,868
+concluyó el lunes este.
+
+320
+00:17:59,934 --> 00:18:02,267
+Nosotros hemos previsto,
+
+321
+00:18:02,334 --> 00:18:04,501
+y teniendo por objetivo
+que la deuda corriente,
+
+322
+00:18:04,567 --> 00:18:06,267
+la deuda que se tiene
+que estar pagando ahora,
+
+323
+00:18:06,334 --> 00:18:09,033
+que se pague, la que tenga
+algún atraso del 31 para atrás,
+
+324
+00:18:09,100 --> 00:18:10,968
+que vengan a regularizarnos.
+
+325
+00:18:11,067 --> 00:18:13,300
+Este es un mes donde vamos
+a tener un resultado
+
+326
+00:18:13,367 --> 00:18:16,167
+de recaudación muy bueno,
+seguramente vamos a estar arriba
+
+327
+00:18:16,267 --> 00:18:18,534
+de los 100. 0000 millones
+de pesos,
+
+328
+00:18:18,601 --> 00:18:20,267
+es un objetivo que tenemos,
+
+329
+00:18:20,367 --> 00:18:22,667
+y que en función de cómo vienen
+presentándose
+
+330
+00:18:22,734 --> 00:18:24,367
+las declaraciones juradas
+y los pagos
+
+331
+00:18:24,467 --> 00:18:26,567
+esperamos poder alcanzarlo,
+
+332
+00:18:26,667 --> 00:18:31,367
+y sería nuevamente pasar
+una nueva raya de resultados
+
+333
+00:18:31,467 --> 00:18:32,701
+de gestión en la recaudación,
+
+334
+00:18:32,801 --> 00:18:35,400
+pero al mismo tiempo estar
+recaudación producto
+
+335
+00:18:35,501 --> 00:18:39,968
+de las políticas macroeconómicas,
+las políticas públicas
+
+336
+00:18:40,033 --> 00:18:41,868
+impulsadas por el gobierno
+de la Presidenta
+
+337
+00:18:41,968 --> 00:18:45,334
+Cristina Fernández de Kirchner
+es el que, en alguna medida,
+
+338
+00:18:45,400 --> 00:18:47,667
+también nos permite decir
+a aquellos contribuyentes
+
+339
+00:18:47,734 --> 00:18:49,901
+que quedaron en el furgón de cola,
+
+340
+00:18:49,968 --> 00:18:54,000
+sumémoslo y démosle
+alguna alternativa
+
+341
+00:18:54,100 --> 00:18:58,167
+en función de lo que
+era el núcleo central
+
+342
+00:18:58,234 --> 00:19:00,534
+de gran parte de la agenda
+
+343
+00:19:00,634 --> 00:19:03,767
+que se viene construyendo
+en la Mesa de Diálogo
+
+344
+00:19:03,868 --> 00:19:08,834
+con los sectores representativos
+de la industria, del comercio,
+
+345
+00:19:08,934 --> 00:19:11,400
+de la producción en Argentina
+en general.
+
+346
+00:19:11,467 --> 00:19:13,467
+No sé si queda algo pendiente...
+
+347
+00:19:14,367 --> 00:19:16,767
+-¿No? Bueno, muy bien.
+-Siguiente pregunta.
+
+348
+00:19:19,934 --> 00:19:22,200
+Carlos de la Agencia DyN.
+A cualquiera de los dos.
+
+349
+00:19:22,300 --> 00:19:25,234
+Técnicamente, ¿se puede hablar
+de que es una moratoria esto,
+
+350
+00:19:25,300 --> 00:19:27,834
+o la facilidad de pago,
+hay alguna diferencia en eso?
+
+351
+00:19:27,934 --> 00:19:32,934
+No hay un perdón
+de ningún tipo de deuda
+
+352
+00:19:33,000 --> 00:19:34,167
+que tenga el contribuyente.
+
+353
+00:19:34,267 --> 00:19:35,300
+Todas las deudas que tiene
+el contribuyente
+
+354
+00:19:35,367 --> 00:19:36,467
+las tiene que pagar,
+
+355
+00:19:36,534 --> 00:19:38,400
+por lo tanto es un plan
+de facilidad de pago.
+
+356
+00:19:39,267 --> 00:19:41,767
+-Muchas gracias.
+-Muchísimas gracias.
+

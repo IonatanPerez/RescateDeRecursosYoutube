@@ -1,0 +1,821 @@
+1
+00:00:02,371 --> 00:00:08,322
+En realidad vinimos junto con mi equipo,
+el ingeniero López y por supuesto
+
+2
+00:00:08,422 --> 00:00:16,468
+Matías Bianchi y Norberto Berner
+que son, Norberto el Secretario
+
+3
+00:00:16,568 --> 00:00:20,512
+de Comunicaciones y Matías el presidente
+de Arsat, son los dueños de casa.
+
+4
+00:00:20,612 --> 00:00:28,261
+Venimos a visitarlos a ellos con José López
+de Obras Públicas, con una serie
+
+5
+00:00:28,361 --> 00:00:32,003
+de intendentes, vecinos y también
+con el presidente de la FAM,
+
+6
+00:00:32,103 --> 00:00:35,287
+Julio Pereyra; y el intendente
+de Florencio Varela.
+
+7
+00:00:35,387 --> 00:00:41,335
+En primer lugar para que ellos recorrieran
+estas modernas instalaciones y nosotros
+
+8
+00:00:41,435 --> 00:00:46,219
+particularmente todo el equipo
+de Planificación para saludar,
+
+9
+00:00:46,319 --> 00:00:50,191
+felicitar, reconocer y decirle a todos
+lo orgullosos que nos sentimos
+
+10
+00:00:50,291 --> 00:00:55,446
+al personal que aquí trabaja
+y por supuesto nos sentimos nosotros
+
+11
+00:00:55,546 --> 00:00:59,222
+orgullosos de Néstor y Cristina que fueron
+los impulsores de esta realidad.
+
+12
+00:00:59,322 --> 00:01:09,973
+Arrancamos de menos diez cuando estábamos
+por perder la franja satelital que estuvimos
+
+13
+00:01:10,073 --> 00:01:15,358
+por perder en 2003-2004 las dos franjas,
+no solamente las recuperamos
+
+14
+00:01:15,458 --> 00:01:20,818
+sino que hoy la semana pasada
+hemos lanzado nuestro propio satélite
+
+15
+00:01:20,918 --> 00:01:25,374
+construido y diseñado en la Argentina,
+un sueño que fue posible gracias
+
+16
+00:01:25,474 --> 00:01:29,397
+al impulso de los dos presidentes
+y también al esfuerzo cotidiano
+
+17
+00:01:29,497 --> 00:01:31,393
+de los trabajadores.
+
+18
+00:01:31,493 --> 00:01:38,204
+Muy importante la fuerza renovadora
+que tanto Matías como Norberto
+
+19
+00:01:38,304 --> 00:01:42,559
+le impusieron a su respectivas áreas,
+estuvimos hablando y explicando
+
+20
+00:01:42,659 --> 00:01:45,995
+a los intendentes, mostrándoles aquí
+un sector que le llaman la nube
+
+21
+00:01:46,095 --> 00:01:50,142
+que es donde llega toda la fibra óptica
+que estamos tendiendo a lo largo
+
+22
+00:01:50,242 --> 00:01:54,505
+y a lo ancho del país, y explicarles
+la necesidad de seguir avanzando
+
+23
+00:01:54,605 --> 00:01:57,979
+la última milla para que la fibra óptica
+llegue hasta la casa de cada uno
+
+24
+00:01:58,079 --> 00:02:01,943
+de nuestros vecinos porque lo que buscamos
+y de nuestros pueblos, de nuestros
+
+25
+00:02:02,043 --> 00:02:06,807
+habitantes de nuestros pueblos,
+lo que buscamos aquí es generar también
+
+26
+00:02:06,907 --> 00:02:13,535
+soberanía en materia de comunicaciones
+para que nuestros mail, nuestros mensajes
+
+27
+00:02:13,635 --> 00:02:18,449
+de texto, nuestras comunicaciones
+sean procesadas y retransmitidas
+
+28
+00:02:18,549 --> 00:02:23,253
+integralmente en un centro de primer nivel
+internacional como es este data center
+
+29
+00:02:23,353 --> 00:02:30,858
+de aquí de Benavides que construyó Arsat
+y que hoy pueden mostrar orgullosos
+
+30
+00:02:30,958 --> 00:02:33,724
+como su máximo hito
+el lanzamiento del satélite.
+
+31
+00:02:33,824 --> 00:02:36,398
+Ministro, se van cumpliendo
+las expectativas de parte del gobierno
+
+32
+00:02:36,498 --> 00:02:39,249
+con Arsat-I, se van cumpliendo los plazos.
+
+33
+00:02:39,349 --> 00:02:45,428
+Estamos trabajando, ya se han hecho
+dos importantes maniobras,
+
+34
+00:02:45,528 --> 00:02:51,940
+por aproximadamente 30 días seguirán
+pruebas de la parte, bueno, del motor,
+
+35
+00:02:52,040 --> 00:02:56,940
+la colocación en órbita, luego empezar
+la prueba de lo que son las comunicaciones
+
+36
+00:02:57,040 --> 00:03:00,428
+propiamente dichas, pero la parte
+técnicas se la dejo a Matías
+
+37
+00:03:00,528 --> 00:03:06,578
+que lo va a explicar muchísimo mejor
+que yo, y hasta ahora todas las maniobras
+
+38
+00:03:06,678 --> 00:03:12,301
+que se realizaron y todos los datos
+que venimos recibiendo del satélite
+
+39
+00:03:12,401 --> 00:03:17,100
+son 100% correctas,
+objetivamente correctas.
+
+40
+00:03:17,200 --> 00:03:22,845
+Así que hasta el momento la operación
+es un éxito absoluto y estamos orgullosos
+
+41
+00:03:22,945 --> 00:03:24,127
+de ello.
+
+42
+00:03:24,227 --> 00:03:27,531
+Había dicho que ya empiezan con el Arsat-II
+y se están haciendo las preparaciones
+
+43
+00:03:27,631 --> 00:03:28,612
+para el tres.
+
+44
+00:03:28,712 --> 00:03:34,523
+Bueno, el Arsat-II está casi en el 70%
+construido, seguramente estaremos
+
+45
+00:03:34,623 --> 00:03:41,275
+visitando el Invap con la Presidenta,
+Matías y Norberto en los próximos días
+
+46
+00:03:41,375 --> 00:03:47,569
+para poder ver los avances
+de la construcción del satélite
+
+47
+00:03:47,669 --> 00:03:52,563
+y visitar también a los trabajadores
+del Invap que construyeron el satélite,
+
+48
+00:03:52,663 --> 00:03:59,863
+a los técnicos del Invap que generaron
+y sinergizaron con el sector de Arsat
+
+49
+00:03:59,963 --> 00:04:06,107
+que estamos aquí en Benavides,
+es muy importante que todos los sectores
+
+50
+00:04:06,207 --> 00:04:10,854
+de alta tecnología que desarrollan
+alta tecnología, estén absolutamente
+
+51
+00:04:10,954 --> 00:04:16,050
+sinergizados y es nuestra tarea
+como dirigentes políticos articularlos
+
+52
+00:04:16,150 --> 00:04:20,384
+y generar el mayor potencial posible
+del marco de esas relaciones,
+
+53
+00:04:20,484 --> 00:04:24,531
+la Comisión Nacional de Energía Atómica,
+el Consejo Nacional Aeronáutico Espacial,
+
+54
+00:04:24,631 --> 00:04:32,503
+Arsat, el Invap; en fin, todas las empresas
+que hacen y desarrollan alta tecnología
+
+55
+00:04:32,603 --> 00:04:36,224
+por parte del Estado, tanto sea nacional
+como sea provincial, deben estar
+
+56
+00:04:36,324 --> 00:04:41,969
+correctamente coordinadas, sinergizadas
+para lograr el mayor valor agregado posible
+
+57
+00:04:42,069 --> 00:04:45,659
+y acortar al máximo los tiempos
+de los desarrollos posibles
+
+58
+00:04:45,759 --> 00:04:50,840
+porque lo necesita la Argentina
+como queda demostrado en materia
+
+59
+00:04:50,940 --> 00:04:55,275
+de comunicaciones todo el avance
+que hemos podido llevar a partir
+
+60
+00:04:55,375 --> 00:04:58,842
+de que nos pusimos los pantalones
+largos y generamos nosotros desarrollo.
+
+61
+00:04:58,942 --> 00:05:02,902
+Las compañías privadas prestan
+sus servicios, pero la punta en tecnología
+
+62
+00:05:03,002 --> 00:05:06,136
+en la Argentina la lleva adelante
+el Estado con sus empresas.
+
+63
+00:05:06,236 --> 00:05:10,687
+Preguntarle a Bianchi cómo van a continuar
+las maniobras, sabemos que hoy en la noche
+
+64
+00:05:10,787 --> 00:05:12,365
+se va a realizar una de ellas.
+
+65
+00:05:12,465 --> 00:05:18,735
+Tenemos, como dijo el Ministro
+anteriormente, todavía un mes largo
+
+66
+00:05:18,835 --> 00:05:23,473
+de trabajo para poder terminar
+de hacer todas las pruebas a los distintos
+
+67
+00:05:23,573 --> 00:05:28,713
+sistemas y subsistemas del satélite,
+la semana que viene vamos a estar
+
+68
+00:05:28,813 --> 00:05:36,671
+terminando las maniobras de puesta
+en órbita y a partir de ahí van a empezar
+
+69
+00:05:36,771 --> 00:05:39,508
+las migraciones de clientes.
+
+70
+00:05:40,803 --> 00:05:46,614
+Cuando hay decisión política indica
+el rumbo hacia donde va a un país y un país
+
+71
+00:05:46,714 --> 00:05:50,478
+que no puede volver hacia atrás,
+con qué proyección de acá
+
+72
+00:05:50,578 --> 00:05:52,496
+a los próximos años como país.
+
+73
+00:05:52,596 --> 00:05:56,700
+Es muy importante todo lo que estamos
+haciendo, yo le decía recién a los técnicos
+
+74
+00:05:56,800 --> 00:06:00,194
+y ahora a los intendentes que les agradezco
+enormemente que nos hayan acompañado
+
+75
+00:06:00,294 --> 00:06:04,261
+porque de una manera van a poder llevar
+también a sus distritos esta realidad
+
+76
+00:06:04,361 --> 00:06:09,268
+y además no vienen como simples
+observadores, sino como socios
+
+77
+00:06:09,368 --> 00:06:12,770
+de alguna forma a través
+de la construcción de fibra óptica.
+
+78
+00:06:12,870 --> 00:06:17,768
+Creo que cuanto más avancemos,
+cuanto más sinergicemos lo que decía
+
+79
+00:06:17,868 --> 00:06:20,961
+anteriormente a los sectores
+que desarrollan alta tecnología
+
+80
+00:06:21,061 --> 00:06:24,289
+desde el Estado nacional o empresas
+privadas nacionales también,
+
+81
+00:06:24,389 --> 00:06:28,754
+menos posibilidades de retroceso,
+menos posibilidades de pasos atrás
+
+82
+00:06:28,854 --> 00:06:33,066
+que nos han hecho dar alguna otra vez
+en la historia, van a suceder.
+
+83
+00:06:33,166 --> 00:06:38,263
+Pero también quiero reconocer la presencia
+de Osvaldo Iadarola de Foetra,
+
+84
+00:06:38,363 --> 00:06:42,857
+los trabajadores son una herramienta
+fundamental, un elemento fundamental
+
+85
+00:06:42,957 --> 00:06:49,006
+para generar cualquier tipo de valla
+de contención ante quienes a lo mejor
+
+86
+00:06:49,106 --> 00:06:52,038
+reaccionariamente quieran hacernos
+volver al pasado.
+
+87
+00:06:52,138 --> 00:06:57,965
+Esto es irreversible y descontarlo
+va a ser por lo menos demasiado
+
+88
+00:06:58,065 --> 00:07:01,590
+ostentoso, demasiado visible
+y casi diría obsceno.
+
+89
+00:07:01,690 --> 00:07:06,546
+Creo que la Argentina y los argentinos
+queremos otra cosa y la enorme
+
+90
+00:07:06,646 --> 00:07:11,635
+masividad de televidentes, de gente
+que estaba en una expectativa fantástica
+
+91
+00:07:11,735 --> 00:07:16,994
+en relación al lanzamiento de nuestro
+satélite en días pasados, no marca
+
+92
+00:07:17,094 --> 00:07:22,350
+un hito tecnológico, creo que marca
+un hito emocional, un hito de sentimiento
+
+93
+00:07:22,450 --> 00:07:26,886
+de la gente de que esto debe seguir
+avanzando y no debe ir para atrás
+
+94
+00:07:26,986 --> 00:07:28,182
+de ninguna manera.
+
+95
+00:07:29,610 --> 00:07:32,077
+¿De qué serviría todo
+este avance tecnológico?
+
+96
+00:07:32,177 --> 00:07:39,515
+Bueno, la verdad que fundamentalmente
+lo que nos brinda es soberanía, por qué,
+
+97
+00:07:39,615 --> 00:07:44,838
+porque este satélite Arsat-I fue pensado
+en Argentina, diseñado en Argentina
+
+98
+00:07:44,938 --> 00:07:47,371
+por argentinos y para los argentinos.
+
+99
+00:07:47,471 --> 00:07:51,257
+Qué significa esto, la huella,
+la iluminación, o sea a donde llegan
+
+100
+00:07:51,357 --> 00:07:56,241
+los servicios de Arsat-I, no distingue
+entre el impenetrable en Chaco,
+
+101
+00:07:56,341 --> 00:08:00,836
+las Malvinas Argentinas, la Antártica
+o la Cuna; la misma calidad de servicio
+
+102
+00:08:00,936 --> 00:08:05,040
+va a llegar a todo el país
+y eso es el cambio más importante,
+
+103
+00:08:05,140 --> 00:08:08,620
+además al operarlo nosotros mismos
+sin intermediarios, va a facilitar
+
+104
+00:08:08,720 --> 00:08:11,893
+muchísimo la tarea de todos
+y muchísimo la tarea del periodismo
+
+105
+00:08:11,993 --> 00:08:15,394
+porque todo esto que estamos haciendo acá
+se hace, ahí estoy viendo los móviles
+
+106
+00:08:15,494 --> 00:08:18,815
+de la televisión que se comunican
+vía satélite, eso va a mejorar
+
+107
+00:08:18,915 --> 00:08:22,622
+y va a facilitar la tarea
+de la comunicación y también
+
+108
+00:08:22,722 --> 00:08:25,640
+de la libertad de expresión,
+así que realmente eso es lo primero
+
+109
+00:08:25,740 --> 00:08:27,174
+que brinda Arsat-I.
+
+110
+00:08:27,274 --> 00:08:31,465
+Y Arsat-II efectivamente está en etapa
+de pruebas, ya está en campaña
+
+111
+00:08:31,565 --> 00:08:34,967
+dentro de Soacha nuestra propia
+facilidad para probarlo,
+
+112
+00:08:35,067 --> 00:08:38,426
+el Arsat-II además no sólo va
+a empezar por la Argentina
+
+113
+00:08:38,526 --> 00:08:42,614
+sino que va a llegar hasta Estados Unidos,
+por lo tanto nos va a permitir exportar
+
+114
+00:08:42,714 --> 00:08:46,550
+servicios y ya no vamos a tener
+que sacar divisas del país,
+
+115
+00:08:46,650 --> 00:08:49,329
+sacar dólares de la Argentina
+para pagar el satélite alquilado,
+
+116
+00:08:49,429 --> 00:08:52,693
+sino que dejamos de pagar esas divisas
+y además vamos a tener la posibilidad
+
+117
+00:08:52,793 --> 00:08:56,587
+de incorporar divisas, le vamos a dar
+vuelta a la balanza comercial.
+
+118
+00:08:56,687 --> 00:09:00,160
+Eso son los servicios, va a brindar
+televisión digital abierta,
+
+119
+00:09:00,260 --> 00:09:04,735
+va a brindar telefonía IP en zonas
+remotas, va a brindar internet en zonas
+
+120
+00:09:04,835 --> 00:09:08,410
+absolutamente inaccesibles
+y se complementa como cuentan
+
+121
+00:09:08,510 --> 00:09:12,122
+siempre muy bien el presidente de Arsat
+y el Ministro, se complementa con la red
+
+122
+00:09:12,222 --> 00:09:17,569
+federal de fibra óptica, se complementa
+con la redes provinciales de fibra óptica,
+
+123
+00:09:17,669 --> 00:09:23,163
+se complementan todos estos servicios,
+por eso tiene sentido que se coordine
+
+124
+00:09:23,263 --> 00:09:26,080
+y se generen las sinergias
+desde este lugar desde Arsat.
+
+125
+00:09:26,180 --> 00:09:29,168
+Así que la verdad que esos son
+los servicios y ese es el sentido
+
+126
+00:09:29,268 --> 00:09:30,804
+que tiene Arsat-I.
+
+127
+00:09:30,904 --> 00:09:35,480
+Cómo hace Argentina para competir
+ante los grandes países distribuidores
+
+128
+00:09:35,580 --> 00:09:40,226
+de satélites, con un precio competitivo,
+con créditos, cómo va a hacer Argentina
+
+129
+00:09:40,326 --> 00:09:42,012
+para poder salir al mercado.
+
+130
+00:09:42,112 --> 00:09:47,440
+Como lo estamos haciendo,
+lo que vamos a competir es:
+
+131
+00:09:47,540 --> 00:09:53,013
+Primero estamos utilizando un recurso
+distintivo que era la posición orbital 72
+
+132
+00:09:53,113 --> 00:09:58,246
+y la 81, o sea tenemos un privilegio
+igual que el país, la República Argentina
+
+133
+00:09:58,346 --> 00:10:00,902
+está en una situación privilegiada
+desde el punto de vista territorial,
+
+134
+00:10:01,002 --> 00:10:03,969
+desde el punto de vista del clima,
+de la geografía, de los recursos naturales
+
+135
+00:10:04,069 --> 00:10:08,001
+que tiene y nuestras órbitas también
+es un recurso natural que estamos
+
+136
+00:10:08,101 --> 00:10:09,325
+aprovechando.
+
+137
+00:10:09,425 --> 00:10:15,150
+A su vez la elevadísima calidad técnica
+que tienen nuestros trabajadores
+
+138
+00:10:15,250 --> 00:10:18,608
+y por supuesto, todo un trabajo
+de integración, hay sólo 8 ó 9 países,
+
+139
+00:10:18,708 --> 00:10:23,613
+8 países en el mundo que tienen
+toda la posibilidad de diseñar,
+
+140
+00:10:23,713 --> 00:10:29,186
+probar, construir y operar,
+poner en órbita, y ese es un diferencial
+
+141
+00:10:29,286 --> 00:10:32,073
+que nos va a permitir sin duda
+en principio mirando a la región
+
+142
+00:10:32,173 --> 00:10:37,283
+porque lo que queremos es compartir esto
+así como necesitamos de nuestros vecinos
+
+143
+00:10:37,383 --> 00:10:40,756
+con toda su experiencia también
+en materia satelital, primero compartir
+
+144
+00:10:40,856 --> 00:10:44,787
+con la región pero también con otros países
+y por lo tanto empezando por ahí
+
+145
+00:10:44,887 --> 00:10:49,099
+y dándole, lo que decía el Ministro
+De Vido, fundamental, esto necesita
+
+146
+00:10:49,199 --> 00:10:52,701
+continuidad, estamos lanzando
+nuestro primer satélite geoestacionario,
+
+147
+00:10:52,801 --> 00:10:56,870
+esto son proyectos que requieren
+décadas de trabajo, esto hay que entenderlo
+
+148
+00:10:56,970 --> 00:10:59,526
+para que no miremos para atrás
+y no encontremos con nostalgia
+
+149
+00:10:59,626 --> 00:11:03,412
+el Arsat-I como hoy miramos con nostalgia
+el pulqui y que Aerolíneas Argentinas
+
+150
+00:11:03,512 --> 00:11:06,625
+hoy tiene que comprar aviones
+en otros países, en Brasil por suerte
+
+151
+00:11:06,725 --> 00:11:10,287
+en Brasil, pero la verdad que dentro
+de 20, 30 años tenemos que mirar
+
+152
+00:11:10,387 --> 00:11:14,875
+al Arsat-I y verlo como un primerito
+en algo que es absolutamente natural
+
+153
+00:11:14,975 --> 00:11:17,797
+y que vamos a ser sin duda
+muy competitivos a nivel mundial.
+
+154
+00:11:17,897 --> 00:11:20,999
+Estamos en una tercera etapa
+hoy en la noche, cuándo termina
+
+155
+00:11:21,099 --> 00:11:26,420
+toda la etapa del satélite en llegar
+a su punto máximo y esto qué implicaría.
+
+156
+00:11:26,520 --> 00:11:32,752
+Estamos exactamente, están preparando
+ahora mismo el movimiento para acercar
+
+157
+00:11:32,852 --> 00:11:36,557
+a la órbita geoestacionaria,
+hoy es la tercer maniobra,
+
+158
+00:11:36,657 --> 00:11:41,558
+quedan 2 maniobras más,
+como explicaba Matías,
+
+159
+00:11:41,658 --> 00:11:45,291
+a partir del momento en que quede
+en órbita circular que es una tarea
+
+160
+00:11:45,391 --> 00:11:50,567
+muy delicada la que están llevando adelante,
+de mucha tensión, por eso es que se trabaja
+
+161
+00:11:50,667 --> 00:11:54,532
+con el nivel de seguridad, de resguardo
+y de tranquilidad que necesitan.
+
+162
+00:11:54,632 --> 00:11:58,751
+Una vez que pase eso que pasarán
+aproximadamente, Matías...
+
+163
+00:11:59,967 --> 00:12:04,408
+Tres vueltas más, la próxima semana
+una vez ubicado el satélite se despliegan
+
+164
+00:12:04,508 --> 00:12:09,514
+las antenas solares, se despliega
+la antena y se empiezan a probar
+
+165
+00:12:09,614 --> 00:12:12,910
+todos los sistemas, esto es lo que dura
+un mes y a partir de ahí comenzamos
+
+166
+00:12:13,010 --> 00:12:19,285
+a migrar del satélite AMC-6 a Arsat-I
+y ahí vamos a empezar a tener ya
+
+167
+00:12:19,385 --> 00:12:21,685
+completa la soberanía satelital.
+

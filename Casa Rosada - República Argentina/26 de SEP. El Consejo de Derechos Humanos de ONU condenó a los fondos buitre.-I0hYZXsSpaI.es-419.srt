@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:04,501
+Este Consejo va a proceder
+a una votación
+
+2
+00:00:04,567 --> 00:00:07,868
+sobre el prurito
+de Resolución L26.
+
+3
+00:00:07,934 --> 00:00:12,701
+Le pido a la Secretaria que abra
+la máquina de votaciones.
+
+4
+00:00:13,300 --> 00:00:15,534
+Las delegaciones que precedan
+a votar.
+
+5
+00:00:26,534 --> 00:00:28,534
+Han votado ya todas
+las delegaciones.
+
+6
+00:00:28,601 --> 00:00:34,767
+Por favor comprueben que el voto
+de su delegación
+
+7
+00:00:34,834 --> 00:00:37,767
+coincida con lo que figura
+en la pantalla.
+
+8
+00:00:37,834 --> 00:00:42,100
+Se cierra, por favor,
+la votación.
+
+9
+00:00:49,501 --> 00:00:55,834
+El resultado de los votos
+son los siguientes.
+
+10
+00:01:00,434 --> 00:01:02,734
+El resultado de la votación
+son los siguientes:
+
+11
+00:01:02,834 --> 00:01:06,601
+33 a favor, 5 en contra,
+y 9 abstenciones.
+

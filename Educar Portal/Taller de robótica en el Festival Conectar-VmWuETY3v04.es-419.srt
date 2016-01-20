@@ -1,0 +1,564 @@
+1
+00:00:06,120 --> 00:00:08,200
+[Música de presentación]
+
+2
+00:00:08,280 --> 00:00:12,720
+Vamos a hacer un tallercito
+de Robótica Educativa
+
+3
+00:00:12,800 --> 00:00:16,600
+dentro del marco
+de los festivales Conectar.
+
+4
+00:00:18,680 --> 00:00:20,200
+-¿Está?
+-Sí.
+
+5
+00:00:21,600 --> 00:00:23,320
+¿Cómo se llama ese robot
+que está ahí?
+
+6
+00:00:23,400 --> 00:00:24,480
+(Voz de chico)
+Bender.
+
+7
+00:00:24,560 --> 00:00:25,680
+(Javier)
+<i>Bender, bien.</i>
+
+8
+00:00:25,760 --> 00:00:29,400
+Cada diapositiva que yo voy a pasar
+
+9
+00:00:29,480 --> 00:00:31,920
+tiene un robot diferente.
+
+10
+00:00:32,000 --> 00:00:35,200
+Entonces, hay que adivinar,
+hay que saber el nombre de cada uno.
+
+11
+00:00:35,280 --> 00:00:36,720
+Son todos famosos.
+
+12
+00:00:37,440 --> 00:00:38,600
+Bender.
+
+13
+00:00:39,360 --> 00:00:42,160
+Bender es un robot,
+¿a qué se dedica Bender? ¿Qué hace?
+
+14
+00:00:42,240 --> 00:00:43,360
+(Voz de chico)
+Dobla fierros.
+
+15
+00:00:43,440 --> 00:00:44,520
+¿Qué?
+
+16
+00:00:45,280 --> 00:00:46,560
+Lo dijeron, lo dijeron bien.
+
+17
+00:00:46,640 --> 00:00:48,120
+(Voz de chico)
+Dobla fierros.
+
+18
+00:00:48,200 --> 00:00:51,120
+Dobla fierros. Dobla caños.
+
+19
+00:00:52,320 --> 00:00:55,040
+Es un robot
+que tiene una tarea: dobla caños.
+
+20
+00:00:55,120 --> 00:00:58,080
+Por eso se llama Bender,
+"bender" en inglés es algo así.
+
+21
+00:00:58,480 --> 00:00:59,680
+(Javier)
+<i>¿Se les ocurrió, por ejemplo,</i>
+
+22
+00:00:59,760 --> 00:01:02,600
+que se podía hacer un robot
+con la máquina?
+
+23
+00:01:03,960 --> 00:01:05,840
+O como el Taller de Videojuegos.
+
+24
+00:01:05,920 --> 00:01:10,520
+O sea, la idea
+es que los estudiantes
+
+25
+00:01:10,600 --> 00:01:12,840
+y, sobre todo, los profes
+
+26
+00:01:12,920 --> 00:01:16,360
+les dejen a ustedes
+investigar, participar
+
+27
+00:01:16,440 --> 00:01:18,840
+<i>y buscarle una vuelta más copada</i>
+
+28
+00:01:18,920 --> 00:01:23,480
+<i>o algo más allá de lo que se supone</i>
+<i>que una computadora hace.</i>
+
+29
+00:01:23,920 --> 00:01:27,080
+Nosotros,
+con un proyecto de robótica,
+
+30
+00:01:27,160 --> 00:01:30,040
+transversalmente,
+como le decimos nosotros,
+
+31
+00:01:30,120 --> 00:01:33,640
+<i>tenemos mecánica, electrónica,</i>
+
+32
+00:01:33,720 --> 00:01:38,120
+lógica, estructura de pensamiento,
+
+33
+00:01:38,200 --> 00:01:43,160
+programación en sí,
+electricidad, estática, dinámica.
+
+34
+00:01:43,240 --> 00:01:46,000
+o sea, hay un montón de cuestiones
+que yo puedo trabajar
+
+35
+00:01:46,080 --> 00:01:50,680
+<i>desde un proyecto tecnológico</i>
+<i>llamado robot.</i>
+
+36
+00:01:51,360 --> 00:01:52,520
+Arte.
+
+37
+00:01:52,880 --> 00:01:58,160
+El costo es tremendamente bajo.
+
+38
+00:01:58,240 --> 00:02:03,640
+Primero, porque la parte más cara
+
+39
+00:02:04,080 --> 00:02:05,800
+ya la tienen ustedes,
+
+40
+00:02:05,880 --> 00:02:07,320
+que es la netbook.
+
+41
+00:02:08,560 --> 00:02:11,320
+Lo que hablaba
+el compañero allá de Arduino--
+
+42
+00:02:11,960 --> 00:02:17,960
+Nosotros no usamos una placa libre
+con el cerebro del robot, digamos,
+
+43
+00:02:18,760 --> 00:02:23,360
+sino que usamos la netbook
+como cerebro
+
+44
+00:02:23,440 --> 00:02:26,720
+y programamos desde acá
+lo que queremos hacer.
+
+45
+00:02:26,800 --> 00:02:28,760
+Y lo que está acá
+
+46
+00:02:30,920 --> 00:02:32,560
+–se los voy a mostrar así–
+
+47
+00:02:32,640 --> 00:02:35,160
+es bastante croto, digamos.
+
+48
+00:02:36,040 --> 00:02:39,480
+La idea, también,
+es que este robot está así,
+
+49
+00:02:39,560 --> 00:02:42,280
+vamos a decir "desprolijo",
+
+50
+00:02:42,360 --> 00:02:46,760
+porque es un robot
+que está hecho por estudiantes
+
+51
+00:02:46,840 --> 00:02:49,880
+y se usa continuamente
+para ir probando.
+
+52
+00:02:51,240 --> 00:02:52,280
+No es estático esto,
+
+53
+00:02:52,360 --> 00:02:54,800
+no es que lo armarte y listo,
+ya está.
+
+54
+00:02:55,280 --> 00:02:57,520
+Lo dejaste ahí en una vitrina
+y se llenó de tierra. No.
+
+55
+00:02:57,600 --> 00:03:01,240
+Se le van agregando cosas,
+funcionalidades y qué sé yo.
+
+56
+00:03:01,320 --> 00:03:02,840
+Y por eso todos estos cables,
+
+57
+00:03:02,920 --> 00:03:04,800
+todas están cosas están hechas
+
+58
+00:03:06,040 --> 00:03:08,200
+de manera desprolija,
+pero, en realidad,
+
+59
+00:03:08,280 --> 00:03:10,560
+es porque está andando
+continuamente.
+
+60
+00:03:10,640 --> 00:03:14,880
+Fíjense que tiene
+cuatro pilas comunes,
+
+61
+00:03:14,960 --> 00:03:17,520
+una batería de nueve voltios
+
+62
+00:03:17,600 --> 00:03:19,720
+y un circuito electrónico
+
+63
+00:03:20,400 --> 00:03:22,040
+que ya está diseñado.
+
+64
+00:03:22,800 --> 00:03:27,320
+<i>Esto que está acá,</i>
+<i>toda esta parte de chapa,</i>
+
+65
+00:03:27,400 --> 00:03:28,560
+<i>¿saben lo que es?</i>
+
+66
+00:03:29,320 --> 00:03:32,160
+(Voz de mujer y Javier)
+-Un Meccano.
+-Un Meccano.
+
+67
+00:03:32,560 --> 00:03:36,280
+Es un Meccano común, es un juguete.
+
+68
+00:03:36,360 --> 00:03:38,480
+La chapa que está abajo, esto,
+
+69
+00:03:38,560 --> 00:03:40,360
+es de una impresora vieja.
+
+70
+00:03:41,400 --> 00:03:44,040
+Las ruedas
+son de avioncitos de juguete.
+
+71
+00:03:44,840 --> 00:03:47,000
+Y estas ruedas de acá atrás
+
+72
+00:03:48,080 --> 00:03:52,640
+son de cualquiera de los muebles
+de una ferretería común y corriente.
+
+73
+00:03:52,720 --> 00:03:55,160
+Y los componentes
+que están acá dentro
+
+74
+00:03:55,240 --> 00:03:57,680
+se pueden sacar de--
+
+75
+00:03:57,760 --> 00:04:00,040
+Seguramente, en sus escuelas,
+en todas las escuelas hay,
+
+76
+00:04:00,120 --> 00:04:02,160
+hay un lugar,
+que puede ser un baño viejo,
+
+77
+00:04:02,240 --> 00:04:05,600
+lleno de computadoras
+que están rotas, que nadie--
+
+78
+00:04:05,680 --> 00:04:06,840
+Todo va ahí.
+
+79
+00:04:06,920 --> 00:04:10,160
+Desarmando y reciclando
+todo eso:
+
+80
+00:04:10,920 --> 00:04:16,320
+poleas, engranajes, correas,
+chapas, tornillos, componentes,
+
+81
+00:04:16,400 --> 00:04:17,480
+todo eso,
+
+82
+00:04:18,120 --> 00:04:21,640
+switch, o sea, como llaves,
+como interruptores,
+
+83
+00:04:21,720 --> 00:04:23,960
+como con el que ustedes
+prenden la luz,
+
+84
+00:04:24,440 --> 00:04:26,320
+<i>todo esto se encuentra--</i>
+
+85
+00:04:26,400 --> 00:04:28,720
+<i>Entonces, la Robótica educativa</i>
+
+86
+00:04:28,800 --> 00:04:32,560
+<i>también sirve</i>
+<i>como una gran manera de reciclar.</i>
+
+87
+00:04:32,640 --> 00:04:34,880
+Este robot tiene su propio hardware
+
+88
+00:04:34,960 --> 00:04:36,000
+–que lo vieron ahí,
+
+89
+00:04:36,080 --> 00:04:37,840
+que lo pueden hacer
+como a ustedes se les antoje,
+
+90
+00:04:37,920 --> 00:04:40,360
+con madera, con plástico,
+con lo que fuera–
+
+91
+00:04:40,800 --> 00:04:42,440
+y su propio software.
+
+92
+00:04:43,280 --> 00:04:47,240
+Ese software lo diseñó un compañero,
+
+93
+00:04:47,800 --> 00:04:51,240
+estudiante también,
+en Córdoba, es cordobés.
+
+94
+00:04:51,320 --> 00:04:52,440
+<i>Entonces, hay que saber</i>
+
+95
+00:04:52,520 --> 00:04:58,080
+que es argentino y cordobés
+para saber programar el robot.
+
+96
+00:04:58,160 --> 00:05:00,040
+Son las dos cuestiones
+que hay que saber.
+
+97
+00:05:00,120 --> 00:05:01,800
+Todo está en español.
+
+98
+00:05:02,320 --> 00:05:05,640
+¿Vieron que los programas
+que se llaman privativos
+
+99
+00:05:05,720 --> 00:05:06,840
+se compran?
+
+100
+00:05:06,920 --> 00:05:09,280
+El Windows, el Office,
+
+101
+00:05:10,400 --> 00:05:12,480
+el AutoCAD, el Photoshop.
+
+102
+00:05:12,560 --> 00:05:14,760
+Hay que comprar,
+hay que pagar una licencia.
+
+103
+00:05:14,840 --> 00:05:17,080
+Acá, todos los programas que usamos
+
+104
+00:05:17,160 --> 00:05:20,120
+son programas de licencia libre.
+
+105
+00:05:20,200 --> 00:05:22,880
+Los pueden usar de arriba abajo,
+
+106
+00:05:22,960 --> 00:05:24,880
+la gente que los hizo
+los pone a disposición,
+
+107
+00:05:24,960 --> 00:05:26,360
+no hay que pagar un mango.
+
+108
+00:05:28,200 --> 00:05:30,240
+Dice: "Un robot
+es una entidad virtual
+
+109
+00:05:30,320 --> 00:05:31,800
+o mecánica artificial.
+
+110
+00:05:31,880 --> 00:05:33,960
+Es un sistema electromecánico
+
+111
+00:05:34,040 --> 00:05:36,440
+que, por su apariencia,
+ofrece la sensación
+
+112
+00:05:36,520 --> 00:05:38,240
+de tener un propósito propio".
+
+113
+00:05:39,160 --> 00:05:43,480
+Pero no siempre un robot
+tiene pinta de ser humano,
+
+114
+00:05:44,240 --> 00:05:46,480
+es más, casi nunca.
+
+115
+00:05:46,560 --> 00:05:48,880
+Pero una máquina de pan es un robot.
+
+116
+00:05:49,360 --> 00:05:51,360
+Fíjense, la placa esa, Ícaro,
+
+117
+00:05:51,440 --> 00:05:53,800
+es la que está abajo
+
+118
+00:05:53,880 --> 00:05:56,240
+en la chapa esa
+de la que yo les conté.
+
+119
+00:05:56,320 --> 00:05:58,960
+Eso es lo que diseñó
+el compañero cordobés.
+
+120
+00:06:00,080 --> 00:06:02,200
+¿Dónde encontramos [los datos]
+para hacer esto?
+
+121
+00:06:02,280 --> 00:06:04,760
+Bueno, en ese sitio
+
+122
+00:06:06,160 --> 00:06:09,760
+tienen todo, todo para hacer esto:
+
+123
+00:06:10,600 --> 00:06:15,400
+<i>los planos del circuito,</i>
+<i>ejemplos, videos,</i>
+
+124
+00:06:16,640 --> 00:06:18,800
+programas para bajar, está todo.
+
+125
+00:06:20,200 --> 00:06:26,200
+[Música de cierre]
+

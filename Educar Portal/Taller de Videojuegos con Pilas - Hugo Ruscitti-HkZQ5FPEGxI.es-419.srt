@@ -1,0 +1,116 @@
+1
+00:00:00,600 --> 00:00:06,600
+[Música de presentación]
+
+2
+00:00:06,960 --> 00:00:08,400
+El objetivo
+del Taller de Videojuegos
+
+3
+00:00:08,480 --> 00:00:11,640
+es que los chicos puedan descubrir
+cómo darle órdenes a la computadora
+
+4
+00:00:11,720 --> 00:00:13,120
+para crear videojuegos.
+
+5
+00:00:13,200 --> 00:00:14,520
+El objetivo de la programación
+
+6
+00:00:14,600 --> 00:00:17,320
+y lo que queremos difundir
+en el foro regional
+
+7
+00:00:17,400 --> 00:00:19,880
+es que los jóvenes
+se pueden acercar a la tecnología
+
+8
+00:00:19,960 --> 00:00:21,840
+y aprender a ser productores
+
+9
+00:00:21,920 --> 00:00:23,680
+del contenido
+que hay en las computadoras
+
+10
+00:00:23,760 --> 00:00:24,960
+y no ser solo consumidores,
+
+11
+00:00:25,040 --> 00:00:27,640
+no ser solo espectadores
+de lo que pasa en la computadora.
+
+12
+00:00:27,720 --> 00:00:29,720
+La herramienta que vamos a usar
+para crear videojuegos
+
+13
+00:00:29,800 --> 00:00:30,840
+se llama Pilas
+
+14
+00:00:30,920 --> 00:00:33,760
+y está orientada
+a que los chicos puedan crear
+
+15
+00:00:33,840 --> 00:00:35,320
+todos los componentes
+del videojuego:
+
+16
+00:00:35,400 --> 00:00:37,600
+que puedan poner actores
+en la pantalla,
+
+17
+00:00:37,680 --> 00:00:39,200
+que los puedan modificar,
+
+18
+00:00:39,280 --> 00:00:41,720
+que puedan interactuar
+con otras personas.
+
+19
+00:00:41,800 --> 00:00:43,760
+Y también es un medio de expresión
+muy importante
+
+20
+00:00:43,840 --> 00:00:46,160
+porque los chicos
+pueden crear videojuegos
+
+21
+00:00:46,240 --> 00:00:50,040
+para sus papás, para sus amigos,
+para otras personas de su comunidad.
+
+22
+00:00:50,120 --> 00:00:52,240
+Es una manera muy muy interesante
+
+23
+00:00:52,320 --> 00:00:55,040
+de poder volcar toda la creatividad
+que los chicos tienen
+
+24
+00:00:55,120 --> 00:00:58,000
+en un videojuego,
+en algo que se puede ver y tocar.
+
+25
+00:00:58,080 --> 00:01:02,800
+[Música de cierre]
+

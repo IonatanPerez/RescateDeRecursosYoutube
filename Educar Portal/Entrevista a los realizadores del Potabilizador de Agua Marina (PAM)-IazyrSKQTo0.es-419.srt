@@ -1,0 +1,537 @@
+1
+00:00:00,600 --> 00:00:06,600
+[Música de presentación]
+
+2
+00:00:28,200 --> 00:00:29,600
+Estamos en el Club de Ciencias
+
+3
+00:00:29,680 --> 00:00:33,360
+de la escuela técnica número 12
+General San Martín, en Retiro.
+
+4
+00:00:33,440 --> 00:00:35,360
+<i>El proyecto que estamos presentando</i>
+
+5
+00:00:35,440 --> 00:00:37,920
+<i>es el Potabilizador de Agua Marina,</i>
+<i>PAM.</i>
+
+6
+00:00:38,000 --> 00:00:40,080
+El proyecto PAM surgió
+
+7
+00:00:40,160 --> 00:00:42,520
+cuando viajamos
+a la feria Intel ISEF,
+
+8
+00:00:42,600 --> 00:00:45,120
+en el 2011, en Los Ángeles,
+
+9
+00:00:45,200 --> 00:00:49,280
+y ganamos el segundo premio
+en ingeniería ambiental
+
+10
+00:00:49,360 --> 00:00:53,120
+con el proyecto SADA,
+que era un potabilizador de agua,
+
+11
+00:00:53,200 --> 00:00:54,560
+<i>pero que estaba contaminada</i>
+
+12
+00:00:54,640 --> 00:00:57,160
+<i>con arsénico, cianuro</i>
+<i>y metales pesados</i>
+
+13
+00:00:57,240 --> 00:01:00,960
+<i>a raíz de la minería a cielo abierto</i>
+<i>que hay en el norte de nuestro país.</i>
+
+14
+00:01:01,040 --> 00:01:04,880
+La diferencia que hay ahora
+entre este proyecto y el anterior
+
+15
+00:01:04,960 --> 00:01:06,480
+es que el anterior, como te dije,
+
+16
+00:01:06,560 --> 00:01:10,920
+<i>potabilizaba agua</i>
+<i>que tenía metales pesados, cianuros,</i>
+
+17
+00:01:11,000 --> 00:01:14,120
+<i>en cambio, este potabiliza</i>
+<i>agua de mar, agua salada.</i>
+
+18
+00:01:14,840 --> 00:01:18,800
+Esa fue nuestra meta
+cuando volvimos de Estados Unidos.
+
+19
+00:01:18,880 --> 00:01:22,720
+<i>Este proyecto</i>
+<i>genera su propia energía</i>
+
+20
+00:01:22,800 --> 00:01:24,480
+<i>con un generador eólico.</i>
+
+21
+00:01:25,240 --> 00:01:29,480
+<i>Es un generador</i>
+<i>que hizo el sexto año de la escuela,</i>
+
+22
+00:01:29,560 --> 00:01:31,080
+<i>nosotros lo adoptamos,</i>
+
+23
+00:01:31,160 --> 00:01:32,800
+<i>es un sistema nuevo.</i>
+
+24
+00:01:33,640 --> 00:01:38,400
+Este generador genera
+mucha más energía de la que consume
+
+25
+00:01:38,480 --> 00:01:41,360
+y con nuestro proyecto,
+entonces, la almacenamos
+
+26
+00:01:41,840 --> 00:01:45,480
+porque, quizás, en algún momento,
+nos quedemos sin energía
+
+27
+00:01:45,560 --> 00:01:46,600
+o algo por el estilo,
+
+28
+00:01:46,680 --> 00:01:49,080
+entonces,
+queda como reserva la batería.
+
+29
+00:01:50,560 --> 00:01:54,240
+Nosotros sacamos
+doce voltios del generador,
+
+30
+00:01:54,320 --> 00:01:58,440
+los inyectamos en la cuba
+y empieza a generarse la hidrólisis,
+
+31
+00:01:58,520 --> 00:02:00,920
+que es la ruptura
+de la molécula de agua,
+
+32
+00:02:01,480 --> 00:02:04,080
+hidrógeno y oxígeno por un lado.
+
+33
+00:02:04,480 --> 00:02:07,920
+En este caso,
+el oxígeno lo vamos a ventear
+
+34
+00:02:08,000 --> 00:02:11,880
+y el hidrógeno lo vamos a conducir
+por una trampa de agua
+
+35
+00:02:11,960 --> 00:02:13,840
+para que no retroceda
+
+36
+00:02:13,920 --> 00:02:16,320
+porque, en las primeras pruebas
+que estuvimos haciendo,
+
+37
+00:02:16,400 --> 00:02:19,280
+retrocedió,
+se acumuló y reventó la cuba,
+
+38
+00:02:19,360 --> 00:02:22,640
+entonces,
+para evitar este tipo de problemas,
+
+39
+00:02:22,720 --> 00:02:25,120
+lo pasamos por una trampa de agua,
+
+40
+00:02:25,200 --> 00:02:29,040
+y, después, termina en un generador
+que le da la presión para quemarse.
+
+41
+00:02:31,000 --> 00:02:33,600
+Este combustible,
+que es el hidrógeno,
+
+42
+00:02:33,680 --> 00:02:36,080
+lo utilizamos
+para calentar agua de mar.
+
+43
+00:02:37,680 --> 00:02:40,240
+Esta llega a los cien grados,
+
+44
+00:02:40,320 --> 00:02:43,120
+se evapora, pasa por un conducto
+
+45
+00:02:43,200 --> 00:02:45,520
+y choca con unas placas
+que están frías,
+
+46
+00:02:45,600 --> 00:02:47,360
+entonces, por diferencia térmica,
+
+47
+00:02:47,440 --> 00:02:49,640
+pasa de estado gaseoso
+a estado líquido,
+
+48
+00:02:49,720 --> 00:02:52,200
+y, de esa manera,
+obtenemos agua destilada.
+
+49
+00:02:52,640 --> 00:02:54,280
+Para potabilizarla,
+
+50
+00:02:55,280 --> 00:03:00,240
+estuvimos investigando y consultando
+con un laboratorio de Caleta Olivia,
+
+51
+00:03:01,560 --> 00:03:02,960
+y nos aconsejaron
+
+52
+00:03:03,040 --> 00:03:07,600
+que la mejor manera y práctica
+que nos convenía a nosotros
+
+53
+00:03:07,680 --> 00:03:10,320
+era agarrar agua
+que se estaba calentando,
+
+54
+00:03:10,400 --> 00:03:13,840
+que ya no tiene virus,
+bacterias o algas marinas,
+
+55
+00:03:13,920 --> 00:03:17,680
+inyectarle una pequeña porción
+por litro de agua salada
+
+56
+00:03:17,760 --> 00:03:18,800
+al agua destilada,
+
+57
+00:03:18,880 --> 00:03:21,080
+y, de esa manera,
+obtenemos agua potable.
+
+58
+00:03:21,160 --> 00:03:22,440
+La ventaja de este proyecto
+
+59
+00:03:22,520 --> 00:03:26,880
+es que se utilizará,
+básicamente, en barcos,
+
+60
+00:03:27,360 --> 00:03:31,960
+lo que ahorrará lugar en tanques
+de almacenamiento de líquidos,
+
+61
+00:03:33,080 --> 00:03:34,920
+y se ahorrará dinero
+
+62
+00:03:35,000 --> 00:03:37,280
+porque este proyecto
+es mucho más económico
+
+63
+00:03:37,360 --> 00:03:39,480
+que otros potabilizadores de agua.
+
+64
+00:03:39,880 --> 00:03:42,760
+<i>La ventaja</i>
+<i>se basa en que hay otros filtros,</i>
+
+65
+00:03:42,840 --> 00:03:45,560
+que son de filtros de polímero,
+
+66
+00:03:45,640 --> 00:03:47,520
+que son muy caros
+
+67
+00:03:47,600 --> 00:03:51,400
+y no destilan la misma cantidad
+de agua que este proyecto.
+
+68
+00:03:51,720 --> 00:03:56,240
+Nosotros, durante la investigación
+y la realización del proyecto,
+
+69
+00:03:56,640 --> 00:03:59,560
+utilizamos las computadoras
+de Conectar Igualdad
+
+70
+00:04:00,160 --> 00:04:04,520
+tanto en la parte informática,
+que era la realización de gráficas
+
+71
+00:04:04,600 --> 00:04:09,760
+con programas editores
+de imágenes, de fotos--
+
+72
+00:04:10,120 --> 00:04:12,480
+Y en lo más importante
+que las utilizamos
+
+73
+00:04:12,560 --> 00:04:13,640
+fue en la electrónica
+
+74
+00:04:13,720 --> 00:04:17,960
+para diseñar plaquetas,
+hacer pruebas,
+
+75
+00:04:18,680 --> 00:04:22,720
+<i>para eso sí le agregamos programas</i>
+<i>a las compus.</i>
+
+76
+00:04:22,800 --> 00:04:24,280
+Con este proyecto,
+
+77
+00:04:24,360 --> 00:04:27,680
+llegamos a la Feria Jurisdiccional
+en Capital Federal,
+
+78
+00:04:27,760 --> 00:04:32,320
+ahí obtuvimos el segundo puesto
+y pasamos a la Feria Nacional,
+
+79
+00:04:32,400 --> 00:04:33,720
+donde nos presentamos.
+
+80
+00:04:33,800 --> 00:04:35,400
+Me parece muy importante
+
+81
+00:04:35,480 --> 00:04:37,960
+que participemos
+en la Feria de Ciencia
+
+82
+00:04:38,040 --> 00:04:41,040
+porque ya, de paso, mostramos
+todo lo que hacemos en la escuela,
+
+83
+00:04:41,120 --> 00:04:44,480
+que no solamente es tener
+todas las materias curriculares,
+
+84
+00:04:44,560 --> 00:04:47,200
+que, si bien son importantes,
+
+85
+00:04:47,280 --> 00:04:49,360
+también esto
+nos ayuda a distraernos.
+
+86
+00:04:49,440 --> 00:04:51,560
+Nosotros, en el Club de Ciencias,
+
+87
+00:04:51,640 --> 00:04:54,040
+lo que fundamentalmente
+propiciamos en ellos
+
+88
+00:04:54,120 --> 00:04:57,440
+es tratar de cambiar el tema
+
+89
+00:04:57,520 --> 00:05:00,840
+de transferencia de conocimiento
+por investigación.
+
+90
+00:05:00,920 --> 00:05:03,720
+Esto es lo que pensamos nosotros.
+
+91
+00:05:04,560 --> 00:05:07,360
+Y, en ese sentido,
+con todo lo que desarrollamos acá
+
+92
+00:05:07,440 --> 00:05:09,480
+y el interés que vemos
+en ellos en venir--
+
+93
+00:05:09,560 --> 00:05:13,000
+Aunque esta área no es curricular
+y obligatoria en la escuela,
+
+94
+00:05:13,080 --> 00:05:14,680
+tenemos una muy buena respuesta
+de ellos
+
+95
+00:05:14,760 --> 00:05:17,320
+<i>porque, una vez que se incentivan</i>
+<i>con la investigación,</i>
+
+96
+00:05:18,320 --> 00:05:21,520
+<i>los resultados están a la vista,</i>
+<i>lo que pueden hacer.</i>
+
+97
+00:05:22,520 --> 00:05:26,560
+<i>Realizar este trabajo</i>
+<i>les llevó un año y medio.</i>
+
+98
+00:05:26,640 --> 00:05:28,640
+Más o menos, los proyectos
+de ciencias llevan eso
+
+99
+00:05:28,720 --> 00:05:30,320
+para que sean algo serio;
+
+100
+00:05:30,760 --> 00:05:32,880
+y la investigación
+la acompañamos nosotros
+
+101
+00:05:32,960 --> 00:05:35,880
+desde el lado docente,
+desde cada especialidad.
+
+102
+00:05:36,960 --> 00:05:39,080
+Los vamos acompañando
+en todo el transcurso,
+
+103
+00:05:39,160 --> 00:05:40,840
+en todas las visitas,
+en los relevamientos,
+
+104
+00:05:40,920 --> 00:05:43,520
+en todo lo que tengan que hacer
+que tenga que ver con el proyecto
+
+105
+00:05:43,600 --> 00:05:45,840
+y, por suerte, hasta ahora,
+
+106
+00:05:45,920 --> 00:05:47,280
+tuvimos
+muy buenos resultados con ellos,
+
+107
+00:05:47,360 --> 00:05:50,320
+así que estamos muy entusiasmados
+por seguir en esto.
+
+108
+00:05:51,080 --> 00:05:54,280
+Ahora, mi objetivo,
+el del Club de Ciencias
+
+109
+00:05:54,360 --> 00:05:56,880
+y de los chicos que están trabajando
+conmigo en este proyecto
+
+110
+00:05:56,960 --> 00:06:00,080
+es poder llevarlo arriba
+de un buque,
+
+111
+00:06:00,160 --> 00:06:02,680
+relevar al cien por ciento
+de los datos
+
+112
+00:06:02,760 --> 00:06:04,200
+y poder proyectar a futuro
+
+113
+00:06:04,280 --> 00:06:07,520
+para ver si lo podemos instalar
+en algunas embarcaciones
+
+114
+00:06:07,600 --> 00:06:08,880
+a partir de ahora.
+
+115
+00:06:09,880 --> 00:06:14,920
+[Música de cierre]
+

@@ -1,0 +1,258 @@
+1
+00:00:00,600 --> 00:00:06,600
+[Música de presentación]
+
+2
+00:00:08,680 --> 00:00:11,320
+¿Qué tal? Buenas tardes,
+soy Daniel Ortiz,
+
+3
+00:00:11,400 --> 00:00:14,160
+director de la Escuela 58
+de Ciudad Evita.
+
+4
+00:00:14,800 --> 00:00:18,160
+Estamos acá para contarles
+cómo surgió la idea del proyecto
+
+5
+00:00:18,240 --> 00:00:20,920
+de tener un canal propio
+en la escuela.
+
+6
+00:00:21,440 --> 00:00:23,680
+Surge a partir del año pasado,
+en abril,
+
+7
+00:00:23,760 --> 00:00:25,960
+cuando nos entregan las netbooks.
+
+8
+00:00:26,040 --> 00:00:28,360
+La idea, en principio,
+era hacer una radio,
+
+9
+00:00:28,440 --> 00:00:29,560
+una radio pasillo,
+
+10
+00:00:29,640 --> 00:00:33,160
+una idea algo humilde
+para conectarnos entre nosotros.
+
+11
+00:00:33,600 --> 00:00:36,800
+Entonces, dialogo con el docente,
+con el profesor,
+
+12
+00:00:37,480 --> 00:00:39,080
+y le digo estas ideas.
+
+13
+00:00:40,400 --> 00:00:45,000
+Él agarra, la cocina, digamos,
+
+14
+00:00:45,640 --> 00:00:49,200
+y viene con otra idea,
+que era hacer una televisión.
+
+15
+00:00:49,600 --> 00:00:51,600
+¿Cómo la hizo? Se los explica él.
+
+16
+00:00:52,480 --> 00:00:54,480
+Buenas tardes,
+mi nombre es Adrián Chanampa
+
+17
+00:00:54,560 --> 00:00:58,520
+y soy profesor de la Escuela 58,
+la secundaria de Ciudad Evita.
+
+18
+00:00:59,480 --> 00:01:01,640
+La red de las netbooks
+nos dio una oportunidad
+
+19
+00:01:01,720 --> 00:01:03,480
+y la íbamos a aprovechar.
+
+20
+00:01:04,160 --> 00:01:07,480
+Tratar de explicar artes visuales
+a través de una radio
+
+21
+00:01:07,560 --> 00:01:10,840
+me pareció
+una idea difícil de conseguir
+
+22
+00:01:10,920 --> 00:01:13,720
+si existía la posibilidad
+de mostrar una imagen.
+
+23
+00:01:14,200 --> 00:01:17,720
+Entonces, después de la propuesta
+del director,
+
+24
+00:01:17,800 --> 00:01:23,440
+la idea fue ver, "descabezar",
+como le decimos, la máquina,
+
+25
+00:01:23,520 --> 00:01:27,320
+buscarle la vuelta
+para que pudiera representar
+
+26
+00:01:27,400 --> 00:01:30,080
+y pudiera emitir señal de video,
+
+27
+00:01:30,480 --> 00:01:34,280
+de forma sencilla
+para mostrar una secundaria.
+
+28
+00:01:35,520 --> 00:01:37,320
+Un fin de semana,
+
+29
+00:01:37,720 --> 00:01:41,400
+dicho en lunfardo,
+estuve peleándome con la máquina
+
+30
+00:01:41,480 --> 00:01:45,280
+para conseguir
+que pudiera emitir en video.
+
+31
+00:01:45,720 --> 00:01:48,240
+Y, después,
+fue cuestión de ir puliendo
+
+32
+00:01:48,320 --> 00:01:50,840
+porque las primeras señales
+fueron malas,
+
+33
+00:01:50,920 --> 00:01:53,640
+los primeros programas
+no funcionaban,
+
+34
+00:01:53,720 --> 00:01:56,360
+hasta que encontramos programas
+que nos dejaban trabajar
+
+35
+00:01:56,440 --> 00:01:57,760
+dentro de la línea
+
+36
+00:01:57,840 --> 00:02:00,640
+o dentro del marco
+de Conectar Igualdad
+
+37
+00:02:01,160 --> 00:02:05,120
+y que nos dejaban emitir señal,
+
+38
+00:02:05,200 --> 00:02:07,360
+en principio,
+a través de internet
+
+39
+00:02:07,440 --> 00:02:10,040
+con una calidad
+relativamente aceptable.
+
+40
+00:02:10,560 --> 00:02:14,400
+Después, fuimos probando
+que internet nos dejaba trabajar más
+
+41
+00:02:14,480 --> 00:02:15,880
+y pudimos levantar la señal
+
+42
+00:02:15,960 --> 00:02:19,040
+y hemos probado salir
+hasta en "high definition".
+
+43
+00:02:19,120 --> 00:02:20,520
+Y lo hemos logrado.
+
+44
+00:02:20,960 --> 00:02:24,680
+Entonces, vamos viendo
+que la posibilidad técnica se presta
+
+45
+00:02:24,760 --> 00:02:27,560
+y que las máquinas tienen
+la capacidad para este trabajo.
+
+46
+00:02:28,040 --> 00:02:29,240
+A partir de ahí,
+
+47
+00:02:29,320 --> 00:02:30,720
+estamos generando con los alumnos,
+
+48
+00:02:30,800 --> 00:02:33,920
+por un lado, la posibilidad
+de mantener esto andando
+
+49
+00:02:34,320 --> 00:02:37,720
+y de empezar a trabajar con ellos
+para generar los contenidos
+
+50
+00:02:37,800 --> 00:02:40,080
+porque,
+si bien nos ofrecen contenidos,
+
+51
+00:02:40,160 --> 00:02:42,960
+aspiramos
+a que sean, en general, propios,
+
+52
+00:02:43,040 --> 00:02:44,760
+para dar, entonces, lugar
+
+53
+00:02:44,840 --> 00:02:47,800
+a que los chicos
+puedan intervenir directamente,
+
+54
+00:02:47,880 --> 00:02:50,440
+de lleno,
+sobre la construcción de la señal.
+
+55
+00:02:51,640 --> 00:02:56,280
+[Música de cierre]
+

@@ -1,0 +1,792 @@
+1
+00:00:03,520 --> 00:00:09,520
+[Música de presentación]
+
+2
+00:00:11,680 --> 00:00:13,920
+Mi primer contacto con
+los videojuegos fue de chico.
+
+3
+00:00:14,000 --> 00:00:15,240
+Ya, de chico,
+empecé a darme cuenta
+
+4
+00:00:15,320 --> 00:00:18,560
+de que tenía ganas
+de hacer videojuegos.
+
+5
+00:00:18,640 --> 00:00:19,800
+Después, cuando fui adolescente,
+
+6
+00:00:19,880 --> 00:00:21,680
+decidí
+que quería aprender a programar,
+
+7
+00:00:21,760 --> 00:00:25,000
+que programar era como la forma
+en la que iba a sacar juegos.
+
+8
+00:00:25,080 --> 00:00:28,680
+Y, en cierta forma, fue medio
+por querer hacer juegos
+
+9
+00:00:28,760 --> 00:00:32,640
+y medio porque quería
+ser programador también.
+
+10
+00:00:32,720 --> 00:00:37,240
+Quería, en cierta forma,
+sentir que tenía una base sólida
+
+11
+00:00:37,320 --> 00:00:38,920
+en caso de que necesitara trabajo
+o lo que sea.
+
+12
+00:00:39,000 --> 00:00:42,040
+Empecé a estudiar Ciencias
+de la Computación en la facultad,
+
+13
+00:00:42,120 --> 00:00:44,280
+y, cuando estaba ahí,
+me ofrecieron trabajo
+
+14
+00:00:44,360 --> 00:00:46,640
+en una empresa que se llama
+Core Security Technologies,
+
+15
+00:00:46,720 --> 00:00:48,760
+es una empresa argentina
+que hace seguridad informática,
+
+16
+00:00:48,840 --> 00:00:49,880
+es única en el mundo.
+
+17
+00:00:49,960 --> 00:00:52,480
+La agarré en una época en la que era
+una empresa muy particular,
+
+18
+00:00:52,560 --> 00:00:55,800
+tenía toda gente muy buena
+trabajando ahí.
+
+19
+00:00:55,880 --> 00:01:01,440
+Y, como formación,
+fue bastante definitoria,
+
+20
+00:01:02,800 --> 00:01:06,440
+pero, yo seguía con la idea
+de que quería hacer juegos.
+
+21
+00:01:07,320 --> 00:01:08,600
+Entonces,
+
+22
+00:01:09,880 --> 00:01:11,520
+dejé esa empresa
+
+23
+00:01:11,600 --> 00:01:14,360
+para empezar una empresita propia
+con un socio,
+
+24
+00:01:15,080 --> 00:01:18,000
+pero duramos seis, ocho meses,
+y nos dimos cuenta de que no--
+
+25
+00:01:18,080 --> 00:01:20,080
+Era una empresa
+que hacía juegos para celulares.
+
+26
+00:01:20,160 --> 00:01:22,000
+Y nos dimos cuenta
+de que el modelo de negocios
+
+27
+00:01:22,080 --> 00:01:24,840
+que teníamos en la empresa
+no iba a funcionar.
+
+28
+00:01:25,680 --> 00:01:29,680
+Y, mientras estábamos pensando
+qué íbamos a hacer a continuación,
+
+29
+00:01:29,760 --> 00:01:32,200
+apareció Santiago Siri y nos dijo
+
+30
+00:01:32,280 --> 00:01:33,760
+–que en ese momento hacia juegos–
+
+31
+00:01:33,840 --> 00:01:36,520
+que él se había enterado
+de que venía Gameloft a Argentina,
+
+32
+00:01:36,600 --> 00:01:38,400
+que querían armar un estudio
+y estaban juntando gente
+
+33
+00:01:38,480 --> 00:01:40,240
+para armar
+lo que iba a ser el corazón
+
+34
+00:01:40,320 --> 00:01:43,520
+de la empresa.
+
+35
+00:01:44,440 --> 00:01:45,840
+Entonces, dijimos "vamos",
+
+36
+00:01:45,920 --> 00:01:47,760
+nos entrevistamos
+y entramos a trabajar ahí.
+
+37
+00:01:47,840 --> 00:01:51,320
+Después, unos años después,
+fue un estudio como de 600 personas.
+
+38
+00:01:52,640 --> 00:01:54,520
+Yo era jefe de programadores,
+
+39
+00:01:54,600 --> 00:01:57,440
+entonces, tenía
+más de 200 personas a cargo,
+
+40
+00:01:57,520 --> 00:02:02,760
+era medio un quilombo, era como--
+era mucha gente.
+
+41
+00:02:03,360 --> 00:02:04,400
+Y es una empresa grande.
+
+42
+00:02:04,480 --> 00:02:06,480
+Lo que tienen
+las empresas grandes es que,
+
+43
+00:02:06,560 --> 00:02:08,760
+cuando vos entrás de empleado
+en una empresa así,
+
+44
+00:02:08,840 --> 00:02:12,320
+lo que más aprendés a hacer
+es a ser empleado.
+
+45
+00:02:12,840 --> 00:02:14,760
+O sea, te entrenás
+para ser empleado.
+
+46
+00:02:14,840 --> 00:02:16,720
+La tarea que vos hagas
+no tiene mucha importancia,
+
+47
+00:02:16,800 --> 00:02:18,480
+pero aprendés a ser empleado.
+
+48
+00:02:18,560 --> 00:02:20,680
+Entonces, llegó un punto en mi vida
+–yo cumplí 30–
+
+49
+00:02:20,760 --> 00:02:23,440
+en el que me dio una crisis
+y dije: "Yo no quiero seguir".
+
+50
+00:02:23,520 --> 00:02:26,440
+Yo quería hacer juegos
+desde que tengo siete.
+
+51
+00:02:26,520 --> 00:02:28,440
+"¿Por qué tengo 30
+y todavía no estoy haciendo
+
+52
+00:02:28,520 --> 00:02:30,120
+lo que tengo que hacer?".
+
+53
+00:02:30,200 --> 00:02:33,440
+Por otro lado, me estaba consumiendo
+mucho la cabeza la empresa,
+
+54
+00:02:33,520 --> 00:02:37,800
+y yo traté, durante un año,
+de empezar un proyecto independiente
+
+55
+00:02:37,880 --> 00:02:40,080
+mientras estaba trabajando
+en Gameloft,
+
+56
+00:02:40,160 --> 00:02:43,160
+pero se hizo evidente con rapidez
+
+57
+00:02:43,240 --> 00:02:45,440
+que no me salía
+
+58
+00:02:45,520 --> 00:02:48,120
+porque tenía la cabeza
+puesta en la empresa
+
+59
+00:02:48,200 --> 00:02:50,120
+y no en nuestro proyecto.
+
+60
+00:02:50,200 --> 00:02:52,800
+No pude. Después de un año
+de intentarlo y que no me salga,
+
+61
+00:02:52,880 --> 00:02:55,920
+renuncié sin tener nada.
+Dije: "Renuncio y después me fijo".
+
+62
+00:02:56,000 --> 00:02:58,880
+Eso fue bastante aterrador,
+me costó mucho.
+
+63
+00:02:59,440 --> 00:03:00,520
+Esto fue en el 2008.
+
+64
+00:03:00,600 --> 00:03:02,760
+<i>Yo ya, desde el 2005,</i>
+<i>estaba viajando a Estados Unidos</i>
+
+65
+00:03:02,840 --> 00:03:06,000
+<i>a la Game Developers Conference,</i>
+<i>en San Francisco,</i>
+
+66
+00:03:06,080 --> 00:03:11,480
+<i>y ese año, el 2008,</i>
+<i>viajé sin nada en la mano,</i>
+
+67
+00:03:11,560 --> 00:03:12,600
+<i>o sea, no tenía juegos ni nada,</i>
+
+68
+00:03:12,680 --> 00:03:15,160
+y traté de acercarme
+a la comunidad independiente
+
+69
+00:03:15,240 --> 00:03:16,560
+de Estados Unidos.
+
+70
+00:03:16,880 --> 00:03:18,480
+Y no hubo caso.
+
+71
+00:03:19,080 --> 00:03:23,520
+No tenía videojuegos,
+y ellos son muy meritocráticos.
+
+72
+00:03:23,600 --> 00:03:25,360
+Es una comunidad muy meritocrática.
+
+73
+00:03:25,440 --> 00:03:27,440
+Entonces, al no tener juegos,
+
+74
+00:03:27,520 --> 00:03:30,760
+no me integraron demasiado.
+
+75
+00:03:30,840 --> 00:03:32,360
+Entonces, me sentí muy mal
+
+76
+00:03:32,440 --> 00:03:35,280
+porque sentí que no encajaba ahí
+y que no me aceptaban acá
+
+77
+00:03:35,360 --> 00:03:37,080
+porque no tenía nada.
+
+78
+00:03:37,160 --> 00:03:38,360
+Me sentí pésimo.
+
+79
+00:03:41,200 --> 00:03:42,400
+Entonces,
+
+80
+00:03:43,480 --> 00:03:46,560
+volví a Argentina de ese viaje
+muy, muy deprimido
+
+81
+00:03:48,320 --> 00:03:50,280
+y ahí dije: "Voy a renunciar".
+
+82
+00:03:50,600 --> 00:03:51,760
+Y renuncié.
+
+83
+00:03:52,640 --> 00:03:56,560
+Y lo loco
+es que habiendo renunciado--
+
+84
+00:03:56,640 --> 00:03:59,560
+Bueno, al principio,
+era puro miedo, era puro terror.
+
+85
+00:03:59,640 --> 00:04:03,560
+Me sentaba a trabajar todos los días
+sin saber qué iba a pasar después.
+
+86
+00:04:03,640 --> 00:04:05,280
+Tenía ahorros para un año.
+
+87
+00:04:05,360 --> 00:04:09,480
+Y yo, cuando estaba en Gameloft,
+tenía ganas de viajar a Japón.
+
+88
+00:04:09,560 --> 00:04:10,840
+Gameloft tenía
+un estudio en Japón.
+
+89
+00:04:10,920 --> 00:04:12,240
+Estuve un montón de tiempo
+negociando,
+
+90
+00:04:12,320 --> 00:04:14,040
+tratando de que me lleven
+al estudio en Japón
+
+91
+00:04:14,120 --> 00:04:15,440
+y no hubo manera.
+
+92
+00:04:15,520 --> 00:04:17,800
+Y, al final, renuncié,
+
+93
+00:04:18,440 --> 00:04:20,440
+mandé mis juegos
+a un festival en Japón,
+
+94
+00:04:20,520 --> 00:04:22,400
+me los aceptaron
+y me fui a Japón
+
+95
+00:04:22,480 --> 00:04:24,080
+cuatro meses después
+de haber renunciado.
+
+96
+00:04:24,160 --> 00:04:26,680
+Pensaba que yo era un tipo
+que ya no iba a viajar a Japón
+
+97
+00:04:26,760 --> 00:04:28,400
+y terminé viajando a Japón
+de todas formas.
+
+98
+00:04:28,480 --> 00:04:30,600
+Es como que tomé la decisión
+de decir:
+
+99
+00:04:30,680 --> 00:04:35,200
+"Estoy tratando
+de obtener algo mejor,
+
+100
+00:04:35,280 --> 00:04:37,280
+no tratando de evitar lo peor".
+
+101
+00:04:37,360 --> 00:04:40,120
+Entonces, si mi política
+fuese evitar lo peor,
+
+102
+00:04:41,160 --> 00:04:43,000
+no debería haber renunciado.
+
+103
+00:04:43,080 --> 00:04:49,080
+[Música suave]
+
+104
+00:05:01,040 --> 00:05:03,040
+Storyteller nació en el 2008,
+
+105
+00:05:03,120 --> 00:05:05,080
+justo el año
+que renuncié a Gameloft,
+
+106
+00:05:05,160 --> 00:05:08,600
+porque estaba tratando de hacer
+un paquete de juegos
+
+107
+00:05:08,680 --> 00:05:10,720
+para mandar a un festival en Japón
+
+108
+00:05:10,800 --> 00:05:12,840
+y sentí que los juegos que tenía
+hasta el momento
+
+109
+00:05:12,920 --> 00:05:14,280
+no eran suficientes,
+necesitaba uno más.
+
+110
+00:05:14,360 --> 00:05:17,160
+Y en dos días
+traté de hacer un juego más.
+
+111
+00:05:17,720 --> 00:05:19,320
+Y siempre me gustaron,
+cuando era chico,
+
+112
+00:05:19,400 --> 00:05:23,320
+los libros de cuentos infantiles
+que venían con ilustraciones.
+
+113
+00:05:23,400 --> 00:05:26,160
+Y, por ahí, me colgaba mirando
+las imágenes y pensando:
+
+114
+00:05:26,240 --> 00:05:28,600
+"¿Qué es esto?", "¿Se moverá esto?",
+
+115
+00:05:28,680 --> 00:05:30,200
+"¿Qué hará esto?
+¿Para qué servirá esto?".
+
+116
+00:05:30,280 --> 00:05:33,520
+Me empecé a hacer preguntas
+sobre la imagen de los cuentos.
+
+117
+00:05:33,680 --> 00:05:35,560
+Siempre tuve
+como la fantasía
+
+118
+00:05:35,640 --> 00:05:37,880
+de qué pasaría
+si pudiese manipularlo
+
+119
+00:05:37,960 --> 00:05:39,000
+o pudiese ver más
+
+120
+00:05:39,080 --> 00:05:41,000
+de lo que está solamente
+en la imagen.
+
+121
+00:05:41,080 --> 00:05:43,280
+<i>Entonces,</i>
+<i>Storyteller medio nació de ahí.</i>
+
+122
+00:05:43,360 --> 00:05:45,440
+<i>La primera versión del juego</i>
+<i>es una historia fija</i>
+
+123
+00:05:45,520 --> 00:05:46,920
+que tiene unas partes móviles,
+
+124
+00:05:47,000 --> 00:05:48,480
+<i>podemos mover personajes</i>
+<i>de un lado a otro</i>
+
+125
+00:05:48,560 --> 00:05:51,000
+<i>y suceden cosas diferentes</i>
+<i>en la historia.</i>
+
+126
+00:05:51,080 --> 00:05:53,720
+<i>Yo sospeché, en ese momento,</i>
+<i>que tenía algo que era más--</i>
+
+127
+00:05:53,800 --> 00:05:55,400
+<i>que había una idea</i>
+<i>detrás de todo eso</i>
+
+128
+00:05:55,480 --> 00:05:58,520
+<i>que era más grande</i>
+<i>que lo que había hecho,</i>
+
+129
+00:05:58,600 --> 00:06:00,920
+<i>pero no tenía la menor idea</i>
+<i>de cómo desarrollarlo,</i>
+
+130
+00:06:01,000 --> 00:06:02,600
+<i>no tenía la menor idea</i>
+<i>de cómo seguir.</i>
+
+131
+00:06:02,680 --> 00:06:05,640
+<i>Entonces, después, en el 2009,</i>
+<i>lo volví a intentar.</i>
+
+132
+00:06:05,720 --> 00:06:07,520
+<i>Volví a hacer</i>
+<i>otro prototipo de Storyteller</i>
+
+133
+00:06:07,600 --> 00:06:10,040
+<i>que no prosperó.</i>
+
+134
+00:06:10,400 --> 00:06:12,680
+<i>Todavía tenía algunos problemas</i>
+<i>que no sabía cómo resolver.</i>
+
+135
+00:06:12,760 --> 00:06:14,800
+<i>Entonces, en el 2010,</i>
+<i>lo volví a intentar</i>
+
+136
+00:06:14,880 --> 00:06:16,680
+<i>y, si bien avancé un poco más,</i>
+
+137
+00:06:16,760 --> 00:06:19,600
+<i>seguía sin tener las respuestas</i>
+<i>para las cosas.</i>
+
+138
+00:06:19,680 --> 00:06:20,720
+<i>Recién en el 2011,</i>
+
+139
+00:06:20,800 --> 00:06:22,840
+<i>estaba leyendo</i>
+<i>"Understanding Comics",</i>
+
+140
+00:06:22,920 --> 00:06:24,360
+<i>de Scott McCloud,</i>
+
+141
+00:06:24,440 --> 00:06:27,720
+<i>y Propp,</i>
+
+142
+00:06:27,800 --> 00:06:30,680
+<i>"Morfología del cuento", de Propp</i>
+
+143
+00:06:30,760 --> 00:06:33,480
+–que es como una especie
+de clasificación,
+
+144
+00:06:33,560 --> 00:06:38,480
+de estructuración de las historias
+de los cuentos de hadas–,
+
+145
+00:06:38,960 --> 00:06:40,840
+que me dieron como la pauta,
+
+146
+00:06:40,920 --> 00:06:42,680
+los elementos, las piezas
+que me faltaban
+
+147
+00:06:42,760 --> 00:06:45,240
+<i>para poder armar un juego completo.</i>
+
+148
+00:06:45,680 --> 00:06:48,320
+<i>A partir de ahí, arranqué</i>
+<i>con otro prototipo más, en el 2011,</i>
+
+149
+00:06:48,400 --> 00:06:49,920
+y ahí me di cuenta
+de que sí tenía un juego.
+
+150
+00:06:50,000 --> 00:06:51,640
+Entonces, dije:
+"Este me parece que va a ser
+
+151
+00:06:51,720 --> 00:06:53,160
+mi próximo juego probablemente".
+
+152
+00:06:53,840 --> 00:06:54,880
+<i>El juego ganó un Nuovo,</i>
+
+153
+00:06:54,960 --> 00:06:56,440
+<i>que es como el premio anual</i>
+<i>a la innovación</i>
+
+154
+00:06:56,520 --> 00:06:57,800
+<i>en el Festival Independiente</i>
+<i>de Videojuegos,</i>
+
+155
+00:06:57,880 --> 00:07:01,160
+<i>que es como el Cannes o el Sundance</i>
+<i>de los videojuegos.</i>
+
+156
+00:07:01,240 --> 00:07:05,080
+Y, desde entonces,
+nos seleccionan en espectáculos.
+
+157
+00:07:05,160 --> 00:07:07,400
+Yo viajo dando charlas, mostrándolo,
+
+158
+00:07:07,480 --> 00:07:10,960
+tratando de crear una campaña
+para hacer conocido el juego.
+
+159
+00:07:11,040 --> 00:07:12,680
+Y es mi primer juego comercial,
+comercial.
+
+160
+00:07:12,760 --> 00:07:14,440
+Los juegos anteriores
+eran como gratis,
+
+161
+00:07:14,520 --> 00:07:15,880
+los puse gratis.
+
+162
+00:07:15,960 --> 00:07:18,640
+Pero este es un juego comercial,
+es "nerd", digamos.
+
+163
+00:07:18,720 --> 00:07:21,680
+Precio, Steam
+y otras plataformas de distribución.
+
+164
+00:07:22,080 --> 00:07:24,120
+Así que, para mí, tiene eso--
+
+165
+00:07:24,200 --> 00:07:25,480
+El universo tiene eso
+
+166
+00:07:25,560 --> 00:07:29,160
+de que cuando vos tomás un paso
+
+167
+00:07:29,240 --> 00:07:31,120
+para mejorar
+
+168
+00:07:32,560 --> 00:07:34,280
+o sentirte mejor vos,
+
+169
+00:07:34,360 --> 00:07:36,320
+el universo te ayuda
+a que las cosas salgan bien.
+
+170
+00:07:37,040 --> 00:07:43,040
+[Música de cierre]
+

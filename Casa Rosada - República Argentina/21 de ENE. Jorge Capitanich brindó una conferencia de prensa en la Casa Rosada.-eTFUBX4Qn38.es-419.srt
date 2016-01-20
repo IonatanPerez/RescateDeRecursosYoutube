@@ -1,0 +1,2293 @@
+1
+00:18:38,968 --> 00:18:42,100
+Buen día. Muy buenos días
+a todos y a todas.
+
+2
+00:18:42,200 --> 00:18:44,601
+Bueno, por desperfectos técnicos
+hemos retrazado un poquito
+
+3
+00:18:44,701 --> 00:18:48,434
+la presente conferencia pero
+
+4
+00:18:48,501 --> 00:18:52,767
+brevemente quería exponer
+sobre algunos puntos
+
+5
+00:18:52,868 --> 00:18:56,200
+que tienen que ver con
+la agenda del día de la fecha.
+
+6
+00:18:56,267 --> 00:18:58,934
+En primer lugar quiero
+transmitirles que nosotros
+
+7
+00:18:59,033 --> 00:19:03,067
+en el día de hoy vamos
+a tener una reunión
+
+8
+00:19:03,167 --> 00:19:06,067
+con dos cadenas de valor
+que para nosotros
+
+9
+00:19:06,167 --> 00:19:08,234
+son muy importantes
+desde el punto de vista
+
+10
+00:19:08,334 --> 00:19:11,400
+de la contribución del
+producto interno bruto del país,
+
+11
+00:19:11,501 --> 00:19:13,133
+de la agregación de valor,
+
+12
+00:19:13,234 --> 00:19:14,667
+y de los procesos
+de industrialización,
+
+13
+00:19:14,767 --> 00:19:16,434
+que tiene que ver
+con la industria del software
+
+14
+00:19:16,567 --> 00:19:19,234
+y también de la fabricación
+de moto-vehículos
+
+15
+00:19:19,334 --> 00:19:21,634
+en la República Argentina.
+
+16
+00:19:21,734 --> 00:19:24,167
+Como ustedes saben,
+la industria de software
+
+17
+00:19:24,267 --> 00:19:27,167
+ha tenido un incremento
+extraordinario a partir
+
+18
+00:19:27,267 --> 00:19:29,400
+de la Ley de Promoción
+de Software.
+
+19
+00:19:29,501 --> 00:19:32,901
+Y eso ha implicado, a partir
+de una decisión política,
+
+20
+00:19:33,000 --> 00:19:35,133
+oportunamente el Ex Presidente
+Néstor Kirchner
+
+21
+00:19:35,234 --> 00:19:38,033
+y la continuidad impuesta
+por nuestra Presidenta
+
+22
+00:19:38,133 --> 00:19:40,000
+Cristina Fernández de Kirchner,
+
+23
+00:19:40,067 --> 00:19:43,300
+efectivamente esto ha generado
+una facturación equivalente
+
+24
+00:19:43,400 --> 00:19:46,234
+a 3700 millones de dólares
+anuales.
+
+25
+00:19:46,367 --> 00:19:48,767
+De los cuales 903 millones
+de dólares
+
+26
+00:19:48,901 --> 00:19:50,667
+han tenido como destino
+de exportaciones,
+
+27
+00:19:50,767 --> 00:19:53,567
+y a su vez cerca de 80 mil
+puestos de trabajo
+
+28
+00:19:53,701 --> 00:19:55,634
+generados en la industria
+del software.
+
+29
+00:19:55,734 --> 00:19:58,834
+Industria del software
+que a nivel internacional
+
+30
+00:19:58,934 --> 00:20:01,667
+resulta competitiva
+y tiene una dispersión geográfica
+
+31
+00:20:01,767 --> 00:20:04,200
+y poblacional desde el punto
+de vista su radicación.
+
+32
+00:20:04,300 --> 00:20:06,701
+Una empresa emblemática
+de Argentina,
+
+33
+00:20:06,834 --> 00:20:07,901
+con capitales argentinos,
+
+34
+00:20:08,033 --> 00:20:11,167
+que se ha diseminado
+a nivel internacional,
+
+35
+00:20:11,400 --> 00:20:14,167
+es la firma Globant,
+que a su vez tiene
+
+36
+00:20:14,267 --> 00:20:16,200
+distinta inversiones en distintas
+partes del territorio
+
+37
+00:20:16,300 --> 00:20:18,801
+de la República Argentina.
+
+38
+00:20:18,901 --> 00:20:23,167
+También es importante observar
+que hemos tenido un record
+
+39
+00:20:23,267 --> 00:20:27,634
+de motos comercializadas
+en Argentina durante el año 2013.
+
+40
+00:20:27,767 --> 00:20:30,667
+Con 712 mil unidades.
+
+41
+00:20:30,801 --> 00:20:33,968
+Ustedes recordarán que
+en general
+
+42
+00:20:34,100 --> 00:20:38,434
+son más de 950 mil unidades
+las que se comercializaron
+
+43
+00:20:38,534 --> 00:20:41,834
+de vehículos, más de 800 mil
+de producción nacional,
+
+44
+00:20:41,968 --> 00:20:47,000
+pero en materia de motos
+efectivamente 530 mil unidades
+
+45
+00:20:47,100 --> 00:20:48,901
+fueron producidas localmente,
+
+46
+00:20:49,000 --> 00:20:53,868
+con un incremento de la producción
+equivalente a 2200%.
+
+47
+00:20:53,968 --> 00:20:55,734
+Esto es algo muy importante.
+
+48
+00:20:55,801 --> 00:20:58,334
+Y a su vez es importante
+remarcar
+
+49
+00:20:58,434 --> 00:21:02,968
+que son cerca de 4000
+los empleados generados.
+
+50
+00:21:03,067 --> 00:21:08,133
+Pero lo importante es que
+el componente de importación
+
+51
+00:21:08,200 --> 00:21:11,834
+era equivalente al 73%
+en el año 2003,
+
+52
+00:21:11,934 --> 00:21:14,300
+y hoy es equivalente al 16%.
+
+53
+00:21:14,400 --> 00:21:17,734
+Por lo tanto, todo lo que
+significa avances cualitativos
+
+54
+00:21:17,868 --> 00:21:20,734
+de las cadenas de valor
+generan empleo,
+
+55
+00:21:20,834 --> 00:21:22,934
+sustituyen importaciones,
+generan producción,
+
+56
+00:21:23,067 --> 00:21:25,801
+y a su vez también exportaciones.
+
+57
+00:21:25,968 --> 00:21:28,067
+Esto la continuidad
+de lo que estamos por hacer
+
+58
+00:21:28,200 --> 00:21:31,834
+en el día de la fecha.
+
+59
+00:21:31,934 --> 00:21:34,567
+Pero es importante que
+ustedes sepan una cuestión,
+
+60
+00:21:34,634 --> 00:21:37,567
+digamos, ya hemos avanzado
+en economías regionales
+
+61
+00:21:37,634 --> 00:21:39,467
+con el tema de peras
+y manzanas con la provincia
+
+62
+00:21:39,601 --> 00:21:42,667
+de Entre Ríos
+y también de Neuquen.
+
+63
+00:21:42,734 --> 00:21:45,033
+También con el sector turístico.
+
+64
+00:21:45,133 --> 00:21:46,267
+También con bienes de capital.
+
+65
+00:21:46,400 --> 00:21:48,934
+También con electrodomésticos.
+
+66
+00:21:49,033 --> 00:21:52,067
+Hemos avanzado con la cadena
+carnica, agrícola, porcina.
+
+67
+00:21:52,167 --> 00:21:55,634
+También con la cadena
+forestreindustrial.
+
+68
+00:21:55,734 --> 00:21:57,834
+Seguiremos avanzando
+con minería oleaginosa.
+
+69
+00:21:57,901 --> 00:22:00,133
+Hemos avanzado con cadena
+textil, marroquinería,
+
+70
+00:22:00,234 --> 00:22:02,968
+la industria del cuero,
+toda la producción vitivinícola,
+
+71
+00:22:03,067 --> 00:22:06,767
+cervecera, hortícola, frutícola,
+picola.
+
+72
+00:22:06,868 --> 00:22:09,767
+Es decir, vamos a seguir
+avanzando con todas las cadenas
+
+73
+00:22:09,901 --> 00:22:13,267
+durante el transcurso
+del mes de Enero
+
+74
+00:22:13,367 --> 00:22:15,901
+a los efectos de suscribir
+los convenios correspondientes
+
+75
+00:22:16,033 --> 00:22:18,167
+en la primer quincena
+en el mes de Febrero,
+
+76
+00:22:18,267 --> 00:22:20,901
+convenios que tienen que ver
+con distintas metas.
+
+77
+00:22:21,000 --> 00:22:23,868
+Primero, lograr incrementar
+el volumen de exportaciones
+
+78
+00:22:23,968 --> 00:22:25,968
+dentro del PADEx, que es
+el Programa de Aumento
+
+79
+00:22:26,067 --> 00:22:27,534
+y Diversificación
+de Exportaciones,
+
+80
+00:22:27,634 --> 00:22:29,267
+para llegar a la meta
+de 4000 millones de dólares
+
+81
+00:22:29,367 --> 00:22:31,367
+en el transcurso de este año,
+
+82
+00:22:31,467 --> 00:22:36,300
+con 23 destinos principales
+y 264 partidas parciales.
+
+83
+00:22:36,434 --> 00:22:39,167
+En segundo lugar, promover
+la integración de la cadena
+
+84
+00:22:39,267 --> 00:22:42,267
+de valor para incrementar
+la sustitución de importaciones.
+
+85
+00:22:42,400 --> 00:22:45,434
+En tercer lugar, no solamente
+sostener sino incrementar
+
+86
+00:22:45,567 --> 00:22:47,634
+el empleo y a su vez
+reducir la informalidad
+
+87
+00:22:47,767 --> 00:22:50,868
+que está calculada en
+830 mil empleos
+
+88
+00:22:51,000 --> 00:22:52,901
+para los próximos dos años.
+
+89
+00:22:53,267 --> 00:22:55,634
+Y a su vez trabajar
+fuertemente lo que significa
+
+90
+00:22:55,701 --> 00:22:59,067
+abastecimiento en el mercado
+interno y precios,
+
+91
+00:22:59,200 --> 00:23:03,234
+por que dentro de los acuerdos
+lo que nosotros pretendemos
+
+92
+00:23:03,367 --> 00:23:05,901
+son estímulos desde el punto
+de vista de inversiones,
+
+93
+00:23:06,000 --> 00:23:08,400
+de las inversiones a realizar
+por cada sector.
+
+94
+00:23:08,501 --> 00:23:11,834
+A su vez, sistemas de asignación
+de créditos regulados
+
+95
+00:23:11,934 --> 00:23:14,434
+con tasas promociónales,
+
+96
+00:23:14,534 --> 00:23:17,868
+pero a su vez con compromisos
+de partes para garantizar
+
+97
+00:23:17,968 --> 00:23:21,667
+abastecimiento de calidad
+con precios internos adecuados,
+
+98
+00:23:21,767 --> 00:23:24,734
+y a su vez regular
+con la puesta en vigencia
+
+99
+00:23:24,834 --> 00:23:26,868
+del Tribunal de Defensa
+de la Competencia
+
+100
+00:23:27,000 --> 00:23:29,767
+todos los actores de la cadena,
+
+101
+00:23:29,868 --> 00:23:31,767
+que a su vez mantienen
+posición dominante,
+
+102
+00:23:31,868 --> 00:23:35,234
+y que en definitiva afectan
+la formación de la estructura
+
+103
+00:23:35,300 --> 00:23:37,801
+de precios de carácter
+oligopolico,
+
+104
+00:23:37,901 --> 00:23:41,467
+u duopolico, o monopolico.
+
+105
+00:23:41,567 --> 00:23:43,100
+De manera que esa
+es la estrategia
+
+106
+00:23:43,167 --> 00:23:45,767
+que estamos siguiendo,
+y es un avance muy importante
+
+107
+00:23:45,868 --> 00:23:49,501
+que se ha logrado
+en este tiempo.
+
+108
+00:23:49,601 --> 00:23:53,667
+En segundo lugar, quiero
+transmitir que la agenda
+
+109
+00:23:53,767 --> 00:23:56,000
+internacional de
+la República Argentina
+
+110
+00:23:56,100 --> 00:23:59,000
+ha tenido una impronta ayer
+
+111
+00:23:59,067 --> 00:24:02,033
+con las negociaciones
+encabezadas por el Ministro
+
+112
+00:24:02,133 --> 00:24:06,467
+Axel Kicillof ante las
+autoridades del Club de Paris,
+
+113
+00:24:06,567 --> 00:24:08,234
+más precisamente con su
+Secretario ejecutivo,
+
+114
+00:24:08,334 --> 00:24:10,033
+Ramón Fernández.
+
+115
+00:24:10,100 --> 00:24:15,868
+Esto ha implicado,
+como la misma declaración emanada
+
+116
+00:24:15,934 --> 00:24:18,467
+de las autoridades
+del Ministerio de Economía,
+
+117
+00:24:18,567 --> 00:24:23,701
+el inicio de un proceso
+de negociaciones
+
+118
+00:24:23,801 --> 00:24:25,868
+que efectivamente
+el Ministro Kicillof
+
+119
+00:24:25,968 --> 00:24:29,601
+lo explicará en detalle
+durante el transcurso de la tarde
+
+120
+00:24:29,701 --> 00:24:31,300
+en conferencia de prensa.
+
+121
+00:24:31,400 --> 00:24:34,234
+Él está regresando al país,
+y en consecuencia brindará
+
+122
+00:24:34,334 --> 00:24:40,267
+los detalles pormenorizados
+de esta reunión y sus resultados.
+
+123
+00:24:40,567 --> 00:24:47,467
+También quiero transmitir
+básicamente que hay
+
+124
+00:24:47,567 --> 00:24:50,567
+una discusión y un debate público
+en la República Argentina
+
+125
+00:24:50,634 --> 00:24:53,334
+respecto a la participación
+relativa de la carga
+
+126
+00:24:53,434 --> 00:24:56,067
+y la presión tributaria.
+
+127
+00:24:56,167 --> 00:24:59,100
+Me parece que yo lo
+he transmitido claramente
+
+128
+00:24:59,200 --> 00:25:01,534
+en varias oportunidades.
+
+129
+00:25:01,601 --> 00:25:05,267
+Pero quiero tener tres
+definiciones importantes.
+
+130
+00:25:05,334 --> 00:25:08,033
+Primera definición,
+la progresividad del sistema
+
+131
+00:25:08,133 --> 00:25:12,601
+tributario en la Argentina
+ha mejorado en la última década.
+
+132
+00:25:12,701 --> 00:25:16,200
+Cuando uno divide impuestos
+directos e indirectos,
+
+133
+00:25:16,300 --> 00:25:20,434
+la participación de impuestos
+indirectos bajo del 60% al 50%.
+
+134
+00:25:20,534 --> 00:25:22,267
+Y los impuestos directos,
+
+135
+00:25:22,367 --> 00:25:23,701
+lo que graban
+capacidad contributiva
+
+136
+00:25:23,801 --> 00:25:25,033
+y manifestación de riquezas,
+
+137
+00:25:25,133 --> 00:25:27,133
+se incrementaron del 40% al 50%.
+
+138
+00:25:27,234 --> 00:25:29,501
+Por lo tanto mejoró
+la progresividad
+
+139
+00:25:29,634 --> 00:25:32,033
+del sistema tributario.
+
+140
+00:25:32,100 --> 00:25:34,801
+En segundo lugar, la presión
+tributaria argentina
+
+141
+00:25:34,901 --> 00:25:38,367
+tiene 12 puntos que tiene
+que ver
+
+142
+00:25:38,467 --> 00:25:40,400
+con el Sistema de Seguridad
+Social.
+
+143
+00:25:40,501 --> 00:25:42,400
+El Sistema de Seguridad Social
+tiene que ver con aportes
+
+144
+00:25:42,501 --> 00:25:47,434
+y contribuciones, y también
+con recursos tributarios.
+
+145
+00:25:47,534 --> 00:25:50,167
+Cerca del 7% tiene que ver
+con educación,
+
+146
+00:25:50,267 --> 00:25:51,901
+ciencia y tecnología.
+
+147
+00:25:51,968 --> 00:25:54,300
+Ahí tenemos 19 puntos
+del producto interno bruto.
+
+148
+00:25:54,400 --> 00:25:57,033
+5 puntos, subsidios que tienen
+que ver con el mejoramiento
+
+149
+00:25:57,133 --> 00:26:01,667
+del ingreso disponible,
+por vía directa o indirecta.
+
+150
+00:26:01,767 --> 00:26:04,801
+Y el resto tiene que ver
+con obra pública,
+
+151
+00:26:04,901 --> 00:26:08,367
+servicios de deuda, o gastos
+de funcionamiento del Estado,
+
+152
+00:26:08,501 --> 00:26:11,300
+esto se refiere a
+la administración pública,
+
+153
+00:26:11,400 --> 00:26:13,667
+central al sector público
+nacional.
+
+154
+00:26:13,734 --> 00:26:15,601
+El resto de la presión
+tributaría tiene que ver
+
+155
+00:26:15,701 --> 00:26:18,567
+con la presión tributaría
+de los gobiernos provinciales
+
+156
+00:26:18,667 --> 00:26:20,734
+y municipales.
+
+157
+00:26:20,801 --> 00:26:22,968
+Cuando uno compara efectivamente
+los distintos países
+
+158
+00:26:23,100 --> 00:26:27,400
+de Latinoamérica, la estructura
+impositiva es diferente.
+
+159
+00:26:27,534 --> 00:26:30,934
+Primero por que la República
+Argentina tiene la cobertura
+
+160
+00:26:31,033 --> 00:26:33,367
+provisional más alta
+de América Latina,
+
+161
+00:26:33,467 --> 00:26:36,434
+cerca, entre el 95% y 98%.
+
+162
+00:26:36,567 --> 00:26:38,501
+En segundo lugar,
+el salario mínimo, vital y móvil
+
+163
+00:26:38,601 --> 00:26:40,267
+más alto de América Latina.
+
+164
+00:26:40,367 --> 00:26:42,033
+En tercer lugar, el haber
+jubilatorio mínimo
+
+165
+00:26:42,133 --> 00:26:43,701
+más alto de América Latina.
+
+166
+00:26:43,767 --> 00:26:47,133
+Por lo tanto,
+lo que uno observa claramente
+
+167
+00:26:47,234 --> 00:26:49,534
+es que la presión tributaria
+se incrementa cuando
+
+168
+00:26:49,634 --> 00:26:51,868
+se incrementa el número
+de empleos,
+
+169
+00:26:51,968 --> 00:26:53,267
+6 millones de puestos
+de trabajo,
+
+170
+00:26:53,434 --> 00:26:56,467
+y cuando se incrementa también
+
+171
+00:26:56,601 --> 00:27:00,067
+la característica de obtención
+de financiamiento.
+
+172
+00:27:00,167 --> 00:27:04,467
+Es decir, cuando existen
+convenios colectivos de trabajo.
+
+173
+00:27:04,534 --> 00:27:07,033
+Es decir, paritarias
+que permiten la negociación
+
+174
+00:27:07,133 --> 00:27:09,601
+entre empresarios y trabajadores.
+
+175
+00:27:09,701 --> 00:27:12,868
+Finalmente lo que existe allí
+es transparencia en el proceso
+
+176
+00:27:12,934 --> 00:27:16,067
+de negociaciones e incremento
+de aportes y contribuciones.
+
+177
+00:27:16,167 --> 00:27:19,100
+Cuando hay más trabajo,
+hay más trabajadores.
+
+178
+00:27:19,200 --> 00:27:21,734
+Cuando hay más trabajadores,
+hay más aportes y contribuciones.
+
+179
+00:27:21,868 --> 00:27:23,534
+Cuando hay más aportes
+y contribuciones,
+
+180
+00:27:23,634 --> 00:27:27,200
+hay más financiamiento
+al sistema de carácter general
+
+181
+00:27:27,300 --> 00:27:30,167
+para el financiamiento
+del gasto público.
+
+182
+00:27:30,300 --> 00:27:34,100
+En consecuencia, siempre
+hay una discusión en la Argentina
+
+183
+00:27:34,200 --> 00:27:36,367
+entre ortodoxia y heterodoxia.
+
+184
+00:27:36,434 --> 00:27:39,501
+Y siempre hay una discusión
+entre posiciones neoliberales
+
+185
+00:27:39,601 --> 00:27:43,167
+y el resto de las posiciones
+más heterogéneas.
+
+186
+00:27:43,267 --> 00:27:47,200
+Pero lo importante es que
+los que se quejan siempre
+
+187
+00:27:47,300 --> 00:27:48,868
+del gasto público
+y de la presión tributaria,
+
+188
+00:27:48,968 --> 00:27:52,167
+son aquellos quienes están
+en contra de que se distribuyan
+
+189
+00:27:52,267 --> 00:27:56,234
+netbooks a los adolescentes
+para que mejore sustancialmente
+
+190
+00:27:56,334 --> 00:28:00,334
+la tecnología, el acceso
+a la calidad educativa.
+
+191
+00:28:00,400 --> 00:28:01,501
+Son los mismos que están
+en contra
+
+192
+00:28:01,567 --> 00:28:03,000
+de la Asignación Universal
+por Hijo,
+
+193
+00:28:03,300 --> 00:28:05,767
+por que están en contra
+que niños, adolescentes
+
+194
+00:28:05,868 --> 00:28:09,534
+y jóvenes tengan acceso
+a la educación y a la salud.
+
+195
+00:28:09,634 --> 00:28:12,200
+Están en contra
+del haber jubilatorio mínimo.
+
+196
+00:28:12,334 --> 00:28:15,334
+Están en contra de tener
+un sistema previsional
+
+197
+00:28:15,434 --> 00:28:18,534
+con mayor cobertura.
+Ese es el debate en la Argentina.
+
+198
+00:28:18,667 --> 00:28:21,300
+Los que están en contra
+de la presión tributaria
+
+199
+00:28:21,467 --> 00:28:24,634
+y del gasto público,
+en definitiva están en contra
+
+200
+00:28:24,734 --> 00:28:26,767
+de la inclusión social
+y de la equidad
+
+201
+00:28:26,834 --> 00:28:28,801
+en la distribución de ingresos.
+
+202
+00:28:28,901 --> 00:28:31,667
+En la conferencia de Davos,
+en Davos, Suiza,
+
+203
+00:28:31,801 --> 00:28:34,334
+hay un informe en donde
+se reconoce claramente
+
+204
+00:28:34,467 --> 00:28:36,868
+la corrección de los factores
+de desigualdad
+
+205
+00:28:37,000 --> 00:28:39,167
+en países de América Latina.
+
+206
+00:28:39,300 --> 00:28:41,667
+Citan a la República Argentina
+como uno de ellos.
+
+207
+00:28:41,834 --> 00:28:47,467
+Por lo tanto, ninguna política
+promovida por el Estado es neutra.
+
+208
+00:28:47,567 --> 00:28:50,934
+O se favorece a la equidad
+distributiva,
+
+209
+00:28:51,067 --> 00:28:54,200
+o se propicia la concentración
+de la riqueza.
+
+210
+00:28:54,267 --> 00:28:57,934
+Y eso es lo que finalmente
+se ha pretendido
+
+211
+00:28:58,033 --> 00:29:02,534
+en todo este tiempo, es decir,
+favorecer la equidad distributiva.
+
+212
+00:29:02,667 --> 00:29:05,467
+Hay muchos temas en la agenda,
+
+213
+00:29:05,567 --> 00:29:07,801
+pero prefiero que ustedes
+me pregunten.
+
+214
+00:29:08,634 --> 00:29:10,067
+Ministro, Pedro Noel Romero,
+
+215
+00:29:10,167 --> 00:29:11,934
+de ANDigital,
+Agencia de Noticias.
+
+216
+00:29:12,033 --> 00:29:14,267
+Preguntarle por Fútbol
+Para Todos.
+
+217
+00:29:14,400 --> 00:29:16,534
+Si nos puede dar alguna
+precisión sobre
+
+218
+00:29:16,634 --> 00:29:21,501
+alguna posibilidad de darle
+el gerenciamiento
+
+219
+00:29:21,601 --> 00:29:23,300
+de Fútbol Para Todos
+a Marcelo Tinelli
+
+220
+00:29:23,400 --> 00:29:25,334
+y Cristóbal López.
+
+221
+00:29:25,434 --> 00:29:27,934
+Y pedirle una opinión
+personal si han evaluado
+
+222
+00:29:28,067 --> 00:29:31,801
+los operativos de seguridad
+del fútbol de verano,
+
+223
+00:29:31,901 --> 00:29:34,067
+que aparentemente han sido
+exitosos.
+
+224
+00:29:34,167 --> 00:29:36,767
+Y si con ellos podía ser
+posible que vuelva
+
+225
+00:29:36,901 --> 00:29:39,100
+el público visitante a
+las canchas
+
+226
+00:29:39,200 --> 00:29:41,334
+la primera fecha del torneo
+
+227
+00:29:41,434 --> 00:29:44,000
+para que no sigan ganado
+un minúsculo grupo
+
+228
+00:29:44,100 --> 00:29:46,534
+de violentos en el fútbol
+argentino.
+
+229
+00:29:46,667 --> 00:29:49,234
+Si, usted sabe cuando venía
+para la sala de conferencias
+
+230
+00:29:49,367 --> 00:29:52,000
+intuía que esa podría
+ser una pregunta.
+
+231
+00:29:53,801 --> 00:29:57,234
+No, pero lo que les quería
+transmitir es lo siguiente:
+
+232
+00:29:57,367 --> 00:30:00,234
+Respecto a la reunión
+con Marcelo Tinelli,
+
+233
+00:30:00,334 --> 00:30:03,434
+conocido conductor y empresario,
+
+234
+00:30:03,601 --> 00:30:11,033
+lo que tuvo como principal
+tema de análisis tiene que ver
+
+235
+00:30:11,200 --> 00:30:15,400
+con las características
+de lo que pretende
+
+236
+00:30:15,501 --> 00:30:17,868
+la Asociación del Fútbol
+Argentino respecto
+
+237
+00:30:17,968 --> 00:30:22,167
+a lo que es AFA TV,
+es un canal de televisión,
+
+238
+00:30:22,300 --> 00:30:24,834
+a partir del cual,
+como ustedes saben,
+
+239
+00:30:24,968 --> 00:30:29,467
+Fútbol Para Todos tiene
+un sistema de derechos
+
+240
+00:30:29,567 --> 00:30:36,501
+en donde la Jefatura de Ministros
+tiene la titularidad del mismo.
+
+241
+00:30:36,868 --> 00:30:39,133
+Pero en ese contexto,
+de la comercialización
+
+242
+00:30:39,200 --> 00:30:41,934
+de esos derechos junto a la
+Asociación de Fútbol Argentino,
+
+243
+00:30:42,033 --> 00:30:46,033
+se hizo un análisis riguroso
+desde el punto de vista
+
+244
+00:30:46,167 --> 00:30:51,868
+de la organización del sistema,
+los mecanismos de transmisión,
+
+245
+00:30:51,968 --> 00:30:54,234
+las características
+tecnológicas de la transmisión,
+
+246
+00:30:54,334 --> 00:30:58,234
+el estado de la tecnología
+para la transmisión de partidos.
+
+247
+00:30:58,334 --> 00:31:01,000
+O sea, que tiene que ver
+con esa impronta.
+
+248
+00:31:01,100 --> 00:31:05,067
+Es decir, el rol que tiene
+como vicepresidente del club
+
+249
+00:31:05,167 --> 00:31:06,567
+San Lorenzo de Almagro,
+
+250
+00:31:06,634 --> 00:31:09,334
+y a su vez lo que ha
+conversado oportunamente
+
+251
+00:31:09,400 --> 00:31:10,868
+con el Presidente de
+la Asociación del Fútbol
+
+252
+00:31:10,934 --> 00:31:12,901
+Argentino, Humberto Grondona.
+
+253
+00:31:13,000 --> 00:31:17,133
+En algún medio de comunicación
+surgió un titulo
+
+254
+00:31:17,200 --> 00:31:20,834
+que el Gobierno le ofreció
+el gerenciamiento de AFA TV,
+
+255
+00:31:20,901 --> 00:31:23,000
+y no tiene nada que ver
+el Gobierno
+
+256
+00:31:23,167 --> 00:31:24,701
+con la Asociación del Fútbol
+Argentino
+
+257
+00:31:24,767 --> 00:31:26,834
+y la titularidad
+de esa transmisión.
+
+258
+00:31:26,901 --> 00:31:31,000
+Quiero aclarar cuales
+fueron los tópicos analizados
+
+259
+00:31:31,067 --> 00:31:34,801
+y que es lo que efectivamente
+tiene que ver con esa reunión.
+
+260
+00:31:34,901 --> 00:31:37,000
+Y respecto al tema
+de seguridad deportiva,
+
+261
+00:31:37,067 --> 00:31:38,901
+por supuesto forma parte
+del análisis final
+
+262
+00:31:39,033 --> 00:31:42,567
+que nosotros estamos, antes
+del inicio del próximo partido.
+
+263
+00:31:42,667 --> 00:31:48,100
+Hay dos posiciones que tienen
+que ver con el mantenimiento
+
+264
+00:31:48,167 --> 00:31:51,734
+de una posición para que
+no concurra el público visitante
+
+265
+00:31:51,834 --> 00:31:54,701
+y los que efectivamente
+adhieren a la posibilidad
+
+266
+00:31:54,801 --> 00:31:58,000
+de que el público visitante
+pueda concurrir.
+
+267
+00:31:58,067 --> 00:32:01,434
+Es una cuestión que está
+en proceso de resolución final
+
+268
+00:32:01,501 --> 00:32:05,200
+antes del inicio del torneo.
+
+269
+00:32:05,267 --> 00:32:08,100
+Obviamente las posiciones
+son a veces encontradas,
+
+270
+00:32:08,167 --> 00:32:12,300
+pero creo que con muy
+buena garantía de ejecución
+
+271
+00:32:12,367 --> 00:32:14,601
+de los parámetros
+de seguridad deportiva,
+
+272
+00:32:14,701 --> 00:32:16,167
+que tienen que ver desde
+la utilización
+
+273
+00:32:16,267 --> 00:32:18,267
+del sistema Alpha Plus,
+
+274
+00:32:18,367 --> 00:32:21,434
+la identificación correspondiente
+de cada uno de los espectadores,
+
+275
+00:32:21,534 --> 00:32:23,834
+los mecanismos de
+comercialización transparente
+
+276
+00:32:23,934 --> 00:32:26,200
+en el sistema de comercialización
+de entradas,
+
+277
+00:32:26,434 --> 00:32:29,033
+más los mecanismos de cobertura
+preventiva,
+
+278
+00:32:29,100 --> 00:32:34,234
+de correcta organización
+en el sistema.
+
+279
+00:32:34,367 --> 00:32:37,467
+Creo que uno puede inducir
+a un proceso donde
+
+280
+00:32:37,534 --> 00:32:41,434
+efectivamente podamos desterrar
+la violencia en el fútbol.
+
+281
+00:32:41,501 --> 00:32:44,300
+Que eso será una condición
+adecuada a los efectos
+
+282
+00:32:44,400 --> 00:32:46,667
+de permitir la libre
+concurrencia a la cancha
+
+283
+00:32:46,734 --> 00:32:48,067
+los espectadores
+con sus familias,
+
+284
+00:32:48,167 --> 00:32:51,400
+que ese un valor
+distintivo para todos.
+
+285
+00:32:51,467 --> 00:32:53,701
+Yo creo que muchos
+hinchas de fútbol
+
+286
+00:32:53,767 --> 00:32:55,701
+que tienen pasión
+por el fútbol,
+
+287
+00:32:55,801 --> 00:32:57,501
+que disfrutan del fútbol,
+
+288
+00:32:57,567 --> 00:32:58,934
+lo que quieren es disfrutarlo
+en familia.
+
+289
+00:32:59,033 --> 00:33:00,667
+Y eso es lo que deberíamos
+tender todos.
+
+290
+00:33:03,501 --> 00:33:08,234
+No, no, no. Por que estuvo
+reunido con nosotros
+
+291
+00:33:08,400 --> 00:33:11,100
+en la Jefatura de Gabinete
+y a su vez,
+
+292
+00:33:11,200 --> 00:33:14,767
+con distintos funcionarios.
+La Presidenta siempre cuando
+
+293
+00:33:14,901 --> 00:33:18,033
+está en la Casa Rosada ingresa
+a la jefatura de gabinete
+
+294
+00:33:18,133 --> 00:33:19,601
+permanentemente
+por distintas reuniones,
+
+295
+00:33:19,667 --> 00:33:21,534
+pero nada más que eso.
+
+296
+00:33:21,868 --> 00:33:23,300
+Buen día Ministro
+Eugenio Paillet,
+
+297
+00:33:23,467 --> 00:33:25,667
+LU2 Radio Bahía Blanca.
+Una pequeña cosita
+
+298
+00:33:25,734 --> 00:33:28,000
+para complementar
+la pregunta del colega
+
+299
+00:33:28,067 --> 00:33:29,934
+que tiene que ver si
+el Gobierno está analizando
+
+300
+00:33:30,000 --> 00:33:33,267
+en el marco de negociaciones
+la propuesta para cobrar
+
+301
+00:33:33,367 --> 00:33:37,601
+por parte de la AFA un canon
+a las empresas de cables
+
+302
+00:33:37,701 --> 00:33:40,634
+que obviamente, las empresas
+ya han sugerido
+
+303
+00:33:40,734 --> 00:33:44,100
+que lo extenderán al usuario
+con lo cual,
+
+304
+00:33:44,200 --> 00:33:47,067
+el fútbol ya no seria,
+tan gratis ni para todos.
+
+305
+00:33:47,200 --> 00:33:50,234
+Mi pregunta concreta
+es respecto a las declaraciones
+
+306
+00:33:50,334 --> 00:33:51,934
+que ha hecho el titular
+de la Unión Industrial
+
+307
+00:33:52,033 --> 00:33:54,133
+Argentina, Héctor Méndez
+que ha criticado,
+
+308
+00:33:54,200 --> 00:33:56,634
+en general, la economía.
+
+309
+00:33:56,767 --> 00:33:58,901
+Ha dicho que es perjudicial
+el silencio
+
+310
+00:33:58,968 --> 00:34:00,634
+de la Presidenta de la Nación
+
+311
+00:34:00,701 --> 00:34:04,400
+y pidió saber sobre su estado
+de salud.
+
+312
+00:34:04,467 --> 00:34:06,767
+Y además negó
+lo que usted dijo ayer,
+
+313
+00:34:06,834 --> 00:34:10,734
+respecto de que haya un ataque
+especulativo al dólar.
+
+314
+00:34:10,801 --> 00:34:11,968
+Bueno, respecto a la propuesta
+
+315
+00:34:12,067 --> 00:34:13,400
+de la Asociación del Fútbol
+Argentino
+
+316
+00:34:13,501 --> 00:34:16,000
+fue expresada por su titular
+Julio Humberto Grondona.
+
+317
+00:34:16,100 --> 00:34:19,767
+En segundo lugar, respecto al
+estado de salud de la Presidenta,
+
+318
+00:34:19,868 --> 00:34:22,000
+le puedo asegurar
+que la Presidenta,
+
+319
+00:34:22,100 --> 00:34:26,167
+todos los días desempeña
+sus respectivas funciones,
+
+320
+00:34:26,367 --> 00:34:28,467
+en el lugar en donde
+se encuentra.
+
+321
+00:34:28,567 --> 00:34:31,834
+Y efectivamente lo hace,
+con el mismo espíritu,
+
+322
+00:34:31,901 --> 00:34:33,968
+con la misma creatividad,
+con el mismo entusiasmo,
+
+323
+00:34:34,033 --> 00:34:36,000
+con la misma pasión
+de siempre.
+
+324
+00:34:36,067 --> 00:34:38,334
+Por lo tanto,
+no hay que efectuar
+
+325
+00:34:38,434 --> 00:34:41,334
+ningún tipo de especulaciones
+en ese sentido.
+
+326
+00:34:41,400 --> 00:34:43,767
+En segundo lugar,
+lo que quiero trasmitir
+
+327
+00:34:43,868 --> 00:34:48,133
+es respecto a lo manifestado
+por el titular
+
+328
+00:34:48,200 --> 00:34:51,167
+de la Unión Industrial
+Argentina es lo siguiente:
+
+329
+00:34:51,267 --> 00:34:54,234
+En realidad los industriales
+en la República Argentina
+
+330
+00:34:54,334 --> 00:34:57,968
+deberían defender
+enfáticamente los resultados
+
+331
+00:34:58,033 --> 00:35:02,367
+de la conducción política y
+económica de esta última década.
+
+332
+00:35:02,434 --> 00:35:05,834
+No hay ningún indicador
+
+333
+00:35:05,934 --> 00:35:10,133
+que pueda soslayar
+efectivamente el crecimiento.
+
+334
+00:35:10,200 --> 00:35:13,868
+Cuando uno toma la década del 90,
+el crecimiento de la industria
+
+335
+00:35:13,968 --> 00:35:17,000
+fue entre 1,6 y 1,8%
+anual acumulativo.
+
+336
+00:35:17,100 --> 00:35:22,300
+Mientras que en la década
+del 2003 al 2013 ha tenido
+
+337
+00:35:22,400 --> 00:35:24,267
+un crecimiento del 7,5%.
+
+338
+00:35:24,367 --> 00:35:26,868
+Cuando uno toma efectivamente
+el número de empleos
+
+339
+00:35:26,968 --> 00:35:29,868
+cerca de 868.000 empleos
+en la década del 90
+
+340
+00:35:30,000 --> 00:35:34,968
+a casi 1.300.000 empleos
+en la actualidad.
+
+341
+00:35:35,033 --> 00:35:38,300
+Por lo tanto ha habido un
+incremento del empleo industrial,
+
+342
+00:35:38,400 --> 00:35:41,267
+la participación relativa
+de la manufactura
+
+343
+00:35:41,334 --> 00:35:44,634
+de origen industrial,
+y a su vez tiene una meta
+
+344
+00:35:44,767 --> 00:35:47,767
+de crecimiento del 32%
+de aquí al año 2015,
+
+345
+00:35:47,868 --> 00:35:51,767
+y una participación del 34%
+en la composición
+
+346
+00:35:51,834 --> 00:35:53,868
+de las exportaciones
+argentinas actuales.
+
+347
+00:35:53,968 --> 00:35:57,634
+Entonces, si uno toma
+estos 38 complejos productivos
+
+348
+00:35:57,701 --> 00:35:59,400
+denominados estratégicos
+y toda la cadena
+
+349
+00:35:59,501 --> 00:36:02,067
+a valor industrial,
+lo que hemos observado
+
+350
+00:36:02,167 --> 00:36:03,434
+es el crecimiento
+de la industria.
+
+351
+00:36:03,501 --> 00:36:05,868
+En definitiva, los industriales
+tienen que defender
+
+352
+00:36:05,934 --> 00:36:08,434
+la gestión de Gobierno,
+y la verdad que este gobierno
+
+353
+00:36:08,534 --> 00:36:10,934
+ha tenido administración
+del comercio
+
+354
+00:36:11,033 --> 00:36:13,801
+precisamente para aplicar
+medidas antidumping,
+
+355
+00:36:13,901 --> 00:36:16,567
+para proteger
+el mercado interno,
+
+356
+00:36:16,667 --> 00:36:18,801
+para preservar el
+funcionamiento de la industria,
+
+357
+00:36:18,868 --> 00:36:20,667
+para promover
+el empleo industrial.
+
+358
+00:36:20,767 --> 00:36:23,868
+Y la verdad,
+es que muchos industriales
+
+359
+00:36:24,000 --> 00:36:26,634
+y representantes de la industria
+en definitiva,
+
+360
+00:36:26,734 --> 00:36:30,601
+en vez de defender este discurso
+que los defiende a ellos.
+
+361
+00:36:30,701 --> 00:36:32,701
+Por que en definitiva
+muchos se quejan
+
+362
+00:36:32,801 --> 00:36:36,567
+pero la industria automotriz
+en el año 2003 tenia cerca
+
+363
+00:36:36,667 --> 00:36:39,834
+de 100.000 unidades
+de la industria de automotor,
+
+364
+00:36:39,934 --> 00:36:42,200
+y hoy produce
+mas de 800.000,
+
+365
+00:36:42,334 --> 00:36:44,734
+y genera más de 150.000 empleos
+directos e indirectos.
+
+366
+00:36:44,834 --> 00:36:48,934
+Entonces, nosotros les decimos
+a los industriales
+
+367
+00:36:49,000 --> 00:36:52,133
+que hay que tener
+convicción política
+
+368
+00:36:52,234 --> 00:36:54,367
+y coraje para defender
+la administración
+
+369
+00:36:54,501 --> 00:36:57,767
+del comercio exterior
+o el comercio en la Argentina.
+
+370
+00:36:57,868 --> 00:37:00,868
+¿Y como se defiende el comercio?
+Con licencias temporarias.
+
+371
+00:37:01,000 --> 00:37:03,133
+Se defiende
+con medidas antidumping.
+
+372
+00:37:03,467 --> 00:37:06,400
+Se defiende
+con iniciativas tendientes
+
+373
+00:37:06,501 --> 00:37:08,234
+a que no se destruya
+el mercado interno
+
+374
+00:37:08,334 --> 00:37:12,400
+y se promuevan políticas
+de exportación.
+
+375
+00:37:12,501 --> 00:37:15,133
+¿Usted cree que
+en la Argentina podría
+
+376
+00:37:15,234 --> 00:37:20,234
+hoy, un trabajador,
+consumir más sino accede
+
+377
+00:37:20,300 --> 00:37:23,000
+al empleo y a mejores salarios,
+mediante paritarias?
+
+378
+00:37:23,167 --> 00:37:25,033
+¿Usted cree que hoy
+un trabajador podría
+
+379
+00:37:25,100 --> 00:37:27,634
+ir de vacaciones sino
+tendría efectivamente
+
+380
+00:37:27,734 --> 00:37:29,834
+un ingreso derivado
+de un trabajo digno
+
+381
+00:37:29,934 --> 00:37:31,501
+a partir de negociaciones
+saláriales?
+
+382
+00:37:31,601 --> 00:37:33,901
+Entonces, me parece
+que los industriales
+
+383
+00:37:34,000 --> 00:37:35,934
+en la República Argentina
+en vez de preocuparse
+
+384
+00:37:36,033 --> 00:37:39,701
+por el dólar como
+transacción ilegal,
+
+385
+00:37:39,801 --> 00:37:41,767
+lo que deberían preocuparse
+es efectivamente,
+
+386
+00:37:41,868 --> 00:37:43,634
+en producir más,
+en invertir más,
+
+387
+00:37:43,734 --> 00:37:46,734
+en aportar mas tecnología,
+y en definitiva acompañar
+
+388
+00:37:46,801 --> 00:37:48,634
+un proceso de transformación
+de carácter estructural
+
+389
+00:37:48,734 --> 00:37:50,467
+como el que ha tenido
+la República Argentina.
+
+390
+00:37:50,567 --> 00:37:54,901
+Nunca antes, salvo en la época
+de Juan Domingo Perón,
+
+391
+00:37:54,968 --> 00:37:57,067
+y los gobiernos
+de tinte Peronista
+
+392
+00:37:57,167 --> 00:37:59,868
+se defendió la industria Nacional
+como se defendió ahora.
+
+393
+00:37:59,968 --> 00:38:02,133
+Y se defendió a los trabajadores
+como se defendió ahora.
+
+394
+00:38:02,234 --> 00:38:05,701
+Entonces, es muy bueno
+que este debate público se haga.
+
+395
+00:38:05,801 --> 00:38:07,501
+Y este debate público
+es importante tenerlo
+
+396
+00:38:07,601 --> 00:38:09,501
+desde el punto de vista
+de premisas ideológicas
+
+397
+00:38:09,601 --> 00:38:12,534
+y políticas,
+por que muchos hablan,
+
+398
+00:38:12,634 --> 00:38:15,067
+pero pocos han tenido
+el coraje de hacerlo.
+
+399
+00:38:15,167 --> 00:38:17,901
+Entonces a mí siempre
+me parece importante
+
+400
+00:38:18,000 --> 00:38:20,634
+que las ideas políticas
+tienen que tener
+
+401
+00:38:20,734 --> 00:38:23,801
+entidad y volumen de debate.
+Por que ideas tenemos todos.
+
+402
+00:38:23,901 --> 00:38:26,501
+El tema central
+es transformar ideas en acción.
+
+403
+00:38:26,601 --> 00:38:28,701
+Y para eso hay que tener
+convicción y coraje,
+
+404
+00:38:28,767 --> 00:38:30,934
+y defender
+lo que se dice defender.
+
+405
+00:38:31,000 --> 00:38:33,501
+Por eso nosotros
+defendemos la industria Nacional.
+
+406
+00:38:33,601 --> 00:38:35,534
+Ahora, los industriales
+y los dirigentes
+
+407
+00:38:35,667 --> 00:38:37,868
+que representan a la industria
+tienen que defender también,
+
+408
+00:38:37,968 --> 00:38:38,968
+no solamente a la
+industria Nacional,
+
+409
+00:38:39,167 --> 00:38:41,167
+sino al país,
+porque hay que defenderlo
+
+410
+00:38:41,234 --> 00:38:44,100
+respecto a los embates
+de aquellos especuladores
+
+411
+00:38:44,167 --> 00:38:48,934
+de turno que creen que
+la economía Argentina
+
+412
+00:38:49,033 --> 00:38:51,067
+se tiene que circunscribir
+a la paridad
+
+413
+00:38:51,167 --> 00:38:54,634
+de un tipo de cambio
+de carácter ilegal.
+
+414
+00:38:55,334 --> 00:38:58,200
+¿Qué tal, Ministro? Buenos días
+Rodrigo Frasinelli de CN23.
+
+415
+00:38:58,267 --> 00:39:01,033
+Primero consultarle
+con respecto al tema fútbol
+
+416
+00:39:01,133 --> 00:39:03,067
+y sobre todo a
+la trasmisión del mundial.
+
+417
+00:39:03,133 --> 00:39:06,868
+¿Cuál es la situación actual
+en la Ciudad de Río Cuarto
+
+418
+00:39:06,968 --> 00:39:08,601
+con respecto
+a la instalación de la antena
+
+419
+00:39:08,701 --> 00:39:13,000
+de Televisión Digital
+que aparentemente no llegaría
+
+420
+00:39:13,100 --> 00:39:16,300
+hacia ese sector de la provincia
+si hacia el Sudoeste
+
+421
+00:39:16,367 --> 00:39:20,934
+pero no hacia ese sector?
+Con respecto a la trasmisión HD.
+
+422
+00:39:21,033 --> 00:39:25,133
+Y segundo consultarle
+con respecto a la reunión si,
+
+423
+00:39:25,234 --> 00:39:27,367
+o a la cumbre que
+se realizó el día de ayer
+
+424
+00:39:27,434 --> 00:39:29,701
+y de la cual participó
+Barrionuevo y Moyano,
+
+425
+00:39:29,767 --> 00:39:32,901
+con muchas críticas
+hacia el gobierno Nacional.
+
+426
+00:39:32,968 --> 00:39:35,167
+¿Cuál es su opinión
+con respecto a esas críticas?
+
+427
+00:39:35,234 --> 00:39:38,167
+Y segundo por qué cree
+que tres,
+
+428
+00:39:38,234 --> 00:39:42,100
+quizás candidatos a Presidentes
+en el 2015 no participaron
+
+429
+00:39:42,200 --> 00:39:44,367
+a pesar de ser invitados.
+
+430
+00:39:44,501 --> 00:39:47,934
+Bueno, respecto al tema
+de antena de Televisión
+
+431
+00:39:48,033 --> 00:39:51,901
+Digital Abierta
+nosotros vamos a establecer
+
+432
+00:39:51,968 --> 00:39:53,701
+un contacto con
+la Provincia de Córdoba.
+
+433
+00:39:53,834 --> 00:39:55,467
+Entendemos que no debe
+existir ningún tipo
+
+434
+00:39:55,534 --> 00:39:57,701
+de restricción respecto
+a la posibilidad
+
+435
+00:39:57,767 --> 00:40:01,734
+de que cualquier argentino
+pueda disfrutar efectivamente
+
+436
+00:40:01,834 --> 00:40:04,901
+de la trasmisión
+de una tecnología
+
+437
+00:40:05,000 --> 00:40:07,334
+de acceso libre y directo.
+
+438
+00:40:07,434 --> 00:40:09,701
+En segundo lugar,
+respecto a la cumbre
+
+439
+00:40:09,767 --> 00:40:11,934
+la verdad es que,
+no sé si ha sido cumbre,
+
+440
+00:40:12,067 --> 00:40:13,701
+minicumbre, cumbrecita.
+
+441
+00:40:13,801 --> 00:40:16,334
+La verdad es que no trato
+de adjetivar,
+
+442
+00:40:16,400 --> 00:40:20,367
+tampoco de restar o reconocer
+más o menos importancia,
+
+443
+00:40:20,467 --> 00:40:24,801
+pero la verdad
+espero que hayan disfrutado,
+
+444
+00:40:24,901 --> 00:40:26,200
+¿fue un almuerzo o una cena?
+
+445
+00:40:26,300 --> 00:40:28,534
+Espero que lo hayan
+disfrutado muy bien
+
+446
+00:40:28,634 --> 00:40:29,801
+por que eso es muy bueno.
+
+447
+00:40:29,868 --> 00:40:33,000
+Y respecto a las críticas
+como uno siempre dice
+
+448
+00:40:33,067 --> 00:40:35,501
+en términos filosóficos,
+hay criticas que nos honran.
+
+449
+00:40:35,601 --> 00:40:39,234
+Pero, respecto a otro tema
+que me parece
+
+450
+00:40:39,334 --> 00:40:43,667
+importante también,
+es analizar unas cuestiones
+
+451
+00:40:43,767 --> 00:40:46,067
+que ustedes hoy
+no pudieron preguntar
+
+452
+00:40:46,167 --> 00:40:48,501
+pero lo pueden hacer mañana.
+
+453
+00:40:48,601 --> 00:40:50,767
+Pero es simplemente
+para dar un dato estadístico
+
+454
+00:40:50,868 --> 00:40:52,667
+y debatirlo mañana,
+en todo caso.
+
+455
+00:40:52,767 --> 00:40:56,300
+Ustedes saben que
+las transacciones
+
+456
+00:40:56,400 --> 00:41:01,300
+vía internet han tenido
+un incremento extraordinario.
+
+457
+00:41:01,400 --> 00:41:06,467
+Uno de los datos muy
+relevantes es que
+
+458
+00:41:06,567 --> 00:41:10,033
+las transacciones vía internet
+o sea las compras vía internet
+
+459
+00:41:10,133 --> 00:41:12,567
+pasaron de cerca de 1000
+en el año 2005,
+
+460
+00:41:12,667 --> 00:41:16,267
+a cerca de 30.000
+en el año 2013.
+
+461
+00:41:16,400 --> 00:41:20,133
+Transacciones que tuvieron
+incremento de 2 millones
+
+462
+00:41:20,234 --> 00:41:24,133
+a 6.600.000 en el año 2013.
+Es un dato que será
+
+463
+00:41:24,234 --> 00:41:27,501
+seguramente susceptible
+de análisis para mañana.
+
+464
+00:41:27,601 --> 00:41:29,501
+Así que, muchas gracias
+y nos vemos mañana.
+
+465
+00:42:07,000 --> 00:42:11,501
+Buen día. Muy buenos días
+a todos y a todas.
+
+466
+00:42:11,567 --> 00:42:13,367
+Bueno, por desperfectos técnicos
+hemos retrazado un poquito
+
+467
+00:42:13,467 --> 00:42:16,234
+la presente conferencia pero
+
+468
+00:42:16,334 --> 00:42:21,667
+brevemente quería exponer
+sobre algunos puntos
+
+469
+00:42:21,767 --> 00:42:24,501
+que tienen que ver con
+la agenda del día de la fecha.
+
+470
+00:42:24,601 --> 00:42:27,667
+En primer lugar quiero
+transmitirles que nosotros
+
+471
+00:42:27,834 --> 00:42:33,000
+en el día de hoy vamos
+a tener un reunión con...
+

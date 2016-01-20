@@ -1,0 +1,156 @@
+1
+00:00:00,000 --> 00:00:02,540
+Hola, yo soy Yamila.
+-Yo soy Alejandro,
+
+2
+00:00:02,740 --> 00:00:06,095
+y juntos desarrollamos precios OK,
+la aplicación para celulares
+
+3
+00:00:06,295 --> 00:00:09,025
+que escaneando los códigos de barra
+te permite saber si un producto
+
+4
+00:00:09,225 --> 00:00:10,770
+pertenece a los precios cuidados.
+
+5
+00:00:10,970 --> 00:00:14,242
+Ahora vamos a pasar a mostrarles
+un tutorial de cómo bajarla al celular
+
+6
+00:00:14,442 --> 00:00:16,040
+y uso de la aplicación.
+
+7
+00:00:16,240 --> 00:00:21,038
+Hacemos la descarga para Android,
+para eso entramos al Play Store de Google
+
+8
+00:00:21,238 --> 00:00:25,524
+y buscamos precios OK,
+que la identificamos fácilmente
+
+9
+00:00:25,724 --> 00:00:29,023
+por el código de barra al ser este,
+y haciendo click en el botón "instalar",
+
+10
+00:00:29,223 --> 00:00:30,757
+automáticamente
+se va a empezar a descargar.
+
+11
+00:00:30,957 --> 00:00:33,244
+Ahora les vamos a explicar con Yamila
+cómo se utiliza la aplicación
+
+12
+00:00:33,444 --> 00:00:34,921
+en supermercados para escanear
+los precios.
+
+13
+00:00:35,121 --> 00:00:38,237
+Vamos al supermercado y queremos
+comprar un litro de leche.
+
+14
+00:00:38,437 --> 00:00:43,805
+Entonces buscamos en el listado "leche",
+y vemos que la que tiene precio cuidado
+
+15
+00:00:44,005 --> 00:00:45,612
+es de la Serenísima.
+
+16
+00:00:45,812 --> 00:00:49,709
+Pero tenemos un problema,
+hay tres que son prácticamente iguales.
+
+17
+00:00:49,909 --> 00:00:52,897
+Bueno, esto es lo bueno de la aplicación,
+vamos a escanear el producto
+
+18
+00:00:53,097 --> 00:00:57,069
+y podemos ver cuál de los tres
+es el que estamos buscando.
+
+19
+00:00:57,269 --> 00:01:03,441
+Escaneamos el primero y vemos que,
+no está incluido en el acuerdo.
+
+20
+00:01:03,641 --> 00:01:07,522
+Vamos con otro, y bueno,
+acá vemos que es el producto
+
+21
+00:01:07,722 --> 00:01:09,616
+con el precio que estábamos buscando.
+
+22
+00:01:09,816 --> 00:01:12,895
+Ahora, qué pasa si no hay stock
+o el precio no concuerda
+
+23
+00:01:13,095 --> 00:01:14,736
+con el que pone el supermercado.
+
+24
+00:01:14,936 --> 00:01:17,805
+Bueno, en esos casos el sistema
+nos permite hacer la denuncia.
+
+25
+00:01:18,005 --> 00:01:22,577
+Vamos al icono del "changuito",
+y completamos los pocos pasos.
+
+26
+00:01:22,777 --> 00:01:26,290
+El comercio, la sucursal, el producto,
+seleccionamos, y completamos
+
+27
+00:01:26,490 --> 00:01:28,631
+los comentarios acerca del problema
+que estamos denunciando.
+
+28
+00:01:28,831 --> 00:01:30,367
+Finalmente, lo enviamos.
+
+29
+00:01:30,567 --> 00:01:32,959
+Ojalá les haya servido,
+bájense la aplicación y esperamos
+
+30
+00:01:33,159 --> 00:01:34,659
+todos sus comentarios.
+
+31
+00:01:34,859 --> 00:01:36,697
+Y esperamos también que sea
+un buen aporte para cuidar los precios
+
+32
+00:01:37,035 --> 00:01:37,982
+entre todos.
+
+33
+00:01:38,474 --> 00:01:39,541
+¡Ciao!
+
